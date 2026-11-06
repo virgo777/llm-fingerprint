@@ -1,0 +1,51 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical-style Chinese quatrain (四句诗) about an autumn night. A traditional form would be 五言绝句 (5 characters per line) or 七言绝句 (7 characters per line).
+
+Let me write a 七言绝句 about autumn night:
+
+Elements of autumn night: 明月 (bright moon), 桂花 (osmanthus), 露 (dew), 雁 (geese), 梧桐 (wutong tree), 霜 (frost), 寒 (cold), 虫鸣 (insect sounds), 银河 (Milky Way).
+
+Draft 1:
+银汉无声玉露凉，
+一帘疏影桂花香。
+雁声远过潇湘去，
+月满西楼夜未央。
+
+Let me check the rhyme: 凉 (liáng), 香 (xiāng), 央 (yāng) — all rhyme in -ang. Good.
+
+Let me check tones roughly (平仄) — this is decent for a casual poem.
+
+Line 1: 银汉无声玉露凉 — The Milky Way is silent, jade dew is cool.
+Line 2: 一帘疏影桂花香 — Through the curtain, sparse shadows, osmanthus fragrance.
+Line 3: 雁声远过潇湘去 — The cry of geese passes far toward Xiaoxiang.
+Line 4: 月满西楼夜未央 — The moon fills the western tower, the night is not yet over.
+
+This is nice. Maybe refine:
+
+Alternative:
+月挂疏桐夜露凉，
+风摇桂影一庭香。
+雁声掠过银河远，
+落叶敲窗入梦长。
+
+Rhyme: 凉, 香, 长 — good.
+
+I'll go with a polished version:
+
+秋夜
+银汉无声玉露凉，
+一帘桂影暗浮香。
+雁行掠过西风里，
+月满空阶夜未央。
+
+Hmm, let me keep it simpler and elegant. The user said no explanation, so just output the poem, maybe with a title.
+
+Final:
+《秋夜》
+银汉无声玉露凉，
+一帘桂影暗浮香。
+雁声远去西风里，
+月满空阶夜未央。
+
+Check rhyme: 凉、香、央 — consistent.

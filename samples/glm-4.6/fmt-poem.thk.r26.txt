@@ -1,0 +1,42 @@
+The user wants a four-line poem about autumn night, in Chinese, without explanation. Let me write a classical Chinese quatrain (绝句) about autumn night.
+
+Let me think about imagery for autumn night: moon (月), dew (露/霜), cicadas (寒蝉/秋虫), osmanthus (桂), maple leaves (枫叶), falling leaves, geese (雁), stars, cold night breeze, lamp light, etc.
+
+Let me compose a nice quatrain, ideally with proper rhythm. A seven-character quatrain (七绝):
+
+月挂疏桐秋露凉，
+寒蛩声里夜初长。
+一帘风动桂花影，
+半卷诗书伴烛光。
+
+Hmm, let me refine. Rhyme: 凉 (liáng), 长 (cháng), 光 (guāng) — all in the same rhyme group (阳韵). Good.
+
+Check tones roughly — for a casual poem it doesn't need perfect 平仄, but let me try.
+
+Line 1: 月挂疏桐秋露凉 — 仄仄平平平仄平. 
+Line 2: 寒蛩声里夜初长 — 平平平仄仄平平.
+Line 3: 一帘风动桂花影 — 仄平平仄仄平仄.
+Line 4: 半卷诗书伴烛光 — 仄仄平平仄仄平.
+
+Not perfectly regulated but reads smoothly. The user just asked for a poem without explanation, so I should just give the poem.
+
+Alternative:
+
+秋夜
+露冷梧桐月满楼，
+寒星几点挂帘钩。
+风惊一叶庭前落，
+惊起相思入夜流。
+
+Hmm, "惊" repeated. Let me stick with the first one.
+
+Final:
+
+月挂疏桐秋露凉，
+寒蛩声里夜初长。
+一帘风动桂花影，
+半卷诗书伴烛光。
+
+Actually "寒蛩" (cold crickets) is good autumn night imagery. "桂花" osmanthus — classic autumn. Good.
+
+Just output the poem, no explanation. Maybe a title. The user said four lines, theme autumn night, no explanation. I'll give the poem, possibly with a title. Keep it minimal.

@@ -1,0 +1,40 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation, in just two or three sentences, speaking in the doctor's voice.
+
+Let me think about what an old TCM doctor would say about autumn health (秋养生). Key TCM concepts for autumn:
+
+1. 秋燥 (autumn dryness) - autumn is dry, which harms the lungs (肺)
+2. 润肺 (moistening the lungs) - eat moistening foods like pears (梨), lily bulb (百合), white fungus (银耳), honey (蜂蜜)
+3. 秋收冬藏 - autumn is about gathering/conserving
+4. 早卧早起 (sleep early, rise early) - from 黄帝内经
+5. 春捂秋冻 (wear less in autumn to build cold tolerance) - though this needs caution
+6. 养肺 - autumn corresponds to lungs in five elements theory
+7. Avoid pungent/spicy foods (辛), increase sour foods (酸) - 少辛增酸
+8. 悲秋 - emotional care, autumn relates to sadness/grief
+
+An old Chinese doctor's tone would be:
+- Gentle, wise, using classical phrases
+- Maybe starting with something like "老朽" or addressing as "年轻人" or similar
+- Using TCM terminology naturally
+- Quoting or referencing classics like 《黄帝内经》
+
+The request says 两三句即可 (two or three sentences is enough), so I should keep it concise. Let me craft this in the voice of an old TCM doctor.
+
+Draft:
+
+"唉，年轻人呐，秋气主燥，最易伤肺。这时节当早卧早起，多吃些梨、百合、银耳之类润润肺，辛辣煎炸之物要少碰。俗话说的好，'春捂秋冻'，添衣莫太急，让身子慢慢经受些凉意，方合天道呀。"
+
+That's about 3 sentences. Good.
+
+Or I could add a bit more flavor:
+
+"老朽行医四十载，常言道：秋三月，此谓容平。秋气燥烈，最伤肺津，平日里炖些雪梨百合银耳汤喝喝，润燥养肺。再者，要早卧早起，与鸡俱兴，添衣别太急，让身子慢慢受些凉，这才合乎秋收之道啊。"
+
+Let me refine. The tone should be like an old doctor speaking, perhaps with some 口语 particles like 呐、啊、喽、哟.
+
+Final version:
+
+"年轻人呐，秋气主燥，燥邪最易伤肺。这季节要早卧早起，多吃些雪梨、百合、银耳，炖个汤润润肺燥，辛辣之物少碰为妙。俗话说'春捂秋冻'，添衣切莫太急，让身子缓缓经受些凉意，方能安然入冬啊。"
+
+That's 3 sentences, in character. Good length as requested. Maybe I should respond in Chinese since the question is in Chinese. Yes, definitely respond in Chinese.
+
+Format: Should be conversational, short as requested. No headers or lists needed. Just the roleplay dialogue. Keep it 2-3 sentences as asked.

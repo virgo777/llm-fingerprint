@@ -1,0 +1,49 @@
+The user is asking me to write a four-line poem with the theme of autumn night, in Chinese. They explicitly say not to explain, so I should just provide the poem itself.
+
+Let me compose a classical Chinese poem about autumn night. Traditional four-line poems (绝句) often follow a 5-character or 7-character format. Let me write a 七言绝句 (seven-character quatrain) about autumn night.
+
+Theme elements for autumn night: moon, frost, dew, falling leaves, cold wind, crickets, osmanthus, stars, silence, homesickness...
+
+Let me draft:
+
+秋风萧瑟入寒窗 (Autumn wind rustles through the cold window)
+月照庭前落叶黄 (Moon shines on yellow fallen leaves before the courtyard)
+夜半虫声鸣渐远 (At midnight insect sounds fade into distance)
+一帘清梦桂花香 (A curtain of clear dreams, osmanthus fragrance)
+
+Let me check the rhyme: 窗 (chuāng), 黄 (huáng), 香 (xiāng) - all rhyme with -ang. Good.
+
+Line 3: 远 (yuǎn) doesn't need to rhyme in 绝句 (third line typically doesn't rhyme). Good.
+
+Let me refine:
+
+秋风萧瑟入寒窗，
+月冷庭前落叶黄。
+夜半虫声鸣渐远，
+一帘幽梦桂花香。
+
+Or:
+
+银汉迢迢秋夜凉，
+梧桐叶落满庭霜。
+虫声渐寂人初静，
+一轮明月照西窗。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 窗 (chuāng) - good.
+
+Let me check tonal patterns roughly for a more classical feel... Actually, for this task, a beautiful and evocative poem is more important than strict tonal adherence.
+
+Final version:
+
+秋风瑟瑟入寒窗，
+月冷庭前落叶黄。
+夜半虫声鸣渐寂，
+一帘幽梦桂花香。
+
+This flows well:
+- Line 1: Autumn wind rustles into the cold window
+- Line 2: Cold moon, yellow leaves fall before the courtyard
+- Line 3: At midnight, insect chirps gradually fall silent
+- Line 4: Through the curtain, a quiet dream with osmanthus fragrance
+
+The user said no explanation, so I'll just give the poem. Format: just the four lines, centered or as plain text. Keep it minimal.

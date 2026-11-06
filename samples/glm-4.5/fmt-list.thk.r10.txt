@@ -1,0 +1,43 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions for daily water drinking."
+
+This is a simple health/wellness question asking for three tips about drinking water in daily life. The user explicitly asked for three points (三点), so I should provide exactly three points.
+
+Let me think about the most important precautions for daily water drinking:
+
+1. 喝水量的适宜性 - Don't wait until thirsty, drink appropriate amounts throughout the day. The common recommendation is about 1500-2000ml per day for adults. Don't drink too much at once (暴饮), as that can burden the kidneys.
+
+2. 喝水的时间和方式 - Spread water intake throughout the day. Don't wait until you're very thirsty. Drink small amounts frequently rather than gulping large amounts at once. Drinking water in the morning after waking up is beneficial.
+
+3. 水温的选择 - Avoid drinking very cold or very hot water. Warm water (around 20-40°C) is gentler on the stomach. Ice-cold water can irritate the gastrointestinal tract, and very hot water (above 65°C) can damage the esophagus and is linked to increased cancer risk.
+
+Other possible points:
+- 喝水的种类 - Plain water is best; avoid replacing water with sugary drinks
+- 饭前饭后喝水
+- 运动后补水
+
+I should pick the three most important and practical ones. Let me structure this:
+
+1. 主动饮水，不要等口渴才喝
+2. 少量多次，避免一次大量饮水
+3. 注意水温，避免过冷过热
+
+Or alternatively:
+1. 保证饮水量 (Adequate amount - 1500-2000ml daily)
+2. 讲究饮水时间和节奏
+3. 注意水温
+
+The response should be in Chinese since the question is in Chinese. The format should be a numbered list with three points as requested. Each point should have a brief explanation. This is a casual informational question, so the response should be helpful but not overly long. Using a numbered list format is appropriate since the user explicitly asked for three points (三点).
+
+Let me write a good response:
+
+日常喝水的注意事项，可以用以下三点概括：
+
+1. **主动饮水，不要等口渴才喝**：口渴时身体已经处于轻度缺水状态，建议全天少量多次饮水，成年人每天饮水量约1500-2000毫升。
+
+2. **控制单次饮水量和速度**：避免一次性猛灌大量水，以免加重肾脏负担或引起"水中毒"。每次喝100-200毫升，小口慢饮为宜。
+
+3. **注意水温适宜**：过烫的水（超过65℃）会损伤食道黏膜，增加患食道癌风险；过冰的水则刺激肠胃。温水（20-40℃左右）最适合日常饮用。
+
+This covers the three key aspects: quantity/timing, method/pace, and temperature. I could also add a brief closing note, but keep it concise. Maybe add a small tip about avoiding sugary drinks as replacement? But the user asked for exactly three points, so I'll stick to three.
+
+Format: Chinese response, numbered list with bold headers for each point, brief explanations. Length should be moderate - not too long, just enough to be informative.

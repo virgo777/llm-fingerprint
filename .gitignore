@@ -1,0 +1,26 @@
+# 密钥永不入库
+keys.md
+.env
+*.key
+secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# 构建产物（exe 通过 Releases 分发）
+build/
+*.spec.bak
+dist/*.log
+dist/evidence/
+
+# 运行时证据链
+evidence/
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db

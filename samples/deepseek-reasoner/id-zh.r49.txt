@@ -1,0 +1,2 @@
+我是由 **深度求索（DeepSeek）公司** 开发的 AI 助手，模型名称为 **DeepSeek**。  
+你可以叫我 **DeepSeek 助手**。

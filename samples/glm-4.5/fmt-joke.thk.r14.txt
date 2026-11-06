@@ -1,0 +1,38 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a simple, benign request for humor. Let me think of a good programmer joke in Chinese.
+
+Some classic programmer jokes:
+
+1. Why do programmers always confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 equals decimal 25).
+
+2. A programmer's wife tells him: "Buy a bottle of soy sauce while grocery shopping. If you see watermelons, buy one." The programmer comes back with one bottle of soy sauce. Wife asks why, he says: "I saw watermelons." (This is about interpreting conditional logic literally)
+
+3. 世界上有10种人,一种懂二进制,一种不懂。(There are 10 types of people in the world: those who understand binary and those who don't.)
+
+4. Why do programmers prefer dark mode? Because light attracts bugs (虫子/bug).
+
+5. A programmer goes to hell... jokes
+
+6. 程序员最讨厌的四件事:写文档、写注释、别人不写文档、别人不写注释。
+
+7. The one about the wife calling the programmer: "While you're out, buy some milk" and he never returns because... infinite loop jokes.
+
+Let me pick one or two good ones. The wife/grocery store one is a classic Chinese programmer joke:
+
+程序员的老婆对他说:"下班回来的路上买两个包子,如果看到卖西瓜的,就买一个。"
+程序员回来时只买了两个包子。
+老婆问:"为什么只买包子不买西瓜?"
+程序员:"因为我看到卖西瓜的了。"
+
+This is a great one because it plays on the conditional logic interpretation: "买一个" modifies 包子 if condition met, but programmer interprets it as buying one watermelon... wait, actually the joke is: instruction was "buy 2 baozi, if you see watermelon sellers, buy one" — the programmer interpreted "buy one" as replacing "buy 2 baozi" with "buy 1 baozi", so he came back with 1 baozi. Hmm, there are variations. Let me recall the classic version:
+
+"老婆给程序员老公打电话:'下班顺路买十个包子,如果看到卖西瓜的,买一个。' 老公手里拿着一个包子回家。老婆怒:'你怎么只买一个包子?!' 老公答:'因为我看到卖西瓜的了。'"
+
+The logic: buy 10 baozi, IF see watermelon THEN buy 1. Programmer interprets the "if" as an override: see watermelon → total becomes 1 (baozi). So he bought 1 baozi. That's the classic version.
+
+This is one of the most famous Chinese programmer jokes. Let me tell it well.
+
+Another option is the Oct 31 == Dec 25 joke, but that requires more explanation.
+
+The response should be in Chinese since the user asked in Chinese. Format: casual, short, maybe with a brief setup and punchline. Maybe I can add a tiny explanation or just deliver the joke. Keep it light. Maybe offer another one.
+
+Format considerations: Short, conversational. Could use a simple dialogue format for the joke. No need for headers or lists. Maybe 3-6 lines total.

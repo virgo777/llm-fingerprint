@@ -1,0 +1,44 @@
+The user is asking me to write a four-line poem in Chinese about an autumn night, without explanation. This is a simple creative writing request.
+
+Let me compose a nice four-line poem about autumn night (秋夜). Traditional Chinese poetry typically uses five or seven characters per line. Let me try a seven-character version:
+
+Autumn night imagery: moon, frost, osmanthus (桂花), cold dew, wild geese, falling leaves, stars, crickets, etc.
+
+Let me write something elegant:
+
+金风萧瑟夜微凉，
+桂影婆娑月满窗。
+雁字南归声渐远，
+一庭霜露浸秋光。
+
+Hmm, let me check the rhyme: 凉 (liáng), 窗 (chuāng), 光 (guāng). 凉 and 光 rhyme in -ang, 窗 is also -ang but with a different final sound (uang). In modern Chinese rhyming, all three end in -ang sounds, so this works reasonably well.
+
+Let me refine:
+
+秋风萧瑟夜微凉，
+桂影婆娑月满窗。
+雁字南飞声渐远，
+满庭霜露浸秋光。
+
+Actually "秋" appears twice, let me vary:
+
+金风瑟瑟夜初凉，
+桂子飘香月满窗。
+雁阵南归声渐远，
+满庭霜露浸秋光。
+
+This is nice. Lines:
+1. 金风瑟瑟夜初凉 - The golden wind (autumn wind) rustles, the night begins to cool
+2. 桂子飘香月满窗 - Osmanthus fragrance drifts, moonlight fills the window
+3. 雁阵南归声渐远 - The wild geese formation returns south, their calls fading
+4. 满庭霜露浸秋光 - Frost and dew fill the courtyard, soaking in autumn light
+
+Tonal pattern check (roughly):
+金风瑟瑟夜初凉 (平平仄仄仄平平) - good
+桂子飘香月满窗 (仄仄平平仄仄平) - good
+雁阵南归声渐远 (仄仄平平平仄仄) - good
+满庭霜露浸秋光 (仄平平仄仄平平) - close enough
+
+The user said "不要解释" (don't explain), so I should just give the poem without any commentary.
+
+Format: Just the four lines of the poem, centered or plain. No preamble, no explanation.

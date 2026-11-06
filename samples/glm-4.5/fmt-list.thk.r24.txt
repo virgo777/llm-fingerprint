@@ -1,0 +1,27 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Explain the precautions for daily drinking water in three points."
+
+This is a simple, practical health question. The user wants three points about daily water drinking precautions/tips.
+
+Let me think about what are the most important daily water drinking precautions:
+
+1. **Don't wait until you're thirsty to drink** - By the time you feel thirsty, you're already mildly dehydrated. Drink water regularly throughout the day in small amounts.
+
+2. **Water temperature matters** - Avoid drinking ice-cold water (can irritate the stomach) or very hot water (can damage esophagus). Warm or room temperature water is best, especially for people with sensitive stomachs.
+
+3. **Amount and timing** - Drink about 1500-2000ml per day (roughly 7-8 cups), spread throughout the day. Don't drink too much at once. Special timing: a glass of water in the morning after waking up, don't drink too much before bed.
+
+4. **Don't replace water with beverages** - Sugary drinks, coffee, tea shouldn't replace plain water.
+
+5. **Don't drink water too fast** - Drinking too quickly in large gulps can burden the heart/kidneys and cause bloating.
+
+6. **Drink water before and after exercise** appropriately.
+
+Let me pick the three most important and practical ones:
+
+1. **主动喝水，不要等口渴才喝** (Drink proactively, don't wait until thirsty) - thirst means mild dehydration already
+2. **少量多次，控制总量** (Small amounts frequently, control total amount) - about 1500-1700ml per day, spread evenly, don't chug large amounts at once
+3. **注意水温，白开水最佳** (Pay attention to water temperature, plain boiled water is best) - warm water around 20-40°C, avoid ice water and scalding hot water; plain water better than sugary drinks
+
+These three cover: timing/habit, quantity/method, and temperature/type of water.
+
+Format: The user asked for three points, so I should structure it with three numbered points. Each point should have a clear heading and brief explanation. The response should be in Chinese since the question is in Chinese. Keep it concise but informative - maybe 2-3 sentences per point. Using a numbered list format makes sense here since they explicitly asked for three points.

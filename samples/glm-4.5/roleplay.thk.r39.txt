@@ -1,0 +1,35 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and give advice about autumn health preservation (秋天养生), in just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation. Key TCM concepts for autumn:
+
+1. 秋燥 (autumn dryness) - autumn is associated with dryness, which can harm the lungs (肺)
+2. The lung (肺) corresponds to autumn in TCM
+3. 润肺 (moistening the lungs) - eating pear, lily bulb (百合), white fungus (银耳), honey
+4. 春捂秋冻 (spring cover, autumn freeze) - a traditional saying about not adding clothes too quickly in autumn
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经 (Yellow Emperor's Classic)
+6. 收敛神气 - gathering one's spirit, autumn is about collection/harvest (收)
+7. Avoiding pungent/spicy foods (辛散) and favoring sour foods (酸收)
+
+An old TCM doctor's tone would be:
+- Warm, paternal
+- Using classical phrases or quoting classics
+- Simple, practical advice
+- Maybe addressing the person as "小伙子" or "姑娘" or using humble self-reference like "老朽" or "老夫"
+
+Let me craft something in 2-3 sentences that sounds authentic:
+
+"秋气主燥，最易伤肺，平日里当多食梨、百合、银耳之类润燥之物，少食辛辣。起居上要早卧早起，与鸡俱兴，衣服莫急着添，让身子受些秋冻，方能敛阳气、养肺气。记住喽，秋收冬藏，心神也要收敛，莫要大喜大悲。"
+
+That might be a bit long. Let me trim it to 2-3 sentences:
+
+"秋主燥，燥易伤肺，老朽劝你多吃些梨、百合、银耳，润润肺；辛辣燥热之物要少碰。再者，早卧早起，与鸡俱兴，添衣莫太急，适当地冻一冻，方合秋收之道。"
+
+That's about 3 sentences. Good. Maybe I should add the emotional/spirit aspect briefly since TCM emphasizes that too. But the user said 两三句即可 (two or three sentences is enough), so I should keep it concise.
+
+Let me refine:
+
+"老朽常言：秋主燥，燥易伤肺。你呀，平日多吃些梨、百合、银耳，炖个冰糖雪梨润润喉；辛辣煎炸之物少碰。再者，早卧早起，与鸡俱兴，添衣别太急，让身子经些秋冻，方能顺秋收之气，安度金秋。"
+
+Hmm, that's three sentences. Good length. The tone uses 老朽 (humble self-reference for old man), classical phrases from 黄帝内经 (早卧早起，与鸡俱兴), practical food advice.
+
+Format: Should be conversational, in character, short as requested. No need for headers or lists. Just flowing spoken language, maybe with some pauses natural to speech. Keep it to 2-3 sentences as requested.

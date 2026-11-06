@@ -1,0 +1,65 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a lighthearted, fun request. Let me think of some good programmer jokes.
+
+Classic programmer jokes in Chinese:
+
+1. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+(Programmers hate four things: writing comments, writing documentation, others not writing comments, others not writing documentation.)
+
+2. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+(Why can't programmers tell Halloween and Christmas apart? Because Oct 31 == Dec 25 — Octal 31 equals Decimal 25!)
+
+3. 一个程序员去买菜，老婆说："买一斤包子，如果看到卖西瓜的，买一个。" 程序员回来时手里拿着一个包子。老婆问为什么，他说："因为我看到了卖西瓜的。"
+(A programmer goes shopping. His wife says: "Buy a pound of buns, and if you see a watermelon seller, buy one." The programmer comes back with one bun. His wife asks why, he says: "Because I saw a watermelon seller.")
+
+This is a classic joke about programmers interpreting instructions literally like code logic.
+
+4. 程序员相亲，姑娘问他："你有房吗？" 他说："有啊，GitHub上有很多。"
+
+5. 两个程序员在路上走，一个说："我老婆昨天生了个儿子。" 另一个问："恭喜！是头胎吗？" 第一个回答："不，是v2.0。"
+
+6. 程序员的妻子让他去超市："买一斤苹果，如果看到有卖鸡蛋的，买十个。" 程序员回来买了十个苹果。妻子问为什么，他说："因为超市有卖鸡蛋的。"
+
+7. 为什么程序员喜欢暗色模式？因为光会吸引bug（bugs - 虫子）。
+(Why do programmers like dark mode? Because light attracts bugs!)
+
+8. 程序员的世界里只有10种人：懂二进制的和不懂的。
+(There are 10 types of people in the world: those who understand binary and those who don't.)
+
+The watermelon/bun one or the Oct 31 == Dec 25 one are classics. Let me pick a good one and maybe deliver it well.
+
+I think the shopping joke is one of the most famous Chinese programmer jokes. Let me tell it well:
+
+程序员老婆打电话给他："下班顺路买十个包子，如果看到卖西瓜的，就买一个。"
+程序员回来，手里拎着一个包子。
+老婆怒问："你怎么就买了一个包子？！"
+程序员："因为我看到卖西瓜的了。"
+
+This joke works because it shows the programmer's literal interpretation: "买十个包子" = buy 10 buns, but "如果看到卖西瓜的，就买一个" — the programmer interprets "买一个" as modifying the last noun context, so he buys 1 bun because he saw a watermelon seller. In programming logic, the conditional overrode the original quantity — like a variable being reassigned.
+
+Actually the classic version is with 1 bun or 10 buns... The classic: "买一斤包子，如果看到卖西瓜的，买一个包子" — so he bought one bun because he saw the watermelon seller. The logic: the condition replaced the original quantity.
+
+Format: Should be casual, fun, in Chinese since the user asked in Chinese. Keep it short — a joke delivery should be punchy. Maybe add a brief explanation or emoji-free punchline. I could tell one joke and offer to tell more. Keep the formatting light — maybe use dialogue format for the joke.
+
+Let me write it nicely:
+
+---
+
+程序员的老婆给他打电话："下班路上买十个包子，如果看到卖西瓜的，就买一个。"
+
+晚上程序员回到家，手里只拎着一个包子。
+
+老婆气坏了："怎么就买了一个包子？！"
+
+程序员一脸淡定："因为我看到卖西瓜的了。"
+
+—— 对程序员来说，这就是标准的 if-else 逻辑：
+
+```
+if (看到卖西瓜的) {
+    买包子数量 = 1;
+}
+```
+
+---
+
+Adding the code snippet at the end makes it funnier and more programmer-specific. That's a nice touch. Keep it concise.

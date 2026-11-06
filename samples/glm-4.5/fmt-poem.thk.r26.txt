@@ -1,0 +1,74 @@
+The user is asking for a four-line poem about an autumn night (秋夜), in Chinese, and explicitly says not to explain (不要解释).
+
+Let me compose a classical Chinese quatrain (四句诗) about autumn night. Traditional Chinese poems often follow the 五言 (five-character) or 七言 (seven-character) format.
+
+Let me write a 七言绝句 style poem about autumn night:
+
+Themes for autumn night: moon, dew, coolness, crickets (蟋蟀/寒蛩), falling leaves, osmanthus (桂), frost, geese, stars, silence, homesickness.
+
+Let me try:
+
+月冷霜天桂影斜，
+寒蛩声里落黄花。
+一帘秋梦风吹醒，
+半枕清愁到月华。
+
+Hmm, let me check rhyme: 斜 (xié/xiá), 花 (huā), 华 (huá) - these rhyme in classical pronunciation (麻韵).
+
+Or another attempt:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+寒蛩泣尽阶前月，
+一雁南飞入渺茫。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 茫 (máng) - all in 阳韵/江阳韵. Good.
+
+Let me refine:
+
+玉露无声桂子凉，
+梧桐叶落满庭霜。
+寒蛩泣尽阶前月，
+孤雁一声天地茫。
+
+Or:
+
+霜华满地月如钩，
+桂子飘香入小楼。
+风动梧桐惊宿鸟，
+一帘秋色伴人愁。
+
+Rhyme: 钩 (gōu), 楼 (lóu), 愁 (chóu) - 尤韵. Good.
+
+Let me pick a nice one. The second one flows well:
+
+霜华满地月如钩，
+桂子飘香入小楼。
+风动梧桐惊宿鸟，
+一帘秋色伴人愁。
+
+Actually "秋色" at night... maybe 秋声 is better for night:
+
+一帘秋梦伴人愁 - hmm, or 一窗秋思伴人愁
+
+Let me finalize:
+
+霜华满地月如钩，
+桂子飘香入小楼。
+风动梧桐惊宿鸟，
+一帘幽梦伴清愁。
+
+Hmm, "一帘幽梦" is a famous phrase (from 秦观's 八六子: 那堪片片飞花弄晚，濛濛残雨笼晴。正销凝，黄鹂又啼数声... actually 一帘幽梦 is from 秦观《八六子》"无端天与娉婷...夜月一帘幽梦，春风十里柔情"). Using it is fine as an allusion.
+
+Let me finalize:
+
+霜华满地月如钩，
+桂子飘香入小楼。
+风动梧桐惊宿鹊，
+一帘幽梦伴清愁。
+
+"惊宿鹊" echoes 月落乌啼... Actually 曹操 "月明星稀，乌鹊南飞" and 辛弃疾 "明月别枝惊鹊". Good allusion.
+
+The user said no explanation, so I should just give the poem. Format: just the four lines, perhaps with a title. Keep it minimal. The user said "不要解释" so no explanation. A title might be okay but even simpler to just present the poem. I'll include a title 《秋夜》 which is natural.
+
+Format: four lines, centered or just plain lines. Keep minimal.

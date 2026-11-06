@@ -1,0 +1,95 @@
+The user asks for a four-line poem on the theme of autumn night (秋夜), with no explanation. They're writing in Chinese, so I should respond in Chinese with a classical-style four-line poem (likely a 绝句/jueju format).
+
+Let me compose a nice four-line poem about autumn night. Traditional Chinese poetry often uses imagery like: moon, frost, wind, leaves, geese, dew, cold, stars, etc.
+
+Let me craft one with proper imagery and rhythm (5 or 7 characters per line):
+
+Option 1 (七言 - seven characters per line):
+月挂疏桐影半斜，
+秋风入户动帘纱。
+寒蛩不解游人意，
+一夜声声到落花。
+
+Hmm, let me check the rhyme: 斜 (xié/xiá), 纱 (shā), 花 (huā) - these rhyme in the "a" family (麻韵 in traditional rhyming: 斜 historically read xiá, rhymes with 纱、花). That works.
+
+Let me refine:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月秋如水，
+惊起寒蛩语夜长。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) - all in 阳韵/ang rhyme. Good.
+
+Check imagery: Milky Way silent, jade dew cold; wutong leaves fall, courtyard covered in frost; a curtain of bright moonlight, autumn like water; startled cold crickets chirp through the long night.
+
+Wait, 霜 and 叶落 together - leaves falling covering the courtyard with frost is a bit odd; better "梧桐叶落满庭霜" means leaves fall and frost fills courtyard - actually that's fine poetically.
+
+Let me polish:
+
+月冷疏桐夜色凉，
+风摇残叶下西廊。
+一庭秋露虫声细，
+半枕清梦到晓霜。
+
+Hmm, rhyme: 凉、廊、霜 - all "ang". 
+
+Or simpler and elegant:
+
+月落乌啼... no that's borrowed from 张继.
+
+Let me write original:
+
+玉露初凝夜气清，
+一庭明月浸秋声。
+西风不解离人意，
+吹落梧桐三两声。
+
+Repeated 声 - not ideal.
+
+Try:
+
+露冷风清秋满庭，
+一帘明月伴疏星。
+寒蛩不管人愁思，
+切切声声到夜听。
+
+"到夜听" awkward.
+
+Final choice:
+
+银汉迢迢夜气清，
+梧桐叶上露华凝。
+西风忽送寒砧远，
+搅动离人万缕情。
+
+Rhyme: 清 (qīng), 凝 (níng), 情 (qíng) - 庚青韵, good.
+
+Imagery: Milky Way far, night air clear; dew condenses on wutong leaves; west wind suddenly sends distant sounds of fulling clothes (寒砧 - autumn laundry mallets, classic autumn imagery); stirring the traveler's myriad threads of feeling.
+
+Actually "搅动" is a bit clumsy. Maybe "惹起离人万缕情" or "牵动离人万缕情".
+
+银汉迢迢夜气清，
+梧桐叶上露华凝。
+西风忽送寒砧远，
+牵动离人万缕情。
+
+That's decent. Or go with the earlier moonlit one:
+
+月冷疏桐夜色凉，
+虫声细碎满回廊。
+一帘幽梦秋如水，
+枕上清霜到晓光。
+
+Hmm "到晓光" - okay.
+
+I think the 寒砧 version is more classically resonant. Let me finalize:
+
+《秋夜》
+
+银汉迢迢夜气清，
+梧桐叶上露华凝。
+西风忽送寒砧远，
+牵动离人万缕情。
+
+The user said no explanation, so just output the poem, maybe with a title. Keep it minimal. Format: four lines. No explanation means I shouldn't add commentary. A title is probably fine but even that could be considered extra; a title 《秋夜》seems appropriate and not an explanation. I'll include just the four lines, perhaps with the title. Keep it clean.

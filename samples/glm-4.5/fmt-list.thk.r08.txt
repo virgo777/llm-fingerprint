@@ -1,0 +1,46 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain the precautions/matters needing attention for daily drinking water."
+
+This is a simple informational request about healthy drinking water habits. The user wants exactly three points about things to pay attention to when drinking water daily.
+
+Let me think about what the most important points about daily water drinking are:
+
+1. **Don't wait until you're thirsty to drink water** (不要等口渴才喝水) - Thirst is a late sign of dehydration. It's recommended to drink water regularly throughout the day, in small amounts frequently.
+
+2. **Drink appropriate temperature water** (喝适宜温度的水) - Avoid very hot water (can damage esophagus, above 65°C is classified as a carcinogen by WHO) and very cold/icy water (can irritate the stomach). Warm water around 20-40°C is best.
+
+3. **Amount of water** (饮水量) - Adults should drink about 1500-2000ml per day, distributed throughout the day, not in large quantities at once.
+
+Other possible points:
+- Drink warm boiled water or clean water rather than replacing water with beverages (不要用饮料代替水)
+- Don't drink water too fast/in large gulps (不要大口猛喝水)
+- Morning water drinking benefits (晨起喝水)
+- Don't drink too much before bed (睡前不宜大量饮水)
+- Boiled tap water should be boiled thoroughly
+
+Since the user asked for exactly three points, I should pick the three most important/practical ones. Let me choose:
+
+1. 主动喝水，不要等口渴才喝 - Drink proactively, small amounts multiple times, don't wait until thirsty. Total about 1500-1700ml (Chinese dietary guidelines recommend 1700ml for men, 1500ml for women).
+
+2. 水温适宜 - Water temperature should be appropriate, warm water best, avoid too hot (over 65°C risks esophageal damage) or too icy.
+
+3. 少量多次，不要一次猛灌 - Or: 白开水是最佳选择，少用饮料代替. 
+
+Actually, let me structure the three points well:
+
+**Point 1: 饮水量与频率** - Drink enough water (1500-1700ml daily per Chinese Dietary Guidelines), drink in small amounts multiple times (每次100-200ml), don't wait until thirsty.
+
+**Point 2: 水温选择** - Warm water (around 20-40°C) is best; avoid very hot water (65°C+ increases esophageal cancer risk) and ice-cold water that irritates the digestive tract.
+
+**Point 3: 水的选择** - Boiled tap water or plain water is the best choice; don't replace water with sugary drinks, coffee, or tea entirely; drink fresh boiled water, avoid overnight or re-boiled water repeatedly (though this is somewhat a myth about nitrites - I should be careful; the repeated boiling nitrite concern is largely overblown. Let me not include questionable claims).
+
+Alternative point 3: 特殊时段注意事项 - Don't drink large amounts right before bed; drink a glass of water after waking up.
+
+Let me finalize three solid, scientifically accurate points:
+
+1. **主动、少量多次饮水**：不要等口渴才喝水，因为口渴时身体已经缺水。建议每天饮水1500~1700毫升（约7-8杯），每次100~200毫升， distributed throughout the day.
+
+2. **水温适宜**：最好喝温开水（20~40℃左右）。避免长期饮用超过65℃的热水（会烫伤食道黏膜，增加食道癌风险），也避免大量喝冰水（刺激肠胃）。
+
+3. **白开水为佳，睡前晨起有讲究**：白开水是最健康的选择，尽量不用含糖饮料代替水。早晨起床后可空腹喝一杯温水补充夜间水分流失；睡前不宜大量饮水，以免影响睡眠和加重肾脏负担。
+
+This is good. Format: The user asked for three points, so a numbered list with headers and brief explanations is appropriate. Should be in Chinese. Moderate length - not too long, each point 2-3 sentences. Use markdown numbered list with bold headers.

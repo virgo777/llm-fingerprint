@@ -1,0 +1,49 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a lighthearted request. Let me think of some classic programmer jokes in Chinese.
+
+Some classic programmer cold jokes:
+
+1. 程序员为什么分不清万圣节和圣诞节？因为 Oct 31 == Dec 25 (八进制的31等于十进制的25)
+
+2. 一个程序员去买菜，妻子说："买一斤包子，如果看到卖西瓜的，买一个。" 程序员回来时买了一个包子。妻子问为什么，他说："因为我看到卖西瓜的了。"
+
+3. 程序员的妻子让他去超市："买一斤苹果，如果看到有卖鸡蛋的，买十个。" 程序员买回来十个苹果。妻子问为什么，程序员说："因为我看到卖鸡蛋的了。"
+
+4. 为什么程序员总是分不清万圣节和圣诞节？Because OCT 31 == DEC 25
+
+5. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档
+
+6. 世界上有10种人，一种懂二进制，一种不懂。
+
+7. 一个程序员在吸烟时被告知不能抽烟，他问为什么，回答说："这里禁止吸烟(smoking)。" 程序员说："但是这是合法的(legal)。"
+
+8. 两个程序员去打猎... 
+
+9. 程序员的老婆让他去接孩子，孩子说爸爸"如果...就..."之类的
+
+The most classic one is probably the grocery shopping one (买包子) or the Oct 31 == Dec 25 one.
+
+Let me tell the classic one about buying things, which is quite popular:
+
+妻子的信号："买一斤包子，如果看到卖西瓜的，就买一个。"
+程序员的逻辑：`if (看到卖西瓜的) { 买包子数量 = 1; } else { 买包子数量 = 一斤; }`
+
+Or the Oct 31 == Dec 25 one:
+为什么程序员总是分不清万圣节和圣诞节？
+因为 Oct 31 == Dec 25
+（八进制的31 = 十进制的25，即 3×8+1 = 25）
+
+I could tell one or two jokes. The format should be conversational and fun. Since it's a joke request, I should keep it light and appropriately formatted. Maybe use a bit of formatting to set up the joke nicely, but not overdo it.
+
+Let me go with the classic 买包子 joke since it's very well known and accessible, or maybe I can tell the binary one. Actually, let me tell one good joke with proper setup.
+
+The 包子 joke:
+程序员老婆打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+程序员回来，手里拿着一个包子。
+老婆："你怎么只买了一个包子？！"
+程序员："因为我看到卖西瓜的了。"
+
+This is the classic joke. Let me format it nicely and maybe add a small punchline explanation or offer another one.
+
+I could also add a bonus joke. Let me keep the response fun but not too long. One joke told well is better than multiple rushed ones. Maybe I'll add the Oct 31 == Dec 25 as a bonus for extra programmer flavor.
+
+Format: conversational, use the joke dialogue format. Chinese response. Medium-short length.

@@ -1,0 +1,76 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), with no explanation. This should be in Chinese since the request is in Chinese. A classic form would be 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain).
+
+Let me compose an original autumn night poem. I should aim for classical imagery: moon, frost, falling leaves, cold, wild geese, etc.
+
+Let me try a 五言绝句:
+
+月冷千山静，
+风清万木凋。
+雁声天外远，
+霜色满庭萧。
+
+Hmm, let me refine. Rhyme matters in Chinese poetry. Lines 2 and 4 should rhyme (and possibly line 1).
+
+Try:
+
+银汉横秋夜，
+寒砧落月中。
+一声孤雁过，
+霜叶满阶红。
+
+Check rhyme: 中 (zhōng) and 红 (hóng) — both in 东 rhyme group. Good.
+
+Line 1: 银汉横秋夜 — Milky Way stretches across the autumn night
+Line 2: 寒砧落月中 — cold pounding of laundry (砧, the sound of washing mallets, classic autumn imagery) falls in the moonlight. "寒砧落月中" — the sound falls into the moon. Acceptable.
+Line 3: 一声孤雁过 — a lone goose cries passing by
+Line 4: 霜叶满阶红 — frosted leaves fill the steps with red
+
+That's nice. Tonal patterns may not be perfect 平仄 but it reads well.
+
+Alternative 七言:
+
+玉露凋伤枫树晚 — too derivative of Du Fu.
+
+Let me polish my 五言:
+
+银汉垂秋夜，
+寒砧隔水闻。
+雁声天外落，
+霜叶满阶红。
+
+闻 (wén) and 红 (hóng) don't rhyme well. Original version with 中/红 is better.
+
+Final:
+
+月冷千山寂，
+砧寒一水闻。
+雁声天外远，
+霜叶落纷纷。
+
+闻/纷 — 文 rhyme group, both wen/fen, rhymes. 
+
+月冷千山寂 — moon cold, thousand mountains silent
+砧寒一水闻 — cold mallet sounds heard across the water
+雁声天外远 — goose cries distant beyond the sky
+霜叶落纷纷 — frosted leaves fall in profusion
+
+That's coherent, rhymes (闻/纷), classic autumn night imagery. 
+
+Or keep the earlier version. Both work. Let me go with:
+
+月冷千山寂，
+风清一雁过。
+Hmm 过 doesn't rhyme with much easily.
+
+I'll finalize:
+
+月冷千山寂，
+砧寒隔水闻。
+雁行天外远，
+霜叶落纷纷。
+
+Actually "砧寒" as inverted for "寒砧" — poetic inversion acceptable. 
+
+Line structure: 五言绝句. Fine.
+
+No explanation needed, just the poem. Format: just four lines, centered or plain. Keep it minimal per request "不要解释".

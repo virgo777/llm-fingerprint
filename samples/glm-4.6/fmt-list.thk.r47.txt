@@ -1,0 +1,54 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain precautions for daily water drinking."
+
+This is a simple, practical health question. The user wants three points about注意事项 for daily drinking water.
+
+Let me think about what the most important points about daily water drinking would be:
+
+1. 适量饮水 - Don't wait until thirsty, drink regularly throughout the day, about 1500-2000ml per day for adults
+2. 不要喝太烫或太冰的水 - Water temperature matters, lukewarm water is best
+3. 少量多次 - Better to sip throughout the day rather than gulp large amounts at once
+4. 早晨起床后喝水 - Good for the body
+5. 不要用饮料代替白开水 - Sugary drinks aren't a substitute
+6. 睡前不要喝太多水 - Avoid drinking too much before bed
+7. 剧烈运动后不要立即大量喝水
+
+The user asked for THREE points specifically, so I should pick the three most important/practical ones:
+
+1. **少量多次,主动饮水** - Drink small amounts frequently, don't wait until thirsty. Adults need about 1500-1700ml per day. When you feel thirsty, your body is already somewhat dehydrated.
+
+2. **水温适宜** - Drink lukewarm water (around 20-40°C), avoid very hot water (can damage esophagus, above 65°C is classified as carcinogenic) and ice-cold water (can irritate stomach).
+
+3. **特殊时间注意** - Don't drink too much before bed (affects sleep, may cause edema); after intense exercise, don't gulp large amounts at once; drinking a glass of water after waking up in the morning is beneficial.
+
+Or alternatively:
+3. **白开水为主,少喝含糖饮料** - Plain water is best, avoid replacing it with sugary drinks.
+
+Let me structure this nicely. The format should be:
+- Respond in Chinese since the question is in Chinese
+- Use a numbered list with three clear points
+- Each point should have a brief header and explanation
+- Keep it concise but informative
+- Maybe use bold for the point titles
+
+I'll pick these three points as the most practical and important:
+
+1. 主动、少量多次饮水 - proactive drinking, small amounts frequently
+2. 注意水温 - water temperature
+3. 选对时间和场合 - timing considerations (morning water, less before bed, not gulping after exercise)
+
+Actually, maybe I should consider making point 3 about replacing water with beverages since that's a common mistake. Let me think about what's most valuable...
+
+The three most commonly cited important points:
+1. 不要等口渴才喝水 / 少量多次
+2. 水温适宜,不喝生水
+3. 白开水最好,少用饮料代替
+
+Or I could combine timing into it. Let me go with:
+
+1. **主动少量多次饮水**:每天1500~1700ml左右,不要等口渴才喝,口渴时身体已缺水。分次小口喝,不要一次猛灌。
+
+2. **水温要适宜**:以温开水(20~40℃)为宜,避免长期饮用65℃以上的烫水(增加食管癌风险),也少喝冰水以免刺激肠胃。
+
+3. **把握饮水时机**:晨起空腹喝一杯温水有助于补充夜间水分流失;睡前不宜大量饮水,以免影响睡眠和造成水肿;剧烈运动后应少量多次补水,不要一次猛喝。
+
+This is good. Format: numbered list with bold headers, brief explanations. Length should be moderate - not too long, just clear and practical. The question is simple and practical, so a concise, well-organized answer is appropriate.

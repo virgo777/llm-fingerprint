@@ -1,0 +1,1 @@
+We need answer Chinese. Need compute with order. 17*23=391. 45/9=5. Sum 396. Need "完整过程" maybe show precedence. But note expression ambiguous? Standard. 17×23+45÷9 = (17×23)+(45÷9)=391+5=396. Could mention if integer division same. Final concise.

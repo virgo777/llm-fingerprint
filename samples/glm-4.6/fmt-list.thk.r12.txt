@@ -1,0 +1,45 @@
+The user is asking in Chinese: "Use three points to explain the precautions/matters to note about daily water drinking."
+
+This is a simple, practical health question. The user wants three points about things to pay attention to when drinking water daily. I should respond in Chinese since the question is in Chinese.
+
+Let me think about the most important aspects of daily water drinking:
+
+1. **饮水量** - Adults should drink about 1500-2000ml per day (roughly 7-8 cups). Don't wait until thirsty to drink, because by then you're already mildly dehydrated. Spread throughout the day.
+
+2. **水温** - Avoid drinking ice-cold water (can irritate stomach) or scalding hot water (can damage esophagus, WHO has warned about very hot beverages and cancer risk). Warm water around 20-40°C is best.
+
+3. **喝水时机/方式** - Drink small amounts multiple times rather than gulping large amounts at once. Important times: after waking up, before/after exercise. Avoid drinking too much water right before bed (affects sleep). Also avoid drinking large amounts rapidly after intense exercise.
+
+Other possible points:
+- 剧烈运动后不要立即大量喝冰水
+- 不要用饮料代替白开水
+- 晨起喝一杯温水
+- 睡前不宜大量饮水
+
+The user specifically asked for three points, so I should give exactly three clear points. Let me pick the three most practical and important ones:
+
+1. **足量饮水，少量多次** - Drink enough (1500-1700ml per Chinese dietary guidelines for adults), don't wait until thirsty, drink small amounts frequently throughout the day rather than gulping large quantities at once.
+
+2. **喝温水，避免过冷或过热** - Water temperature around 20-40°C (温水) is ideal; too cold can irritate the GI tract, too hot can burn/damage esophagus mucosa.
+
+3. **注意特殊时机的饮水** - Morning: a glass of water after waking helps; don't drink too much before bed; after intense exercise drink slowly in small amounts, avoid ice water; don't replace water with sugary drinks.
+
+Actually, let me structure this well. Maybe:
+
+一、保证饮水量，主动喝水
+- 每天1500-1700ml (中国居民膳食指南建议)
+- 不要等口渴才喝，口渴时身体已经缺水
+- 少量多次，每次100-200ml左右
+
+二、注意水温
+- 以温开水为宜（约20-40℃）
+- 过烫的水会烫伤口腔和食道黏膜，增加食道疾病风险
+- 过冰的水刺激肠胃，尤其是运动后、空腹时
+
+三、把握饮水时机
+- 晨起空腹喝一杯温水
+- 睡前不宜大量饮水，以免影响睡眠、夜起
+- 运动后少量多次补水，不要猛灌冰水
+- 尽量以白开水为主，少用饮料代替
+
+Format considerations: The user asked for three points, so a numbered list with three points is appropriate. Each point can have a brief elaboration. The response should be in Chinese, moderately detailed but not overly long. Using headers or bold for each point would help readability. Since this is a simple practical question, I'll keep it concise but informative - maybe 3 points each with 2-3 sentences of explanation. Markdown numbered list format works well here.

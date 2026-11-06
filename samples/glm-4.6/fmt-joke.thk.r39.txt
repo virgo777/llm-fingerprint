@@ -1,0 +1,44 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a fun, light request. I should respond in Chinese since the request is in Chinese.
+
+Let me think of some classic programmer jokes:
+
+1. The classic "为什么程序员分不清万圣节和圣诞节？" - Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+
+2. The one about "世界上最远的距离" - something about bugs
+
+3. "一个程序员去买菜" type jokes
+
+4. The binary joke: "世界上有10种人，一种懂二进制，一种不懂" - There are 10 types of people in the world: those who understand binary and those who don't.
+
+5. "程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释"
+
+6. The wife joke: "老婆让程序员买包子，说'如果看到卖西瓜的，买一个'。程序员回来时只买了1个包子。老婆问为什么，程序员说：因为我看到卖西瓜的了。" - Wife tells programmer husband: "Buy some baozi, and if you see watermelon sellers, buy one." He comes back with ONE baozi. Wife asks why, he says: "Because I saw a watermelon seller." (This is the classic conditional logic joke - "buy one" applies to whichever item)
+
+7. "为什么程序员喜欢暗色主题？因为bug喜欢光。" - Why do programmers like dark mode? Because bugs are attracted to light. (bug = insect, insects attracted to light)
+
+8. "程序员的三大美德：懒惰、急躁、傲慢"
+
+9. "改bug引入新bug"
+
+10. The one about 1024 vs 1000
+
+The watermelon/baozi joke is a classic and translates well. The binary joke is very famous. The dark mode/bugs one is cute.
+
+Let me pick a good one. Maybe the baozi one since it has a setup and punchline that works well narratively. Or I could offer the Oct 31 == Dec 25 one which requires a bit of explanation.
+
+Actually, let me tell one good joke, maybe with a brief explanation if needed. The format should be conversational, not too long. A joke with its punchline, maybe a short explanation for those who don't get it.
+
+Let me go with the baozi joke as the main one - it's the most classic Chinese programmer joke. Or maybe I'll tell the binary one as it's universally known.
+
+Actually the baozi joke is perfect:
+
+老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+程序员回家，手里只拿着一个包子。
+老婆问："你怎么只买了一个包子？"
+程序员答："因为我看到卖西瓜的了。"
+
+The joke is about how the programmer interpreted the conditional literally - "if you see watermelon seller, buy one" - and "one" got applied to the baozi because of how he parsed the condition.
+
+I could also add a bonus one or keep it simple. I think one joke delivered well is better. Maybe I can add a small emoji or keep it clean.
+
+Format: Should be in Chinese, conversational, fairly short. Just the joke with maybe a tiny follow-up comment. No need for headers or lists. Maybe I could tell one joke and offer more if they want.

@@ -1,0 +1,24 @@
+The user is asking me to list the Four Great Classical Novels of Chinese literature (中国四大名著) in a table format, showing the book titles and authors. This is a straightforward factual question in Chinese, so I should respond in Chinese.
+
+The Four Great Classical Novels are:
+1. 《三国演义》 - by 罗贯中, Yuan-Ming dynasty
+2. 《水浒传》 - by 施耐庵, Yuan-Ming dynasty
+3. 《西游记》 - by 吴承恩, Ming dynasty
+4. 《红楼梦》 - by 曹雪芹, Qing dynasty (with later chapters by 高鹗 in some editions)
+
+The user specifically asked for a table (表格), so I should format this as a markdown table. Since they asked for book titles and authors (书名与作者), I should include those two columns. I could add the dynasty/period as a bonus column which would be helpful context, but the user specifically asked for title and author. Adding the dynasty might be a nice enhancement that doesn't clutter things too much. Let me keep it simple but perhaps add dynasty as it's commonly associated info.
+
+Actually, let me think about whether to add extra columns. The user asked specifically for 书名与作者. A simple two-column table would fulfill the request exactly. I could optionally add the dynasty (朝代) as it's useful context. I'll include it as a small value-add, or I could keep it minimal. I think adding dynasty is helpful and standard when presenting this information. But to strictly follow the request, two columns would suffice. I'll include the dynasty column as it adds value without being excessive.
+
+Let me create the table:
+
+| 书名 | 作者 | 朝代 |
+|------|------|------|
+| 《三国演义》 | 罗贯中 | 元末明初 |
+| 《水浒传》 | 施耐庵 | 元末明初 |
+| 《西游记》 | 吴承恩 | 明代 |
+| 《红楼梦》 | 曹雪芹 | 清代 |
+
+Note: 《水浒传》's authorship is sometimes attributed to both 施耐庵 and 罗贯中 depending on the edition. The most common attribution is 施耐庵. I could add a brief note about this, but it may not be necessary. 《红楼梦》 is traditionally attributed to 曹雪芹 with the last 40 chapters often attributed to 高鹗 (or 无名氏续). I could mention this briefly, but keeping the response clean is also good.
+
+I'll provide the table with a brief note if needed. The response should be concise since this is a simple factual request. The format should be a markdown table as requested.

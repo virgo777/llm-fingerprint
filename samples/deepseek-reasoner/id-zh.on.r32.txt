@@ -1,0 +1,4 @@
+我是由**深度求索（DeepSeek）公司**开发的 **DeepSeek 系列大语言模型**，当前以 **DeepSeek 助手**的形式为你提供服务。
+
+模型名称可称为：**DeepSeek**。  
+如果你需要精确的版本号（例如具体的 DeepSeek-V3、DeepSeek-R1 等），请以你当前使用的 App 或 API 页面显示的模型标识为准。

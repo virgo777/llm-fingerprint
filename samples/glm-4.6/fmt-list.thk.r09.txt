@@ -1,0 +1,37 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions for daily water drinking."
+
+This is a health/lifestyle question about proper water drinking habits. The user wants exactly three points about daily water drinking precautions.
+
+Let me think about the most important considerations for drinking water daily:
+
+1. **Amount of water intake** - Don't wait until you're thirsty to drink; drink adequate amounts throughout the day (roughly 1500-2000ml for adults). Don't drink too much at once either.
+
+2. **Timing of drinking** - Drink small amounts multiple times throughout the day rather than gulping large amounts at once. Drink water in the morning after waking up, before meals (not too much), etc.
+
+3. **Temperature of water** - Avoid drinking very cold or very hot water; lukewarm water (around 20-40°C) is best for the body.
+
+Other possible points:
+- Don't wait until thirsty (thirst means you're already slightly dehydrated)
+- Avoid drinking large amounts of water rapidly (water intoxication risk)
+- Don't replace water with sugary drinks
+- Water quality - drink clean, boiled water
+- Special populations (kidney disease patients need to limit water)
+- Don't drink water right before bed (may cause nighttime urination)
+
+Since the user asks for exactly three points, I should select the three most important and practical ones. Let me structure this well:
+
+1. **定时定量，不要等口渴才喝** (Drink regularly and adequately; don't wait until thirsty)
+- Adults should drink about 1500-1700ml daily
+- Spread throughout the day in small amounts
+- Thirst is already a sign of mild dehydration
+
+2. **小口慢饮，避免一次大量饮水** (Drink slowly in small sips; avoid drinking large amounts at once)
+- Drinking too fast can burden kidneys and cause water intoxication
+- Especially after exercise, drink slowly
+
+3. **注意水温，避免过冷过热** (Pay attention to water temperature; avoid too cold or too hot)
+- Lukewarm water is best
+- Very hot water can damage esophagus (>65°C is carcinogenic risk per WHO)
+- Ice water can irritate the digestive tract
+
+Format considerations: The user asked for three points, so a numbered list is appropriate. Each point should have a clear heading and brief explanation. The response should be in Chinese since the question is in Chinese. Medium length - detailed enough to be useful but not overly verbose. Using markdown numbered list with bold headings would work well for readability.

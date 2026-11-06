@@ -1,0 +1,25 @@
+The user is asking in Chinese for three points about precautions/matters to pay attention to when drinking water daily. This is a simple health information request.
+
+Let me think about what's important for daily water drinking habits:
+
+1. **水温** - Avoid drinking ice-cold water or very hot water. Warm or room temperature water is gentler on the digestive system. Very hot water (above 65°C) can damage the esophagus, and ice-cold water can irritate the stomach.
+
+2. **饮水量和频率, sipping throughout the day is better than gulping large amounts at once. Drinking too much at once can burden the kidneys.
+
+3. **饮水时机** - Don't wait until you're thirsty to drink water, as thirst indicates mild dehydration already. Good times include after waking up, before meals (moderate amounts), etc.
+
+4. **水质, avoid drinking raw/unboiled tap water in areas where that's recommended.
+
+5. **特殊情况** - Don't drink too much before bed to avoid waking up at night; don't drink large amounts right after intense exercise.
+
+6. **不要用饮料代替白开水** - Sugary drinks shouldn't replace plain water.
+
+The question asks for three points (三点), so I should pick the three most important ones. Let me choose:
+
+1. **主动饮水,分次少量** - Drink proactively, don't wait until thirsty; drink in small amounts multiple times rather than gulping large quantities at once.
+
+2. **注意水温** - Avoid too hot or too cold water; warm water (~20-40°C) is best. Very hot water can damage the esophagus (WHO has noted concerns about beverages above 65°C).
+
+3. **保证水质,优先白开水** - Drink boiled/cooled tap water or safe bottled water; don't replace water with sugary drinks; avoid stagnant water in bottles left too long (overnight water in kettles, etc.).
+
+Format considerations: The user asked for exactly three points, so I should structure the answer as three numbered points with brief explanations. The response should be in Chinese since the question is in Chinese. It should be concise but informative - each point with a headline and 1-3 sentences of explanation. Using a numbered list format is appropriate here. I shouldn't make it too long; keep it practical and easy to read. Maybe add a brief closing note or not - keeping it clean with just three points is fine, perhaps with a one-line intro.

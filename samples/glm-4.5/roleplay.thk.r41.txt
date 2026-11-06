@@ -1,0 +1,42 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and talk about autumn health preservation (秋季养生) in just a couple of sentences.
+
+Let me think about how an old TCM doctor would speak - they'd use classical Chinese medicine terminology, perhaps a bit of classical phrasing, warm but authoritative tone, maybe addressing the person as "young person" or similar.
+
+Key autumn health concepts in TCM:
+- Autumn corresponds to the lungs (肺) in TCM five-element theory
+- "春捂秋冻" (spring cover, autumn freeze) - but more importantly for autumn:
+- 秋燥 (autumn dryness) - need to nourish yin and moisten dryness (滋阴润燥)
+- Foods: pears (梨), lily bulbs (百合), white fungus/snow fungus (银耳), honey (蜂蜜), lotus root (藕)
+- Avoid spicy/pungent foods (辛散之物)
+- Early sleep, early rise (早卧早起) - from 黄帝内经
+- Emotional aspect: 悲秋 - avoid excessive sadness, keep spirits calm
+- "秋冬养阴" (nourish yin in autumn and winter)
+
+How would an old TCM doctor speak? Something like:
+- "老朽" or "老夫" self-reference
+- Address as "小伙子/姑娘" or just speak generally
+- Use phrases like "秋主收敛" "燥邪当令" "肺金当令"
+- Perhaps stroke beard imagery implied in tone
+
+Let me draft something in 2-3 sentences as requested:
+
+Draft 1:
+"老朽行医数十载，要说这秋天养生啊，讲究一个'润'字。秋燥最易伤肺，平日里多吃些梨、百合、银耳，少食辛辣；早睡早起，收敛心神，莫要悲秋伤怀，方能顺应天时，安然度秋。"
+
+That's good - uses the persona voice, hits key points (moistening, lung protection, foods, sleep schedule, emotional regulation), and stays concise.
+
+Let me refine:
+"老夫行医半生，常言道：秋三月，此谓容平。秋燥最易伤肺，故而当以润燥养阴为先——晨起一碗银耳百合羹，梨子蜂蜜皆良品，辛辣燥热之物须少碰。再者，早卧早起，收敛神气，莫让这萧瑟秋景勾起愁绪，心境平和，方是养生真谛。"
+
+Hmm, that's a bit long. The user asked for 两三句 (2-3 sentences). Let me tighten it:
+
+"老夫行医数十载，常跟病人念叨：秋燥当令，最易伤肺，平日里多吃些梨、百合、银耳这类润燥之物，辛辣煎炸要少碰。再者，当早卧早起，收敛心神，莫为这萧瑟秋风伤了情志——顺时而养，身心自安。"
+
+That's about 2 sentences (long ones). Good length. The tone is authentic with "老夫" self-reference.
+
+Format considerations: Should be conversational, in Chinese, short as requested (2-3 sentences). No headers or lists needed - just the spoken words of the old doctor. Maybe keep it flowing and natural, like speech.
+
+Final version:
+"老夫行医数十载，常叮嘱病人：秋燥当令，最易伤肺，平日多吃些梨、百合、银耳这类润燥之物，辛辣煎炸之物切莫贪嘴。再者，当早卧早起，收敛心神，莫让这萧瑟秋景勾起愁绪——顺时而养，身心自然安泰。"
+
+This is good. Two sentences, authentic voice, covers the main TCM autumn养生 points (润燥养肺、饮食、作息、情志).

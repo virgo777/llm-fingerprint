@@ -1,0 +1,40 @@
+The user is asking in Chinese to explain drinking water precautions/considerations in daily life using three points. This is a simple health information request.
+
+Let me think about what three key points would be most useful for daily water drinking habits:
+
+1. **饮水量** - How much water to drink daily (typically 1500-2000ml for adults, about 7-8 cups)
+2. **饮水时机** - When to drink: don't wait until thirsty, spread throughout the day, small amounts frequently
+3. **水温** - Avoid ice-cold or scalding hot water; warm water is best
+
+Other possible points:
+- Don't replace water with sugary drinks
+- Morning water after waking up
+- Don't drink too much at once (暴饮)
+- Water quality/safety
+
+The user asked for exactly three points (三点说明), so I should provide exactly three clear points. The response should be in Chinese since the question is in Chinese.
+
+Let me structure this well:
+
+**一、适量饮水,少量多次**
+- 成年人每天建议饮水1500-1700毫升(约7-8杯)
+- 不要等口渴了才喝水,口渴时身体已经缺水
+- 每次喝100-200毫升,分次饮用,不要一次猛灌
+
+**二、注意水温,避免过烫过冷**
+- 最适宜的水温是10-40℃左右的温水
+- 过烫的水(超过65℃)会烫伤口腔和食道黏膜,长期可能增加食道癌风险
+- 过冷的水会刺激肠胃,引起不适
+
+**三、白开水是最佳选择**
+- 不要用饮料代替白开水,含糖饮料会增加肥胖、糖尿病风险
+- 起床后、睡前适量饮水
+- 运动后不要立即大量饮冰水
+
+Actually, let me organize the three points more clearly. Common recommendations in Chinese health education:
+
+1. 主动喝水,不要等口渴 - 饮水时机和习惯
+2. 少量多次,总量适宜 - 每天1500-1700ml,每次200ml左右
+3. 水温适宜,首选白开水 - 10-40℃温水,不喝生水,少喝饮料
+
+Format considerations: The user asked for three points, so a numbered list format is appropriate. Each point should have a clear heading and brief explanation. Medium length - not too long, this is a simple informational request. Using Chinese is appropriate. I could use markdown formatting with numbered points and brief explanations.

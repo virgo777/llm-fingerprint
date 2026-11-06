@@ -1,0 +1,33 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a simple, benign request for humor. Let me think of a good programmer joke in Chinese.
+
+Classic programmer jokes include:
+1. The one about a programmer's wife asking him to buy things: "老婆给程序员打电话:下班顺路买十个包子,如果看到卖西瓜的,买一个。程序员回家,手里拿着一个包子。老婆问:为什么只买一个包子?程序员:因为我看到了卖西瓜的。"
+
+This is a classic one about if/else logic - the programmer interpreted "if you see a watermelon seller, buy one [watermelon]" but instead interpreted it as "if you see watermelon seller, then buy one baozi instead of ten."
+
+2. Binary jokes: "世界上有10种人,一种懂二进制,一种不懂。" (There are 10 types of people in the world: those who understand binary and those who don't.)
+
+3. The one about why programmers confuse Halloween and Christmas: because OCT 31 == DEC 25 (octal 31 = decimal 25).
+
+4. Jokes about bugs, debugging, etc.
+
+5. "程序员最讨厌的四件事:写注释、写文档、别人不写注释、别人不写文档。"
+
+Let me pick one or two good ones. The watermelon/baozi one is a classic and very fitting for a 冷笑话. I could tell that one, or the binary one.
+
+The format should be conversational, appropriate for a casual joke request. I should tell the joke in a punchy way. Maybe I can tell one joke and offer more if they want. Keep it relatively short and fun. Using some formatting might help - maybe just plain conversational text with the joke set up.
+
+Let me write it well:
+
+老婆给程序员老公打电话:"下班顺路买十个包子,如果看到卖西瓜的,就买一个。"
+老公回到家,手里只拿着一个包子。
+老婆怒问:"怎么就买了一个包子?!"
+老公:"因为我看到卖西瓜的了。"
+
+This works because the programmer parsed the conditional as modifying the entire instruction.
+
+Or the binary one:
+问:世界上有哪10种人?
+答:懂二进制的和不懂二进制的。
+
+I think the baozi one is better as a full joke. Maybe I'll give one main joke and perhaps add a bonus one-liner. Keep it light and fun. Not too long.

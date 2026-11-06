@@ -1,0 +1,39 @@
+The user is asking in Chinese: "Explain the precautions for daily water drinking in three points" which translates to "Use three points to explain the precautions for daily water drinking."
+
+This is a simple informational request about health habits related to drinking water. The user wants me to organize information about daily water drinking precautions into three points.
+
+Let me think about what are the most important precautions for daily water drinking:
+
+1. **Proper timing and frequency of water drinking (Proper timing and frequency)** - Don't wait until you're thirsty to drink water; drink small amounts multiple times throughout the day rather than gulping large amounts at once. Drinking water in the morning after waking up helps. Avoid drinking too much water right before bed.
+
+2. **Water temperature considerations (Water temperature)** - Avoid drinking ice-cold water which can irritate the stomach; warm or lukewarm water (around 35-40°C) is generally better for the body, especially in the morning. Avoid very hot water that could damage the esophagus.
+
+3. **Amount of water (Amount)** - Adults should drink about 1500-2000ml per day, but this varies by activity level, weather, and individual conditions. Don't drink too much at once - excessive rapid water intake can cause water intoxication.
+
+4. **Quality of water** - Drink clean, safe water. Don't drink raw/untreated water. Boiled tap water or properly treated water is safe.
+
+5. **Special situations** - Don't drink large amounts of water immediately after intense exercise; sip slowly. People with kidney disease may need to limit water intake per doctor's advice.
+
+The user asked for three points specifically, so I should organize this into three clear, comprehensive points. Since the user is writing in Chinese, I should respond in Chinese.
+
+Let me structure the three most important points:
+
+**1. Drink in small amounts multiple times, don't wait until thirsty (Drink in small amounts multiple times, don't wait until thirsty)**
+- The body is already mildly dehydrated when you feel thirsty
+- Drink small sips multiple times, about 100-200ml each time
+- Drink a glass of warm water after getting up in the morning
+- Don't drink too much water before bed, to avoid affecting sleep and increasing the burden on the kidneys
+
+**2. Control water temperature, avoid being too cold or too hot (Control water temperature, avoid being too cold or too hot)**
+- Lukewarm water around 35-40°C is most suitable
+- Ice water irritates the gastrointestinal tract, may cause stomach discomfort or cramps
+- Overly hot water (above 65°C) may damage the esophageal mucosa, and long-term consumption increases the risk of esophageal diseases
+
+**3. Drink an appropriate amount, avoid binge drinking (Drink appropriate amount, avoid binge drinking)**
+- The daily recommended intake is about 1500-2000ml (specific amount varies by person, exercise amount, and weather)
+- Rapidly drinking large amounts of water in a short time may cause "water intoxication" (dilutional hyponatremia)
+- People with kidney disease, heart failure, etc., should follow doctor's advice to control water intake
+
+These three points cover: timing/frequency, temperature, and quantity - which are the three main dimensions of water drinking precautions.
+
+Format considerations: The user asked for three points, so a numbered list format is appropriate. I should use Chinese since the question is in Chinese. Each point should have a clear heading and brief explanation. The response should be informative but not overly long - this is a practical health question that deserves clear, organized information. I could use bold headings for each point with a few sentences of explanation underneath. Medium length response is appropriate.

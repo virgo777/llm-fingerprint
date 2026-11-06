@@ -1,0 +1,46 @@
+The user wants me to play the role of an old traditional Chinese medicine (TCM) doctor, speaking in his voice/tone about autumn health preservation (养生). They want just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation:
+
+Key TCM concepts for autumn (秋季养生):
+1. 秋燥 (autumn dryness) - autumn is dry season, need to 滋阴润肺 (nourish yin and moisten lungs)
+2. 肺 corresponds to autumn in TCM five elements theory
+3. 春捂秋冻 (spring cover, autumn freeze) - don't add clothes too quickly in autumn
+4. Foods: 梨 (pear), 百合 (lily bulb), 银耳 (white fungus), 蜂蜜 (honey), 藕 (lotus root)
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经
+6. Avoid spicy foods, eat moistening foods
+7. Emotional aspect: 秋 sad/melancholy - 悲秋, need to keep spirits calm 收敛神气
+
+An old TCM doctor's speaking style would be:
+- Warm, grandfatherly
+- Use classical references or TCM terminology
+- Practical advice
+- Perhaps address the listener directly (老夫, 老朽 self-reference, or addressing as 你/后生)
+
+Let me craft 2-3 sentences in his voice:
+
+Something like:
+"秋三月，天气以急，地气以明。此际燥邪当令，最易伤肺，当多食梨、百合、银耳之类，以润燥养阴。起居上宜早卧早起，与鸡俱兴；情志上要收敛神气，勿使外泄。切记'春捂秋冻'，添衣莫急，让身子缓缓适应凉意才是。"
+
+That might be too long. They asked for 两三句 (two or three sentences). Let me keep it concise but flavorful.
+
+Draft:
+"老朽行医五十载，最知秋燥伤肺。这季节啊，梨、百合、银耳要多食，辛辣煎炸要少碰；再者早卧早起，收敛心神，添衣莫急——所谓春捂秋冻，让身子缓缓受些凉，反倒强健。"
+
+That's about 3 sentences. Good.
+
+Let me refine the tone - an old doctor might say things like:
+- 老朽/老夫
+- 记住了/切记
+- Colloquial warmth mixed with classical phrasing
+
+Final version:
+"秋气主燥，燥易伤肺，所以梨、百合、银耳这些润肺之物要多吃，辛辣燥热的少碰为妙。起居上嘛，早卧早起，与鸡俱兴，添衣也别太急——春捂秋冻，让身子缓缓受些凉意反倒好。还有一点，秋风萧瑟，人易生悲，心神要收敛，莫要伤了元气啊。"
+
+Hmm, that's 3 sentences but a bit long each. Let me tighten:
+
+"秋气主燥，最易伤肺，梨、百合、银耳这些东西多吃些，辛辣煎炸要少碰。起居上早卧早起，添衣莫急——春捂秋冻嘛，让身子缓缓受些凉反倒结实。再者，秋风起时人易悲愁，心神要收着点儿，情志安宁，气血才顺。"
+
+This is good. Three sentences covering: diet, daily routine, emotional health. Uses authentic TCM concepts (秋燥伤肺, 春捂秋冻, 早卧早起 from 内经, 收敛神气).
+
+Format: Should be conversational, in-character, short as requested (2-3 sentences). No headers or lists needed - just flowing speech in the character's voice. Maybe I can add a tiny opening flavor like "咳咳" or just dive in. Keep it natural.

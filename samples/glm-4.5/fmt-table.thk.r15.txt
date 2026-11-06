@@ -1,0 +1,30 @@
+The user is asking me to list the Four Great Classical Novels of China (中国四大名著) in a table format, showing the book titles and their authors. This is a straightforward factual question about Chinese literature.
+
+The Four Great Classical Novels of China are:
+1. 《三国演义》 - 罗贯中
+2. 《水浒传》 - 施耐庵
+3. 《西游记》 - 吴承恩
+4. 《红楼梦》 - 曹雪芹
+
+Let me verify these facts:
+- 三国演义 - written by 罗贯中, about the Three Kingdoms period
+- 水浒传 - attributed to 施耐庵, sometimes 罗贯中 is also credited as co-author or editor. The story of the 108 heroes of Liangshan Marsh
+- 西游记 - written by 吴承恩, the story of the Monkey King and the journey to obtain Buddhist scriptures
+- 红楼梦 - written by 曹雪芹, with the later 40 chapters often attributed to 高鹗 (Gao E, though modern scholarship suggests 无名氏/anonymous with 程伟元 organizing). Traditionally it's said the first 80 chapters were by Cao Xueqin and the last 40 by Gao E.
+
+The user asked for a table, so I should respond in Chinese (since the question is in Chinese) and use a markdown table format.
+
+For 红楼梦, I could note that 曹雪芹 wrote the first 80 chapters, and the commonly circulated 120-chapter version's later 40 chapters are attributed to 高鹗 (traditionally) or 无名氏. For simplicity, I could just list 曹雪芹 as the author, which is the standard answer, but adding a note could be helpful.
+
+Format considerations: The user explicitly asked for a table, so I should use a markdown table. I'll keep it concise - a simple table with the four novels and authors. I might add a small note about 红楼梦 since the authorship question is a bit more nuanced, but keep it brief.
+
+Let me create the table:
+
+| 书名 | 作者 |
+|------|------|
+| 《三国演义》 | 罗贯中 |
+| 《水浒传》 | 施耐庵 |
+| 《西游记》 | 吴承恩 |
+| 《红楼梦》 | 曹雪芹 |
+
+I could also add a note about 红楼梦's authorship. This is a helpful detail but I shouldn't over-explain. A brief note would be appropriate.

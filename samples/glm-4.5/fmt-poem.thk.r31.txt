@@ -1,0 +1,40 @@
+The user wants a four-line poem about autumn night, in Chinese, without explanation. Let me write a nice classical-style Chinese poem with four lines about autumn night.
+
+Let me compose something with imagery of autumn night - moon, frost, leaves, crickets, cold dew, etc.
+
+Attempt:
+秋夜
+
+月落梧桐影渐斜，
+寒蛩声里露凝花。
+西风不解相思意，
+吹尽庭前一树沙。
+
+Hmm, let me refine. Four lines, seven characters each is classic 七言绝句.
+
+月冷疏桐叶半黄，
+虫声细细夜初凉。
+一帘桂影秋如水，
+风送清辉入梦长。
+
+Check rhyme: 黄 (huáng), 凉 (liáng), 长 (cháng) - rhyme with -ang. Good.
+
+Tonal patterns roughly okay for a casual poem. This works.
+
+Alternative:
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+虫吟浅草灯花瘦，
+一枕清秋梦亦长。
+
+凉、霜、长 rhyme.
+
+Let me pick a polished one:
+
+《秋夜》
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+虫声唧唧灯花瘦，
+一枕清秋梦正长。
+
+That's nice. Just give the poem, no explanation as requested.

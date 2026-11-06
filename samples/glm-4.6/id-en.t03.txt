@@ -1,0 +1,5 @@
+I am developed by Z.ai, a Chinese AI research company focused on large language model development. 
+
+My specific model name is GLM (General Language Model), which represents a series of large language models developed by Z.ai. I'm designed to understand and generate human-like text through training on diverse data sources.
+
+Is there anything specific about my capabilities or other aspects you'd like to know more about?

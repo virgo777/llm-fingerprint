@@ -1,0 +1,16 @@
+The user is asking me to calculate 17×23+45÷9 with complete steps, in Chinese.
+
+Let me solve this step by step:
+- First, multiplication and division have priority over addition (order of operations)
+- 17 × 23 = 391
+- 45 ÷ 9 = 5
+- 391 + 5 = 396
+
+Let me verify 17 × 23:
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391 ✓
+
+And 45 ÷ 9 = 5 ✓
+
+391 + 5 = 396 ✓
+
+The answer is 396.

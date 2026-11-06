@@ -1,0 +1,84 @@
+The user wants me to tell a cold joke (冷笑话) about programmers. This is a simple, fun request. Cold jokes in Chinese culture are typically puns or wordplay that make people groan rather than laugh out loud - they're intentionally cheesy or rely on clever linguistic twists.
+
+Let me think of some good programmer jokes. Classic ones include:
+
+1. The binary joke: 世界上有10种人，一种懂二进制，一种不懂。(There are 10 types of people in the world: those who understand binary and those who don't.) - This is a classic but might be too well-known.
+
+2. Why do programmers always confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25).
+
+3. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。
+
+4. A programmer's wife asks him to go to the supermarket: "Buy a pound of apples, and if you see eggs, buy a dozen." The programmer comes back with a dozen apples. Wife asks why, he says "because I saw eggs." - This is a classic logic joke.
+
+5. 一个程序员去面试，面试官问："你有什么优点？" 程序员："我能把复杂问题简单化。" 面试官："举个例子？" 程序员："把'你好'写成'hi'。"
+
+6. Jokes about bugs: 程序员说："这不是bug，这是feature。"
+
+7. 996 jokes
+
+8. Why do programmers prefer dark mode? Because light attracts bugs! (光会吸引bug) - This is a decent pun in English.
+
+9. 程序员的三大美德：懒惰、急躁、傲慢。
+
+10. The one about the light bulb: How many programmers does it take to change a light bulb? None, that's a hardware problem.
+
+11. 程序员相亲，女方问："你有房吗？" 程序员："有。" "有车吗？" "有。" "都是什么？" "一间机房，一堆服务器。"
+
+12. Classic joke about recursion: 要理解递归，你首先要理解递归。
+
+13. Q: 为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25
+
+14. A joke about debugging: 程序员写了1000行代码，其中999行是为了解决那1行代码的bug。
+
+15. The wife/shopping joke is probably the most classic "cold joke" style one:
+
+老婆给程序员老公打电话："下班顺路买一斤包子带回来，如果看到卖西瓜的，买一个。"
+程序员老公回家，手里拿着一个包子。
+老婆问："你怎么只买了一个包子？"
+老公答："因为我看到了卖西瓜的。"
+
+This is a great one because it's genuinely a "cold joke" - it plays on the programmer's literal interpretation of conditional logic. The instruction "买一斤包子，如果看到卖西瓜的，买一个" is ambiguous in Chinese (买一个 could refer to 包子 or 西瓜), and the programmer interprets it as: buy one 包子 if he sees watermelon sellers. It's logic humor.
+
+Another good one:
+
+程序员：为什么程序员工资高？因为我们把一辈子的bug都在工作里改完了。
+
+Or a shorter pun-style one:
+
+问：程序员的老婆让他去买东西，说了什么导致他只买回来一样东西？
+（就是上面那个包子的）
+
+Let me think about format. The user asked for one cold joke (一个冷笑话). So I should tell one joke, maybe with a nice setup and punchline. I could offer to tell more at the end briefly, but that's optional. Keep it concise and fun.
+
+The delivery matters for cold jokes. I'll use the classic 包子/西瓜 joke since it's well-structured and genuinely funny in a groan-worthy way. Or I could pick something less well-known.
+
+Actually, let me consider some fresher options:
+
+- 为什么程序员都喜欢深色模式？因为光会吸引bug。(Why do programmers prefer dark mode? Because light attracts bugs.) - This works as a pun: bug means both software error and actual insects attracted to light. In Chinese context, "bug" is used in English, so the pun works.
+
+- 一个二进制笑话：世界上有10种人...
+
+- 生成随机数：一个程序员入职第一天，导师告诉他："生成随机数很简单，掷骰子就行了。"
+
+- 甲："我最近写了个程序，能自动生成冷笑话。" 乙："效果怎么样？" 甲："运行了三年，没人发现。"
+
+Hmm, that last one is meta and could be fun but is convoluted.
+
+I think the 包子/西瓜 one is the safest and best choice - it's THE classic programmer cold joke and has the perfect structure: setup, literal-minded twist, groan-inducing punchline. It's genuinely "cold" (冷笑话) because it's clever but makes you groan.
+
+Let me format it nicely:
+
+老婆给当程序员的老公打电话：
+"下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+
+当晚，老公手里拿着一个包子进了家门。
+
+老婆怒问："你怎么就买了一个包子？！"
+
+老公："因为我看到卖西瓜的了。"
+
+Then maybe add a brief explanation or just let it land. For cold jokes, sometimes explaining kills it, but a tiny wink at the end could work: "在他的世界里，条件语句从不撒谎。" (In his world, conditional statements never lie.) That adds a nice touch without over-explaining.
+
+Actually for maximum effect, I could just deliver the joke and add one short line. Keep it clean. Markdown is fine here since it's conversational but the joke structure benefits from line breaks. Let me keep the format simple with the dialogue structure.
+
+Length: short and punchy is best for jokes. Maybe offer another one at the end? A brief "还想要更多吗？" could be nice but not necessary. I'll add a very short closing line offering more, or maybe a small tagline. Actually a tiny closing quip might be better than an offer. Let me do the joke + maybe one small comment, then optionally a brief offer for more.

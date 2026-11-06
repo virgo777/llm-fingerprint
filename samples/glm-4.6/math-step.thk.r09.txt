@@ -1,0 +1,12 @@
+The user wants me to calculate 17×23 + 45÷9 with complete steps.
+
+Order of operations: multiplication and division first, then addition.
+
+17 × 23 = ?
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+
+45 ÷ 9 = 5
+
+391 + 5 = 396
+
+Let me write out the complete process in Chinese since the question is in Chinese.

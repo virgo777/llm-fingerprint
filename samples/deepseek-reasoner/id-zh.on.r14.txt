@@ -1,0 +1,3 @@
+我是 **DeepSeek**，由 **深度求索（DeepSeek）公司** 开发的大语言模型助手。
+
+模型名称：**DeepSeek**（具体版本或 API 模型名以你当前使用的产品/接口为准，例如 DeepSeek Chat）。

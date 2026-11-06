@@ -1,0 +1,29 @@
+The user is asking me to explain the precautions/things to pay attention to when drinking water daily, using three points. The request is in Chinese, so I should respond in Chinese.
+
+Let me think about what the most important points about daily water drinking habits are:
+
+1. **不要等口渴才喝水,少量多次饮用** - Don't wait until you're thirsty to drink water; drink small amounts frequently throughout the day. Thirst is actually a late sign of dehydration. It's recommended to drink water at regular intervals throughout the day, in small amounts each time (about 100-200ml per time).
+
+2. **水温适宜,避免过烫或过冰** - Water temperature should be appropriate - avoid too hot or too cold water. Very hot water (above 65°C) can damage the esophagus and may increase cancer risk. Ice-cold water can irritate the gastrointestinal tract, especially on an empty stomach.
+
+3. **晨起适量喝水,睡前不宜大量饮水** - Drink water in the morning after waking up, but not too much before bed. Morning water helps rehydrate after sleep. Drinking too much before bed can cause frequent nighttime urination and may cause facial edema.
+
+Other possible points:
+- 不喝生水/隔夜水的问题
+- 剧烈运动后不要立即大量饮水
+- 每日饮水量要充足
+- 饭前饭后不宜大量饮水
+- 不要用饮料代替白开水
+
+Let me pick the three most important and practical points:
+
+1. **少量多次,不要等口渴才喝** - Drink small amounts multiple times, don't wait until thirsty
+2. **水温适宜** - Appropriate water temperature (warm water, not too hot or cold)
+3. **特殊时间点的注意事项** - Special timing: morning hydration is good, but avoid drinking too much before bed; also don't gulp large amounts after exercise
+
+Or I could structure it as:
+1. 每日饮水量要充足,少量多次
+2. 水温要适宜
+3. 特殊时段喝水要注意(晨起、睡前、运动后)
+
+Format considerations: The user asked for exactly three points, so I should use a numbered list with three items. Each point should have a clear heading/topic and a brief explanation. The response should be in Chinese, moderately detailed but not overly long. Using a numbered list format with bold headers would make it clear and easy to read. I'll keep each explanation concise - maybe 2-3 sentences per point.

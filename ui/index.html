@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>端点测试台 · LLM Endpoint Tester</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0f1114; --panel:#14171b; --panel2:#181c21; --line:rgba(255,255,255,.07);
+  --line2:rgba(255,255,255,.12); --txt:#d8dde3; --dim:#8b939d; --faint:#5b636d;
+  --green:#2fe08a; --green-deep:#0d8f55; --red:#ff5c5c; --red-deep:#8f2323;
+  --amber:#ffb545; --mono:"IBM Plex Mono","Cascadia Mono",Consolas,monospace;
+  --sans:"HarmonyOS Sans SC","MiSans","Microsoft YaHei UI","PingFang SC",sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{min-height:100vh;display:flex;align-items:flex-start;justify-content:center;
+  font-family:var(--sans);color:var(--txt);padding:28px 16px;
+  background:
+    radial-gradient(900px 420px at 78% -12%, rgba(47,224,138,.06), transparent 62%),
+    repeating-linear-gradient(0deg, transparent 0 31px, rgba(255,255,255,.022) 31px 32px),
+    repeating-linear-gradient(90deg, transparent 0 31px, rgba(255,255,255,.022) 31px 32px),
+    var(--bg);}
+.panel{width:100%;max-width:600px;background:linear-gradient(180deg,var(--panel2),var(--panel));
+  border:1px solid var(--line2);border-radius:10px;position:relative;overflow:hidden;
+  box-shadow:0 24px 70px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.04);
+  animation:rise .5s cubic-bezier(.2,.9,.3,1) both;}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.panel::before{content:"";display:block;height:3px;
+  background:linear-gradient(90deg,transparent,rgba(47,224,138,.65) 30%,rgba(47,224,138,.15) 70%,transparent)}
+.head{display:flex;align-items:center;justify-content:space-between;
+  padding:20px 24px 16px;border-bottom:1px solid var(--line)}
+.title-zh{font-size:19px;font-weight:600;letter-spacing:.06em}
+.title-en{font-family:var(--mono);font-size:10px;color:var(--faint);letter-spacing:.28em;
+  text-transform:uppercase;margin-top:4px}
+/* 指示灯 */
+.lamp-wrap{display:flex;align-items:center;gap:14px}
+.lamp{width:46px;height:46px;border-radius:50%;position:relative;flex:none;
+  background:radial-gradient(circle at 35% 30%, #4b515a, #262a30 55%, #17191d);
+  box-shadow:inset 0 2px 5px rgba(255,255,255,.09), inset 0 -4px 7px rgba(0,0,0,.55),
+    0 0 0 1px rgba(255,255,255,.07), 0 0 0 7px rgba(255,255,255,.022);
+  transition:background .25s, box-shadow .25s}
+.lamp::after{content:"";position:absolute;inset:14px 14px auto 14px;height:10px;border-radius:50%;
+  background:linear-gradient(180deg,rgba(255,255,255,.22),transparent);filter:blur(1px)}
+.lamp.green{background:radial-gradient(circle at 35% 30%, #c8ffe2, var(--green) 45%, var(--green-deep) 85%);
+  box-shadow:inset 0 2px 5px rgba(255,255,255,.35), inset 0 -3px 6px rgba(0,0,0,.25),
+    0 0 0 1px rgba(47,224,138,.4), 0 0 26px 3px rgba(47,224,138,.5), 0 0 70px 10px rgba(47,224,138,.18);
+  animation:pop .35s cubic-bezier(.2,1.6,.4,1)}
+.lamp.red{background:radial-gradient(circle at 35% 30%, #ffd4d4, var(--red) 45%, var(--red-deep) 85%);
+  box-shadow:inset 0 2px 5px rgba(255,255,255,.3), inset 0 -3px 6px rgba(0,0,0,.3),
+    0 0 0 1px rgba(255,92,92,.4), 0 0 26px 3px rgba(255,92,92,.45), 0 0 70px 10px rgba(255,92,92,.16);
+  animation:pop .35s cubic-bezier(.2,1.6,.4,1)}
+.lamp.testing{background:radial-gradient(circle at 35% 30%, #ffe9c9, var(--amber) 50%, #8f5a15 85%);
+  box-shadow:0 0 22px 2px rgba(255,181,69,.4);animation:breathe 1s ease-in-out infinite}
+@keyframes pop{0%{transform:scale(.72)}100%{transform:scale(1)}}
+@keyframes breathe{0%,100%{opacity:1}50%{opacity:.45}}
+.lamp-meta{text-align:right}
+.lamp-state{font-family:var(--mono);font-size:11px;letter-spacing:.14em;color:var(--dim)}
+.lamp-state b{color:var(--txt);font-weight:600}
+.lamp-ms{font-family:var(--mono);font-size:22px;font-weight:600;margin-top:2px;color:var(--faint)}
+.lamp-ms.ok{color:var(--green)} .lamp-ms.err{color:var(--red)}
+/* 表单 */
+.form{padding:20px 24px 8px;display:flex;flex-direction:column;gap:14px}
+.field label{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.24em;
+  color:var(--dim);text-transform:uppercase;margin-bottom:6px}
+.field input,.field select{width:100%;background:#0d0f12;border:1px solid var(--line2);
+  border-radius:6px;color:var(--txt);font-family:var(--mono);font-size:13.5px;
+  padding:11px 12px;transition:border-color .18s, box-shadow .18s;outline:none;
+  appearance:none;-webkit-appearance:none}
+.field select{background-image:linear-gradient(45deg,transparent 50%,var(--dim) 50%),linear-gradient(135deg,var(--dim) 50%,transparent 50%);
+  background-position:calc(100% - 18px) 50%,calc(100% - 13px) 50%;background-size:5px 5px;background-repeat:no-repeat;cursor:pointer}
+.field select option{background:#14171b}
+.field input:focus,.field select:focus{border-color:rgba(47,224,138,.55);box-shadow:0 0 0 3px rgba(47,224,138,.12)}
+.field input::placeholder{color:#454c55}
+.field.hint label .req{color:var(--amber)}
+.row{display:flex;gap:12px}.row .field{flex:1}
+.seg{display:inline-flex;border:1px solid var(--line2);border-radius:6px;overflow:hidden;width:100%}
+.seg button{flex:1;background:transparent;border:0;color:var(--dim);font-family:var(--mono);
+  font-size:11px;letter-spacing:.12em;padding:11px 6px;cursor:pointer;transition:all .15s}
+.seg button.act{background:rgba(47,224,138,.12);color:var(--green)}
+/* 按钮区 */
+.actions{padding:12px 24px 6px;display:flex;gap:10px}
+.btn{flex:1;padding:13px;border:0;border-radius:6px;cursor:pointer;
+  font-family:var(--mono);font-size:12.5px;font-weight:600;letter-spacing:.18em;text-indent:.18em;
+  transition:transform .1s, filter .15s}
+.btn-main{color:#08130c;background:linear-gradient(180deg,#43e696,var(--green) 60%,#1db571);
+  box-shadow:0 4px 18px rgba(47,224,138,.25), inset 0 1px 0 rgba(255,255,255,.35)}
+.btn-monitor{color:#0c1015;background:linear-gradient(180deg,#ffd98a,var(--amber) 60%,#c77f1a);
+  box-shadow:0 4px 18px rgba(255,181,69,.2), inset 0 1px 0 rgba(255,255,255,.35)}
+.btn:hover:not(:disabled){filter:brightness(1.08)} .btn:active:not(:disabled){transform:translateY(1px)}
+.btn:disabled{filter:grayscale(.8) brightness(.6);cursor:not-allowed;box-shadow:none}
+/* 流程指示条 */
+.pipe{margin:10px 24px 14px;display:flex;align-items:flex-start}
+.pstep{flex:1;display:flex;flex-direction:column;align-items:center;position:relative;min-width:0}
+.pdot{width:11px;height:11px;border-radius:50%;background:#23272c;border:1px solid var(--line2);
+  box-shadow:0 0 0 4px rgba(255,255,255,.02);transition:all .35s;z-index:1;margin-top:2px}
+.pline{position:absolute;top:6px;left:calc(50% + 9px);right:calc(-50% + 9px);height:2px;
+  background:#1d222a;transition:background .35s}
+.pstep:last-child .pline{display:none}
+.plabel{font-family:var(--mono);font-size:9.5px;letter-spacing:.12em;color:var(--faint);
+  margin-top:9px;text-align:center;white-space:nowrap;transition:color .35s}
+.pstep.done .pdot{background:var(--green);border-color:rgba(47,224,138,.6);
+  box-shadow:0 0 10px rgba(47,224,138,.5), 0 0 0 4px rgba(47,224,138,.07)}
+.pstep.done .plabel{color:rgba(47,224,138,.8)}
+.pstep.done .pline{background:linear-gradient(90deg,var(--green-deep),var(--green))}
+.pstep.act .pdot{background:var(--amber);border-color:rgba(255,181,69,.75);
+  box-shadow:0 0 12px rgba(255,181,69,.6), 0 0 0 4px rgba(255,181,69,.08);
+  animation:breathe 1.2s ease-in-out infinite}
+.pstep.act .plabel{color:var(--amber)}
+.pstep.act .pline{background:linear-gradient(90deg,#8f5a15,var(--amber))}
+.pstep.err .pdot{background:var(--red);border-color:rgba(255,92,92,.7);
+  box-shadow:0 0 12px rgba(255,92,92,.55)}
+.pstep.err .plabel{color:var(--red)}
+.plabel .pfail{color:rgba(255,92,92,.85)}
+.plabel .pok{color:rgba(47,224,138,.85)}
+/* 流式活动行（当前探针事件） */
+.pstream{margin:2px 24px 14px;font-family:var(--mono);font-size:10.5px;
+  color:var(--dim);min-height:16px;white-space:nowrap;overflow:hidden;
+  text-overflow:ellipsis;transition:opacity .2s}
+.pstream .pok{color:rgba(47,224,138,.9)} .pstream .pfail{color:rgba(255,92,92,.9)}
+.pstream .pdim{color:var(--faint)}
+/* 消息与结果 */
+.msg{margin:0 24px;padding:10px 12px;border-radius:6px;font-size:12.5px;line-height:1.6;
+  display:none;border:1px solid}
+.msg.ok{display:block;border-color:rgba(47,224,138,.3);background:rgba(47,224,138,.07);color:#a8ecc9}
+.msg.err{display:block;border-color:rgba(255,92,92,.3);background:rgba(255,92,92,.07);color:#f3b3b3}
+.msg.info{display:block;border-color:rgba(255,181,69,.3);background:rgba(255,181,69,.06);color:#ffd9a0}
+.msg .pv{color:var(--dim);font-family:var(--mono);font-size:11px;margin-top:4px;display:block;word-break:break-all}
+/* 相似度结果 */
+.results{margin:16px 24px 6px;display:none}
+.results.show{display:block;animation:rise .4s ease both}
+.verdict{border:1px solid rgba(47,224,138,.35);background:rgba(47,224,138,.06);
+  border-radius:8px;padding:14px 16px;margin-bottom:14px}
+.verdict .v-label{font-family:var(--mono);font-size:10px;letter-spacing:.24em;color:var(--dim)}
+.verdict .v-model{font-family:var(--mono);font-size:26px;font-weight:600;color:var(--green);margin:4px 0 2px}
+.verdict .v-sub{font-size:12px;color:var(--dim)}
+.verdict.warn{border-color:rgba(255,181,69,.35);background:rgba(255,181,69,.05)}
+.verdict.warn .v-model{color:var(--amber)}
+.sims h4,.probe-tbl h4{font-family:var(--mono);font-size:10px;letter-spacing:.24em;
+  color:var(--dim);margin:16px 0 10px;font-weight:500}
+.sim-row{display:flex;align-items:center;gap:10px;margin-bottom:9px}
+.sim-name{font-family:var(--mono);font-size:12px;width:130px;flex:none;color:var(--txt);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sim-bar{flex:1;height:14px;background:#0d0f12;border:1px solid var(--line);border-radius:3px;overflow:hidden}
+.sim-fill{height:100%;border-radius:2px;transition:width .8s cubic-bezier(.2,.9,.3,1);
+  background:linear-gradient(90deg,#1a6b46,var(--green))}
+.sim-row.top .sim-fill{background:linear-gradient(90deg,#1a6b46,#43e696);box-shadow:0 0 12px rgba(47,224,138,.35)}
+.sim-val{font-family:var(--mono);font-size:12px;width:52px;text-align:right;color:var(--dim);flex:none}
+.sim-row.top .sim-val{color:var(--green);font-weight:600}
+.sim-votes{font-family:var(--mono);font-size:10px;width:30px;color:var(--faint);flex:none}
+/* 探针明细 */
+details.probe-tbl{margin:6px 24px 4px}
+details.probe-tbl summary{font-family:var(--mono);font-size:10px;letter-spacing:.24em;
+  color:var(--dim);cursor:pointer;padding:10px 0;user-select:none}
+details.probe-tbl summary:hover{color:var(--txt)}
+.ptable{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:11px;margin-bottom:12px}
+.ptable th{color:var(--faint);text-align:left;font-weight:500;padding:5px 8px;
+  border-bottom:1px solid var(--line2);letter-spacing:.08em}
+.ptable td{padding:5px 8px;border-bottom:1px solid var(--line);color:var(--dim)}
+.ptable td.best{color:var(--green)}
+.id-chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 24px 0}
+.chip{font-family:var(--mono);font-size:10.5px;padding:4px 10px;border-radius:20px;
+  border:1px solid rgba(255,181,69,.35);color:#ffd9a0;background:rgba(255,181,69,.06)}
+.log{margin:14px 24px 8px;border-top:1px dashed var(--line2);padding-top:10px;
+  font-family:var(--mono);font-size:10.5px;line-height:1.9;color:var(--faint);max-height:96px;overflow:auto}
+.log .t{color:#3d444d;margin-right:8px}
+.log .ok{color:rgba(47,224,138,.8)} .log .err{color:rgba(255,92,92,.8)}
+.foot{padding:6px 24px 16px;font-family:var(--mono);font-size:9.5px;color:#3d444d;letter-spacing:.2em}
+</style>
+</head>
+<body>
+<div class="panel">
+  <div class="head">
+    <div>
+      <div class="title-zh">端点测试台</div>
+      <div class="title-en">LLM · Endpoint Link &amp; Fingerprint</div>
+    </div>
+    <div class="lamp-wrap">
+      <div class="lamp-meta">
+        <div class="lamp-state">状态 <b id="stateTxt">未检测</b></div>
+        <div class="lamp-ms" id="msTxt">-- ms</div>
+      </div>
+      <div class="lamp" id="lamp"></div>
+    </div>
+  </div>
+
+  <form class="form" id="form" autocomplete="off" onsubmit="return false">
+    <div class="field">
+      <label>中转站地址 · Base URL</label>
+      <input id="baseUrl" placeholder="https://api.example.com/v1" spellcheck="false">
+    </div>
+    <div class="row">
+      <div class="field" style="flex:1.7">
+        <label>密钥 · API Key</label>
+        <input id="apiKey" type="password" placeholder="sk-..." spellcheck="false">
+      </div>
+      <div class="field" style="flex:1">
+        <label>协议 · Protocol</label>
+        <div class="seg" id="segApi">
+          <button type="button" data-api="openai" class="act">OPENAI</button>
+          <button type="button" data-api="anthropic">ANTHROPIC</button>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>模型名称 · Model Name <span class="req" id="modelNote" style="color:var(--amber)">（中转站的模型名，调用必填）</span></label>
+      <input id="modelId" list="modelList" placeholder="glm-4.6 / deepseek-chat / gpt-4o ..." spellcheck="false">
+      <datalist id="modelList"></datalist>
+    </div>
+    <div class="row">
+      <div class="field" style="flex:1">
+        <label>检测轮数 · Rounds</label>
+        <div class="seg" id="segRounds">
+          <button type="button" data-r="10">10</button>
+          <button type="button" data-r="25" class="act">25</button>
+          <button type="button" data-r="50">50</button>
+        </div>
+      </div>
+      <div class="field" style="flex:1.3">
+        <label>并发压测 · Concurrency</label>
+        <div style="display:flex;gap:8px">
+          <input id="concN" type="number" min="1" max="64" value="8" style="flex:1">
+          <button type="button" class="btn btn-main" style="flex:1.1;padding:11px;letter-spacing:.15em" id="btnConc">压测</button>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div class="pstream" id="callHint" style="margin:4px 24px 4px"></div>
+
+  <div class="actions">
+    <button class="btn btn-main" id="btnTest">检测联通并获取模型列表</button>
+    <button class="btn btn-monitor" id="btnMonitor" disabled>开始检测所选模型真实性</button>
+  </div>
+
+  <div class="pipe" id="pipe">
+    <div class="pstep"><div class="pdot"></div><div class="pline"></div><div class="plabel" data-base="输入">输入</div></div>
+    <div class="pstep"><div class="pdot"></div><div class="pline"></div><div class="plabel" data-base="联通">联通</div></div>
+    <div class="pstep"><div class="pdot"></div><div class="pline"></div><div class="plabel" data-base="探针">探针</div></div>
+    <div class="pstep"><div class="pdot"></div><div class="pline"></div><div class="plabel" data-base="比对">比对</div></div>
+    <div class="pstep"><div class="pdot"></div><div class="pline"></div><div class="plabel" data-base="判定">判定</div></div>
+  </div>
+  <div class="pstream" id="pstream"></div>
+
+  <div class="msg" id="msg"></div>
+
+  <div class="results" id="results">
+    <div class="verdict" id="verdict">
+      <div class="v-label">综合判定 · VERDICT</div>
+      <div class="v-model" id="vModel">--</div>
+      <div class="v-sub" id="vSub"></div>
+    </div>
+    <div class="sims">
+      <h4>文本相似度 · TEXT SIMILARITY（BGE 余弦 ×100）</h4>
+      <div id="simBars"></div>
+    </div>
+    <div class="id-chips" id="idChips"></div>
+  </div>
+
+  <details class="probe-tbl" id="probeDetails" style="display:none">
+    <summary>▸ 探针明细 · PER-PROBE DETAIL</summary>
+    <table class="ptable" id="ptable"></table>
+  </details>
+
+  <div class="log" id="log"></div>
+  <div class="foot">LOCAL ONLY · KEY NEVER LEAVES 127.0.0.1 · 10 PROBES AUTO COMPARE</div>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+const lamp=$("lamp"),stateTxt=$("stateTxt"),msTxt=$("msTxt"),msg=$("msg"),logBox=$("log");
+let api="openai",connOK=false,apiTouched=false,rounds=25;  /* apiTouched: 用户手动选过协议则不自动改 */
+
+/* 检测轮数选择 + 调用次数预告 */
+function perRoundCalls(){return api==="anthropic"?20:10}
+function updateCallHint(){
+  const n=rounds*perRoundCalls();
+  const mins=api==="anthropic"?(rounds*0.5).toFixed(0):(rounds*0.2).toFixed(0);
+  $("callHint").innerHTML=`▸ 开始检测将发送 <b style="color:var(--amber)">${rounds} 轮 × ${perRoundCalls()} 次 = ${n} 次调用</b>`+
+    `（约 ${mins} 分钟，按中转站费率计费）`;
+}
+document.querySelectorAll("#segRounds button").forEach(b=>b.onclick=()=>{
+  rounds=parseInt(b.dataset.r,10);
+  document.querySelectorAll("#segRounds button").forEach(x=>x.classList.toggle("act",x===b));
+  localStorage.setItem("epRounds",String(rounds));
+  updateCallHint();
+});
+try{const r=parseInt(localStorage.getItem("epRounds")||"25",10);
+  if([10,25,50].includes(r)){rounds=r;
+    document.querySelectorAll("#segRounds button")
+      .forEach(b=>b.classList.toggle("act",parseInt(b.dataset.r,10)===r));}
+}catch(e){}
+updateCallHint();
+
+/* 并发压测 */
+$("btnConc").onclick=async()=>{
+  const n=parseInt($("concN").value,10);
+  if(!(n>=1&&n<=64)){msg.className="msg err";msg.textContent="并发数需在 1..64。";return}
+  const model_id=getModelId();
+  if(!model_id){msg.className="msg err";msg.textContent="并发压测也需要模型名。";return}
+  $("btnConc").disabled=true;$("btnConc").textContent="压测中...";
+  logLine(true,`并发压测 n=${n} · ${model_id}`);
+  try{
+    const r=await fetch("/api/concurrent",{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({base_url:$("baseUrl").value.trim(),api_key:$("apiKey").value.trim(),
+                           api,model_id,n})});
+    const d=await r.json();
+    if(!d.ok){msg.className="msg err";msg.textContent="压测失败："+d.error;return}
+    const rate=(d.success/d.n*100).toFixed(0);
+    msg.className="msg "+(d.fail===0?"ok":"info");
+    msg.innerHTML=`并发 ${d.n}：成功 <b>${d.success}</b> / 失败 <b>${d.fail}</b>（成功率 ${rate}%）`+
+      `<span class="pv">↳ 平均 ${d.avg_ms}ms ｜ P95 ${d.p95_ms}ms ｜ 最慢 ${d.max_ms}ms ｜ 总耗时 ${d.wall_ms}ms`+
+      (d.errors&&d.errors.length?`｜ 错误示例: ${d.errors[0]}`:"")+`</span>`;
+    logLine(d.fail===0,`并发${d.n} 成功${d.success}/${d.n} avg=${d.avg_ms}ms`);
+  }catch(e){msg.className="msg err";msg.textContent="本地服务异常："+e.message;}
+  finally{$("btnConc").disabled=false;$("btnConc").textContent="压测";}
+};
+
+/* 记住上次输入（绝不保存 key） */
+try{const s=JSON.parse(localStorage.getItem("epTester")||"{}");
+  if(s.baseUrl)$("baseUrl").value=s.baseUrl;
+  if(s.modelId)$("modelId").value=s.modelId;
+  if(s.api){api=s.api;apiTouched=true;document.querySelectorAll("#segApi button")
+    .forEach(b=>b.classList.toggle("act",b.dataset.api===api));}
+}catch(e){}
+
+/* 根据地址自动识别协议（用户未手动选过时生效）：
+   含 /anthropic → ANTHROPIC；智谱 OpenAI 兼容端点 /paas/v4 → OPENAI */
+function autoDetectApi(){
+  if(apiTouched)return;
+  const u=$("baseUrl").value.toLowerCase();
+  let guess=null;
+  if(u.includes("/anthropic"))guess="anthropic";
+  else if(u.includes("/paas/v4")||u.includes("/v1")||u.includes("/openai"))guess="openai";
+  if(guess&&guess!==api){
+    api=guess;
+    document.querySelectorAll("#segApi button")
+      .forEach(b=>b.classList.toggle("act",b.dataset.api===api));
+    updateCallHint();
+  }
+}
+$("baseUrl").addEventListener("input",autoDetectApi);
+autoDetectApi();
+
+document.querySelectorAll("#segApi button").forEach(b=>b.onclick=()=>{
+  api=b.dataset.api;apiTouched=true;
+  document.querySelectorAll("#segApi button").forEach(x=>x.classList.toggle("act",x===b));
+  updateCallHint();
+  /* 切换协议后旧结论作废 */
+  connOK=false;$("btnMonitor").disabled=true;
+  setLamp("","未检测","-- ms");msg.className="msg";$("modelList").innerHTML="";
+  $("modelNote").textContent="（中转站的模型名，调用必填）";
+  pipeReset();
+});
+
+function setLamp(state,text,ms,msCls){
+  lamp.className="lamp"+(state?" "+state:"");
+  stateTxt.textContent=text;msTxt.textContent=ms;
+  msTxt.className="lamp-ms"+(msCls?" "+msCls:"");
+}
+function logLine(ok,text){
+  const t=new Date().toTimeString().slice(0,8),div=document.createElement("div");
+  div.innerHTML=`<span class="t">${t}</span><span class="${ok?'ok':'err'}">${ok?'PASS':'FAIL'}</span> ${text}`;
+  logBox.prepend(div);while(logBox.children.length>6)logBox.lastChild.remove();
+}
+
+/* ---------- 流程指示条 ---------- */
+const pipeSteps=[...document.querySelectorAll("#pipe .pstep")];
+const probeLabel=pipeSteps[2].querySelector(".plabel");
+function pipeReset(label){
+  pipeSteps.forEach(s=>{s.classList.remove("done","act","err");
+    const l=s.querySelector(".plabel");l.textContent=l.dataset.base;});
+  if(label!==false)pipeSteps[0].classList.add("act");
+}
+function pipeState({done=-1,act=-1,err=-1}){
+  pipeSteps.forEach((s,i)=>{
+    s.classList.remove("done","act","err");
+    if(i<=done)s.classList.add("done");
+    if(i===act)s.classList.add("act");
+    if(i===err)s.classList.add("err");
+  });
+  if(err<0)probeLabel.textContent=probeLabel.dataset.base;
+}
+pipeReset();
+
+/* ---------- 检测联通并获取模型列表（手动触发） ---------- */
+async function doTest(){
+  const baseUrl=$("baseUrl").value.trim(),apiKey=$("apiKey").value.trim();
+  if(!baseUrl||!apiKey){setLamp("red","输入不全","ERR","err");
+    msg.className="msg err";msg.textContent="请填写地址与密钥。";return}
+  localStorage.setItem("epTester",JSON.stringify({baseUrl,modelId:$("modelId").value.trim(),api}));
+  $("btnTest").disabled=true;$("btnTest").textContent="检测中...";
+  $("btnMonitor").disabled=true;
+  pipeState({done:0,act:1});
+  setLamp("testing","检测中","···");msg.className="msg";
+  try{
+    const r=await fetch("/api/test",{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({base_url:baseUrl,api_key:apiKey,api})});
+    const d=await r.json();
+    if(d.ok){
+      connOK=true;$("btnMonitor").disabled=false;
+      setLamp("green","连接成功",(d.latency_ms||0)+" ms","ok");
+      pipeState({done:1});
+      setupModelPicker(d);
+      logLine(true,`${api} · ${d.latency_ms}ms${d.mode==="models"?" · "+d.n_models+" 模型":""}`);
+    }else{
+      connOK=false;hideModelPicker();
+      setLamp("red","连接失败","ERR","err");
+      pipeState({done:0,err:1});
+      msg.className="msg err";msg.textContent="检测连接不通："+(d.error||"未知错误");
+      logLine(false,(d.error||"").slice(0,70));
+    }
+  }catch(e){connOK=false;
+    setLamp("red","连接失败","ERR","err");
+    pipeState({done:0,err:1});
+    msg.className="msg err";msg.textContent="本地服务异常："+e.message;}
+  finally{$("btnTest").disabled=false;$("btnTest").textContent="检测联通并获取模型列表";}
+}
+$("btnTest").onclick=doTest;
+
+/* ---------- 模型名称：必填输入框，连接成功后附带自动补全 ---------- */
+function setupModelPicker(d){
+  if(d.mode==="models"&&d.n_models>0){
+    $("modelList").innerHTML=d.models.map(m=>`<option value="${m}">`).join("");
+    $("modelNote").textContent=`（连接成功：已发现 ${d.n_models} 个，输入时可下拉选择）`;
+    msg.className="msg ok";
+    msg.innerHTML=`链路正常，发现 <b>${d.n_models}</b> 个可用模型，输入模型名时有下拉建议。`+
+      (d.latency_ms?`<span class="pv">↳ 延迟 ${d.latency_ms}ms</span>`:"");
+  }else{
+    $("modelNote").textContent="（该端点未提供模型列表，请手填）";
+    msg.className="msg info";
+    msg.innerHTML=`端点鉴权通过（未提供模型列表）。请手填中转站的模型名称后开始监测。`;
+  }
+}
+function hideModelPicker(){
+  $("modelList").innerHTML="";
+  $("modelNote").textContent="（中转站的模型名，调用必填）";
+}
+function getModelId(){return $("modelId").value.trim()}
+
+/* ---------- 开始检测所选模型真实性：双按钮置灰 + 轮询进度驱动流程条 ---------- */
+$("btnMonitor").onclick=async()=>{
+  const model_id=getModelId();
+  if(!model_id){msg.className="msg err";msg.textContent="请先选择或填写模型名。";return}
+  $("btnMonitor").disabled=true;$("btnMonitor").textContent="检测中...";
+  $("btnTest").disabled=true;                          /* 左按钮同步置灰 */
+  $("results").classList.remove("show");msg.className="msg";
+  pipeState({done:1,act:2});
+  probeLabel.textContent=`探针 0/${rounds*perRoundCalls()} · 轮 0/${rounds}`;
+  $("pstream").innerHTML="准备发送探针…";
+  logLine(true,`检测开始 · ${model_id} · 10 探针 × 50 轮`);
+  try{
+    const r=await fetch("/api/monitor",{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({base_url:$("baseUrl").value.trim(),api_key:$("apiKey").value.trim(),
+                           api,model_id,rounds})});
+    const d=await r.json();
+    if(!d.ok){pipeState({done:1,err:2});
+      msg.className="msg err";msg.textContent="检测失败："+d.error;
+      logLine(false,(d.error||"").slice(0,70));return}
+    const final=await pollProgress(d.id);
+    if(!final.ok){pipeState({done:1,err:2});
+      msg.className="msg err";msg.textContent="检测失败："+final.error;
+      logLine(false,(final.error||"").slice(0,70));return}
+    renderResults(final);
+    logLine(true,`判定 ${final.verdict} · ${final.n_replies}/${final.n_sent} 探针`);
+  }catch(e){pipeState({done:1,err:2});
+    msg.className="msg err";msg.textContent="本地服务异常："+e.message;}
+  finally{
+    $("btnMonitor").disabled=false;$("btnMonitor").textContent="开始检测所选模型真实性";
+    $("btnTest").disabled=false;                        /* 恢复左按钮 */
+  }
+};
+
+async function pollProgress(id){
+  /* 轮询进度：流式显示轮次与当前探针（pid+成败），结束返回 result。
+     50 轮 × 10 探针最长约 1 小时，轮询上限 60 分钟。 */
+  const stream=$("pstream");
+  let lastProbe="";
+  for(let i=0;i<4000;i++){                              // 最多 ~60 分钟
+    try{
+      const r=await fetch("/api/progress?id="+id);
+      const p=await r.json();
+      if(p.stage==="probes")pipeState({done:1,act:2});
+      else if(p.stage==="compare")pipeState({done:2,act:3});
+      if(p.stage==="probes"){
+        const rounds=p.rounds||1;
+        const perRound=Math.max(Math.round(p.total/rounds)||1,1);
+        const cur=Math.min(Math.ceil(p.done/perRound),rounds);
+        probeLabel.textContent=`探针 ${p.done}/${p.total} · 轮 ${cur}/${rounds}`;
+        if(p.last_probe&&p.last_probe!==lastProbe){
+          lastProbe=p.last_probe;
+          const [pid,st]=lastProbe.split(":");
+          stream.innerHTML=`<span class="pdim">轮 ${cur}/${rounds}</span> · 探针 ${pid} `+
+            (st==="ok"?'<span class="pok">✓ 完成</span>':'<span class="pfail">✗ 失败/超时</span>');
+        }
+      }else if(p.stage==="compare"){
+        probeLabel.textContent="探针完成";
+        stream.innerHTML='<span class="pdim">全部探针完成</span> · 比对档案库中…';
+      }
+      if(p.status==="done"||p.status==="error"){
+        if(p.result)return p.result;
+      }
+    }catch(e){/* 单次轮询失败忽略 */}
+    await new Promise(res=>setTimeout(res,900));
+  }
+  return {ok:false,error:"等待超时（60 分钟）"};
+}
+
+function renderResults(d){
+  $("results").classList.add("show");
+  pipeState({done:4});                                  /* 全流程完成 */
+  const warn=d.low_similarity||!d.agree||d.verdict_scope==="vendor";
+  $("verdict").className="verdict"+(warn?" warn":"");
+  $("vModel").textContent=d.verdict||d.similarity_winner||"--";
+  let sub=`${d.rounds||1} 轮 × 10 探针，有效 ${d.n_replies}/${d.n_sent} 条 · 相似度最高 ${d.similarity_winner||"-"} · 投票 ${d.vote_winner||"-"}（`+
+    Object.entries(d.votes).map(([k,v])=>`${k}:${v}`).join(" · ")+`）`;
+  if(d.verdict_scope==="vendor")sub+=` · ⚠ 同厂相邻版本文风统计不可区分，判定到厂商级`;
+  if(d.low_similarity)sub+=` · ⚠ 最高相似度偏低，可能不在已校准模型库中`;
+  else if(!d.agree)sub+=` · ⚠ 相似度冠军与投票冠军不一致，结果仅供参考`;
+  $("vSub").textContent=sub;
+  const top=d.models[0];
+  $("simBars").innerHTML=d.models.map((m,i)=>{
+    const pct=m.similarity==null?"--":m.similarity.toFixed(1);
+    const w=m.similarity==null?0:Math.min(m.similarity,100);
+    return `<div class="sim-row${i===0&&m.similarity!=null?' top':''}">
+      <div class="sim-name">${m.name}</div>
+      <div class="sim-bar"><div class="sim-fill" style="width:0%"></div></div>
+      <div class="sim-val">${pct}%</div>
+      <div class="sim-votes">${m.votes}票</div></div>`;
+  }).join("");
+  requestAnimationFrame(()=>{ // 条形动画
+    document.querySelectorAll("#simBars .sim-row").forEach((row,i)=>{
+      const m=d.models[i];
+      if(m.similarity!=null)row.querySelector(".sim-fill").style.width=Math.min(m.similarity,100)+"%";
+    });
+  });
+  const chips=Object.entries(d.identity||{}).slice(0,6)
+    .map(([k,v])=>`<span class="chip">${k} ×${v}</span>`).join("");
+  $("idChips").innerHTML=chips?`<span class="chip" style="border-color:rgba(139,147,157,.3);color:var(--dim)">自我认知信号</span>`+chips:"";
+  const names=d.models.map(m=>m.name);
+  $("probeDetails").style.display="block";
+  $("ptable").innerHTML=`<tr><th>探针</th>${names.map(n=>`<th>${n}</th>`).join("")}</tr>`+
+    d.per_probe.map(pr=>{
+      const best=names.reduce((a,b)=>((pr.sims[a]??-1)>=(pr.sims[b]??-1)?a:b),names[0]);
+      return `<tr><td>${pr.pid}</td>${names.map(n=>
+        `<td class="${n===best&&pr.sims[n]?'best':''}">${pr.sims[n]!=null?pr.sims[n].toFixed(1):"--"}</td>`).join("")}</tr>`;
+    }).join("");
+  $("probeDetails").open=false;
+}
+
+/* 纯手动模式：不做任何自动检测，一切由用户点击触发 */
+</script>
+</body>
+</html>

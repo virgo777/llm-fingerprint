@@ -1,0 +1,67 @@
+The user is asking me to explain daily water drinking precautions/considerations using three points. This is in Chinese, so I should respond in Chinese.
+
+Let me think about the most important daily water drinking tips:
+
+1. Don't wait until you're thirsty to drink water (不要等口渴才喝水) - By the time you feel thirsty, your body is already mildly dehydrated. It's better to drink water regularly throughout the day.
+
+2. Drink water in small amounts multiple times, not large amounts at once (少量多次饮水) - Drinking too much water at once can burden the kidneys and dilute electrolytes. Small sips throughout the day are better.
+
+3. Drink warm/temperature-appropriate water, avoid very cold or very hot water (水温适宜) - Very cold water can irritate the digestive system, and very hot water can damage the esophagus.
+
+4. Don't drink too much water before bed (睡前不宜大量饮水) - This can cause frequent nighttime urination and affect sleep quality, and may cause facial swelling.
+
+5. Drink a glass of water after waking up in the morning (晨起喝一杯水) - This helps rehydrate after a night's sleep and promotes metabolism/bowel movement.
+
+6. Don't replace water with beverages (不能用饮料代替白开水) - Sugary drinks, coffee, etc. shouldn't replace plain water.
+
+7. Avoid drinking large amounts of water during/right after meals (饭前饭后不宜大量饮水) - Can dilute digestive juices.
+
+8. After intense exercise, don't drink ice water quickly (剧烈运动后不要立即喝冰水)
+
+The user wants exactly three points. Let me pick the three most important and practical ones:
+
+1. 主动喝水，不要等口渴才喝 - thirst is a sign of mild dehydration
+2. 少量多次，每次适量（约200毫升左右），不要一次性牛饮 - avoid burdening kidneys
+3. 水温适宜，以温开水为佳；避免用饮料代替白开水 - or I could combine morning water and bedtime considerations
+
+Let me structure this nicely:
+
+**1. 不要等口渴才喝水**
+口渴是身体已经缺水的信号。建议全天分散饮水，成年人每天约1500-1700毫升（约7-8杯），少量多次地主动补充水分。
+
+**2. 少量多次，避免一次性大量饮水**
+一次喝太多（如一口气喝下几百毫升）会加重心脏和肾脏负担，还可能稀释体内电解质。每次喝100-200毫升，小口慢饮为宜。
+
+**3. 注意水温与饮水时间**
+- 水温以温开水（20-40℃左右）为宜，避免长期饮用冰水或过烫的水（超过65℃的热饮可能损伤食道）。
+- 晨起空腹喝一杯温水有助唤醒肠胃；睡前则不宜大量饮水，以免影响睡眠和加重肾脏负担。
+- 另外，白开水是最佳选择，尽量不用含糖饮料代替。
+
+Hmm, point 3 might be doing too much. Let me consider reorganizing:
+
+Option A:
+1. 主动规律饮水，不要等口渴才喝
+2. 少量多次，避免暴饮
+3. 讲究水温，以温白开水为宜（不用饮料代替）
+
+Option B:
+1. 每天保证充足的饮水量（1500-1700ml），主动喝水
+2. 少量多次饮水，避免一次大量
+3. 特殊时间点的注意事项（晨起一杯水、睡前少喝、运动后不猛灌冰水）
+
+I think a good format would be three clear points with brief explanations. Since this is a "三点" (three points) request, I should use a numbered list format. Each point should have a clear heading and a brief explanation.
+
+Let me finalize:
+
+**1. 主动喝水，不要等口渴才喝**
+感到口渴时，身体其实已经处于轻微缺水状态。应全天规律、主动地补水，成年人每日约1500~1700毫升（7~8杯），天气炎热或运动量大时需相应增加。
+
+**2. 少量多次，切忌一次猛灌**
+一次性大量饮水会加重心脏和肾脏负担，甚至引起"水中毒"（低钠血症）。建议每次喝100~200毫升，小口慢饮，分多次完成。
+
+**3. 水温适宜，首选白开水**
+水温以温热（20~40℃）为佳，避免长期喝冰水，也不要饮用超过65℃的烫水，以免刺激肠胃或损伤食道黏膜。日常应以白开水为主要水源，尽量少用含糖饮料代替。
+
+This is good. I might add a small note about timing (morning/bedtime) but that would be a fourth point. Maybe I can briefly weave it in or leave it out to strictly follow the three-point structure. I'll keep it to three points as requested, perhaps with a one-line closing tip if appropriate. Actually, keeping it clean with exactly three points is best since the user explicitly asked for three points.
+
+Format: Use a numbered list with bold headers and brief explanations. Not too long. Chinese response.

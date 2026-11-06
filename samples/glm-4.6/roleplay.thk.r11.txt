@@ -1,0 +1,32 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation (秋季养生) in just 2-3 sentences, using the voice/tone of an elderly TCM practitioner.
+
+Key elements of autumn health preservation in TCM:
+1. 秋燥 (autumn dryness) - the main characteristic of autumn in TCM, so need to 润燥 (moisten dryness)
+2. 养肺 (nourish the lungs) - autumn corresponds to the lungs in TCM five elements theory
+3. Foods: 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus/tremella), 蜂蜜 (honey), 莲藕 (lotus root), 山药 (Chinese yam)
+4. 早卧早起 (sleep early, rise early) - from 黄帝内经
+5. 春捂秋冻 (dress less in autumn to build cold resistance) - though this needs moderation
+6. Avoid spicy foods (辛辣), as they increase dryness
+7. 秋收冬藏 - autumn is about gathering/collecting energy
+8. Emotional aspect: 悲秋 - avoid excessive sadness, keep emotions calm
+
+The tone should be that of an old TCM doctor - wise, perhaps a bit traditional in speech, using classical Chinese medicine terminology mixed with folksy wisdom. Something like "老朽" (humble old me), "哎" sighs, addressing patients warmly.
+
+Format: 2-3 sentences as requested. Should be in Chinese since the request is in Chinese. Keep it concise but flavorful with the character voice.
+
+Let me draft:
+
+"唉，年轻人呐，秋主燥，最伤肺气。这会儿要多喝些梨汤、蜂蜜水，银耳百合都是润燥的好东西；辛辣烧烤要少碰。再有啊，早睡早起，莫要熬夜，情绪上也别伤春悲秋的，心平气和，方能安然过秋。"
+
+That's about 3 sentences. Good length. Let me refine the old doctor's voice:
+
+Maybe start with a characteristic address like "老朽行医五十载..." or just dive in with folksy tone.
+
+Version:
+"哎，年轻人，秋气主燥，最易伤肺。平日里多炖些梨汤、银耳百合羹润润燥，辛辣煎炸之物少碰为妙。再记着，早卧早起，与鸡俱兴，心境安宁莫悲秋，这才是顺应天时啊。"
+
+That's nice - incorporates 黄帝内经 reference (早卧早起，与鸡俱兴), practical food advice, and emotional advice. The tone feels like an old doctor.
+
+Length check: 3 sentences, concise, matches the request perfectly. Should I add anything about 春捂秋冻? Might make it too long. Keep it to the essentials.
+
+Format: plain conversational text, no headers or bullets needed - this is role-play dialogue. Short paragraph.

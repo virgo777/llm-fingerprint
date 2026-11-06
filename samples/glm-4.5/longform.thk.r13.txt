@@ -1,0 +1,42 @@
+The user is asking about "四诊合参" (Four Diagnostic Methods Combined Assessment) in Traditional Chinese Medicine (TCM). They want a detailed introduction of about 400 characters (Chinese characters).
+
+Let me think about what I know about this topic:
+
+四诊合参 refers to the comprehensive analysis of the four diagnostic methods in TCM:
+1. 望诊  - Inspection/Observation: observing the patient's spirit (神), color/complexion (色), form (形态), tongue (舌象), etc.
+2. 闻诊  - Listening and Smelling: listening to the patient's voice, breathing, coughing, and smelling odors
+3. 问诊  - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切诊  - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+The concept of 四诊合参 emphasizes that these four methods should be used together comprehensively, not in isolation. The doctor must integrate all the information gathered from these four methods to make an accurate diagnosis (辨证 - syndrome differentiation).
+
+Key points to include:
+- Definition of 四诊合参
+- Brief description of each of the four diagnostic methods
+- The importance of combining them (why they can't be used alone)
+- Historical/theoretical basis (from 《黄帝内经》, 《难经》, etc.)
+- The purpose: to accurately identify the syndrome/pattern (证) for treatment
+
+The four diagnostic methods were systematized by 扁鹊 historically attributed, and formally organized in texts like 《难经》which says "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧" (referring to the four methods).
+
+The famous saying: "四诊合参" means doctors should not rely on just one method. 《素问》says "切脉动静而视精明，察五色，观五脏有余不足...参伍以决死生" emphasizing combination.
+
+Zhang Zhongjing in 《伤寒论》also emphasized comprehensive diagnosis.
+
+The user wants about 400 Chinese characters. Let me draft this:
+
+四诊合参是中医诊断学的基本原则，指望、闻、问、切四种诊法互相配合、综合分析，以全面准确地判断病情。
+
+一、望诊：医生运用视觉观察患者的神、色、形、态及舌象等，如望神可知精气盛衰，望舌可察脏腑病变。
+
+二、闻诊：包括听声音和嗅气味，如听呼吸、语言、咳嗽的声音变化，嗅口气、体气有无异常。
+
+三、问诊：通过询问了解起病经过、症状特点、既往病史、生活习惯等，是了解病情的重要途径。
+
+四、切诊：包括脉诊和按诊。脉诊通过触按脉搏了解气血运行与脏腑功能；按诊触按肌肤、脘腹等部位以探查病变。
+
+四诊合参的意义在于：四诊各有侧重，所获信息可互相补充、印证。若仅凭单一诊法，容易遗漏病情或误判。如脉症不符时，须结合整体表现判断真假（舍脉从症或舍症从脉）。只有将四诊所得资料综合归纳，运用八纲辨证等方法分析，才能准确辨证，为论治提供依据。这体现了中医整体观念和辨证论治的鲜明特色。
+
+Let me count roughly - this is about 400 characters. Good.
+
+Format considerations: The user asked for ~400 characters, detailed introduction. Using headers or numbered structure would help readability. Since it's a fairly short response in Chinese, I'll use a clear structure with the four methods listed. Markdown formatting with bold or numbered items would be appropriate. The response should be in Chinese since the question is in Chinese.

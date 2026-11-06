@@ -1,0 +1,55 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. 冷笑话 is a Chinese term for a "cold joke" - basically a pun or a joke that's so bad it makes people groan, similar to a "dad joke" in English. Programmer jokes are a classic genre.
+
+Let me think of some good programmer jokes in Chinese:
+
+1. Classic ones:
+- 程序员为什么喜欢黑暗模式？因为光会吸引bug（bug也可以指虫子/飞蛾）
+- 为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+- 程序员最讨厌的地方：bug（虫）多的地方
+- 一个程序员去面试，面试官问他：你有什么优点？他说：我写的代码没有bug。面试官：那缺点呢？他说：吹牛。
+
+2. Classic English ones translated:
+- 世界上有10种人：懂二进制的和不懂二进制的。
+- 程序员的妻子让他去超市："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。妻子问为什么只买一个包子？程序员说："因为我看到卖西瓜的了。"（这是一个很经典的关于程序员思维过于字面化理解条件的笑话）
+
+3. More:
+- 程序员相亲，女方问：你有房吗？程序员说：有，内存条插满了，房间（内存）很大。
+- 两个程序员去吃饭，服务员问要几碗饭，一个说一碗，另一个说我也是一碗，然后他们开始争论 undefined behavior...
+
+Let me pick the best ones. The wife/supermarket joke is a classic and very "cold joke" style:
+
+程序员的老婆跟他说："下班顺便买十个包子，如果看到卖西瓜的，就买一个。"
+程序员回到家，手里拿着一个包子。
+老婆怒问："你怎么就买了一个包子？！"
+程序员委屈地说："因为我看到卖西瓜的了啊。"
+
+This is a great one because it plays on the programmer's literal interpretation of conditional logic - "if X then buy one" where "one" applies to the包子 (buns) not the watermelon. It's genuinely funny and classic.
+
+Another good one:
+为什么程序员总是分不清万圣节和圣诞节？
+因为 Oct 31 == Dec 25
+(Oct 31 = 八进制31 = 3×8+1 = 25 = Dec 25 十进制25)
+
+The "10 types of people" joke:
+世界上有10种人，一种懂二进制，一种不懂。
+
+I think the wife/supermarket one is the best for a 冷笑话 request because:
+1. It's genuinely cold-joke style
+2. It has a punchline structure
+3. It's about literal logic interpretation
+
+I could tell one joke and maybe offer another. Let me structure it nicely. Since it's a casual, fun request, I should keep it light and conversational. Format: probably just tell the joke with some setup, maybe offer to tell more. Not too long.
+
+Let me write it:
+
+程序员老婆给他打电话："下班路上买十个包子，如果看到卖西瓜的，就买一个。"
+
+程序员回到家，手里拎着一个包子。
+
+老婆生气地问："怎么就买了一个包子？！"
+
+程序员一脸无辜："因为我看到卖西瓜的了啊。"
+
+Then maybe add a bonus joke or offer more. I think adding one short bonus is nice. Or just ask if they want another. Let me keep it concise - tell the main joke well, maybe add a brief bonus.
+
+Actually for format: this is a casual conversational request. A short response with the joke is perfect. Maybe I can add a little emoji or a follow-up line offering more jokes. Keep it fun and light.

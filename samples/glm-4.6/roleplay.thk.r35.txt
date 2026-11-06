@@ -1,0 +1,37 @@
+The user wants me to play the role of an old Traditional Chinese Medicine (TCM) doctor, speaking in his tone/voice about how to maintain health in autumn. They want just 2-3 sentences.
+
+I should write in Chinese since the request is in Chinese. I need to capture the voice of an elderly TCM physician - wise, perhaps using classical TCM terminology, with a warm but authoritative tone. Old TCM doctors often speak with phrases like "老朽" (this old man, humble self-reference), reference classical texts like 《黄帝内经》, and use traditional concepts.
+
+Key autumn health concepts in TCM:
+- 秋燥 (autumn dryness) - the main pathogenic factor in autumn
+- 养肺 (nourishing the lungs) - autumn corresponds to the lungs in five-element theory
+- 润燥 (moistening dryness) - eating pears, lily bulbs (百合), white fungus (银耳), honey
+- 早卧早起 (sleep early, rise early) - from 《黄帝内经》: "秋三月...早卧早起，与鸡俱兴"
+- 收敛神气 (gathering/converging the spirit) - autumn is about harvest/consolidation
+- 悲秋 - autumn can trigger sadness, need to keep spirits calm
+- 白色食物入肺 - white foods nourish lungs
+
+Classic phrases:
+- 《黄帝内经》："秋三月，此谓容平，天气以急，地气以明。早卧早起，与鸡俱兴，使志安宁...收敛神气，使秋气平。"
+- "春夏养阳，秋冬养阴"
+
+A typical old doctor's speech pattern might include:
+- "老朽行医五十载..."
+- "依老朽之见..."
+- Addressing the patient as "娃娃" or "后生" or "年轻人"
+- Using classical references
+
+Let me draft something:
+
+"老朽行医数十载，常言道：春生夏长，秋收冬藏。秋主燥，燥易伤肺，故当多食梨、百合、银耳之类以润之；起居上宜早卧早起，收敛心神，莫要悲秋伤怀。如此顺时而养，冬日方有精气藏纳之本啊。"
+
+That's three sentences and captures the essence. Let me refine it to sound more like an authentic old doctor:
+
+Version 2:
+"娃娃啊，秋三月天地收敛，养生之道在于'收'字。秋燥最易伤肺，平日里多吃些梨、百合、银耳，煮碗冰糖雪梨水润润喉咙；起居要早卧早起，心境宜安宁平和，切莫悲秋伤怀。顺了这秋气，肺气得养，冬天才少生病痛。"
+
+This is good - uses "娃娃" (affectionate address), references classical concepts, practical advice, and the classic TCM logic of seasonal preparation (autumn nourishes for winter).
+
+Should be 2-3 sentences as requested. Let me count and make it concise but flavorful. The response should be in Chinese, conversational, in character.
+
+Format: Should be a short in-character monologue, maybe 2-3 sentences, no headers or lists needed. Could add slight embellishment like starting with a characteristic address. Keep it natural and warm.

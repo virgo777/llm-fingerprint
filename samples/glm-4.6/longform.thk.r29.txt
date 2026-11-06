@@ -1,0 +1,58 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM) is, in about 400 characters (Chinese characters).
+
+Let me think about this topic:
+
+四诊合参 refers to the comprehensive use of four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation - observing the patient's complexion, body shape, tongue, spirit (神), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to the patient's voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry - asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse and palpating the body
+
+The concept of "合参" means combining all four methods together for comprehensive analysis, rather than relying on just one method. This is a fundamental principle in TCM diagnosis.
+
+The four diagnostic methods originated from classic texts like 《黄帝内经》 and were systematized by 扁鹊. The famous saying from 《难经》 mentions "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧" (One who knows by inspection is called divine; one who knows by listening is called sage; one who knows by inquiry is called skilled; one who knows by pulse-taking is called clever).
+
+Key points to cover:
+1. Definition of 四诊 - the four methods
+2. Brief description of each method
+3. Why they must be combined (合参) - each has limitations, disease is complex
+4. The significance - 辨证论治 basis, avoiding misdiagnosis
+5. Historical origin
+
+The user wants about 400 Chinese characters. Let me draft this:
+
+四诊合参是中医诊断学的基本原则，指将望、闻、问、切四种诊法所收集的临床资料进行综合分析、相互参照，从而全面准确地判断疾病的本质。
+
+四诊的内容：
+- 望诊：观察患者的神、色、形、态及舌象等，如望神可知精气盛衰，望舌可判别脏腑虚实。
+- 闻诊：包括听声音（语声、呼吸、咳嗽等）和嗅气味。
+- 问诊：询问患者的症状、病史、饮食起居等，是了解病情的重要途径。
+- 切诊：包括脉诊和按诊，通过触按脉搏及肌肤、脘腹等获取信息。
+
+为什么需要合参：疾病的表现复杂多样，单一诊法所获信息有限，且可能有假象。只有四诊并用、互相印证，才能避免片面性，做到"四诊合参，不可偏废"。
+
+意义：四诊合参是中医辨证论治的基础，体现了整体观念，强调从整体上把握患者的病情，为正确辨证、立法、处方提供依据。
+
+历史渊源：四诊由《黄帝内经》奠定基础，后世医家不断完善。历代名医强调"四诊合参，庶乎可保万全"。
+
+Let me structure the response well with headers or a flowing format. Given it's about 400 characters, I should be concise but comprehensive. I could use a structured format with brief sections.
+
+Format considerations: The user asks for ~400 characters of detail. A structured response with brief sections (定义、四诊内容、合参的意义) would be clear and readable. Using markdown headers or bold for the four methods would help. Since they want around 400 characters, I shouldn't make it too long - maybe 400-500 characters is acceptable. Let me aim for that range.
+
+Let me count and refine:
+
+"四诊合参"是中医诊断疾病的基本原则和方法学核心，指医生运用望、闻、问、切四种诊法收集病情资料，并将所得信息综合分析、相互参照，以全面把握疾病本质。
+
+**四诊内容：**
+- **望诊**：观察患者的神、色、形、态与舌象。中医认为"望而知之谓之神"，望神可判断精气盛衰，舌诊可反映脏腑病变。
+- **闻诊**：听患者的声音、呼吸、咳嗽，嗅其口气、体味等异常气味。
+- **问诊**：询问起病经过、症状特点、既往史及饮食起居，是获取病情细节的主要途径。
+- **切诊**：包括脉诊与按诊，通过触摸脉象、肌肤、脘腹等探察内在变化。
+
+**为何要"合参"：**
+疾病表现复杂，单靠某一诊法易致片面，甚至被假象误导。如见脉沉细者未必虚，需结合面色、症状等综合判断。故历代医家强调"四诊合参，不可偏废"。
+
+**意义：**
+四诊合参体现了中医整体观念，是辨证论治的前提，确保诊断的准确性与治疗的针对性。四诊之法肇始于《黄帝内经》，经扁鹊、张仲景等历代医家发展完善，至今仍是中医临床诊断的基石。
+
+That's roughly 400-450 characters, which fits the requirement well. Let me finalize.

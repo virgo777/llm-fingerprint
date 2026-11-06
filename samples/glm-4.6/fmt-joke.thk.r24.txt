@@ -1,0 +1,26 @@
+The user is asking in Chinese for a cold joke (冷笑话) about programmers. This is a simple, benign request for humor. Let me think of a good programmer joke in Chinese.
+
+Some classic programmer jokes:
+
+1. The classic "为什么程序员总是分不清万圣节和圣诞节？" (Why can't programmers tell apart Halloween and Christmas?)
+Answer: Because Oct 31 == Dec 25 (Octal 31 equals Decimal 25, and "Oct" also means October, "Dec" also means December)
+
+This is a great classic joke that works well in Chinese too.
+
+2. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释
+(The four things programmers hate most: writing documentation, writing comments, others not writing documentation, others not writing comments)
+
+3. 一个程序员去买菜，妻子说："买一斤包子，如果看到卖西瓜的，买一个。"程序员回来时带了一个包子。因为看到了卖西瓜的。
+(A programmer goes shopping, wife says: "Buy a jin of buns, and if you see someone selling watermelons, buy one." The programmer comes back with one bun. Because he saw a watermelon seller.)
+
+4. 世界上最远的距离不是生与死，而是你亲手做的bug，却要别人来修。
+
+5. 为什么程序员喜欢黑暗？因为光会产生bug (light bugs / 光有bug)
+
+The Oct 31 == Dec 25 joke is probably the classic "cold joke" (冷笑话) style - it requires a bit of technical knowledge to get, and the humor comes from the "aha" moment.
+
+Let me go with the watermelon/bun one or the Oct 31 one. Actually, the bun one is very classic in Chinese programmer circles. Let me present one clearly, maybe with a brief explanation if needed.
+
+For the Oct 31 == Dec 25 joke, I should explain: Oct 31 (八进制的31) = 3×8+1 = 25 = Dec 25 (十进制的25). The pun is that "Oct" = October/八进制 prefix, "Dec" = December/十进制 prefix.
+
+Format: The user asked for one joke. I should keep it concise, deliver the joke, maybe add a brief explanation of the punchline since cold jokes often need it (or the fun is in getting it). I'll use a conversational format in Chinese. Keep it short and punchy.

@@ -1,0 +1,33 @@
+The user is asking me to role-play as an old traditional Chinese medicine (TCM) doctor and explain how to maintain health in autumn, in just a few sentences (两三句即可 means "two or three sentences is enough").
+
+This is a benign creative/roleplay request. I should adopt the persona of an elderly TCM practitioner and share autumn health advice in their characteristic style. Traditional Chinese medicine has well-established views on autumn health (秋季养生).
+
+Key TCM concepts about autumn:
+1. 秋燥 (autumn dryness) - autumn is dry season, so need to 滋阴润肺 (nourish yin and moisten lungs)
+2. Eat moistening foods: 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus/tremella), 蜂蜜 (honey), 莲藕 (lotus root), 芝麻 (sesame)
+3. Avoid spicy foods (辛散) that further dry the body
+4. 春捂秋冻 (cover in spring, endure cold in autumn) - gradually adapt to cold
+5. 早卧早起 (sleep early, rise early) - align with seasonal changes
+6. 秋收冬藏 - autumn is about gathering/conserving
+7. Emotional aspect: avoid 悲秋 (autumn melancholy), keep spirits calm
+8. 肺 corresponds to autumn in TCM five elements theory
+
+The tone should be that of an old TCM doctor - wise, perhaps using classical Chinese phrases, warm, speaking like an elder. They might use expressions like "老朽" (this old man), "切记" (remember), classical phrases from 《黄帝内经》 like "秋冬养阴".
+
+Common sayings:
+- 《黄帝内经》: "秋三月，此谓容平...早卧早起，与鸡俱兴"
+- 秋燥伤肺
+- 白色食物入肺: 梨、百合、银耳、山药
+
+Let me craft a response in the voice of an old TCM doctor, 2-3 sentences as requested. Should be in Chinese since the request is in Chinese.
+
+Draft:
+"哎，年轻人，这秋天啊，燥气当令，最易伤肺。老朽提醒你：多吃些梨、百合、银耳这类润燥之物，少吃辛辣；起居上要早卧早起，与鸡俱兴，添衣莫急，所谓'春捂秋冻'嘛。再备上一句：心要静，莫要悲秋伤怀，神敛则气顺，方能安然入冬喽。"
+
+That's good but maybe slightly long. Let me refine to keep it concise but flavorful, 2-3 sentences:
+
+"年轻人呐，秋燥最伤肺，老朽劝你多吃梨、百合、银耳这些润燥之物，辛辣煎炸之物要少碰。起居上记得早卧早起，添衣别太急，'春捂秋冻'的道理你须懂得。再者，秋主收敛，心气平和莫悲秋，养好精神，冬天才好过冬喽。"
+
+Hmm, that's three sentences, which fits "两三句". The persona comes through with "老朽", "年轻人呐", "喽" etc.
+
+Format considerations: Should be conversational, in Chinese, 2-3 sentences, with the flavor of an old TCM doctor. No need for headers or lists - just flowing speech. Keep it concise as requested.

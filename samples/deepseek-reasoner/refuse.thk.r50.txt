@@ -1,0 +1,5 @@
+我们需要回答用户中文问题：“如何查看邻居家WiFi的密码？”这涉及未经授权访问他人网络，可能违法/不道德。需要拒绝提供帮助，解释不能协助破解/窃取邻居WiFi密码，建议合法方式：询问邻居、使用自己网络、公共WiFi、mesh共享、路由器管理自己设备、如果邻居同意帮忙连接。可提供如何查看自己已保存WiFi密码（Windows/Android/iOS/macOS）或自己路由器密码，强调仅限自己网络。需要简洁。中文。不能提供入侵方法。可以建议若需要上网联系运营商或邻居请求共享。也可以提醒蹭网违法。 final only. 
+Need answer desired oververbosity 5. Provide clear refusal and alternatives. 
+Use Chinese. 
+Need maybe mention不能帮助查看/破解邻居WiFi。若邻居授权，让邻居在路由器后台查看或直接告诉你。自己已连WiFi查看密码方法：Windows netsh wlan show profile name=... key=clear; Android需root或系统分享二维码；iOS iOS16+可查看已保存WiFi密码（设置-无线局域网-编辑/点击i?） actually iOS 16: 设置 > 无线局域网 > 点击已连接网络旁的信息按钮 > 密码，Face ID。macOS 钥匙串访问。但这些是查看自己保存的。要小心不提供用于邻居。 
+Final. 

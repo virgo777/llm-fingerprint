@@ -1,0 +1,50 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, with no explanation.
+
+Let me write a classical-style Chinese quatrain about autumn night. Traditional forms would be 五言绝句 (5 characters per line) or 七言绝句 (7 characters per line).
+
+Let me craft something evocative of autumn night imagery: moon, frost, falling leaves, geese, cold dew, osmanthus, etc.
+
+Attempt at a 七言绝句:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月秋声里，
+雁字南归入梦长。
+
+Let me check the tones and rhyme:
+- 凉 (liáng), 霜 (shuāng), 长 (cháng) — rhyme in -ang, good. Line 3 doesn't rhyme, which is correct for 绝句 (lines 1, 2, 4 rhyme, or 2 and 4).
+
+Let me refine:
+
+秋夜
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一轮明月照孤影，
+雁过南天入梦长。
+
+Hmm, "雁过南天入梦长" — geese flying south entering long dreams.
+
+Or:
+
+月挂疏桐夜未央，
+西风渐紧露成霜。
+虫声渐寂秋声远，
+一枕清寒梦亦凉。
+
+But 凉 repeats rhyme word... Actually 央, 霜, 凉 all rhyme in -ang. But having 凉 in line 2 (寒 in line 4... wait "梦亦凉" uses 凉). Let me check: line 1 ends 央, line 2 ends 霜, line 4 ends 凉. All different characters, fine. But "露成霜" and "一枕清寒" — good imagery.
+
+Actually let me settle on one clean version:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月秋虫寂，
+雁字横空入梦长。
+
+Check: 凉/霜/长 rhyme. Lines: 
+1. 银汉无声玉露凉 — Milky Way silent, jade dew cold
+2. 梧桐叶落满庭霜 — wutong leaves fall, courtyard full of frost
+3. 一帘明月秋虫寂 — bright moon through the curtain, autumn insects silent
+4. 雁字横空入梦长 — geese formation across the sky enters long dreams
+
+That's nice. The user said no explanation, so just output the poem. Maybe a title? A title is fine, it's part of a poem. I could include 秋夜 as title. Keep it minimal — just the poem, no explanation.

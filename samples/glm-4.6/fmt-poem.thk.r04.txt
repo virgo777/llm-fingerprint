@@ -1,0 +1,49 @@
+The user wants a four-line poem (四句诗) about an autumn night (秋夜), with no explanation. This is in Chinese, so I should write a classical Chinese-style poem with four lines.
+
+Let me think about autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 枫 (maple), 霜 (frost), 风 (wind), 虫鸣 (insect sounds), 梧桐 (wutong tree), 寒 (cold), 星 (stars).
+
+A classic structure would be 五言绝句 (five characters per line) or 七言绝句 (seven characters per line). Let me write a 七言 or 五言 poem.
+
+Let me try a 五言绝句:
+
+秋夜凉风起，
+寒露湿桂枝。
+月明人未寐，
+雁字过南池。
+
+Hmm, let me check rhyme: 枝 (zhī) and 池 (chí) rhyme. 起 doesn't need to rhyme (first line). That works reasonably.
+
+Or a 七言绝句:
+
+金风瑟瑟夜微凉，
+桂子飘香月满廊。
+一雁横空声渐远，
+清辉如水浸衣裳。
+
+Rhyme: 凉 (liáng), 廊 (láng), 裳 (cháng/shang) - all in the -ang rhyme. Good.
+
+Let me refine:
+
+秋夜
+
+玉露无声湿桂枝，
+一轮明月照秋池。
+风摇疏影虫声细，
+雁带寒霜入梦迟。
+
+Rhyme: 枝 (zhī), 池 (chí), 迟 (chí) - all -i rhyme (支韵-ish). Lines: 
+1. 玉露无声湿桂枝 - jade dew silently wets the osmanthus branches
+2. 一轮明月照秋池 - a bright moon shines on the autumn pond
+3. 风摇疏影虫声细 - wind sways sparse shadows, insect sounds are faint
+4. 雁带寒霜入梦迟 - geese carry cold frost, dreams come late
+
+That's decent. Let me check tonal patterns loosely (not strictly required, but nice):
+
+玉露无声湿桂枝: 仄仄平平仄仄平 — 玉(仄)露(仄)无(平)声(平)湿(仄,入声)桂(仄)枝(平). Good pattern 仄仄平平仄仄平.
+一轮明月照秋池: 一(仄)轮(平)明(平)月(仄)照(仄)秋(平)池(平) — 仄平平仄仄平平. Should be 平平仄仄仄平平 after 仄仄 start. 一轮明月: 仄平平仄... "轮" is 平, position 2 is 平 which matches 平平仄仄仄平平 needing 平 at position 2. Position 4 should be 仄: 月 is 仄. Good. Position 6 should be 平: 秋 is 平. Good. So 平平仄仄仄平平 with 1st position flexible: 一(仄) acceptable as 一三五不论.
+风摇疏影虫声细: should be 平平仄仄平平仄: 风(平)摇(平)疏(平)影(仄)虫(平)声(平)细(仄). Position 3 should be 仄 but 疏 is 平 — acceptable under 一三五不论. Positions 2,4,6: 摇(平), 影(仄), 声(平). Matches 平仄平. Good.
+雁带寒霜入梦迟: should be 仄仄平平仄仄平: 雁(仄)带(仄)寒(平)霜(平)入(仄)梦(仄)迟(平). Perfect.
+
+So the poem is quite well-formed metrically. 
+
+The user said no explanation, so I should just output the poem, maybe with a title. Keep it minimal. A title like 《秋夜》 is fine and doesn't count as explanation. Actually, to be safe, just give the title and four lines, nothing else.

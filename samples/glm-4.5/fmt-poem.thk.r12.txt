@@ -1,0 +1,40 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜) in Chinese, without explanation. Let me write a classical-style Chinese quatrain about autumn night.
+
+A four-line poem could be a 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain). Let me write a beautiful one about autumn night imagery: moon, dew, autumn wind, leaves, geese, frost, etc.
+
+Let me compose:
+
+月落霜天雁字斜，
+西风吹尽满庭花。
+清辉冷浸疏帘影，
+一枕秋声梦到家。
+
+Hmm, let me check the rhyme: 斜 (xié/xiá), 花 (huā), 家 (jiā) — these rhyme in classical Chinese (麻韵). 
+
+Let me refine:
+
+月落霜天雁字斜，
+西风摇落满庭花。
+清辉冷浸纱帘影，
+一枕秋声到梦涯。
+
+Actually let me keep it simpler and more elegant:
+
+秋夜
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月谁同看，
+雁过南天字几行。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 行 (háng) — all in 阳韵/江阳韵. Good.
+
+Let me check tonal patterns loosely (this doesn't need to be perfect but should flow well):
+- 银汉无声玉露凉 (平仄平平仄仄平)
+- 梧桐叶落满庭霜 (平平仄仄仄平平)
+- 一帘明月谁同看 (仄平平仄平平仄)
+- 雁过南天字几行 (仄仄平平仄仄平)
+
+This reads nicely. The imagery: Milky Way silent, jade dew cool, wutong leaves fall, frost fills the courtyard, moonlight through the curtain, who watches with me, geese flying south in lines.
+
+The user said no explanation, so I should just output the poem. Format: just the four lines, maybe with a title. Keep it clean and minimal.

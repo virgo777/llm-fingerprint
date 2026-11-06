@@ -1,0 +1,19 @@
+The user is asking me to list the Four Great Classical Novels of China (四大名著) with their titles and authors in a table format. This is a simple factual question in Chinese.
+
+The Four Great Classical Novels of Chinese literature are:
+1. 《三国演义》 by 罗贯中
+2. 《水浒传》 by 施耐庵
+3. 《西游记》 by 吴承恩
+4. 《红楼梦》 by 曹雪芹
+
+I should respond in Chinese since the question is in Chinese, and use a table format as requested.
+
+Some additional details I could include:
+- Romance of the Three Kingdoms (三国演义) - attributed to Luo Guanzhong (罗贯中), Ming Dynasty
+- Water Margin (水浒传) - attributed to Shi Nai'an (施耐庵), Ming Dynasty
+- Journey to the West (西游记) - attributed to Wu Cheng'en (吴承恩), Ming Dynasty
+- Dream of the Red Chamber (红楼梦) - attributed to Cao Xueqin (曹雪芹), Qing Dynasty
+
+I could add the dynasty information as it's helpful context. The table should be clean and simple. Let me create a markdown table.
+
+Format: The user explicitly asked for a table, so I'll use a markdown table. I should keep it concise but could add dynasty information which is standard and useful context. I shouldn't add too much extra text - a brief intro and maybe a small note is fine.

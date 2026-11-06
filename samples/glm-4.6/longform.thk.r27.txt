@@ -1,0 +1,37 @@
+The user is asking me to explain "四诊合参" (the Four Diagnostic Methods Combined) in Traditional Chinese Medicine, requesting about 400 characters in Chinese.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Looking - observing the patient's complexion, tongue, body shape, spirit, etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry/Asking - asking about symptoms, medical history, lifestyle
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse and palpating the body
+
+四诊合参 means combining all four methods to form a comprehensive diagnosis, rather than relying on just one method. This concept comes from classic TCM texts like 《黄帝内经》 and was emphasized in 《难经》: "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧" (Looking and knowing is called divine; listening and knowing is called sage; asking and knowing is called skillful; pulse-taking and knowing is called clever).
+
+Key points to cover:
+- Definition of 四诊: 望、闻、问、切
+- What each diagnostic method involves
+- Why they must be combined (合参) - each has limitations, symptoms can be misleading, need comprehensive analysis
+- The philosophical basis - holistic view, dialectical analysis (辨证论治)
+- Clinical significance
+
+The user wants about 400 characters (字), so I should aim for approximately that length in Chinese. Let me structure this well:
+
+1. Opening definition
+2. Explanation of each of the four methods
+3. Why combining them matters
+4. Conclusion about its significance
+
+Let me draft this:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者的病情资料，并综合分析、相互参照，从而作出正确判断的过程。
+
+望诊，即观察患者的神、色、形、态及舌象等，"望而知之谓之神"，通过外在表现推断内脏病变。闻诊包括听声音（语音、呼吸、咳嗽等）和嗅气味，以判断病情的寒热虚实。问诊是询问患者的自觉症状、发病经过、既往病史、生活习惯等，是了解病情的重要途径。切诊包括脉诊和按诊，医生通过触摸脉搏的搏动及按压肌肤、脘腹等部位，探知脏腑气血的变化。
+
+四诊各有侧重，也各有局限。若单凭一诊，容易以偏概全，导致误诊。例如脉象与症状不符时，须结合其他诊法辨明真假。故临证时必须四诊并用、彼此印证，去伪存真，全面把握疾病的本质。
+
+四诊合参体现了中医整体观念和辨证论治的思想，是中医认识疾病、确立治则的重要前提，至今仍指导着临床实践。
+
+Let me count roughly - this is around 400 characters. Good.
+
+Format considerations: The user asked for a detailed introduction of about 400 characters. I could use paragraphs or structured format. Given it's an explanatory piece about a TCM concept, flowing paragraphs with clear structure would work well. I could also use headers or bold for the four methods, but since they want ~400 characters as what seems like an essay-style answer, paragraphs seem appropriate. Maybe slight formatting to make the four methods clear. I'll write it as coherent prose in paragraphs, which matches the "400字左右" request (this phrasing suggests they may want it for study/writing purposes).

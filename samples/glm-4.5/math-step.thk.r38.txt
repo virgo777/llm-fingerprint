@@ -1,0 +1,12 @@
+The user asks to calculate 17×23+45÷9 with complete steps.
+
+Following order of operations (PEMDAS):
+1. Multiplication first: 17 × 23 = 391
+2. Division: 45 ÷ 9 = 5
+3. Addition: 391 + 5 = 396
+
+Let me verify: 17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391. Correct.
+45 ÷ 9 = 5. Correct.
+391 + 5 = 396.
+
+The answer is 396.

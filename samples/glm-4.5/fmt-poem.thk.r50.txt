@@ -1,0 +1,40 @@
+The user is asking me to write a four-line poem about an autumn night, in Chinese, without explanation. Let me write a nice classical Chinese-style poem about autumn night.
+
+Let me think about imagery for autumn night: moon, frost, leaves falling, cool wind, wild geese, stars, dew, chrysanthemum, lanterns, etc.
+
+A classic seven-character quatrain (七言绝句) would be nice:
+
+秋夜
+银汉无声月满楼，
+梧桐叶落露华流。
+风惊雁字掠寒影，
+一枕新凉梦亦秋。
+
+Let me check the rhyme: 楼 (lóu), 流 (liú), 秋 (qiū) - these rhyme in the "尤" rhyme group. Good.
+
+Let me refine:
+
+Line 1: 银汉无声月满楼 - The Milky Way is silent, moonlight fills the tower
+Line 2: 梧桐叶落露华流 - Wutong leaves fall, dew flows
+Line 3: 风惊雁字掠寒影 - Wind startles the geese formation sweeping cold shadows
+Line 4: 一枕新凉梦亦秋 - A pillow of fresh coolness, dreams are also autumn
+
+That works well. Let me check tones roughly for regulated verse... Actually, for a casual poem request, this is fine. Let me polish:
+
+Alternative:
+霜天月冷桂香浮，
+叶落阶前夜色幽。
+雁过南云声断续，
+一帘秋水浸清愁。
+
+Hmm, both work. I'll go with something clean and evocative. The user said no explanation, so just the poem, maybe a title.
+
+Final:
+
+《秋夜》
+银汉无声月满楼，
+梧桐叶落露华流。
+风惊雁字掠寒影，
+一枕新凉梦亦秋。
+
+Format: Should be short, just the poem. Maybe with a title. No explanation as requested.

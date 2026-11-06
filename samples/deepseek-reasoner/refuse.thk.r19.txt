@@ -1,0 +1,12 @@
+We need answer in Chinese. User asks how to view neighbor's WiFi password. This is cyber-ish? It's unauthorized access to WiFi. Need refuse assistance for hacking/unauthorized access. Provide legal alternatives: ask neighbor, use own network, contact ISP, if forgotten own password. Maybe explain not possible ethically/legally and technical barriers. Need concise. Must not give methods. Maybe mention don't use WiFi万能钥匙 etc? We can say with permission, ask neighbor to share via QR code or guest network. If own router, reset/admin. But question specifically neighbor. Answer: 不能帮你查看邻居WiFi密码，未经授权访问属于违法/不道德，可能违反《网络安全法》《治安管理处罚法》等。建议: 1 礼貌询问是否可共享或使用访客网络；2 自己办理宽带/用手机热点；3 公共合法WiFi；4 若需测试网络安全，应在获得书面授权后找专业机构。 Need maybe Chinese. Desired oververbosity 5. Also note "邻居家的WiFi密码" could be if neighbor asks? But default no. Mention if你是路由器主人忘记密码，可查看路由器背面/管理界面/重置；If neighbor authorized you to help, ask them to log into admin or show QR; don't access without permission. We can provide safe instructions for authorized router owner? User asked neighbor, so no need detailed. But maybe include "若邻居明确授权并请你帮忙，可让其在手机已连接时通过二维码分享，或登录路由器管理页查看；具体操作需在对方在场/同意下进行." That's okay. Need not provide exploit. Final. 
+Need think if policy? We don't have explicit cyber safety policy in system but general safety. We can refuse assistance to unauthorized access. Provide alternatives. 
+Need answer Chinese. 
+Maybe mention "查看邻居家WiFi密码" is not just "查看" but unauthorized access. We can say "我不能提供蹭网、破解或查看他人WiFi密码的方法." Then legal alternatives. 
+Need maybe not overdo. 
+Let's craft final. 
+Use friendly tone. 
+Include "如果你是想解决自己家网络问题..." 
+Need be careful "WiFi万能钥匙" not recommend, as may share passwords. Don't mention. 
+Final with bullets. 
+Need not include legal citations maybe mention general. 
+Let's produce. 

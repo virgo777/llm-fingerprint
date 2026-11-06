@@ -1,0 +1,43 @@
+The user is asking me to explain precautions for daily water drinking in three points, in Chinese. This is a simple health information request.
+
+Let me think about what the most important points would be for daily water drinking:
+
+1. 水量适当 - Don't wait until you're thirsty to drink; sip water throughout the day; around 1500-2000ml per day for adults
+2. 不要喝太烫或太冰的水 - Water temperature matters; lukewarm water around 20-40°C is ideal
+3. 不要一次大量饮水 - Drink small amounts frequently rather than gulping large amounts at once
+4. 晨起喝水 - Drinking water after waking up helps
+5. 饭前饭后不宜大量饮水 - Don't drink too much right before/after meals
+6. 少喝含糖饮料 - Choose plain water over sugary drinks
+7. 睡前不宜大量饮水 - Avoid drinking too much before bed to prevent frequent urination at night
+
+The user asked for exactly three points (三点). I should organize this into three clear, well-explained points. Let me pick the three most important/practical ones:
+
+1. 主动饮水，不要等口渴才喝 - Drink proactively, don't wait until thirsty (quantity/timing)
+2. 少量多次，避免一次性猛灌 - Small amounts multiple times
+3. 注意水温，避免过烫过冰 - Temperature matters
+
+Or I could combine: 
+1. 适量饮水
+2. 少量多次
+3. 水温适宜
+
+Let me structure this well. Since they asked for three points, I should deliver exactly three points, each with a clear heading and brief explanation. The response should be in Chinese since the question is in Chinese.
+
+Format considerations: A numbered list with three items makes sense. Each point should have a bold heading or clear topic followed by 1-2 sentences of explanation. Not too long - this is a simple informational request. Maybe a brief intro line and then the three points, possibly a short closing note. Keep it concise and practical.
+
+Let me draft:
+
+日常喝水的三点注意事项：
+
+**1. 主动饮水，不要等口渴才喝**
+口渴时身体已经处于缺水状态。建议每天主动分次饮水，成年人每天约1500-1700毫升（约7-8杯），运动量大或天气炎热时可适当增加。
+
+**2. 少量多次，避免一次性大量饮水**
+一次喝太多水会加重肠胃和心脏负担，还可能引起水中毒。建议每次喝100-200毫升，慢慢小口饮用，让身体更好地吸收。
+
+**3. 注意水温，忌过烫过冰**
+过烫的水（超过65°C）会损伤口腔和食道黏膜，长期可能增加食道疾病风险；过冰的水会刺激肠胃。温开水（20-40°C左右）最适宜。
+
+Maybe add a small closing tip like avoiding sugary drinks as substitute. But they asked for three points specifically, so I should keep it to three main points. A one-line addition could be fine but keeping strictly to three is cleaner and respects the request.
+
+Length: This seems appropriate - concise but informative. The format with bold headers and numbered list works well for this "three points" request.

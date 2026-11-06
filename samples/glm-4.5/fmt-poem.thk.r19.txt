@@ -1,0 +1,64 @@
+The user wants a four-line poem about autumn night (秋夜), with no explanation. Let me write a classical Chinese quatrain (绝句) about autumn night.
+
+I should write a beautiful, evocative four-line poem in Chinese about autumn night. Classical Chinese poetry typically follows certain patterns. Let me craft something with imagery of autumn night: moon, frost, leaves, crickets, dew, etc.
+
+Let me compose:
+
+秋夜
+月落霜天冷雁声，
+梧桐叶上露华清。
+一帘幽梦无人共，
+独对寒灯到五更。
+
+Let me check the imagery:
+- Line 1: Moon setting, frosty sky, cold wild geese cries
+- Line 2: On wutong (parasol tree) leaves, dew is clear
+- Line 3: A curtain of secluded dreams, no one to share
+- Line 4: Alone facing cold lamp until fifth watch (dawn)
+
+That works well. Or I could try another version:
+
+银汉无声玉露凉，
+梧桐疏影落寒窗。
+虫声唧唧秋将老，
+一夜西风满地霜。
+
+- Silver river (Milky Way) silent, jade dew cold
+- Wutong sparse shadows fall on cold window
+- Cricket chirps, autumn growing old
+- One night of west wind, frost covers the ground
+
+Both are good. Let me pick one. I'll go with something elegant. Let me refine:
+
+月冷霜清桂影斜，
+梧桐叶落噪寒鸦。
+西风一夜吹愁绪，
+吹到天涯人忆家。
+
+Hmm, let me think about rhyme. In Chinese quatrains, lines 1, 2, 4 typically rhyme (or 2 and 4 at minimum).
+
+Option:
+银汉迢迢夜气清，
+梧桐叶落满阶生。
+寒蛩不解愁人意，
+声声犹自傍窗鸣。
+
+Rhymes: 清 (qīng), 生 (shēng), 鸣 (míng) - all -ing/-eng rhymes, acceptable.
+
+Let me finalize:
+
+月挂疏桐夜气清，
+寒蛩泣露诉秋声。
+西风不解离人意，
+吹落黄花满旧城。
+
+Rhymes: 清 (qīng), 声 (shēng), 城 (chéng) - works.
+
+- Moon hangs on sparse wutong, night air clear
+- Cold crickets weep with dew, telling autumn's voice
+- West wind doesn't understand the parting person's feelings
+- Blows yellow flowers falling all over the old city
+
+Actually "黄花满旧城" — chrysanthemums blown down. Nice.
+
+The user said no explanation, so I'll just give the poem. Format: probably a title and four lines, or just four lines. Since they said "四句诗" (four-line poem), I'll give four lines. Maybe include a title 《秋夜》. Keep it minimal, no explanation as requested.

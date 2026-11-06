@@ -1,0 +1,44 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/matters needing attention when drinking water daily."
+
+This is a simple informational request about daily hydration habits. The user wants exactly three points about water drinking precautions.
+
+Let me think about what the most important points are for daily water drinking:
+
+1. **Don't wait until you're thirsty to drink** (不要等口渴才喝水) - Thirst is already a sign of mild dehydration. It's better to drink water regularly throughout the day.
+
+2. **Drink appropriate amounts - not too much at once** (适量饮水,少量多次) - Drinking too much water at once can burden the kidneys. The recommended amount is about 1500-2000ml per day for adults, spread throughout the day in small amounts.
+
+3. **Water temperature matters** (水温适宜) - Avoid drinking very cold or very hot water. Warm or room temperature water (around 20-40°C) is best for the body.
+
+Other possible points:
+- Drink water in the morning after waking up
+- Don't drink too much water before bed
+- Drink boiled tap water or safe drinking water
+- Don't substitute beverages for water
+- Drink water before and after exercise
+
+Let me pick the three most important and commonly recommended ones:
+
+1. **少量多次,不要等口渴才喝** (Drink small amounts frequently, don't wait until thirsty)
+2. **水温适宜,避免过冷过热** (Appropriate water temperature, avoid too cold or too hot)
+3. **控制总量与时间** (Control total amount and timing - e.g., not too much before bed, morning water is good)
+
+Or I could structure it as:
+1. 主动饮水,少量多次
+2. 水温适宜
+3. 特殊时间注意事项
+
+Format considerations: The user asked for exactly three points ("用三点"), so I should use a numbered list with three items. Each point should have a clear heading and brief explanation. The response should be in Chinese since the question is in Chinese. It should be concise but informative - not too long. A numbered list format is appropriate here since they explicitly asked for three points.
+
+Let me draft:
+
+**1. 少量多次,主动饮水**
+不要等口渴了才喝水,因为口渴时身体已经处于轻度缺水状态。建议每天分多次饮水,每次100-200毫升左右,全天总量约1500-2000毫升。
+
+**2. 水温适宜,避免过冷过热**
+过烫的水会损伤口腔和食道黏膜,过冷的水则可能刺激肠胃。日常饮水以温开水(20-40℃左右)最为适宜。
+
+**3. 注意饮水时间**
+晨起后喝一杯温水有助于补充夜间流失的水分、促进肠胃蠕动;睡前不宜大量饮水,以免增加肾脏负担和影响睡眠;饭前饭后也不宜大量饮水,以免影响消化。
+
+This covers the key points well. The length is appropriate - informative but not excessive. The format with bold headers and explanations is clear and readable.

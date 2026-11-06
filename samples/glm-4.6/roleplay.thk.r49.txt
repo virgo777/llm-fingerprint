@@ -1,0 +1,35 @@
+The user wants me to play an old Chinese medicine doctor (老中医) and talk about autumn health preservation (秋天养生) in just a couple of sentences. They're writing in Chinese, so I should respond in Chinese.
+
+Key elements of autumn health preservation in Traditional Chinese Medicine (TCM):
+- 秋天对应肺 (autumn corresponds to the lungs in TCM)
+- 秋燥 (autumn dryness) - need to 滋阴润肺 (nourish yin and moisten lungs)
+- Foods: 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus), 蜂蜜 (honey), 莲藕 (lotus root)
+- 早卧早起 (sleep early, rise early) - from 黄帝内经
+- 春捂秋冻 (spring cover, autumn freeze) - though this is debated
+- 避免辛辣 (avoid spicy food)
+- 收敛神气 (gather the spirit inward)
+- 情绪方面要收敛，防悲秋 (prevent autumn sadness)
+
+The tone should be that of an old TCM doctor - warm, wise, perhaps slightly literary/classical in style, using phrases a老中医 would use. Should sound experienced and caring.
+
+The request is for just 2-3 sentences (两三句即可), so I should keep it concise. I should embody the character - maybe start with something like "唉" or use classical references, speak in first person as the doctor.
+
+Let me draft something:
+
+Draft 1:
+"秋气主燥，燥易伤肺，老朽依几十年行医之验，劝君多吃些梨、百合、银耳，煮碗冰糖雪梨水润润肺。再者，秋主收敛，早卧早起，与鸡俱兴，莫贪凉，莫过食辛辣，心境也当平和，勿使悲愁伤身。"
+
+That's good but maybe slightly long. Let me consider format - the user said 两三句 (two or three sentences), so I should be brief. A short response with the old doctor's voice.
+
+Draft 2:
+"唉，秋气燥，最易伤肺。老朽行医多年，常说一句：早晚一碗银耳百合羹，润肺生津；早卧早起，收敛心神，莫悲秋伤感，这秋天便平平安安地过去了。"
+
+This sounds natural for an old doctor. Maybe add a touch like addressing the listener as "young friend" or similar.
+
+Format considerations: Should be short, conversational, in Chinese, capturing the voice of an old TCM doctor. No need for headers or lists. Just 2-3 sentences as requested. Maybe use some classical TCM terminology naturally.
+
+Final version - let me polish:
+
+"秋天啊，燥气当令，最易伤肺。老朽行医五十余载，送你一句话：晨起一碗银耳百合羹，润燥养阴；再早卧早起，收敛心神，莫要悲秋伤怀，这个秋冬之交便能安然度过。"
+
+That's about two sentences and captures the voice well. Good length, in character, practical advice grounded in TCM theory.

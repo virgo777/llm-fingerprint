@@ -1,0 +1,45 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Explain the precautions/matters needing attention for daily drinking water in three points."
+
+This is a simple health/lifestyle question. The user wants three points about drinking water precautions in daily life. Let me think about what the most important points would be:
+
+1. 水温 - Don't drink water that's too cold or too hot. Room temperature or warm water is best. Very hot water can damage the esophagus (above 65°C is linked to increased cancer risk), and ice-cold water can irritate the stomach.
+
+2. 喝水量/饮水时机 - Drink water in small amounts multiple times, don't wait until you're thirsty (thirst means you're already somewhat dehydrated). Don't drink too much at once, especially before bed (can cause frequent urination at night and affect sleep, and burden the kidneys).
+
+3. 晨起喝水 - Drinking a glass of water after waking up in the morning helps with metabolism.
+
+4. 不喝生水 - Drink boiled or purified water.
+
+5. 剧烈运动后不要立即大量喝冰水.
+
+6. 饭前饭后喝水 - Some say not to drink too much during meals as it dilutes digestive juices, though this is debated.
+
+Let me pick the three most important and commonly agreed-upon points:
+
+1. **主动喝水，不要等口渴才喝** - Drink water proactively, in small amounts and frequently. By the time you feel thirsty, your body is already mildly dehydrated. Recommended: about 1500-1700ml per day for adults (Chinese dietary guidelines suggest 1500-1700ml for adults).
+
+2. **注意水温适宜** - Avoid too hot (over 65°C may increase esophageal cancer risk) or too cold water (irritates gastrointestinal tract). Warm or room temperature water is best.
+
+3. **特殊时机的喝水注意事项** - Such as: drink a glass of warm water in the morning after waking; don't drink too much water before bed; don't gulp large amounts of ice water after intense exercise.
+
+Alternatively, I could structure it as:
+1. 喝水量要适宜
+2. 喝水方式要科学（少量多次、不要等渴了才喝）
+3. 喝水时机和水温要注意
+
+Format considerations: The user asked for three points, so I should provide exactly three points, likely with headers or numbered list. Should be in Chinese since the question is in Chinese. Should be concise but informative - each point with a brief explanation. A numbered list format works well here. I shouldn't make it too long - maybe 3 points with 2-3 sentences each, or with sub-points. Keep it clean and practical.
+
+Let me draft:
+
+**1. 少量多次，主动补水**
+不要等口渴了才喝水——感到口渴时身体已处于轻度缺水状态。建议成人每天饮水1500~1700毫升，分次饮用，每次100~200毫升左右，细水长流更利于吸收。
+
+**2. 水温要适宜**
+避免长期饮用过烫的水（65°C以上的热水可能烫伤食道黏膜，增加食道疾病风险），也尽量少喝冰水以免刺激肠胃。温开水或常温水最理想。
+
+**3. 注意特殊时段的饮水**
+- 晨起后可空腹喝一杯温水，补充夜间流失的水分、促进肠胃蠕动；
+- 睡前不宜大量喝水，以免夜间频繁起夜、影响睡眠，也会加重肾脏负担；
+- 剧烈运动后不要猛灌冰水，应稍作休息后少量多次补水。
+
+This looks good. Three clear points, practical and accurate. The format uses headers with bold and explanations. The length is appropriate - not too long, covers the essentials.

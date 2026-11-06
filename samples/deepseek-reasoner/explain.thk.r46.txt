@@ -1,0 +1,12 @@
+We need answer Chinese, ~200字 explain BIA. Need concise. Need count roughly 200 Chinese characters. Explain bioelectrical impedance analysis: measure impedance to small alternating current through body, body composition, fat vs lean, water, electrodes, assumptions hydration, limitations. 200字. Let's craft around 180-220 Chinese chars. Need "用200字解释". Let's produce one paragraph. Ensure clarity. Chinese. Maybe mention 2-compartment model. Count approximate. Let's draft:
+
+生物电阻抗分析（BIA）是一种通过向人体施加微弱交流电、测量阻抗来估算身体成分的方法。人体中水分和电解质导电性好，脂肪导电性差；因此阻抗大小可反映瘦体重、脂肪量和体液分布。常见设备有体脂秤、手握式或专业多频BIA。其优点是快速、无创、便携、成本低；但结果受饮水、进食、运动、体温、皮肤湿度和电极位置影响，且基于人群公式和假设，不能等同于精确影像学测量。适合趋势监测，不宜单独用于临床诊断。
+
+Count: maybe 180? Let's count rough. First sentence 37. Total maybe 170. Good. Could be ~200. Answer only. 
+Need maybe "生物电阻抗分析（BIA）" already. final. 
+Use 200字 maybe around 200. Let's count characters more precisely? Text:
+生物电阻抗分析（BIA）是一种通过向人体施加微弱交流电、测量阻抗来估算身体成分的方法。 (43? Let's count: 生物电阻抗分析 7? 生1物2电3阻4抗5分6析7 （8 B9 I10 A11 ）12 是13 一14 种15 通16 过17 向18 人19 体20 施21 加22 微23 弱24 交25 流26 电27 、28 测29 量30 阻31 抗32 来33 估34 算35 身36 体37 成38 分39 的40 方41 法42 。43) 
+人体中水分和电解质导电性好，脂肪导电性差；因此阻抗大小可反映瘦体重、脂肪量和体液分布。 count ~44, total 87.
+常见设备有体脂秤、手握式或专业多频BIA。 ~23 total 110.
+其优点是快速、无创、便携、成本低；但结果受饮水、进食、运动、体温、皮肤湿度和电极位置影响，且基于人群公式和假设，不能等同于精确影像学测量。 ~64 total 174.
+适合趋势监测，不宜单独用于临床诊断。 ~20 total 194. Good. Perfect. final. 

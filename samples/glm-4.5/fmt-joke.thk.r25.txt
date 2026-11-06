@@ -1,0 +1,38 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. 冷笑话 typically refers to a "lame joke" or "dad joke" style humor — often puns or wordplay that's intentionally groan-worthy.
+
+Let me think of some good programmer jokes in Chinese:
+
+1. Classic ones:
+- 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+- 程序员最讨厌的两件事：别人不写注释，和让自己写注释
+- 一个程序员去面试，面试官问："你有什么缺点？" 他说："诚实。" 面试官说："我不觉得诚实是缺点。" 他说："我不在乎你怎么觉得。"
+- 世界上有10种人：懂二进制的和不懂的
+- 程序员的妻子让他去超市："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。妻子问为什么？他说："因为我看到了卖西瓜的。"
+
+The last one is a classic Chinese programmer joke about conditional logic. That's quite famous.
+
+Let me also think:
+- 程序员相亲，姑娘问："你有房吗？" 程序员说："有啊，GitHub上好几个仓库呢。"
+- 为什么程序员喜欢黑暗模式？因为光会吸引 bug（虫子/bug双关）
+
+The "bug" pun works in Chinese too since 程序员说英文bug。
+
+I could tell one or two jokes. Maybe the watermelon/baozi one is the most classic and fits the 冷笑话 style perfectly — it's about literal interpretation of conditional statements.
+
+Actually, let me think about format. The user just wants a joke. I should keep it relatively short — just deliver the joke well, maybe with a tiny setup. I could give one joke with good delivery, or offer a couple. I think one well-delivered joke is best, maybe with an offer for more at the end, or just the joke itself.
+
+Let me pick the baozi one as the main joke since it's the classic cold joke:
+
+程序员的妻子对他说："去超市买一斤包子。如果看到卖西瓜的，就买一个。"
+
+程序员回来了，手里拿着一个包子。
+
+妻子问："怎么只买了一个包子？"
+
+程序员答："因为我看到卖西瓜的了。"
+
+This works because: 买一个 refers to 包子 due to programmer logic interpreting the condition branch — if (see watermelon) buy(1) — where buy(1) applies to the last mentioned object in the condition context... Actually the joke is the ambiguity: "买一斤包子，如果看到卖西瓜的，买一个" — a normal person reads "买一个[西瓜]", but a programmer reads it as conditional: buy 1 jin of baozi; if watermelon exists, then buy(1) — and buy(1) refers to baozi, so he buys one baozi instead of one jin. That's the humor.
+
+Format: Short, conversational, tell the joke with good pacing. Maybe add a small emoji or not. Keep it in Chinese. I could tell just this one joke and maybe offer another. Length should be short — a joke shouldn't be over-explained. I won't explain the punchline unless it helps; the joke is well-known enough. Actually a very brief parenthetical explanation could kill the joke... better not explain.
+
+Maybe I can give the joke and then a light follow-up like "要不要再来一个？" That's friendly.

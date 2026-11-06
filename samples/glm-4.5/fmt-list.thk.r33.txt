@@ -1,0 +1,61 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Explain the precautions for daily water drinking in three points."
+
+This is a simple health/lifestyle question. The user wants me to explain things to pay attention to when drinking water daily, using three points.
+
+Let me think about the most important points about daily water drinking:
+
+1. **饮水量适中**: Don't drink too much or too little. Generally recommended 1500-2000ml per day for adults. Drinking too much can cause water intoxication (低钠血症), too little leads to dehydration.
+
+2. **少量多次饮用**: Don't gulp large amounts at once. Drink small amounts frequently throughout the day. Especially don't wait until you're very thirsty to drink, as thirst indicates you're already somewhat dehydrated.
+
+3. **水温适宜**: Avoid drinking too hot water (can damage esophagus, WHO says beverages above 65°C may increase cancer risk) or too cold/icy water (can irritate the stomach).
+
+Other possible points:
+- 不要等口渴才喝水
+- 晨起喝水
+- 睡前不要大量喝水
+- 饭前饭后喝水时机
+- 运动后补水
+- 水质安全
+
+The user asked for exactly three points (三点), so I should provide three clear, well-organized points.
+
+Format considerations:
+- The response should be in Chinese since the question is in Chinese
+- Should use a numbered list format since they asked for "三点" (three points)
+- Each point should have a clear heading and brief explanation
+- Should be concise but informative
+- Not too long - this is a simple informational request
+
+Let me draft the three points:
+
+**1. 掌握适量,避免一次性大量饮水**
+- 成年人每天建议饮水1500-2000毫升左右
+- 少量多次,每次100-200毫升为宜
+- 暴饮会增加心脏和肾脏负担,甚至引起"水中毒"
+
+**2. 注意水温,不喝过烫或过冰的水**
+- 过烫(超过65°C)的水会烫伤口腔和食道黏膜,长期可能增加食道癌风险
+- 过冰的水会刺激肠胃,引起不适
+- 温水(20-40°C)最适宜
+
+**3. 把握饮水时机,不要等口渴才喝**
+- 口渴时身体已经处于缺水状态
+- 晨起一杯温水有助于补充夜间水分流失、促进代谢
+- 睡前不宜大量饮水,以免影响睡眠和加重肾脏负担
+
+Actually, let me reconsider the three points to make them the most essential and distinct:
+
+Option A:
+1. 适量饮水,少量多次
+2. 水温适宜
+3. 时机把握(不等口渴、晨起喝水、睡前少喝)
+
+Option B:
+1. 每天保证足够的饮水量
+2. 少量多次,不要等渴了才喝
+3. 注意水温适宜
+
+Both work. I'll go with something that combines the most practical advice. Let me structure it clearly with headers and brief supporting details.
+
+Format: Chinese response, numbered list with three points, each with a bold header and 2-3 short supporting details or sentences. Medium length - comprehensive enough to be useful but not bloated.

@@ -1,0 +1,58 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters (Chinese characters presumably).
+
+This is a request about traditional Chinese medicine concepts. This is educational/informational content about a traditional medical system. There's nothing harmful here - it's asking for an explanation of a classical TCM diagnostic concept.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation - observing the patient's complexion, body shape, tongue, spirit (神), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry - asking about symptoms, medical history, lifestyle
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse and palpating the body
+
+The concept of 合参 means combining all four methods together for comprehensive analysis, rather than relying on just one method. This ensures a more accurate diagnosis (辨证 - syndrome differentiation).
+
+The four methods originated from classic texts like 《黄帝内经》 and were systematized in works like 《难经》which states "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧" (Knowing by looking is called divine, by listening is called sage-like, by asking is called skillful, by pulse-taking is called clever).
+
+I should write approximately 400 Chinese characters. Let me structure this:
+
+1. Definition/overview
+2. The four methods explained briefly
+3. The significance of 合参
+4. Maybe mention historical origin
+
+Let me draft this in Chinese since the question is in Chinese:
+
+四诊合参是中医诊断疾病的基本方法，指望、闻、问、切四种诊法的综合运用。
+
+望诊：医生通过观察患者的神色、形态、舌象等外在表现来判断病情。中医认为"有诸内必形诸外"，内在脏腑病变可反映于体表。
+
+闻诊：包括听声音和嗅气味。听患者的语声、呼吸、咳嗽等，嗅其口气、体味等异常气味。
+
+问诊：通过询问患者的症状、病史、饮食、起居等情况，全面了解病情。明代张景岳提出"十问"，系统规范了问诊内容。
+
+切诊：包括脉诊和按诊。医生用手指切按患者脉搏，体察脉象变化；同时按触肌肤、脘腹等部位以获取诊断信息。
+
+"合参"强调四诊不可偏废。因为单一诊法所获信息有限且有局限，只有将四诊收集的资料综合分析、互相参照，才能全面准确地判断疾病的性质与部位，作出正确的辨证，为治疗提供依据。这一原则体现了中医整体观念，最早可追溯至《黄帝内经》，《难经》中"望而知之谓之神……"的论述即为四诊理论的早期概括。
+
+Let me count roughly - this should be around 400 characters. Let me refine it.
+
+Format considerations: The question asks for about 400 characters, in Chinese. I should use headers or a structured format since it involves four distinct components. Using bold for the four diagnostic methods would help readability. The response should be in Chinese since the question is in Chinese. Length should be approximately 400 Chinese characters as requested - I shouldn't go too far over that.
+
+Let me write a clean version:
+
+**四诊合参**是中医诊断疾病的基本原则，指将望、闻、问、切四种诊法所收集的资料综合分析、互相参照，以全面判断病情。
+
+**望诊**：观察患者的神、色、形、态及舌象等。中医认为"有诸内必形诸外"，脏腑病变可反映于体表。
+
+**闻诊**：包括听声音与嗅气味，如语声、呼吸、咳嗽及口气、体味等。
+
+**问诊**：询问症状、病史、饮食起居等，了解疾病发生发展过程。
+
+**切诊**：包括脉诊与按诊，通过切脉体察脉象，按触肌肤、脘腹以探查病变。
+
+**合参的意义**：四诊各有侧重，单一诊法信息有限。若仅凭某一诊法（如只凭脉象）断病，易致误诊。故须将四诊所得综合归纳，去伪存真，才能准确辨证，确定治法。
+
+四诊理论源于《黄帝内经》，《难经》有"望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧"之论，历代医家不断充实完善，至今仍是中医临床诊疗的基本方法，体现了中医的整体观念。
+
+That's roughly 380-420 characters, which fits "400字左右" well.
+
+I'll format with bold headers for clarity. This is appropriate for an informational explanation.

@@ -1,0 +1,47 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a simple, casual request for humor. 冷笑话 refers to a type of joke that's intentionally corny or makes people groan rather than laugh out loud - like a "dad joke" in English culture.
+
+Let me think of some classic programmer jokes that work well in Chinese:
+
+1. The classic: 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+(Programmers hate four things: writing comments, writing documentation, others not writing comments, others not writing documentation.)
+
+2. 一个程序员去面试，面试官问："你有什么优点？" 程序员说："我写的代码只有在别人维护的时候才会出错。"
+
+3. The one about binary: 世界上有10种人，一种懂二进制，一种不懂。(There are 10 types of people in the world: those who understand binary and those who don't.)
+
+4. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25 (Octal 31 = Decimal 25)
+
+5. 程序员的老婆让他去买东西："儿子，去超市买一斤包子，如果看到卖西瓜的，买一个。" 程序员儿子回来时手里拿着一个包子。妈妈问："为什么只买一个包子？" 儿子回答："因为我看到了卖西瓜的。"
+This is a classic joke about conditional logic - the programmer interpreted "if you see watermelon sellers, buy one (watermelon)" but bought one baozi instead of one jin of baozi.
+
+6. 一个程序员在森林里看到一只熊，他立刻转身跑。朋友问为什么，他说："这不重要，重要的是它能跑多快，跑赢它就行了。"
+
+7. 修车工和程序员的故事：一位程序员的车出了问题， mechanic说"你的车出了问题。" 程序员问"怎么修？" 修车工修好后程序员开走了，车又坏了。程序员回来，修车工说："我重启了一下（restarted it），这次我试试修复（fix it）。"
+
+The baozi/watermelon one is probably the most classic Chinese programmer cold joke. Let me go with that one, or maybe offer a couple.
+
+Actually, since they asked for one joke (一个), I should tell one good one. The baozi one is very classic and perfectly captures the "cold joke" essence with the programmer logic humor.
+
+Let me write it out:
+
+程序员老婆交代："下班买十个包子，如果看到卖西瓜的，就买一个。"
+
+程序员回家，手里拎着一个包子。
+
+老婆怒问："怎么就买了一个包子？！"
+
+程序员："因为我看到卖西瓜的了。"
+
+The punchline: the programmer interpreted the instruction as code:
+```
+买(包子, 10个);
+if (看到卖西瓜的) {
+    买(包子, 1个);  // overwrites the count?
+}
+```
+
+Actually the joke works because in the programmer's logic, "买一个" (buy one) - the object was ambiguous but he interpreted the conditional as overriding the quantity to 1 for the baozi. It's a joke about how programmers interpret natural language literally like code, where the conditional branch replaces the previous instruction.
+
+Format considerations: This should be conversational and fun. I can tell the joke with a bit of setup, maybe add the "code interpretation" as a fun bonus. Keep it relatively short since it's a casual joke request. Maybe use a simple dialogue format. I could optionally explain the joke briefly or add a second one, but for a cold joke, over-explaining kills it. Maybe just a tiny wink at the end.
+
+Let me keep it concise and punchy.

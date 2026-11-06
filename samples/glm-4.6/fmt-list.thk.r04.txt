@@ -1,0 +1,26 @@
+The user is asking in Chinese for three points about daily drinking water precautions/notes. This is a simple, helpful request. Let me think about what three key points would be most useful for daily water drinking habits.
+
+Common advice about drinking water daily includes:
+1. Drinking appropriate amounts - not too much or too little (about 1500-2000ml per day for adults)
+2. Don't wait until you're thirsty to drink
+3. Water temperature matters - avoid too cold or too hot water
+4. Drink water slowly, in small amounts multiple times rather than gulping large amounts at once
+5. Don't drink too much water before bed (affects sleep)
+6. Morning water is beneficial
+7. Don't replace water with sugary drinks
+8. Don't drink large amounts of water rapidly after exercise
+
+The user wants three points. Let me pick the three most important and practical ones:
+
+1. 适量饮水 - drink appropriate amount, about 1500-2000ml, spread throughout the day, small amounts multiple times
+2. 不要等口渴才喝 - don't wait until thirsty; thirst means already mildly dehydrated
+3. 注意水温 - water temperature should be moderate, warm water around 20-40°C is best, avoid very cold or very hot water
+
+Or alternatively:
+1. 主动喝水，不要等口渴
+2. 少量多次
+3. 白开水/温水为宜，少喝冰水和含糖饮料
+
+Let me structure a good answer with three clear points, each with brief explanation. The response should be in Chinese since the question is in Chinese.
+
+Format considerations: The user asks for three points, so a numbered list format is appropriate. Each point should have a bold heading or clear label with a concise explanation. Not too long - keep it practical and useful. Maybe 3-5 sentences per point at most, or even shorter explanations.

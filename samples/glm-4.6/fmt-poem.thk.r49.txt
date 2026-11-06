@@ -1,0 +1,67 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), in Chinese, and explicitly says no explanation needed.
+
+Let me write a classical Chinese four-line poem (like a 绝句) about autumn night. It should have good imagery and rhyme.
+
+Let me compose one:
+
+月冷梧桐叶半黄，
+西风一夜到回廊。
+虫声渐悄人初静，
+独倚栏杆桂子香。
+
+Let me check the rhyme: 黄 (huáng), 廊 (láng), 香 (xiāng) - all rhyme in -ang. Good.
+
+Line by line:
+1. 月冷梧桐叶半黄 - The moon is cold, wutong leaves half yellow
+2. 西风一夜到回廊 - West wind blows all night to the corridor
+3. 虫声渐悄人初静 - Insect sounds fade, people grow quiet
+4. 独倚栏杆桂子香 - Leaning alone on the railing, osmanthus fragrance
+
+That's a decent qijue-style poem. Let me refine for tonal patterns if possible, but the user just asked for a poem without explanation.
+
+Alternative:
+
+秋夜
+
+凉月如霜挂碧天，
+梧桐疏影落窗前。
+虫鸣渐远更声静，
+一缕桂香伴我眠。
+
+Rhyme: 天 (tiān), 前 (qián), 眠 (mián) - rhyme in -ian. Good.
+
+Let me pick one. The second one flows nicely:
+
+凉月如霜挂碧天，
+梧桐疏影落窗前。
+虫鸣渐远更声静，
+一缕桂香伴我眠。
+
+Actually "更声静" - the sound of night watches being quiet is a bit odd. Maybe "虫鸣渐远人声寂" or something. Let me adjust:
+
+凉月如霜挂碧天，
+梧桐疏影落窗前。
+虫声渐悄秋更深，
+一缕桂香伴我眠。
+
+Hmm, "秋更深" doesn't rhyme properly in position 3 (third line doesn't need to rhyme in a 绝句, actually only lines 1, 2, 4 rhyme, or 2 and 4). So third line ending doesn't need rhyme. But "秋更深" ends in 深 (shēn), fine as non-rhyming line.
+
+Actually in 绝句, lines 2 and 4 must rhyme; line 1 optionally rhymes; line 3 must NOT rhyme.
+
+So:
+
+凉月如霜挂碧天，(tiān - rhyme)
+梧桐疏影落窗前。(qián - rhyme)
+虫声渐悄更深后，(hòu - no rhyme, good)
+一缕桂香伴我眠。(mián - rhyme)
+
+Or keep it simpler. Final version:
+
+凉月如霜挂碧天，
+梧桐疏影落窗前。
+虫声渐悄人初静，
+一缕桂香伴我眠。
+
+This is nice. The user said no explanation, so I should just give the poem, maybe with a title or without. Just the poem.
+
+Should I add a title? "秋夜" as title could work. But the instruction says write a four-line poem with theme autumn night, no explanation. I'll just present the four lines.

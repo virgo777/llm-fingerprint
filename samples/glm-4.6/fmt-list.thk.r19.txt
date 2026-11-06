@@ -1,0 +1,38 @@
+The user is asking me in Chinese to explain precautions/matters to pay attention to when drinking water in daily life, using three points.
+
+The question translates to: "Use three points to explain the precautions for drinking water in daily life."
+
+This is a simple health/wellness question. I should provide three clear points about drinking water precautions. Since the user asked in Chinese, I should respond in Chinese.
+
+Let me think about the most important points for daily water drinking:
+
+1. Don't wait until you're thirsty to drink water (不要等口渴了才喝水) - Thirst is already a sign of mild dehydration. We should drink water regularly throughout the day.
+
+2. Drink appropriate amounts - avoid drinking too much at once (适量饮水，不要一次性大量饮水) - The recommended amount is about 1500-2000ml per day, and drinking too much at once can burden the kidneys or cause water intoxication.
+
+3. Water temperature matters (注意水温) - Avoid drinking ice-cold water or very hot water; warm water (around 20-40°C) is best for the body.
+
+Other possible points:
+- Drink water in the morning after waking up
+- Don't drink too much water before bed
+- Choose plain water over sugary drinks
+- Don't drink water too fast (chug it)
+
+The user asked for exactly three points, so I should give three well-chosen points. Let me pick the most important and practical ones:
+
+1. 不要等口渴才喝水 - don't wait until thirsty
+2. 适量饮水，少量多次 - drink in moderation, small amounts multiple times
+3. 注意水温 - pay attention to water temperature (warm water is best)
+
+Or alternatively:
+1. 少量多次，不要一次喝太多
+2. 不喝生水/注意水质
+3. 起床后和睡前适量喝水
+
+I think the best three points for a general audience would be:
+
+1. **定时主动饮水，不要等口渴才喝** - Proactively drink water throughout the day; thirst indicates mild dehydration already
+2. **少量多次，适量饮水** - Drink small amounts frequently rather than gulping large amounts at once; about 1500-1700ml per day for adults
+3. **注意水温，少喝冰水和过烫的水** - Warm water is best; ice water can irritate the GI tract, and very hot water (above 65°C) may damage the esophagus
+
+Format considerations: The user asked for three points, so a numbered list format would be appropriate. Each point should have a brief header/title and a short explanation. I should respond in Chinese since the question was in Chinese. The response should be concise but informative - not too long. A numbered list with 3 items, each with a bold heading and 1-2 sentences of explanation, would be ideal.

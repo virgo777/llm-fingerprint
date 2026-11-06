@@ -1,0 +1,39 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Explain three points about precautions for daily water drinking."
+
+This is a simple health/wellness question. I should respond in Chinese since the question is in Chinese. Let me think about three important points about daily water drinking habits:
+
+1. Don't wait until you're thirsty to drink water (不要等口渴才喝水) - By the time you feel thirsty, your body is already mildly dehydrated. It's better to drink water regularly throughout the day.
+
+2. Drink water in small amounts, multiple times, rather than gulping large amounts at once (少量多次饮水) - Drinking too much water at once can burden the kidneys and cause water intoxication in extreme cases. Small sips throughout the day are better.
+
+3. Water temperature matters - avoid drinking very cold or very hot water (水温适宜) - Very cold water can irritate the gastrointestinal tract, and very hot water (above 65°C) can damage the esophagus and potentially increase cancer risk.
+
+Other possible points:
+- Drink a glass of water in the morning after waking up (晨起喝水)
+- Don't drink too much water before bed (睡前不宜大量饮水)
+- Choose plain water over sugary drinks (白开水优于饮料)
+- Drink water before and after exercise
+- Special populations need to pay attention (kidney disease patients, etc.)
+
+The user specifically asked for THREE points (三点), so I should give exactly three clear points. Let me pick the three most practical and important ones:
+
+1. 不要等口渴了才喝水 - drink proactively, small amounts multiple times throughout the day
+2. 控制单次饮水量和速度 - don't gulp large amounts at once, especially after exercise
+3. 注意水温 - avoid ice-cold water and scalding hot water
+
+Or I could structure it as:
+1. 主动饮水，少量多次
+2. 水温适宜
+3. 特殊时间段的饮水注意事项（晨起、睡前、运动前后）
+
+Format considerations: The user asked for three points, so a numbered list format would be most appropriate. I should use Chinese. Each point should have a clear heading/topic and brief explanation. The response should be concise but informative - not too long. Maybe 100-250 Chinese characters per point. Using markdown numbered list with bold headings would work well for this conversational assistant format.
+
+Let me draft:
+
+1. **主动饮水，少量多次**：不要等到口渴才喝水，口渴时身体已经处于轻度缺水状态。建议每天分多次饮水，每次约100-200毫升，全天总量约1500-1700毫升（可根据运动量、气温适当调整）。
+
+2. **控制饮水速度和单次量**：避免一次性大量猛灌水，尤其是在剧烈运动后。短时间内喝太多水会加重心脏和肾脏负担，严重时甚至可能引起"水中毒"（低钠血症）。运动后应少量多次补充，可适当休息后再喝。
+
+3. **注意水温**：过烫的水（超过65℃）会损伤口腔和食道黏膜，长期可能增加食道癌风险；过冰的水则容易刺激肠胃，引起腹痛、腹泻。饮水温度以10-40℃左右的温开水为佳。
+
+This covers the three most important aspects. The format is good - numbered list with bold headings, clear explanations. Length seems appropriate for a health advice question.

@@ -1,0 +1,18 @@
+The user asks to calculate 17×23+45÷9, with complete process.
+
+Let me compute:
+17×23 = 17×20 + 17×3 = 340 + 51 = 391
+45÷9 = 5
+391 + 5 = 396
+
+Order of operations: multiplication and division first, then addition.
+
+17 × 23:
+- 17 × 23 = 17 × (20 + 3) = 340 + 51 = 391
+Or: 23 × 17 = 23 × 10 + 23 × 7 = 230 + 161 = 391
+
+45 ÷ 9 = 5
+
+391 + 5 = 396
+
+Answer: 396

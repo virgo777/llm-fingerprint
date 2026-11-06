@@ -1,0 +1,77 @@
+The user is asking me to write a four-line poem in Chinese about an autumn night (秋夜), and explicitly asks for no explanation (不要解释).
+
+Let me compose a classical-style Chinese poem about autumn night. Traditional Chinese poetry often uses imagery like:
+- 月 (moon)
+- 桂 (osmanthus)
+- 露 (dew)
+- 霜 (frost)
+- 雁 (wild geese)
+- 落叶 (falling leaves)
+- 蟋蟀/蛩 (crickets)
+- 梧桐 (wutong tree)
+
+A four-line poem could be a 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain).
+
+Let me try a 七言绝句:
+
+秋夜
+
+银汉无声玉露凉，
+一庭桂影浸月光。
+蛩声唱破梧桐叶，
+半卷西风入梦长。
+
+Let me refine this. Checking rhyme: 凉 (liáng), 光 (guāng), 长 (cháng) - these rhyme in the "ang" sound. Good.
+
+Or a 五言绝句:
+
+秋夜
+
+月冷桂香浮，
+虫声入小楼。
+西风吹叶落，
+清露湿衣稠。
+
+Hmm, let me check: 浮 (fú), 楼 (lóu), 稠 (chóu) - 浮 and 楼/稠... 浮 is in 尤韵 actually in classical rhyme (浮 fóu in old pronunciation). This works for 平水韵 十一尤.
+
+Let me polish the seven-character version:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+雁声叫破长天月，
+一枕清寒梦亦香。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 香 (xiāng) - all in 阳韵 (ang). Good.
+
+Line 1: The Milky Way is silent, jade dew is cool
+Line 2: Wutong leaves fall, courtyard full of frost
+Line 3: Goose cries break through the long sky's moon
+Line 4: A pillow of clear chill, even dreams are fragrant
+
+This has nice autumn night imagery. Let me check tonal patterns loosely:
+
+Line 1: 银汉无声玉露凉 - 平仄平平仄仄平
+Line 2: 梧桐叶落满庭霜 - 平平仄仄仄平平
+Line 3: 雁声叫破长天月 - 仄平仄仄平平仄
+Line 4: 一枕清寒梦亦香 - 仄仄平平仄仄平
+
+Not perfectly regulated but reasonably close for a casual poem. The user just wants a poem without explanation, so I should keep it clean.
+
+Actually let me reconsider line 3: 雁声叫破长天月 - "goose cries break the moon of the vast sky" - poetic. Or 雁字横空秋思远? Let me keep something evocative.
+
+Alternative:
+一夜西风叶满廊，
+半帘明月桂初黄。
+蛩音细碎凉如水，
+梦入江南稻蟹香。
+
+Hmm, the first version is better. Let me finalize:
+
+《秋夜》
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+雁声叫破长天月，
+一枕清寒梦亦香。
+
+The user said no explanation, so I'll just give the poem with title. Format: The poem itself, centered or just as lines. Keep it minimal - no explanation as requested. Maybe just the title and four lines.

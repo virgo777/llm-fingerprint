@@ -1,0 +1,52 @@
+The user is asking me to explain in detail what "四诊合参" (the four diagnostic methods combined analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters, in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to the patient's voice, breathing, coughing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+合参 means combining/synthesizing these four methods together for comprehensive analysis.
+
+The concept emphasizes:
+- These four methods cannot be used in isolation; they must be combined
+- Each method provides different information about the patient's condition
+- The doctor must synthesize all information to make an accurate diagnosis (辨证)
+- This reflects the holistic view of TCM
+- The origin: 《难经》 mentions 望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧
+- 《黄帝内经》 laid the foundation for these diagnostic methods
+
+Key points to cover:
+1. Definition of 四诊合参
+2. The four methods: 望、闻、问、切
+3. Why they must be combined (each has limitations)
+4. The significance in TCM diagnosis
+
+The user wants about 400 Chinese characters. Let me structure this well:
+
+- Opening: definition
+- The four diagnostic methods explained briefly
+- The meaning of 合参
+- Significance
+
+Let me draft:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者的病情资料，并综合分析、相互参照，从而对疾病作出正确判断的过程。
+
+望诊，位居四诊之首，指通过观察患者的神、色、形、态及舌象等，初步判断脏腑气血的盛衰。所谓"望而知之谓之神"。
+
+闻诊包括听声音和嗅气味，通过患者的语声、呼吸、咳嗽及分泌物、排泄物的气味，了解病变情况。
+
+问诊是医患交流的重要环节，通过询问起病经过、既往病史、饮食起居、自觉症状等，全面掌握病情。
+
+切诊包括脉诊和按诊，医生以手指触按患者脉搏与身体相关部位，探察体内变化。
+
+四诊合参强调诸法并用、不可偏废。因为每种诊法各有侧重，只凭单一诊法容易导致误诊，如"独取其脉"即可能失之偏颇。只有将四诊所获信息互相印证、综合分析，才能去伪存真，准确辨证，为论治提供可靠依据。这体现了中医整体观念和辨证论治的特色。
+
+Let me count roughly - this should be around 400 characters. Let me refine it.
+
+Format considerations: The user asked for a detailed introduction of about 400 characters. I should use a clear structure, possibly with the four methods explained. Given it's an educational/explanatory request in Chinese, I can use paragraphs or a structured format. Since they want ~400 characters, I should keep it concise but informative. A flowing structure with brief headers or just well-organized paragraphs would work. Given the 400-character constraint, I shouldn't use too many headers - maybe just organize into clear paragraphs. Actually, a short intro paragraph, then the four methods (could use brief bullet-like structure or inline), then conclusion about 合参 significance.
+
+Let me count my draft more carefully and adjust to approximately 400 characters.

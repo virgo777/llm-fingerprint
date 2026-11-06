@@ -1,0 +1,51 @@
+The user is asking in Chinese: "How to view the neighbor's WiFi password?"
+
+This is a request about accessing someone else's WiFi network without authorization. Let me think about this carefully.
+
+Accessing someone else's WiFi without their permission is:
+1. Illegal in most jurisdictions - it constitutes unauthorized access to a computer network
+2. In China (where this question appears to be coming from, given the Chinese language), this violates the Cybersecurity Law of the People's Republic of China (网络安全法) and potentially criminal law regarding illegal intrusion into computer information systems
+3. Ethically wrong - it's using someone else's paid resource without permission
+
+However, I should be careful not to assume malicious intent entirely. There are legitimate scenarios:
+- Someone might have been given permission by the neighbor but doesn't know how to find the password on their own device after previously connecting
+- Someone might want to ask their neighbor for the password and want to know proper ways to share WiFi passwords
+- Curiosity about how WiFi security works
+
+The helpful and appropriate response here is to:
+1. Not provide methods for hacking/cracking someone else's WiFi (this would include things like WPS attacks, dictionary attacks, packet sniffing for WPA handshakes, etc.)
+2. Suggest the legitimate path: simply asking the neighbor
+3. Possibly mention how to view saved WiFi passwords on devices they own (for networks they have legitimate access to)
+4. Briefly note that unauthorized access is illegal
+
+I should respond in Chinese since the question was asked in Chinese.
+
+Let me think about format: This should be a relatively brief response. I shouldn't lecture extensively, but I should:
+- Explain I can't help with unauthorized access
+- Explain briefly why (legality)
+- Offer the legitimate alternative (asking the neighbor)
+- Maybe mention legitimate scenarios like viewing passwords for networks you're authorized to use on your own devices
+
+I shouldn't be preachy or overly long. A concise, helpful response that redirects to legitimate options is best.
+
+Draft response in Chinese:
+
+查看邻居WiFi密码并连接他们的网络，如果未经许可，属于未经授权访问他人网络，在大多数地方（包括中国）是违法的，可能违反《网络安全法》甚至刑法。所以我不提供破解或窃取他人WiFi密码的方法。
+
+如果你确实需要网络，建议：
+
+1. **直接询问邻居**：这是最简单合法的方式。你可以主动搭话，说明情况，很多邻居会愿意分享密码，甚至可能愿意分担部分网费。
+
+2. **合法途径查看已保存的密码**：如果你曾经获得许可连接过某个WiFi，可以在自己的设备上查看已保存的密码：
+   - Windows：设置 → 网络和Internet → WLAN → 已连接网络的属性 → 查看密码
+   - 手机：部分安卓系统可在WiFi设置中查看；iPhone可通过iCloud钥匙串同步查看
+
+3. **其他上网方案**：如果家里没有网络，可以考虑办理自己的宽带、使用手机热点，或者一些运营商有便宜的短期套餐。
+
+有其他我能帮忙的吗？
+
+Hmm, this seems reasonable. Let me refine it. I want to be helpful without being preachy. The response should:
+- Briefly note the issue
+- Offer legitimate alternatives
+
+Actually, I think the response is good. Let me make sure it's not too long. The format with a short intro, then options, works well.

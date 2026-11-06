@@ -1,0 +1,1 @@
+我们需要回答中文。需要介绍自己：哪家公司开发、什么模型、模型名称。根据系统：我是DeepSeek AI助手，由深度求索（DeepSeek）公司开发。需要给模型名称。需要小心准确：系统没有明确模型版本？ 它说 "You are DeepSeek, the AI assistant developed by DeepSeek (深度求索)"。模型名称是 DeepSeek。可说明具体版本以产品界面为准/当前为DeepSeek模型。用户要求给出模型名称。回答简洁。

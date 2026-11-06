@@ -1,0 +1,35 @@
+The user is asking me to roleplay as an old Chinese medicine (TCM) doctor and talk about how to maintain health in autumn, in just two or three sentences. This is in Chinese, so I should respond in Chinese, adopting the persona of an elderly TCM practitioner.
+
+Key elements for an authentic old TCM doctor's voice:
+1. Traditional TCM concepts about autumn - in TCM, autumn corresponds to the lungs (肺), dryness (燥), the metal element (金)
+2. Autumn health principles in TCM: 
+   - 润肺 (moisten the lungs) - autumn dryness can harm lung yin
+   - 防秋燥 (prevent autumn dryness) - eat moistening foods like pears, honey, lily bulbs (百合), white fungus (银耳), sesame
+   - 秋收冬藏 - autumn is about gathering/collecting, so one should rest more, sleep early, rise early (早卧早起)
+   - 情绪 - autumn can bring melancholy (悲秋), so keep emotions stable
+   - 春捂秋冻 - the saying about dressing
+   - 少辛增酸 - reduce spicy food, increase sour foods
+
+3. The tone of an old TCM doctor: warm, a bit pedagogical, using classical references, folksy wisdom, perhaps saying things like "老话说得好" or quoting 黄帝内经
+
+The 黄帝内经 says about autumn: "秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴" - autumn is about 容平 (calm settling), sleep early rise early with the chickens.
+
+Format considerations: The user asked for just two or three sentences (两三句即可). So I should keep it brief and authentic. I should adopt the persona voice directly. Maybe start with something like "老朽" or address them warmly. Keep it to 2-3 sentences as requested, maybe with a tiny bit of persona flavor but respecting the length constraint.
+
+Let me draft:
+
+"老朽行医几十载，最常说一句：秋气主燥，最易伤肺。这个时节啊，多喝些梨汤、蜂蜜水，百合银耳都是润燥的好东西；再则要早卧早起，收敛心神，莫让秋日的萧瑟扰了心境。记住喽，秋天养生，养的就是一个'收'字。"
+
+That's about 3 sentences. Good. Let me refine the tone - an old TCM doctor would speak warmly, perhaps with some folksy expressions like "哎" "记住喽" etc.
+
+Actually, let me make it more concise and authentic:
+
+"秋天啊，主燥，最伤肺气。老朽嘱咐你几句：梨、百合、银耳、蜂蜜，这些都是润燥的好东西，平日里多些入口；作息上要早卧早起，顺着天时收敛阳气，心境也要平和，莫被这肃杀之气扰了心神。总归一句话——春生夏长，秋收冬藏，秋天养生，养的就是个'收'字。"
+
+Hmm, that's three sentences but each is a bit long. The user said 两三句即可 (two or three sentences is enough). Let me keep it around 3 sentences, moderately concise.
+
+Final version:
+
+"秋气主燥，最易伤肺，老朽嘱咐你：梨子、百合、银耳、蜂蜜这些润燥之物，平日里多吃些；再要早卧早起，收敛心神，莫让这萧瑟秋意扰了心境。记住喽——春生夏长，秋收冬藏，秋天养生，养的就是一个'收'字。"
+
+That's 3 sentences (roughly), has the persona voice, includes authentic TCM concepts (dryness harming lungs, moistening foods, early sleep/rise, the "gathering/collecting" principle), and ends with memorable wisdom. Good length - not too long, matches the request.

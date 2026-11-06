@@ -1,0 +1,55 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor and give advice on autumn health preservation (秋季养生) in just two or three sentences, in his voice/tone.
+
+Let me think about what an old TCM doctor would say about autumn health preservation. Key TCM concepts for autumn:
+
+1. 秋季对应肺 (Autumn corresponds to the lungs) - In TCM, autumn is associated with the lung (肺) and the metal element (金)
+2. 秋燥 (Autumn dryness) - The weather becomes dry, which can harm the lungs
+3. 滋阴润肺 (Nourishing yin and moistening the lungs) - Recommended approach
+4. Foods: 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus/tremella), 蜂蜜 (honey), 芝麻 (sesame)
+5. 早卧早起 (Sleep early, rise early) - from 黄帝内经 (Yellow Emperor's Inner Canon)
+6. 春捂秋冻 (Spring cover, autumn freeze) - don't add clothes too quickly in autumn
+7. 悲秋 (Autumn sadness) - emotional aspect, keep spirits calm
+8. 少辛增酸 (Reduce spicy, increase sour foods)
+
+An old TCM doctor's tone would be:
+- Wise, measured, perhaps using classical phrases
+- Might reference 《黄帝内经》
+- Use phrases like "老朽" or "老夫" (humble self-reference)
+- Speak with metaphors from nature
+- Have a warm, caring but authoritative tone
+
+Let me craft 2-3 sentences in his voice:
+
+Something like:
+
+"老夫行医四十余载，常对病人讲：秋气属金，燥邪当令，最易伤肺。故而饮食上当多食梨、百合、银耳之类，以滋阴润燥；起居上宜早卧早起，与鸡俱兴。再者，秋主收敛，心神亦要收敛安宁，莫要大悲大喜，方合'收敛神气'之道啊。"
+
+Let me refine this. The tone should feel like an experienced old doctor speaking naturally, perhaps with some classical flavor but still conversational.
+
+Draft:
+
+"唉，老朽行医五十年，最常叮嘱的就是：秋燥最伤肺，平日里多吃些梨、百合、银耳，煮碗冰糖雪梨水润润嗓子。早睡早起，莫贪凉添寒。秋天草木萧疏，人易生悲愁，心要放宽，神要收敛，这才是顺时而养啊。"
+
+That's about 3 sentences. Good length. Let me polish:
+
+Option with 黄帝内经 reference:
+"《内经》有云：'秋三月，此谓容平，天气以急，地气以明。'老朽行医数十载，常说秋日养生，首要润燥养肺——晨起一碗冰糖炖梨，或银耳百合羹，最是相宜。起居当早卧早起，衣物增减缓缓图之，所谓'春捂秋冻'。再者秋气肃杀，人易悲忧，心神贵在安宁收敛，遇事莫急莫躁，方是顺天应时之道啊。"
+
+That might be slightly long for "两三句" (two-three sentences). Let me make it more concise but keep the flavor:
+
+"老朽行医几十载，常道这秋日养生，首在润燥养肺——晨起食些梨、百合、银耳，煮碗甜汤最是相宜。起居上早卧早起，与鸡俱兴，添衣莫急，'春捂秋冻'自有道理。再者，秋气肃杀，人易悲愁，心神要收要安，遇事莫急莫恼，顺时而行，病自远之啊。"
+
+This is three sentences. The tone:
+- 老朽 self-reference (humble old man)
+- Classical references (与鸡俱兴 from 黄帝内经)
+- Warm caring tone at the end ("病自远之啊")
+
+I think this works well. Let me finalize the format - should be conversational, maybe with a slight opening. The user asked for 2-3 sentences, so I shouldn't add too much extra. Just the doctor's speech itself.
+
+Format: Plain conversational text, no headers or lists needed. Short - just the 2-3 sentences as requested. Maybe I can add a tiny bit of personality markers like "唉" or "啊" at ends for the old doctor voice.
+
+Final version:
+
+"老朽行医几十载，常跟病人念叨：秋燥最是伤肺，平素多吃些梨、百合、银耳，煮碗甜汤润一润，比什么补药都强。起居上要早卧早起，添衣莫急，'春捂秋冻'自有它的道理。再者，秋风萧瑟，人易生悲愁，心神贵在收敛安宁，遇事放宽心，顺时而养，病自然就远你了。"
+
+That's good - three sentences, in character, covers diet, sleep/clothing, and emotional health. Classic TCM autumn advice.

@@ -1,0 +1,24 @@
+The user is asking me to explain precautions for daily water drinking using three points. The question is in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions for daily water drinking."
+
+I should respond in Chinese since the question is in Chinese. Let me think about the most important precautions for drinking water:
+
+1. 不要等到口渴才喝水 - Don't wait until you're thirsty to drink water. By the time you feel thirsty, your body is already slightly dehydrated. It's better to drink water regularly throughout the day.
+
+2. 少量多次饮水 - Drink small amounts frequently rather than gulping large amounts at once. Drinking too much water at once can burden the kidneys and dilute electrolytes.
+
+3. 水温适宜 - Water temperature matters. Very cold water can irritate the stomach, and very hot water can damage the esophagus. Warm water (around 20-40°C) is generally best.
+
+Other possible points:
+- 早晨起床后喝一杯温水 - Drink a glass of warm water after waking up
+- 饭前饭后不宜大量饮水 - Avoid drinking large amounts right before or after meals
+- 睡前不宜大量饮水 - Avoid drinking too much before bed
+- 保证充足饮水量 - Ensure adequate daily intake (about 1500-2000ml)
+- 不喝生水/不喝反复烧开的水 - Don't drink untreated water
+
+I need to pick the three most important ones. Let me structure this well:
+
+1. 主动喝水，不要等口渴才喝 - Drink proactively, don't wait until thirsty
+2. 少量多次，切忌暴饮 - Small amounts multiple times, avoid gulping
+3. 注意水温，避免过冷过热 - Pay attention to water temperature
+
+Format considerations: The user asked for three points, so I should use a numbered list format. Each point should have a clear heading and brief explanation. The response should be in Chinese, well-organized, and appropriately detailed but not overly long. A numbered list with bold headers and short explanations would work well. I could add a brief intro or closing sentence but keep it minimal since the request is for three specific points.

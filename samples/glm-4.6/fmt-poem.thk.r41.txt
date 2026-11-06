@@ -1,0 +1,88 @@
+The user wants a four-line poem about autumn night (秋夜) in Chinese, and they explicitly said no explanation (不要解释).
+
+Let me write a classical-style Chinese quatrain about autumn night. Traditional Chinese poetry often uses imagery like: moon, dew, osmanthus (桂花), crickets (蟋蟀/寒蛩), maple leaves, frost, stars, geese, cold wind, etc.
+
+Let me compose something with good imagery and rhythm. A classic 七言绝句 (seven-character quatrain) or 五言绝句 (five-character quatrain) format.
+
+Let me try a 七言绝句:
+
+秋夜
+玉露无声湿桂枝，
+一庭凉月照帘垂。
+寒蛩不解思乡意，
+声声犹向枕边啼。
+
+Let me check the tonal patterns and rhyme. The rhyme words: 枝 (zhī), 垂 (chuí), 啼 (tí) - these rhyme in the "支" rhyme category (i sound). 枝, 垂, 啼 - actually in classical rhyming, 枝、垂、啼 all belong to 上平四支 rhyme group. Good.
+
+Let me refine:
+
+玉露无声湿桂枝 - Jade dew silently wets the osmanthus branches
+一庭凉月照帘垂 - A courtyard of cool moonlight shines on hanging curtains
+寒蛩不解思乡意 - Cold crickets don't understand homesickness
+声声犹向枕边啼 - Chirp after chirp still cries by the pillow
+
+Hmm, that's decent. Let me consider alternatives:
+
+银汉迢迢夜气清，
+梧桐叶落露华凝。
+一声雁过天涯远，
+月满空庭桂影横。
+
+Rhyme: 清 (qīng), 凝 (níng), 横 (héng) - 清 and 凝 are in 八庚 rhyme, 横 is also in 八庚. Actually 横 can be in 八庚. Let me verify: 庚韵 includes 庚、更、羹、盲、横、觥、彭、亨、英、烹、平、评、京、惊、荆、明、盟、鸣、荣、莹、兵、卿、生、甥、笙、牲、擎、鲸、迎、行、衡、耕、萌、氓、宏、闳、茎、莺、樱、泓、橙、筝、争、清、情、晴、精、睛、菁、晶、旌、盈、瀛、嬴、赢、营、婴、缨、贞、成、盛、城、诚、呈、程、声、征、正、轻、名、令、并、倾、萦、琼... Yes, 清、凝、横 all can be in 庚韵 (凝 is in 蒸韵 actually... 凝 níng - 蒸韵 includes 蒸、承、丞、惩、澄、凝、陵、凌、冰、兴、缨... hmm, 凝 is 十蒸). So 清 (八庚), 凝 (十蒸), 横 (八庚) - mixing 庚 and 蒸 isn't strictly proper in classical near-body poetry. Let me stick with my first version.
+
+Actually, let me polish the first one more:
+
+玉露无声湿桂枝，
+半帘凉月夜迟迟。
+寒蛩不解离人意，
+偏向枕边声声啼。
+
+Hmm, "声声啼" - last line should be 7 characters: 偏向枕边声声啼 is 7 characters. But rhythm: 偏-向-枕-边-声-声-啼. That works.
+
+Rhyme: 枝、迟、啼 - all 四支韵. Good.
+
+Tonal pattern check (仄起 or 平起):
+玉露无声湿桂枝: 仄仄平平仄仄平 - good
+半帘凉月夜迟迟: 仄平平仄仄平平 - hmm, should be 平平仄仄仄平平 for standard. 半帘 = 仄平. First character flexible, so 仄平平仄仄平平 - the second character 帘 is 平, so this is 平起 for line 2... Standard 七绝 仄起首句入韵:
+仄仄平平仄仄平
+平平仄仄仄平平
+平平仄仄平平仄
+仄仄平平仄仄平
+
+Line 2 should be 平平仄仄仄平平. 半帘凉月夜迟迟 = 仄平平仄仄平平. Position 2 is 帘 (平) ✓, position 4 is 月 (仄) ✓, position 6 is 迟 (平) ✓. With 一三五不论, this works.
+
+Line 3 should be 平平仄仄平平仄. 寒蛩不解离人意 = 平平仄仄平平仄. 寒(平)蛩(平)不(仄)解(仄)离(平)人(平)意(仄) ✓ Perfect.
+
+Line 4 should be 仄仄平平仄仄平. 偏向枕边声声啼 = 平仄仄平平平平. Hmm: 偏(平)向(仄)枕(仄)边(平)声(平)声(平)啼(平). Position 2 向 (仄) ✓, position 4 边 (平) ✓, position 6 声 (平) ✗ - should be 仄. That breaks the pattern. Also ending with three 平 (三平调) is a taboo.
+
+Let me fix line 4: 仄仄平平仄仄平
+"偏向愁人枕畔啼" - 偏(平)向(仄)愁(平)人(平)枕(仄)畔(仄)啼(平). Position 2 向(仄)✓, 4 人(平)✓, 6 畔(仄)✓. 
+
+But then line 3 has 离人 and line 4 has 愁人 - repetitive 人. Change line 3: 寒蛩不解离愁绪 - hmm 不解离愁绪: 不(仄)解(仄)离(平)愁(平)绪(仄). Line 3 pattern: 平平仄仄平平仄. 寒(平)蛩(平)不(仄)解(仄)离(平)愁(平)绪(仄) ✓.
+
+Wait, but 离愁绪 then 偏向愁人 repeats 愁. Let me think differently.
+
+Line 3: 寒蛩似诉飘零意 - 寒(平)蛩(平)似(仄)诉(仄)飘(平)零(平)意(仄) ✓
+Line 4: 偏向愁人枕畔啼 - wait, if crickets 似诉飘零意 then they do understand... "不解" contrast with "偏向" is nice (they don't understand my sorrow yet still cry by my pillow). Alternative: keep 不解.
+
+Line 3: 寒蛩不解飘零意 ✓ (寒蛩不解 = 平平仄仄, 飘零意 = 平平仄) 
+Line 4: 偏向愁人枕畔啼 ✓
+
+Hmm, "飘零意" - crickets don't understand the feeling of drifting/wandering (the traveler's loneliness). Then they still cry by the sorrowful person's pillow. That works nicely.
+
+Final version:
+玉露无声湿桂枝，
+半帘凉月夜迟迟。
+寒蛩不解飘零意，
+偏向愁人枕畔啼。
+
+Check line 1: 仄仄平平仄仄平. 玉(仄)露(仄)无(平)声(平)湿(仄,入声)桂(仄)枝(平) ✓
+Line 2: 平平仄仄仄平平 required. 半(仄)帘(平)凉(平)月(仄)夜(仄)迟(平)迟(平). Position 2: 帘(平)✓, 4: 月(仄)✓, 6: 迟(平)✓. OK with 一三五不论.
+Line 3: 平平仄仄平平仄. 寒(平)蛩(平)不(仄)解(仄)飘(平)零(平)意(仄) ✓
+Line 4: 仄仄平平仄仄平. 偏(平)向(仄)愁(平)人(平)枕(仄)畔(仄)啼(平). Position 2: 向(仄)✓, 4: 人(平)✓, 6: 畔(仄)✓ ✓
+
+Rhymes: 枝(zhī)、迟(chí)、啼(tí) - all 上平四支. 
+
+This is a solid quatrain. The user said no explanation, so I should just give the poem, maybe with a title. Keep it minimal - just the poem. Maybe a title 《秋夜》 is fine, that's part of the poem not an explanation.
+
+Format: Four lines, centered or just plain lines. No explanation as requested. Short and clean.

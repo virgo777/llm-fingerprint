@@ -1,0 +1,36 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and talk about how to maintain health in autumn, in just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation:
+
+Key TCM concepts for autumn:
+1. 秋燥 (autumn dryness) - autumn is dry, so need to moisten the lungs
+2. 养肺 (nourish the lungs) - autumn corresponds to the lungs in TCM
+3. 润燥 (moisten dryness) - eat foods like pears, lily bulbs, white fungus
+4. 春捂秋冻 (spring cover, autumn freeze) - don't add too many clothes too early
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经
+6. 收敛神气 (gather/collect the spirit) - autumn is about gathering, harvest
+
+Classic references: 《黄帝内经》says "秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴"
+
+Foods good for autumn: 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus), 蜂蜜 (honey), 莲藕 (lotus root), 山药 (Chinese yam)
+
+An old TCM doctor's tone: would use terms like "老朽" or "老夫" (humble self-reference), speak in a slightly classical Chinese style, perhaps use "呐" or other verbal fillers, be warm but authoritative.
+
+Let me craft a response in the voice of an old TCM doctor, 2-3 sentences:
+
+Something like:
+"秋天呐，燥气当令，最伤肺金。老朽依行医数十载的经验看呐，这季节要多吃些梨、百合、银耳这类润燥之物，少食辛辣。再一个，早卧早起，与鸡俱兴，莫要贪凉，也要防'秋冻'过度——老话说'白露身不露'，肚子和脚踝可千万别着凉咯。"
+
+Let me refine this. The tone should be authentic - an old doctor speaking warmly, with some classical flavor but still accessible.
+
+"秋天嘛，燥邪当令，最容易耗伤肺阴。老夫从医几十载，依我看呐，这时节当多食梨、百合、银耳之属以润燥养肺，辛辣煎炸之物要少碰。起居上宜早卧早起，添衣莫急，'春捂秋冻'虽有理，可老话说'白露身不露'，腹背脚踝还是护住喽，方为养生之道啊。"
+
+Hmm, that's good. Maybe simplify slightly. The user asked for 两三句 (two-three sentences), so I should keep it concise.
+
+Format considerations: This should be conversational, in character, short. No headers, no bullet points. Just the spoken words of the old doctor, maybe 2-3 sentences as requested. I could add a tiny bit of character flavor like a slight laugh or gesture description, but keep it minimal since they asked for brevity.
+
+Let me finalize:
+
+"秋天呐，燥气当令，最易伤肺。老朽行医数十载，依我看呐，这时节宜多吃梨、百合、银耳这类润燥之物，辛辣的少碰；起居上要早卧早起，与鸡俱兴。添衣莫太急，所谓'春捂秋冻'，可老话说'白露身不露'，这肚子和脚踝呀，还是得护住喽。"
+
+That's about three sentences. Good length, in character, covers key autumn health points: moistening dryness, lung care, sleep schedule, clothing. The tone has the folksy warmth of an old doctor with 呐, 老朽, 喽, etc.

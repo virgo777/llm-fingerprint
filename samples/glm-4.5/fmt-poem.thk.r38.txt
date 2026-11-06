@@ -1,0 +1,61 @@
+The user is asking me to write a four-line poem (四句诗) about autumn night (秋夜) in Chinese, without explanation.
+
+Let me compose a classical Chinese quatrain (绝句 style) about autumn night. I should aim for good imagery, perhaps with classical elements like moon, dew, frost, leaves, geese, etc.
+
+Let me try:
+
+金风吹冷一天霜，
+落叶萧萧满石廊。
+雁字横空秋月白，
+寒蛩声里夜初长。
+
+Or something simpler:
+
+月挂疏桐夜色凉，
+一庭落叶伴清霜。
+雁声远过秋千里，
+独倚阑干思故乡。
+
+Let me refine. A good 七言绝句 about autumn night:
+
+秋夜
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+南飞雁字书明月，
+一枕寒蛩入梦长。
+
+Let me check tonal patterns loosely - user probably just wants a nice poem, not strict tonal compliance, but I'll aim for reasonable flow and rhyme.
+
+凉 (liáng), 霜 (shuāng), 长 (cháng) - these rhyme in -ang. Good.
+
+Line 3 doesn't need to rhyme in a 绝句. 明月 ends with 月 which is fine.
+
+Let me polish:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+一行秋雁穿云去，
+搅碎清辉月满窗。
+
+Hmm, "月满窗" - 窗 rhymes too.
+
+Alternative:
+
+疏星淡月夜初凉，
+风卷梧桐叶叶黄。
+雁过南云声渐远，
+一帘秋梦桂荷香。
+
+Let me pick a coherent, evocative one:
+
+秋夜
+
+银汉迢迢玉露凉，
+梧桐叶落满庭霜。
+雁声远逐流云去，
+独对寒灯夜正长。
+
+Rhymes: 凉、霜、长. Good imagery: Milky Way, dew, wutong leaves falling, frost, geese cries chasing clouds, alone facing cold lamp, night is long. Coherent autumn night theme with loneliness.
+
+I'll present just the poem, maybe with a title. The user said no explanation, so just the poem.

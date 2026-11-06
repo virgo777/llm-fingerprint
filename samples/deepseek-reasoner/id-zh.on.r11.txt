@@ -1,0 +1,1 @@
+我是由**深度求索（DeepSeek）公司**开发的 AI 助手，模型名称为 **DeepSeek**。具体部署版本可能因产品入口而异，通常可称为 **DeepSeek 模型/DeepSeek 助手**。

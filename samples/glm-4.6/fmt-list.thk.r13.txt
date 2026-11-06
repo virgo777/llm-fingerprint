@@ -1,0 +1,39 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Explain the precautions/points of attention for daily drinking water in three points."
+
+This is a simple informational request about daily water drinking habits. I should provide three key points about precautions for drinking water in daily life.
+
+Let me think about the most important points for daily water drinking:
+
+1. **不要等口渴才喝水** (Don't wait until you're thirsty to drink water) - Thirst is a late signal of dehydration; you should drink water regularly throughout the day, in small amounts multiple times.
+
+2. **注意水温适宜** (Pay attention to water temperature) - Avoid drinking very cold or very hot water; lukewarm water (around 20-40°C) is best for the body.
+
+3. **喝水要适量,不要一次性大量饮水** (Drink in moderation, don't drink large amounts at once) - Drinking too much water at once can burden the kidneys and dilute electrolytes. Also could mention: drink about 1500-2000ml per day for adults.
+
+Other possible points:
+- 早晨起床后喝一杯温水
+- 饭前饭后不宜大量喝水
+- 不喝生水
+- 运动后不要立即大量喝冰水
+- 睡前不宜大量饮水
+
+I'll pick the three most practical and important ones:
+
+1. 主动喝水,不要等口渴才喝 - drink proactively, small amounts frequently
+2. 水温适宜,避免过冷过热 - appropriate temperature
+3. 适量饮水,避免一次性暴饮 - moderate amounts, avoid drinking too much at once
+
+Format: The user asked for three points (三点), so I should structure this as three numbered points. The response should be in Chinese since the question is in Chinese. Each point should have a clear heading and brief explanation. This should be concise but informative - not too long. Using numbered list format is appropriate here since they explicitly asked for three points.
+
+Let me write this out:
+
+**1. 主动喝水,不要等口渴才喝**
+口渴时身体已经处于缺水状态,建议全天分次饮水,每次100-200毫升左右,成年人每天总量约1500-2000毫升。
+
+**2. 水温要适宜**
+过烫的水会损伤口腔和食道黏膜,过冰的水会刺激肠胃,尤其晨起时喝一杯温开水(约20-40℃)最佳。
+
+**3. 喝水要适量,忌一次猛灌**
+短时间内大量饮水会加重肾脏负担,还可能稀释体内电解质,引起"水中毒"。应少量多次、细水长流。
+
+This is good. Maybe I can add brief additional tips but the user asked specifically for three points, so I'll keep it to exactly three. I could add a small closing sentence but it's optional. Keep it clean and focused.

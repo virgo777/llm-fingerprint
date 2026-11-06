@@ -1,0 +1,45 @@
+The user is asking me to explain daily drinking water precautions with three points, in Chinese. This is a simple, helpful request about health tips for drinking water.
+
+Let me think about what the three most important points about daily water drinking would be:
+
+1. **适量饮水,不要等口渴才喝** - The body needs continuous hydration; thirst is a sign of mild dehydration. Adults should drink about 1500-2000ml per day, spread throughout the day.
+
+2. **不要喝太烫或太冰的水** - Water temperature matters. Very hot water (above 65°C) can damage the esophagus and may increase cancer risk. Very cold water can irritate the stomach.
+
+3. **避免一次大量饮水,少量多次** - Drinking large amounts at once can burden the kidneys and dilute electrolytes. Better to drink small amounts frequently.
+
+Other possible points:
+- 晨起喝一杯温水 - beneficial habit
+- 睡前不宜大量饮水 - to avoid nighttime bathroom trips and morning edema
+- 饭后不宜立即大量饮水
+- 不喝生水
+- 运动后补水注意事项
+- 特殊人群(肾病患者等)需控制饮水量
+
+The user asked for exactly three points, so I should pick the three most important/common ones. Let me choose:
+
+1. 少量多次,不要等口渴才喝
+2. 水温适宜
+3. 特定时段的注意事项(晨起/睡前)or 避免一次性大量饮水
+
+Actually, let me structure this well. The format should be:
+- A brief intro (optional, can skip or keep very short)
+- Three numbered points with headers and brief explanations
+- Maybe a closing note (optional)
+
+The response should be in Chinese since the question is in Chinese. It should be moderately detailed but not overly long - three clear points with 2-3 sentences of explanation each would be appropriate.
+
+Let me draft:
+
+**1. 少量多次饮水,不要等口渴才喝**
+口渴时身体已经处于轻度缺水状态。建议每天饮水1500~2000毫升(约7~8杯),分多次少量饮用,每次100~200毫升左右,让身体持续保持水分平衡。
+
+**2. 注意水温,避免过烫或过冰**
+长期饮用65°C以上的热水会烫伤口腔和食道黏膜,增加食道疾病风险;过冰的水则会刺激肠胃,可能引起不适。温开水(20~40°C)是最理想的选择。
+
+**3. 特殊时间段的饮水讲究**
+- 晨起空腹喝一杯温水,有助于补充夜间流失的水分、促进肠胃蠕动;
+- 睡前不宜大量饮水,以免夜间频繁起夜或造成晨起水肿;
+- 剧烈运动后不要一次性猛灌,应少量多次补充。
+
+That's a good structure. Format-wise, numbered points with bold headers work well here. Length seems appropriate - informative but concise.

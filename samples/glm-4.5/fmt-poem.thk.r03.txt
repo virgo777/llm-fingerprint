@@ -1,0 +1,70 @@
+The user is asking me to write a four-line poem about an autumn night, in Chinese. They explicitly say "不要解释" (no explanation needed).
+
+Let me compose a classical Chinese four-line poem (绝句 style) about autumn night. I should think about imagery: moon, frost, osmanthus, crickets, cold dew, geese, wind, falling leaves.
+
+Let me craft something with proper imagery and perhaps rhyme:
+
+Option 1:
+月冷霜华落满庭，
+梧桐叶下听寒星。
+虫声渐歇风声起，
+一枕秋凉梦不成。
+
+Let me check the rhyme: 庭 (tíng), 星 (xīng), 成 (chéng) - these rhyme reasonably in -ing/-eng which often rhyme in modern Chinese poetry conventions.
+
+Let me refine:
+
+秋夜
+银汉迢迢月满楼，
+梧桐叶落一庭秋。
+虫声唧唧凉如水，
+独倚阑干数雁愁。
+
+Hmm, "数雁愁" is a bit awkward. Let me try:
+
+月落乌啼霜满天 - that's borrowed from 张继's 枫桥夜泊, shouldn't copy.
+
+Let me write original:
+
+寒露无声湿桂丛，
+一轮秋月照帘栊。
+虫吟渐向更深悄，
+只有西风送雁鸿。
+
+Rhyme: 丛 (cóng), 栊 (lóng), 鸿 (hóng) - all -ong rhymes. Good.
+
+Or simpler and more evocative:
+
+霜月侵阶桂影斜，
+虫声唧唧落谁家。
+夜凉如水秋无际，
+一雁横空带月华。
+
+Rhyme: 斜 (xié/xiá in old pronunciation), 家 (jiā), 华 (huá) - 斜 in classical reading is xiá, rhymes with 家 and 华. That's a classic rhyme.
+
+Let me polish:
+
+秋夜
+霜月侵窗桂影斜，
+虫声寂寂落谁家。
+夜凉如水人无寐，
+一雁横空碎月华。
+
+"碎月华" - the goose crossing breaks the moonlight, nice imagery.
+
+Actually "虫声寂寂" is contradictory - 寂寂 means quiet, but 虫声 is sound. Maybe 虫声细细 or 虫吟细细.
+
+霜月侵窗桂影斜，
+虫吟细细落谁家。
+夜凉如水人无寐，
+一雁横空掠月华。
+
+Hmm "掠月华" or "破月华" or "带月华". "一雁横空掠月华" works.
+
+Final check on tones (平仄) roughly:
+霜月侵窗桂影斜 - 平仄平平仄仄平 - decent
+虫吟细细落谁家 - 平平仄仄仄平平 - good
+夜凉如水人无寐 - 仄平平仄平平仄 - okay
+一雁横空掠月华 - 仄仄平平仄仄平 - good
+
+Close enough to regulated verse. The user just wants a poem, no explanation. So I should output just the poem, maybe with a title, but they said no explanation. A title might be fine but even that could be unnecessary. Just the four lines is safest. Actually giving a title like 《秋夜》 is fine and traditional, but since they asked for a poem on the theme 秋夜 without explanation, I'll just give the four lines. Maybe include the title—it's minimal. I'll include 《秋夜》as title or just the lines. To be safe and clean, just four lines without any commentary.

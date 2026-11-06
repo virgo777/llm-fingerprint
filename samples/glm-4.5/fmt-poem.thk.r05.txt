@@ -1,0 +1,22 @@
+The user wants a four-line poem about an autumn night (秋夜), with no explanation. They're writing in Chinese, so I should respond in Chinese with a classical-style poem.
+
+Let me compose a four-line poem (likely 五言 or 七言) about autumn night themes: moon, frost, leaves, wind, geese, chrysanthemums, dew, cold, etc.
+
+Let me write a 七言绝句 style poem:
+
+秋夜
+
+月冷疏桐叶半黄，
+西风入户送微凉。
+一行雁字横天远，
+满地清霜伴夜长。
+
+Let me check the rhyme: 黄 (huáng), 凉 (liáng), 长 (cháng) - all rhyme with -ang. Good.
+
+Line by line:
+1. 月冷疏桐叶半黄 - The moon is cold, sparse parasol tree leaves half yellow
+2. 西风入户送微凉 - West wind enters the door bringing slight coolness
+3. 一行雁字横天远 - A line of geese stretches far across the sky
+4. 满地清霜伴夜长 - Frost covers the ground accompanying the long night
+
+This works well. No explanation needed as requested.

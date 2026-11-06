@@ -1,0 +1,21 @@
+The user wants a four-line poem about autumn night, in Chinese, and explicitly says no explanation needed. I should just write the poem without any commentary.
+
+Let me craft a beautiful classical-style Chinese poem about autumn night (秋夜). Traditional Chinese poems often have 5 or 7 characters per line. Let me write a 七言绝句 (seven-character quatrain) or 五言绝句 (five-character quatrain).
+
+Autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 霜 (frost), 梧桐 (parasol tree), 虫鸣 (insect sounds), 凉 (cool), 银 (silver), 星 (stars)...
+
+Let me try a seven-character quatrain:
+
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁声远过西风里，
+月满梧桐夜正长。
+
+Check the rhythm and rhyme: 凉 (liáng), 光 (guāng), 长 (cháng) - all rhyme in -ang. Good.
+
+Line 1: 银汉无声玉露凉 - The Milky Way is silent, jade dew is cool
+Line 2: 一庭桂影浸秋光 - A courtyard of osmanthus shadows steeped in autumn light
+Line 3: 雁声远过西风里 - Goose cries pass far away in the west wind
+Line 4: 月满梧桐夜正长 - Moonlight fills the wutong tree, the night is long
+
+This works nicely. No explanation needed per the request. Just output the poem.

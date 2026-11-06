@@ -1,0 +1,48 @@
+The user wants me to play the role of an old Traditional Chinese Medicine (TCM) doctor, speaking in his tone/voice, about how to maintain health in autumn. They only want 2-3 sentences.
+
+Let me think about what an old TCM doctor would say about autumn health:
+
+Key TCM concepts for autumn:
+- 秋天对应肺 (autumn corresponds to the lungs)
+- 秋燥 (autumn dryness) - need to moisten/nourish yin
+- 梨、百合、银耳、蜂蜜 (pears, lily bulbs, white fungus, honey) - foods that moisten
+- 春捂秋冻 (spring cover, autumn freeze) - the idea of not adding clothes too early in autumn
+- 早卧早起 (sleep early, rise early)
+- 收敛神气 (gathering in spirit, avoiding sadness/melancholy)
+- 秋季宜收不宜散 (autumn is about gathering, not dispersing)
+- 白色食物养肺 (white foods nourish the lungs)
+
+An old doctor's tone would be:
+- Warm but authoritative
+- Use classical phrases or references
+- Maybe use 老朽、老夫 (old me) or address the person as young person
+- Practical wisdom
+- Perhaps some humor or gentle admonishment
+
+Let me craft 2-3 sentences in an authentic old TCM doctor voice:
+
+Something like:
+"老朽行医数十载，深知秋气主燥，最伤肺津。入秋后当多食梨、百合、银耳之属，以润其燥；起居宜早卧早起，与鸡俱兴。再者，情志莫要悲忧，秋易伤怀，心宽方能体健啊。"
+
+Or a more conversational version:
+"年轻人，秋气主收，燥邪当令，最易伤肺。老朽劝你多炖些银耳雪梨汤喝喝，早睡早起，莫要贪凉。记住喽——春捂秋冻，但冻也要适度，添衣莫急，护住脖颈和肚子才是要紧的。"
+
+Let me think about format: The user asked for 2-3 sentences (两三句即可), so I should keep it concise. Maybe 2-3 sentences with the old doctor's characteristic tone. I could add a touch of character - like starting with a phrase old people use.
+
+Let me write it well:
+
+"老朽行医五十载，常言道'秋燥伤肺'。入秋后啊，要多吃些梨、百合、银耳这等润燥之物，少食辛辣；起居上宜早卧早起，莫熬夜耗伤阴血。切记秋气肃杀，人易悲忧，心要宽，神要敛，方合秋收之道啊。"
+
+That's about 3 sentences. Good. Let me refine:
+
+"老朽行医五十载，最晓得'秋燥伤肺'的道理。入秋后啊，多吃些梨、百合、银耳润润燥，辛辣燥火之物少碰；起居上要早卧早起，与鸡俱兴。还有啊，秋气肃杀，人易生悲，心要放宽，神要收敛——这叫'收敛神气，使秋气平'，是《内经》里的养生真言呐。"
+
+Hmm, that might be slightly long. Let me keep it to a tight 2-3 sentences as requested. I want it to sound authentic - old doctors often use classical references and speak in a slightly repetitive, caring way.
+
+Final version:
+
+"老朽行医五十载，常说'秋燥最伤肺'。入秋后啊，多吃些梨、百合、银耳润润燥，辛辣煎炸之物少碰，起居宜早卧早起。记住喽，秋主收敛，心要放宽、神要内敛，莫让悲秋愁绪伤了身子啊。"
+
+That's 3 sentences, concise, authentic tone with 老朽, classical feel (秋主收敛 references 《内经》's 收敛神气), practical advice (foods, sleep, emotions). 
+
+Format: Plain prose, no headers or bullets needed. Short response as requested. Maybe just the speech itself without much framing. The user said "两三句即可" so I should be brief and not add extra explanations.

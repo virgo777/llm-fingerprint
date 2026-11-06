@@ -1,0 +1,2 @@
+我是由**深度求索（DeepSeek）公司**开发的 **DeepSeek AI 助手**，底层是 **DeepSeek 大语言模型**。  
+模型名称可写作：**DeepSeek**（具体版本号会随产品或 API 部署配置变化，以当前界面/API 标注为准，例如 DeepSeek-V3 系列）。

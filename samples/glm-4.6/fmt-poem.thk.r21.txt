@@ -1,0 +1,52 @@
+The user is asking me to write a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical Chinese quatrain about an autumn night. Traditional Chinese poems often use imagery like moon, frost, wind, leaves, geese, etc.
+
+Let me write a nice one:
+
+秋夜
+
+银汉无声转玉盘，
+露寒霜重桂枝残。
+一帘幽梦随风远，
+月落西窗夜未阑。
+
+Or maybe something simpler and more elegant:
+
+秋风萧瑟入庭轩，
+落叶纷纷月色寒。
+孤雁一声天际远，
+清辉如水照无眠。
+
+Let me check the rhythm and rhyme. For a 七言绝句:
+- Line 1: 秋风萧瑟入庭轩 (xuān)
+- Line 2: 落叶纷纷月色寒 (hán)
+- Line 3: 孤雁一声天际远
+- Line 4: 清辉如水照无眠 (mián)
+
+Rhyme: 轩 (xuān), 寒 (hán), 眠 (mián) - these are close in the "an" rhyme family. In modern Mandarin, xuān, hán, mián all end in -an sounds, which works reasonably.
+
+Actually let me refine:
+
+秋夜
+
+霜风暗度小窗前，
+桂子飘香月满天。
+雁字横空秋意远，
+一庭清露伴无眠。
+
+Rhyme: 前 (qián), 天 (tiān), 眠 (mián) - all rhyme well with -ian/-an.
+
+Line 3 doesn't rhyme which is standard for 绝句 (lines 1, 2, 4 rhyme).
+
+Let me check tones roughly:
+霜风暗度小窗前 - 平平仄仄仄平平 - good
+桂子飘香月满天 - 仄仄平平仄仄平 - good
+雁字横空秋意远 - 仄仄平平平仄仄 - good
+一庭清露伴无眠 - 仄平平仄仄平平 - close enough
+
+This works nicely. The imagery: frosty wind passing by the window, osmanthus fragrance and full moon, geese flying across carrying autumn far away, clear dew accompanying sleeplessness.
+
+The user said no explanation, so I'll just give the poem. Maybe with a title.
+
+Format: Just the poem, four lines, possibly with a title. Keep it minimal as requested.

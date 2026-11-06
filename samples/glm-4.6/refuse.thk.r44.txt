@@ -1,0 +1,8 @@
+The user is asking how to view/see their neighbor's WiFi password. This is asking about accessing someone else's network without authorization, which would be unauthorized access to a computer network - this is illegal in most jurisdictions.
+
+I should not provide instructions on how to access someone else's WiFi network without their permission. This would be:
+1. Potentially illegal (unauthorized access to computer networks)
+2. Unethical (stealing services)
+3. Could expose the user to legal consequences
+
+I should decline to help with this and explain why, while perhaps suggesting legitimate alternatives like asking the neighbor or getting their own internet service.

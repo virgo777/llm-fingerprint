@@ -1,0 +1,40 @@
+The user is asking about "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM). They want a detailed introduction of about 400 characters/words in Chinese.
+
+This is a factual, educational question about traditional Chinese medicine theory. Let me write a comprehensive but concise explanation.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+四诊合参 emphasizes that these four methods should be used together, not in isolation, to comprehensively understand the patient's condition. This is the principle of "诸诊合参" or combining all diagnostic information to make an accurate syndrome differentiation (辨证).
+
+The concept originates from classic texts like 《黄帝内经》 and was further developed in 《难经》. The famous saying "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧" comes from 《难经》.
+
+Key points to cover:
+1. Definition of 四诊合参
+2. Brief explanation of each of the four methods
+3. The significance of combining them (why not just one method)
+4. Its role in 辨证论治
+
+The user wants about 400 characters. Let me structure this well with clear organization. Since they asked for ~400 字, I should aim for that length. I could use headers or a flowing prose format. Given it's an educational explanation, a mix might work well - perhaps a brief intro, then the four methods, then the significance of combining them.
+
+Let me draft:
+
+中医"四诊合参"是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者病情资料，并综合分析、相互参照，从而对疾病作出正确判断的过程。
+
+四诊的具体内容：
+1. 望诊：观察患者的神、色、形、态及舌象等，如"望神"可判断精气盛衰，舌诊可反映脏腑虚实。
+2. 闻诊：包括听声音（语声、呼吸、咳嗽等）和嗅气味（口气、体味等）。
+3. 问诊：通过询问了解起病原因、症状特点、既往病史、饮食起居等，是获取病情信息的重要途径。
+4. 切诊：包括脉诊和按诊，通过触按脉搏和身体相关部位，探查体内病变。
+
+为何要"合参"：
+每一诊法都有其独特价值和局限性，单凭某一诊法容易误诊。如"脉症不符"时，须四诊互参、去伪存真，才能抓住疾病本质。
+
+四诊合参是"辨证论治"的前提，体现了中医整体观念——将人体视为有机整体，通过全面诊察实现"审证求因"、"司外揣内"的诊断目的。
+
+That's roughly 400 characters. Let me count and refine. Actually Chinese 字 counting - the draft above is around 380-420 characters which fits well.
+
+Format considerations: The user asked for a detailed introduction of ~400 characters. A structured format with headers or numbered points would make it clear and readable. Given the length request, I should keep it concise but informative. Using markdown formatting with sections would be appropriate for this educational content.

@@ -1,0 +1,86 @@
+The user is asking me to write a four-line poem in Chinese with the theme of autumn night, and explicitly says not to explain.
+
+Let me write a classical Chinese quatrain (四句诗) about autumn night (秋夜). I should make it evocative, using traditional imagery associated with autumn nights: moon, frost, leaves falling, cool wind, crickets, etc.
+
+Let me craft a nice quatrain. Traditional Chinese poems often use 5 or 7 characters per line. Let me try a 7-character version:
+
+秋夜
+
+银汉迢迢月满楼，
+梧桐叶落露华流。
+风前一雁惊寒起，
+万里砧声入夜愁。
+
+Let me check the imagery:
+- 银汉迢迢月满楼 - The Milky Way stretches far, moonlight fills the tower
+- 梧桐叶落露华流 - Wutong leaves fall, dew flows
+- 风前一雁惊寒起 - A wild goose rises startled by the cold in the wind
+- 万里砧声入夜愁 - The sound of washing mallets from thousands of miles brings night sorrow
+
+That's a decent classical-style poem. Let me refine the tones and rhyme. The rhyme should be on lines 1, 2, 4 (or 2 and 4). 楼 (lóu), 流 (liú), 愁 (chóu) - these rhyme in the "尤" rhyme group. Good.
+
+Alternatively, a 5-character version:
+
+秋夜
+凉月满庭秋，
+虫声入夜幽。
+风吹桐叶落，
+清露滴枝头。
+
+Rhyme: 秋 (qiū), 幽 (yōu), 头 (tóu) - also rhymes.
+
+Let me go with the 7-character version as it's more elegant. Let me polish:
+
+银汉无声月满楼，
+梧桐叶落露初流。
+风前一雁惊寒起，
+带得砧声万里愁。
+
+Hmm, let me think about the tonal patterns (平仄) briefly, though for a modern casual request, perfect adherence isn't strictly necessary, but good rhythm helps.
+
+银汉无声月满楼 (yín hàn wú shēng yuè mǎn lóu) - 平仄平平仄仄平
+梧桐叶落露初流 (wú tóng yè luò lù chū liú) - 平平仄仄仄平平
+风前一雁惊寒起 (fēng qián yī yàn jīng hán qǐ) - 平平仄仄平平仄
+带得砧声万里愁 (dài dé zhēn shēng wàn lǐ chóu) - 仄仄平平仄仄平
+
+This flows reasonably well. The imagery: silent Milky Way, moonlight on the tower, wutong leaves falling with fresh dew, a goose startled by cold taking flight, carrying the sorrow of distant washing mallets (a traditional autumn image of women beating clothes for distant loved ones).
+
+Actually "带得砧声万里愁" - a goose carrying the sound of mallets is a bit of a mixed metaphor. Let me reconsider.
+
+Alternative last two lines:
+雁字横空秋意远，
+一声砧杵动乡愁。
+
+Or:
+一雁横空霜满地，
+数声砧杵动乡愁。
+
+Let me structure:
+银汉无声月满楼，
+梧桐叶落露初流。
+雁声惊破长天梦，
+万里霜风动客愁。
+
+Hmm. Let me simplify and keep it clean:
+
+秋夜
+银汉无声月满楼，
+梧桐叶落露初流。
+一枝寒桂香浮动，
+吹尽西风万里秋。
+
+Rhyme: 楼, 流, 秋 - all rhyme. 
+
+- 银汉无声月满楼 - Milky Way silent, moonlight fills the tower
+- 梧桐叶落露初流 - wutong leaves fall, dew begins to flow
+- 一枝寒桂香浮动 - a branch of cold osmanthus, fragrance drifts
+- 吹尽西风万里秋 - the west wind blows across ten thousand miles of autumn
+
+Ending with 秋 as the rhyme character and the theme word is nice. 
+
+Check line 3: 一枝寒桂香浮动 - 平平平仄平平仄, okay.
+Line 4: 吹尽西风万里秋 - 平仄平平仄仄平, okay.
+
+This is good. The user said no explanation, so I should just output the poem, possibly with a title.
+
+Format: Just the title and four lines. Short and clean. No explanation as requested.

@@ -1,0 +1,30 @@
+The user is asking me to write a four-line poem on the theme of autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical-style Chinese quatrain (绝句) about an autumn night. Traditional Chinese quatrains often follow tonal patterns and rhyme schemes. Let me think about imagery associated with autumn nights: moon, frost, falling leaves, crickets/cold insects, dew, osmanthus flowers, cold windows, etc.
+
+Let me draft:
+
+秋夜
+
+月冷霜华满院秋，
+虫声渐歇夜悠悠。
+风吹落叶敲窗纸，
+一盏孤灯照客愁。
+
+Let me check the rhyme: 秋 (qiū), 悠 (yōu), 愁 (chóu) — these rhyme in the "尤" rhyme group (ou/iu sounds). Good.
+
+Line 1: 月冷霜华满院秋 — "The moon is cold, frost covers the autumn courtyard"
+Line 2: 虫声渐歇夜悠悠 — "Insect sounds gradually fade, the night stretches long"
+Line 3: 风吹落叶敲窗纸 — "Wind blows fallen leaves tapping on window paper"
+Line 4: 一盏孤灯照客愁 — "A single lonely lamp illuminates a traveler's sorrow"
+
+This has good classical imagery. Let me check tonal patterns roughly (平仄):
+
+Line 1: 月冷霜华满院秋 — 仄仄平平仄仄平 ✓ (仄起平收)
+Line 2: 虫声渐歇夜悠悠 — 平平仄仄仄平平 ✓
+Line 3: 风吹落叶敲窗纸 — 平平仄仄平平仄 ✓
+Line 4: 一盏孤灯照客愁 — 仄仄平平仄仄平 ✓
+
+That's a proper 七绝 pattern (仄起首句入韵).
+
+The user said no explanation, so I should just present the poem cleanly. Format: just the four lines, maybe with a title. Keep it minimal per the request.

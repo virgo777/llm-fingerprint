@@ -1,0 +1,49 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain the precautions for daily drinking water."
+
+This is a simple informational request. The person wants three points about things to pay attention to when drinking water daily. This is a common health/lifestyle topic.
+
+Let me think about what are the most important points about daily water drinking habits:
+
+1. **Amount and frequency** - Don't wait until you're thirsty to drink; drink water in small amounts multiple times throughout the day. About 1500-2000ml per day for adults, spread evenly.
+
+2. **Temperature** - Avoid drinking very hot water (can damage esophagus) or very ice-cold water (can irritate stomach). Warm water around 30-40°C is ideal.
+
+3. **Timing** - Drink water at appropriate times: morning after waking up, before meals (not too much), avoid drinking too much before bed (can cause nocturia and affect sleep).
+
+4. **Speed** - Don't gulp large amounts at once; drink slowly in small sips.
+
+5. **Water quality** - Use safe, clean drinking water; don't drink raw/unboiled water.
+
+6. **Don't substitute with beverages** - Sugary drinks shouldn't replace plain water.
+
+The user specifically asked for THREE points (三点), so I should provide exactly three main points. Let me pick the three most important/common ones:
+
+1. 适量适时饮水 - Appropriate amount and timing: don't wait until thirsty, small amounts frequently, ~1500-2000ml daily
+2. 注意水温 - Water temperature: warm water is best, avoid too hot or too cold
+3. 饮水速度和方式 - Drinking speed: small sips, don't chug; or could be about water quality/safety
+
+Actually, let me structure the three points well:
+
+**1. 主动饮水，少量多次**
+- 不要等口渴才喝水，口渴时身体已经缺水
+- 每天1500-2000毫升左右，分多次饮用
+- 每次喝100-200毫升即可，小口慢饮
+
+**2. 注意水温适宜**
+- 最适宜的水温是20-40℃左右的温开水
+- 过烫的水(超过65℃)会损伤食道黏膜，增加食管癌风险
+- 过冰的水会刺激肠胃，引起不适
+
+**3. 选择合适的时间和场合**
+- 早晨起床后喝一杯温水，补充夜间流失水分
+- 饭前不宜大量饮水，以免影响消化
+- 睡前不宜喝太多水，避免夜间起夜影响睡眠
+
+Or alternatively:
+**3. 优先选择白开水**
+- 白开水是最好的选择
+- 少喝含糖饮料，不能用饮料代替水
+
+Since they asked for three points, I should be organized and clear. The response should be in Chinese since the question is in Chinese.
+
+Format considerations: The user asked for three points, so a numbered list with brief explanations would be ideal. Not too long - each point should have a clear heading and 2-3 brief supporting details. Using markdown formatting with numbered points would work well here. Keep it concise but informative.

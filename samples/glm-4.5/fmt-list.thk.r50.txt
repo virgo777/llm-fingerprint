@@ -1,0 +1,37 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain precautions/matters to note about daily water drinking."
+
+This is a simple informational request about health tips regarding drinking water. The user wants exactly 3 points about things to pay attention to when drinking water daily.
+
+Let me think about the most important/commonly cited precautions for daily water drinking:
+
+1. **Don't wait until you're thirsty to drink** (不要等口渴才喝水) - Thirst is already a sign of mild dehydration. It's better to drink water regularly throughout the day, in small amounts, rather than waiting until you feel very thirsty.
+
+2. **Don't drink water too fast/too much at once** (不要一次喝太多太快) - Drinking large amounts of water quickly can burden the kidneys and may cause water intoxication (hyponatremia) in extreme cases. Small sips throughout the day are better.
+
+3. **Water temperature matters** (水温要适宜) - Avoid drinking ice-cold water (can irritate the stomach) and very hot water (can damage the esophagus - WHO says beverages above 65°C may increase cancer risk). Lukewarm water around 20-40°C is ideal.
+
+Other common points that could be used:
+- Drink a glass of water after waking up in the morning
+- Don't drink too much water right before bed (causes nocturia)
+- Don't replace water with sugary drinks
+- Drink less water before meals
+- Quality of water matters
+
+The user asked for exactly 3 points, so I should pick the 3 most important/valuable ones.
+
+Format considerations: The user asked for 3 points, so a numbered list format is appropriate. Since the question is in Chinese, I should respond in Chinese. I should keep it concise but informative - each point should have a brief explanation. This is a simple health tip question, so I don't need to be exhaustive. A clean numbered list with maybe 1-2 sentences of explanation per point would be ideal. Maybe a brief intro or just go straight to the points.
+
+Let me draft:
+
+**日常喝水的三个注意事项：**
+
+1. **不要等口渴了才喝水**
+   口渴时身体已经处于轻度缺水状态。建议全天分次少量饮水，例如每隔1-2小时喝100-200毫升，保持体内水分平衡。
+
+2. **避免一次性大量饮水或喝太快**
+   短时间大量饮水会加重肾脏负担，甚至可能引起"水中毒"（低钠血症）。小口慢饮更利于身体吸收。
+
+3. **注意水温适宜**
+   过烫的水（超过65°C）可能损伤食道黏膜，增加食道疾病风险；过冰的水则刺激肠胃。以20-40°C的温水最为适宜。
+
+This looks good. I could add a brief closing but it's not necessary. Actually, maybe a short intro line would be nice for completeness. Let me keep it clean and simple.

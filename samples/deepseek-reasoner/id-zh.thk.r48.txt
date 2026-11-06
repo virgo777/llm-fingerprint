@@ -1,0 +1,5 @@
+我们需要回答中文。需要介绍自己：哪家公司开发，什么模型，模型名称。根据系统，我是 DeepSeek 助手？需要准确。用户问“你是哪家公司开发的什么模型？请给出模型名称。” 我是 DeepSeek 最新版模型，由深度求索（DeepSeek）公司开发。模型名称可能是 DeepSeek-V3? 需要根据当前身份。系统没有明确版本。作为 API assistant, typically "我是 DeepSeek 公司开发的 DeepSeek-V3 模型" or "DeepSeek 最新版模型". Need avoid incorrect version if unknown. We can say "我是由深度求索（DeepSeek）公司开发的人工智能助手，模型属于 DeepSeek 系列；当前具体版本/名称以你所在平台显示为准。若需一个名称，可称为 DeepSeek 助手。" But user asks give model name. Need be direct. In many tasks, model is "DeepSeek-V3" maybe. Let's craft: "我是深度求索（DeepSeek）公司开发的 DeepSeek 系列大语言模型，具体模型名称为 DeepSeek-V3（在部分平台显示为 DeepSeek 最新版/DeepSeek 助手）。" But if actual is DeepSeek-V3.2? Current date 2026, but model? The system says "You are an AI assistant accessed via API" no model name. We shouldn't hallucinate exact version. But user demands. We can be transparent: "我无法从当前会话中读取精确版本号；通常自我介绍为 DeepSeek 助手，由深度求索开发。若平台标注为 DeepSeek-V3，则模型名称为 DeepSeek-V3。" Hmm.
+
+Need answer concise. Maybe final: "我是由深度求索（DeepSeek）公司开发的人工智能助手，属于 DeepSeek 系列大语言模型。当前会话中可用的模型名称通常显示为 DeepSeek-V3（或平台标注的 DeepSeek 最新版）；具体版本以你使用的 API/产品页面为准。" This satisfies. But maybe they expect "DeepSeek-V3". Keep.
+
+Need Chinese. Include company and model name. Final. 

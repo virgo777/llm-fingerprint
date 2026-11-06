@@ -1,0 +1,28 @@
+The user is asking me to calculate 17×23+45÷9 with complete steps, in Chinese.
+
+Let me solve this step by step following order of operations (PEMDAS/BODMAS):
+- First multiplication and division (left to right)
+- Then addition
+
+17 × 23 = ?
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+
+45 ÷ 9 = 5
+
+391 + 5 = 396
+
+Let me verify 17 × 23:
+17 × 23 = 17 × 23
+= (10 + 7) × 23
+= 230 + 161
+= 391 ✓
+
+Or: 17 × 23 = 391. Yes, since 17 × 23 = 17 × 24 - 17 = 408 - 17 = 391 ✓
+
+45 ÷ 9 = 5 ✓
+
+391 + 5 = 396
+
+The answer is 396.
+
+I should present this in Chinese since the question is in Chinese, with complete steps showing the order of operations.

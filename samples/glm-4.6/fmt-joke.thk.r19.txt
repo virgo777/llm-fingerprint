@@ -1,0 +1,74 @@
+The user is asking me in Chinese to tell a cold joke (冷笑话, which means a "lame" or "dad joke" style joke, often involving puns or nerdy humor) about programmers.
+
+Let me think of some good programmer jokes in Chinese. Programmer jokes often involve:
+- Puns on coding terms
+- Binary jokes (0 and 1, 10 jokes)
+- Bug jokes
+- 996 work culture
+- Hair loss jokes (programmers losing hair is a common stereotype in China)
+- Single/spending time with computer jokes
+
+Some classic ones:
+
+1. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+(The four things programmers hate most: writing comments, writing documentation, others not writing comments, others not writing documentation.)
+
+2. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25。（八进制的31等于十进制的25）
+(Why can't programmers tell Halloween from Christmas? Because Oct 31 == Dec 25. Octal 31 = 3×8+1 = 25 = Decimal 25. This is a classic English joke that works in Chinese too since Oct/Dec abbreviations work.)
+
+3. 一个程序员去面试，面试官问："你有什么优点？" 程序员说："我写的代码没有bug。" 面试官："那你有什么缺点？" 程序员："我说谎。"
+
+4. 程序员的老婆让他去买东西："儿子，去超市买一斤包子，如果看到卖西瓜的，买一个。" 儿子回来买了一个包子，因为看到了卖西瓜的。
+(This is a classic joke about literal interpretation of conditional logic: "buy a jin of baozi, if you see watermelon sellers, buy one" - the programmer son buys one baozi because he saw a watermelon seller. This is a very classic Chinese programmer joke.)
+
+5. 世界上的程序员分为两种：一种是懂二进制的，另一种是不懂的。
+(There are 10 types of people in the world: those who understand binary and those who don't.)
+
+6. 程序员最讨厌的事情是：自己的代码别人不动，别人的代码自己不动。
+
+7. Q: 程序员为什么要辞职去当面包师？A: 因为他想做出真正能跑（发酵）的东西。
+
+8. 程序员相亲，女方问："你有房吗？" 程序员说："有啊，机房。"
+
+9. 我不是不想回你消息，我在debug，已经三个小时了，问题出在我写代码的时候。
+
+10. 程序员的三大谎言：这个bug我马上修、这个功能很简单、注释里写的都对。
+
+Let me pick a good one or two. The classic 包子/西瓜 (baozi/watermelon) one is very well-known and genuinely funny for its portrayal of literal logic interpretation. The Oct 31 == Dec 25 joke is clever but requires knowing octal/decimal.
+
+I think I'll go with one main joke, maybe the classic one about buying baozi, and perhaps offer another or make it snappy. A good format would be to tell the joke cleanly and maybe add a brief punchline explanation if needed.
+
+Actually, let me craft one well. The baozi joke format:
+
+程序员的老婆对他说："去超市买一斤包子。如果看到卖西瓜的，就买一个。"
+程序员回来了，手里拿着一个包子。
+老婆问："怎么只买了一个包子？"
+程序员说："因为我看到卖西瓜的了。"
+
+This works because the instruction "如果看到卖西瓜的，就买一个" (if you see a watermelon seller, buy one) is ambiguous — the wife meant "buy one watermelon," but the programmer interpreted it as "if condition is true, then the quantity becomes one (baozi instead of a jin)."
+
+This is a genuinely good programmer joke that illustrates the conditional logic mindset. It's classic but reliably lands.
+
+Should I offer just one or give them a bonus? Keeping it concise is good for jokes — don't over-explain. Maybe tell one joke and offer to tell more if they want. Or tell one joke cleanly.
+
+Format considerations: The joke should be formatted as dialogue or short narrative lines. Chinese response since the question is in Chinese. Keep it punchy. Maybe add a one-line explanation subtly or not at all — the joke is self-explanatory to most. Actually a tiny wink at the end could enhance it.
+
+Let me write it:
+
+---
+
+程序员的老婆叮嘱他："下班买一斤包子回来。如果看到卖西瓜的，就买一个。"
+
+晚上程序员回到家，手里拿着一个包子。
+
+老婆："怎么就买了一个包子？！"
+
+程序员："因为我看到卖西瓜的了。"
+
+---
+
+Then maybe a small line like "——条件判断，严格执行。" or offer another one. I could add a brief note explaining the logic gag, but it might kill the joke. A light touch: "在程序员的世界里，指令就是指令。" 
+
+Or I can add a bonus second joke. Let me keep it to one solid joke plus a playful closing line offering more. That's good conversational format.
+
+Length: short, appropriate for a joke request. Use line breaks for dialogue delivery.

@@ -1,0 +1,56 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor and explain how to maintain health in autumn, in just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation (秋季养生):
+
+Key TCM concepts for autumn:
+1. 秋天属金，对应肺 - Autumn corresponds to metal element and the lungs
+2. 秋燥伤肺 - Autumn dryness harms the lungs
+3. 润肺 - Moistening the lungs (eating pear, lily bulb 百合, white fungus 银耳, honey 蜂蜜)
+4. 春捂秋冻 - Spring cover, autumn freeze (don't add clothes too quickly)
+5. 早卧早起 - Sleep early, rise early (from 黄帝内经)
+6. 收敛神气 - Gathering/converging the spirit, avoiding sadness/ melancholy (悲秋)
+7. 少辛增酸 - Reduce spicy food, increase sour foods
+8. 贴秋膘 - though this is more folk custom
+
+An old TCM doctor's tone would be:
+- Wise, experienced
+- Using classical references or TCM terminology
+- Gentle, advising manner
+- Maybe starting with "老朽" or "依老夫看" or similar self-references
+- Colloquial but with wisdom
+
+The request asks for just two or three sentences, so I need to be concise but flavorful.
+
+Let me draft something:
+
+Draft 1:
+"唉，秋气主燥，最伤肺气。老朽依行医四十年的经验看，这时节该多吃些梨、百合、银耳，润一润肺；早睡早起，莫要贪凉。心中也须放宽，秋日易生悲绪，情志舒畅，比吃什么补药都强。"
+
+That's about three sentences. Good tone with "老朽" self-reference.
+
+Draft 2 (maybe with more classical flavor):
+"《内经》有云：秋三月，此谓容平。眼下秋燥当令，最易伤肺，日常宜多食梨、百合、蜂蜜之属以润燥，辛辣燥热之物要少碰。再者，早卧早起，与鸡俱兴，心绪也要平和收敛，莫让那秋悲伤了身子。"
+
+Hmm, this is good too. Let me refine.
+
+The tone should feel like an old doctor speaking - maybe with some warmth, like "来，老朽跟你说..." or addressing the person.
+
+Let me combine and make it feel natural:
+
+"老朽行医数十载，深知秋气燥烈，最易伤肺。这个时节啊，当早卧早起，与鸡俱兴；饮食上多吃些梨、百合、银耳、蜂蜜这类润燥之物，辛辣煎炸的要少碰。还有一条要紧：秋易生悲，心境须得平和收敛，情志顺畅了，胜过千补百补。"
+
+That's three sentences. 
+
+Actually the format request: "两三句即可" - two or three sentences is enough. So I should keep it to 2-3 sentences. My draft is 3 sentences, which fits.
+
+Should I use any formatting? Given it's a roleplay with just a few sentences, plain prose is appropriate. No headers or bullets needed. Maybe just the speech itself, possibly with a slight conversational framing but since they asked me to speak in the doctor's voice, I should just deliver the lines.
+
+Let me polish the final version:
+
+"唉，老朽行医几十载，深知这秋气主燥，最伤肺津。眼下时节，饮食上宜多进梨、百合、银耳、蜂蜜之属以润燥，辛辣煎炸之物须少碰；起居上呢，早卧早起，与鸡俱兴。还有一句要紧的：秋风萧瑟，人易悲愁，心神务须收敛安宁——情志调和了，胜过千补百补哇。"
+
+This has a nice oral quality with "唉", "呢", "哇" particles that make it sound like spoken speech from an elderly doctor. It's three sentences (roughly).
+
+Let me check the length - it's appropriate, not too long. 
+
+Format: plain prose, no markdown needed. This is conversational roleplay.

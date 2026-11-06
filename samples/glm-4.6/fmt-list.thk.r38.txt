@@ -1,0 +1,27 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/considerations for daily water drinking."
+
+This is a simple, benign request asking for health information about drinking water in daily life. I should respond in Chinese since the question is in Chinese.
+
+Let me think about what three key points to cover about daily water drinking considerations:
+
+1. **水量适宜** - Don't wait until thirsty to drink; drink adequate amounts throughout the day. Generally 1500-2000ml per day for adults. Don't drink too much at once.
+
+2. **水温适中** - Avoid drinking ice-cold water or very hot water. Lukewarm water (around 20-40°C) is best for the body.
+
+3. **饮水时机/方式** - Drink small amounts multiple times rather than gulping large amounts at once. Don't wait until thirsty (thirst indicates mild dehydration already). Drink water in the morning after waking up, before meals, etc.
+
+Other considerations could include:
+- 不要用饮料代替白开水
+- 饭前饭后不宜大量饮水
+- 运动后不要立即大量饮冰水
+- 睡前不宜大量喝水
+
+Let me structure this as three clear points in Chinese:
+
+1. **主动饮水，不要等口渴才喝** - Drink proactively, don't wait until thirsty. When you feel thirsty, your body is already mildly dehydrated. Adults should drink about 1500-1700ml (about 7-8 cups) per day, spread evenly throughout the day.
+
+2. **少量多次，避免一次性猛喝** - Drink in small amounts multiple times, avoid gulping large amounts at once. Each time about 100-200ml is appropriate. Drinking too fast/too much at once can burden the heart and kidneys, and can cause water intoxication in extreme cases.
+
+3. **水温适宜，白开水为佳** - Water temperature should be moderate; plain boiled water is best. Avoid ice water which irritates the stomach, and very hot water (over 65°C) which may damage the esophagus. Lukewarm water around 20-40°C is ideal. Try not to replace water with sugary drinks.
+
+Format considerations: The user asked for three points, so I should use a numbered list format with three clear points. Each point should have a brief header/summary and then explanation. The response should be in Chinese. Medium length is appropriate - detailed enough to be useful but not overly long. Using markdown numbered list with bold headers would work well for clarity.

@@ -1,0 +1,44 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/considerations for daily water drinking."
+
+This is a simple health/lifestyle question asking for three points about daily water drinking habits. I should respond in Chinese since the question is in Chinese.
+
+Let me think about the key considerations for drinking water daily:
+
+1. **喝水的量** - Don't drink too much at once; drink in small amounts throughout the day. The common recommendation is about 1500-2000ml per day for adults. Avoid waiting until thirsty to drink.
+
+2. **喝水的时间** - Drink water in the morning after waking up, before meals (not too much), don't drink too much before bed to avoid nocturia.
+
+3. **水温** - Avoid drinking very cold or very hot water; lukewarm water (around 30-40°C) is best for the body.
+
+4. **不要用饮料代替水** - Sugary drinks, coffee, tea shouldn't replace plain water.
+
+5. **不要等口渴才喝水** - By the time you feel thirsty, you're already slightly dehydrated.
+
+6. **喝水速度** - Drink slowly, don't gulp down large amounts quickly, which can burden the heart/kidneys.
+
+The user asked for THREE points specifically, so I should organize my answer into three clear points. Let me pick the three most important/practical ones:
+
+1. **主动喝水，少量多次** (Drink proactively, small amounts multiple times) - Don't wait until thirsty; distribute intake throughout the day; about 1500-1700ml per day.
+
+2. **注意水温适宜** (Pay attention to water temperature) - Avoid ice-cold water or scalding hot water; lukewarm is best.
+
+3. **避免用饮料代替白开水** (Avoid replacing plain water with beverages) - Sugary drinks add calories and don't hydrate as effectively.
+
+Or I could include timing:
+- 早晨起床后喝一杯温水 (drink a glass of warm water after waking)
+- 睡前不宜大量喝水 (don't drink too much before bed)
+
+Let me structure a good three-point answer:
+
+**一、主动、少量多次饮水**
+不要等口渴了才喝水。口渴时身体已经处于轻度缺水状态。建议每天饮水1500~1700毫升（约7-8杯），分多次饮用，每次100-200毫升左右。晨起后喝一杯温水有助于唤醒肠胃。
+
+**二、注意水温适宜**
+过烫的水（超过65°C）会损伤口腔和食道黏膜，长期可能增加食道癌风险；过冰的水则刺激肠胃，可能引起不适。温水（35-40°C左右）最适宜。
+
+**三、不要用饮料代替白开水**
+含糖饮料、咖啡、浓茶等不能替代白开水。含糖饮料会增加糖分摄入，长期饮用可能导致肥胖、血糖问题；咖啡和浓茶有利尿作用，且会影响部分矿物质吸收。
+
+This is a good structure. The format should be clear with three numbered points, each with a brief explanation. Since the user explicitly asked for three points, a numbered list format is appropriate. I should keep it concise but informative - each point can have 2-3 sentences of explanation. The response should be in Chinese.
+
+Length: Medium - three points with brief explanations each. Using markdown with numbered points would work well here since it's a structured request.

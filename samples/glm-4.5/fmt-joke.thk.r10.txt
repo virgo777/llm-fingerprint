@@ -1,0 +1,68 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers. This is in Chinese. "冷笑话" literally means "cold joke" - it's a type of joke that's intentionally corny, punny, or groan-worthy, similar to "dad jokes" in English culture.
+
+Let me think of some good programmer jokes in Chinese. Programmer humor often involves:
+1. Puns on programming terms
+2. Jokes about programmers' lifestyle (staying up late, drinking coffee, etc.)
+3. Logic jokes
+4. Binary jokes
+5. Bugs and debugging jokes
+
+Some classic Chinese programmer jokes:
+
+1. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+(The four things programmers hate most: writing comments, writing documentation, others not writing comments, others not writing documentation.)
+
+2. 一个程序员去面试，面试官问："你有什么优点？"程序员说："我的代码没有bug。"面试官："那缺点呢？"程序员："我的代码也没有功能。"
+
+3. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+
+4. 世界上最遥远的距离不是生与死，而是你亲手制造的bug就在你眼前，你却找不到她在哪里。
+
+5. 程序员的妻子让他去买东西："买一斤包子，如果看到卖西瓜的，买一个。"程序员回来的时候只带了一个包子。妻子问为什么，他说："因为我看到了卖西瓜的。"
+
+This last one is a classic! It plays on the programming logic - the instruction "买一斤包子，如果看到卖西瓜的，买一个" is ambiguous in natural language but the programmer interprets it literally like code:
+- Buy 1 jin of baozi
+- If you see a watermelon seller, buy one (which refers to one baozi, not one watermelon, because "买一个" refers back to the object in the previous clause in programmer logic)
+
+So the programmer bought one baozi because he saw a watermelon seller. This is a great 冷笑话 because it's about how programmers think literally in conditional logic.
+
+Another good one:
+
+6. 10种人：懂二进制的和不懂二进制的。
+
+7. 一个程序员的遗言："我这一生没有白活。"（因为他的一生都是0和1）
+
+8. 老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"程序员回家，手里只拿着一个包子。老婆生气地问："你怎么只买一个包子？！"程序员："因为我看到卖西瓜的了。"
+
+This is the classic version. Let me polish this joke for the answer.
+
+Or another one:
+
+9. 程序员离职后的第一天：终于不用上班了！第二天：好无聊。第三天：决定给生活写个自动化脚本。第四天：发现脚本有bug，修bug中……第五天：修完bug发现需要重构……
+
+10. 为什么程序员的工资比普通人高？因为他们天天解决"码"上的问题。
+
+Hmm, maybe some original-ish jokes or the classics. The baozi/watermelon one is probably the most famous Chinese programmer joke and fits "冷笑话" perfectly.
+
+Let me think about format: The user wants one joke (讲一个 = tell one). I should tell one good joke, maybe with a brief explanation or just the punchline. Keep it concise and fun. Maybe I can add a small comment or offer to tell more.
+
+Format considerations: This should be conversational and light. The joke itself should be formatted clearly, perhaps with dialogue formatting. Not too long. Chinese response since the user asked in Chinese.
+
+Let me write the baozi joke nicely:
+
+程序员的老婆对他说：
+"下班路上买十个包子，如果看到卖西瓜的，就买一个。"
+
+程序员回到家，手里只拿着一个包子。
+
+老婆怒了："怎么就买了一个包子？！"
+
+程序员一脸无辜："因为我看到卖西瓜的了。"
+
+Then maybe add a tiny note explaining the logic for those who don't get it, or just let it land. Actually for a 冷笑话, sometimes explaining kills it, but I could add a subtle wink. Or offer another one. Let me keep it clean - tell the joke, maybe a one-liner reaction, and offer more if they want.
+
+Actually the explanation: In programming, "if (看到卖西瓜的) { 买一个; }" where "买一个" refers to the earlier item (包子) per scope rules. The joke is that the programmer followed the instruction literally as code - the condition triggered, so he bought one baozi instead of ten.
+
+I'll present the joke and maybe a small punchline comment like "在程序员的脑子里，这段话的执行逻辑是：买十个包子 → 检测到西瓜摊 → 条件触发 → 重新执行'买一个包子'" - hmm, that might over-explain. A short witty note could work: "毕竟在他的世界里，指令就是这样执行的。"
+
+Keep it fun and light. Maybe end with offering to tell another one.

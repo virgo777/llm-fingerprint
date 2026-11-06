@@ -1,0 +1,40 @@
+The user is asking me to list the Four Great Classical Novels of Chinese literature with their titles and authors in a table format.
+
+The Four Great Classical Novels (四大名著) of Chinese literature are:
+
+1. 《三国演义》 - 罗贯中
+2. 《水浒传》 - 施耐庵
+3. 《西游记》 - 吴承恩
+4. 《红楼梦》 - 曹雪芹
+
+Let me create a table with this information. The user is writing in Chinese, so I should respond in Chinese.
+
+I should provide the table in a clear format. Since they explicitly asked for a table (表格), I should use markdown table format.
+
+Table structure:
+| 书名 | 作者 |
+
+Let me also consider adding the dynasty for additional context, but the user only asked for book titles and authors. I could add a small note about dynasties as extra helpful info, but keeping it focused on what was asked is also good. I'll include the dynasty as it's commonly helpful context, or I could keep it simple. Let me include dynasty as a bonus since it's commonly associated information - actually, the user asked specifically for 书名与作者, so I could just do that. But adding dynasty might be helpful. Let me just do what was asked but perhaps add a brief note.
+
+Actually, a simple table with book title and author is what was requested. I might add dynasty as extra value since it's such standard knowledge, but let me keep the main table to what was requested and perhaps mention dynasties briefly.
+
+I'll create a clean table:
+
+| 书名 | 作者 |
+|------|------|
+| 《三国演义》 | 罗贯中 |
+| 《水浒传》 | 施耐庵 |
+| 《西游记》 | 吴承恩 |
+| 《红楼梦》 | 曹雪芹 |
+
+I could add a note about 红楼梦's authorship (曹雪芹 wrote the first 80 chapters, 高鹗/无名氏 continued the last 40) but that might be too much detail for a simple request. A brief note could be valuable though.
+
+Let me also add dynasty information as it adds context - the four novels span Yuan/Ming to Qing dynasties:
+- 三国演义: 元末明初 - 罗贯中
+- 水浒传: 元末明初 - 施耐庵
+- 西游记: 明代 - 吴承恩
+- 红楼梦: 清代 - 曹雪芹
+
+I think adding the dynasty column would be helpful extra info without being excessive. But the user asked specifically for 书名与作者. I'll do the simple table they asked for, and maybe add a very brief supplementary note.
+
+Format: Should be concise. The request is simple and clear. A table plus maybe one line of context.

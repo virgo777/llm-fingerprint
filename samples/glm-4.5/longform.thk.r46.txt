@@ -1,0 +1,52 @@
+The user is asking about "四诊合参" (Four Diagnostic Methods Integration) in Traditional Chinese Medicine (TCM). They want a detailed introduction of about 400 characters (Chinese characters).
+
+Let me think about what "四诊合参" means:
+
+四诊 (Four Diagnostics) refers to:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's complexion, body shape, tongue, spirit (神), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse and palpating the body
+
+合参 (Hé cān) means combining/integrating these four methods for comprehensive analysis.
+
+Key points to cover:
+- Definition of 四诊合参
+- The four methods and their contents
+- Why integration is necessary (each method has limitations)
+- The holistic approach
+- Historical context (《难经》, 《黄帝内经》 mention these)
+- The principle of "四诊合参" ensures accurate syndrome differentiation (辨证)
+
+Structure for ~400 characters:
+1. Opening: What is 四诊合参 - a fundamental diagnostic principle in TCM
+2. Explain the four methods briefly
+3. Explain why they must be combined
+4. Conclusion about its significance
+
+Let me draft this in Chinese:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者的临床信息，并综合分析、相互参照，从而对病情作出准确判断。
+
+望诊，即观察患者的神、色、形、态及舌象等，如望神可判断精气盛衰，望舌可了解脏腑虚实；
+闻诊，包括听声音和嗅气味，如听呼吸、语言、咳嗽的声音变化，嗅分泌物的气味以辨病性；
+问诊，通过询问患者的起病经过、症状特点、既往史、生活习惯等，了解疾病的全貌；
+切诊，包括脉诊和按诊，通过触按脉搏与身体相关部位，探察内在病变。
+
+四诊各有侧重，也各有局限。仅凭单一诊法易致误诊，如"独取寸口"或只重舌象皆不可取。故临证须四诊并用、互为补充，将所获取的信息加以归纳综合，才能全面把握疾病的本质，为辨证论治提供可靠依据。
+
+四诊合参体现了中医整体观念，是辨证准确、论治有效的根本保证，至今仍是中医临床诊疗的核心方法。
+
+Let me count roughly - this should be around 400 characters. Let me refine.
+
+The format should be well-organized. Since they asked for ~400 characters, I should keep it concise but detailed. Using some structure (perhaps with the four methods explained) would be good. I could use a paragraph format or light structure. Given it's 400 characters, a few paragraphs would work well, maybe with slight formatting to distinguish the four methods.
+
+Let me count my draft:
+- Para 1: ~60 characters
+- Para 2 (four methods): ~200 characters
+- Para 3: ~100 characters
+- Para 4: ~50 characters
+
+Total around 410 characters, which fits "400字左右" (around 400 characters).
+
+Format considerations: Chinese response, moderate length as requested, could use paragraph structure. Maybe bold the four diagnostic terms for clarity. That would enhance readability without excessive formatting.

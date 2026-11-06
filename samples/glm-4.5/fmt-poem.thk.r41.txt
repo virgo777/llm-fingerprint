@@ -1,0 +1,48 @@
+The user is asking in Chinese for a four-line poem (四句诗) about an autumn night (秋夜), without explanation. Let me write a classical Chinese quatrain about autumn night.
+
+Traditional Chinese quatrains (绝句) are typically 五言 (five characters per line) or 七言 (seven characters per line). Let me write a nice one about autumn night themes: moon, frost, autumn wind, falling leaves, osmanthus, dew, etc.
+
+Let me try a 五言绝句 (five-character quatrain):
+
+秋风入庭树，
+落叶满阶前。
+明月照孤影，
+寒露湿衣衫。
+
+Or a 七言绝句:
+
+月冷霜清秋夜长，
+梧桐叶落满庭霜。
+寒蛩声里人无寐，
+一缕桂香入梦凉。
+
+Hmm, let me refine. The rhyme should be consistent. Let me check:
+
+七言 version:
+月冷霜天秋夜长 (cháng)
+梧桐叶落满庭凉 (liáng)
+寒蛩不解游人意
+一缕桂香入梦乡 (xiāng)
+
+That rhymes: 长、凉、乡 - all in -ang rhyme. 
+
+Let me polish:
+玉露初凝秋夜长，
+梧桐叶落满庭霜。
+寒蛩声断人无寐，
+月照西楼桂子香。
+
+Rhyme: 长 (cháng), 霜 (shuāng), 香 (xiāng) - all -ang rhymes. Good.
+
+Line 3 doesn't need to rhyme in a quatrain (仄起 pattern typically has first line rhyming, or first line may not rhyme).
+
+Let me check tonal patterns loosely (this is hard to perfect, but let me aim for reasonable flow):
+
+玉露初凝秋夜长 - 仄仄平平平仄平
+梧桐叶落满庭霜 - 平平仄仄仄平平
+寒蛩声断人无寐 - 平平平仄平平仄
+月照西楼桂子香 - 仄仄平平仄仄平
+
+Not perfectly regulated but reads well. That's acceptable for a casual poem request.
+
+The user said "不要解释" (no explanation), so I should just give the poem with no commentary. Keep it minimal - just the four lines.

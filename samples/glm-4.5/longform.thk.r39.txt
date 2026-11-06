@@ -1,0 +1,31 @@
+The user is asking me to explain the TCM (Traditional Chinese Medicine) concept of "四诊合参" (Four Diagnostic Methods Combined Analysis) in about 400 characters in Chinese.
+
+四诊合参 refers to the four diagnostic methods in Traditional Chinese Medicine:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), color (色), form (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+四诊合参 means combining all four diagnostic methods to comprehensively analyze and determine the patient's condition, rather than relying on just one method. This is the fundamental principle of TCM diagnosis - the four methods must be used together and their findings integrated to make an accurate diagnosis (辨证).
+
+Key points to cover:
+- Definition of 四诊
+- Each of the four methods briefly
+- The meaning of 合参 - why they must be combined
+- The significance: avoiding one-sided judgments, achieving accurate 辨证论治
+
+The user asked for about 400 characters (字). I should write in Chinese since the question is in Chinese. Let me aim for approximately 400 Chinese characters.
+
+Let me draft:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊察方法全面收集病情资料，并综合分析、相互参照，从而对疾病作出正确判断。
+
+望诊，是观察患者的神、色、形、态及舌象等，以推断病情，所谓“望而知之谓之神”。闻诊，包括听声音和嗅气味，通过患者的语音、呼吸、咳嗽等声音及口气、体气味获取诊断信息。问诊，是询问患者的自觉症状、发病经过、既往史、生活习惯等，是了解病情的重要途径。切诊，包括脉诊和按诊，通过触按患者脉搏和身体相关部位，探察脏腑气血的变化。
+
+四诊合参强调“合”字，即四诊之间相互联系、相互补充，不可偏废。单凭某一诊法，往往难以全面把握疾病本质，容易造成误诊。例如脉与症有时相符，有时不相符，需四诊合参方能辨别真假、抓住病机本质。
+
+总之，四诊合参体现了中医整体观念，是辨证论治的基础，只有全面收集资料、综合分析，才能作出正确的辨证诊断，为治疗提供可靠依据。
+
+Let me count roughly - this is about 400 characters. Good.
+
+Format: Should use clear structure. Given it's a request for a ~400 character explanation, I could use paragraphs or light formatting. Since it's an educational explanation, some structure with the four methods clearly delineated would help. I'll use a flowing paragraph format with clear organization, possibly with slight formatting. Given the request is for a specific length essay-style answer, I'll write it as coherent paragraphs rather than bullet points, which suits the "详细介绍...400字左右" request well. Maybe minimal headers or just paragraphs. I think paragraphs work best here to read like a proper explanatory text.

@@ -1,0 +1,38 @@
+The user is asking me in Chinese to explain daily water drinking precautions/tips in three points. This is a simple health-related question asking for practical advice about drinking water in daily life.
+
+Let me think about the most important points about drinking water safety and health:
+
+1. Don't wait until you're thirsty to drink water - by the time you feel thirsty, your body is already somewhat dehydrated. Drink water regularly throughout the day in small amounts.
+
+2. Water temperature matters - avoid drinking ice-cold water or extremely hot water. Warm or room temperature water is best for the body, especially for the digestive system.
+
+3. Don't drink too much water at once - drinking large amounts quickly can burden the kidneys and potentially cause water intoxication. Small, frequent sips are better.
+
+4. Water quality and safety - drink boiled/filtered water, avoid raw tap water (especially relevant in China where tap water isn't potable).
+
+5. Morning water drinking - drinking a glass of water after waking up helps with metabolism.
+
+6. Avoid drinking water during/right before meals in large quantities - can affect digestion.
+
+7. Special populations (kidney disease patients, etc.) need to control water intake.
+
+8. Don't substitute beverages for water - sugary drinks, tea, coffee shouldn't fully replace plain water.
+
+Since they asked for THREE points, I should pick the three most important and commonly applicable ones:
+
+1. **主动喝水，不要等口渴才喝** (Drink proactively, don't wait until thirsty) - Drink small amounts frequently, about 1500-1700ml per day for adults
+
+2. **注意水温适宜** (Pay attention to water temperature) - Warm water (around 20-40°C) is best; avoid ice water and very hot water (over 65°C increases esophageal cancer risk)
+
+3. **不要一次性大量饮水** (Don't drink large amounts at once) - Spread intake throughout the day; drink in small sips. Also could mention morning water on empty stomach.
+
+Alternative third point could be about water quality - drinking boiled water rather than raw tap water.
+
+Let me structure this well. The format should be:
+- Since this is a request for exactly 3 points, I should use a numbered list format
+- Each point should have a clear heading/theme with brief explanation
+- Response should be in Chinese since the question is in Chinese
+- Keep it concise but informative - not too long, since it's asking for just 3 points
+- Could use bold headers for each point
+
+Format considerations: A numbered list with 3 points, each with a bolded main point and 1-3 sentences of explanation. Maybe a brief intro line. Total length should be moderate - not too long. This is a casual informational request.

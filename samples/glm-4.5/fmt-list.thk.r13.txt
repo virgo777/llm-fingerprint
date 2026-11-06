@@ -1,0 +1,40 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain the precautions/matters to pay attention to for daily water drinking."
+
+This is a health/wellness question about daily water drinking habits. I should respond in Chinese since the question is in Chinese. The user wants exactly three points (三点).
+
+Let me think about the most important daily water drinking precautions:
+
+1. **适量饮水** (Drink appropriate amounts) - Don't drink too much or too little. Generally 1500-2000ml per day for adults. Drinking too much water at once can cause water intoxication (水中毒).
+
+2. **不要等口渴才喝水** (Don't wait until thirsty) - Thirst is a sign of mild dehydration. Should drink water regularly throughout the day, in small amounts.
+
+3. **水温适宜** (Appropriate water temperature) - Avoid very cold or very hot water. Warm/room temperature water (around 20-40°C) is best for the body. Ice-cold water can irritate the stomach; very hot water can damage the esophagus.
+
+Other possible points:
+- 睡前不宜大量饮水
+- 晨起喝水
+- 不喝生水
+- 少喝饮料代替水
+- 饭前饭后不宜大量饮水
+- 剧烈运动后不宜立即大量饮水
+
+I'll pick the three most important and practical ones:
+
+1. 定时适量饮水，不要等口渴才喝 - Regular and appropriate amounts, don't wait for thirst
+2. 注意水温 - Pay attention to water temperature (warm water is best, avoid ice cold or scalding hot)
+3. 特殊时间段注意 - Special times to be careful (before bed, after intense exercise, don't gulp water quickly)
+
+Or alternatively:
+1. 适量饮水
+2. 小口慢饮，不暴饮
+3. 水温适宜
+
+Let me structure a good three-point answer:
+
+**1. 定时定量，主动饮水** - Adults need about 1500-1700ml daily. Don't wait until you feel thirsty (thirst means already mildly dehydrated). Drink small amounts multiple times, about 100-200ml each time.
+
+**2. 水温要适宜** - Best to drink warm water around 20-40°C. Too cold water irritates gastrointestinal tract; too hot water (over 65°C) can damage esophageal mucosa and increase cancer risk.
+
+**3. 特殊时段要谨慎** - Don't drink too much before bed (affects sleep, burdens kidneys); after intense exercise don't gulp large amounts quickly; don't drink too much water during meals.
+
+Format: The response should be in Chinese, organized into three clear points with headers or numbered format. Should be moderately detailed but not overly long. Using numbered points with bold headers would work well. Each point can have 2-3 sentences of explanation. This is a practical health question so accuracy and clarity matter.

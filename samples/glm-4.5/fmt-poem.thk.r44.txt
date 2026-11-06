@@ -1,0 +1,67 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), with no explanation. This is a Chinese request asking for a quatrain - likely a classical Chinese style poem, perhaps 五言 (five characters per line) or 七言 (seven characters per line).
+
+Let me compose a nice autumn night poem in classical Chinese style. I should capture imagery like: moon, frost, autumn wind, falling leaves, osmanthus (桂花), crickets (蟋蟀/蛩), cold dew, stars, etc.
+
+Let me write a 七言绝句 (seven-character quatrain):
+
+秋风萧瑟入庭轩，
+月冷霜清桂影繁。
+落叶无声随夜静，
+寒星点点照人闲。
+
+Hmm, let me think about rhyme. In Chinese poetry, lines 1, 2, 4 typically rhyme (or 2 and 4).
+
+轩 (xuān), 繁 (fán), 闲 (xián) - these rhyme reasonably in modern Mandarin (an sound family).
+
+Let me refine:
+
+金风玉露满庭秋，
+月挂疏桐夜色幽。
+蛩语声声凉似水，
+一帘桂影伴人愁。
+
+Rhyme: 秋 (qiū), 幽 (yōu), 愁 (chóu) - all in the "ou/iu" rhyme family. Good.
+
+Or a 五言 version:
+
+月冷桂香浮，
+风清叶自流。
+虫声凉夜里，
+霜色满高楼。
+
+Rhyme: 浮 (fú), 流 (liú), 楼 (lóu) - ou/iu rhyme family.
+
+Let me go with a polished 七言 version:
+
+秋夜
+
+金风拂叶落庭洲，
+冷月疏星挂小楼。
+桂子香飘蛩语细，
+一帘霜色浸清秋。
+
+Hmm, "洲" feels off. Let me try:
+
+银汉迢迢月满楼，
+金风瑟瑟叶惊秋。
+虫声唧唧凉如水，
+桂子飘香夜色幽。
+
+Rhyme: 楼, 秋, 幽 - good.
+
+Actually let me craft something more elegant:
+
+霜华初冷桂香浮，
+月照疏桐夜色幽。
+落叶无声随水去，
+寒蛩声里一庭秋。
+
+Rhyme: 浮 (fú), 幽 (yōu), 秋 (qiū) - all rhyme in the ou family. 
+
+Line by line:
+1. 霜华初冷桂香浮 - Frost begins to chill, osmanthus fragrance floats
+2. 月照疏桐夜色幽 - Moon shines on sparse wutong trees, night is serene
+3. 落叶无声随水去 - Falling leaves silently drift away with water
+4. 寒蛩声里一庭秋 - Amid cold cricket chirps, a courtyard full of autumn
+
+That's nice. The user said no explanation, so I should just give the poem, perhaps with a title. Keep it minimal. I'll just provide the poem, maybe with a title "秋夜". No explanation as requested.

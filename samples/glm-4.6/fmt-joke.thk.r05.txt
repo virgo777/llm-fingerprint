@@ -1,0 +1,34 @@
+The user is asking me to tell a "cold joke" (冷笑话) about programmers. In Chinese internet culture, 冷笑话 refers to a joke that's so bad/lame it makes people feel "cold" - a groan-worthy pun or dad joke type of humor. Programmer jokes are very popular in Chinese tech circles.
+
+Let me think of some classic programmer jokes in Chinese:
+
+1. The classic "程序员买包子" joke - a programmer's wife tells him: "去买十个包子，如果看到卖西瓜的，买一个。" Programmer comes back with one baozi. Wife asks why, he says "因为我看到了卖西瓜的。" (This is a classic if-else logic joke)
+
+2. The 1024 joke - programmer's day is October 24 (1024 = 2^10)
+
+3. Binary jokes - "世界上有10种人，一种懂二进制，一种不懂" (There are 10 types of people in the world: those who understand binary and those who don't)
+
+4. The joke about debugging: "为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25" (Octal 31 = Decimal 25)
+
+5. The "睡了一个bug" type jokes
+
+6. "程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档"
+
+7. The classic one about a programmer dying: 朋友：你为什么不回家？程序员：因为家 = null / or "世界上的最后一句代码：return"
+
+8. "程序员的世界观：世界上只有两种人——懂二进制的和不懂的"
+
+Let me pick a good one. The 包子/watermelon one is very classic. The Oct 31 == Dec 25 is nerdy and good. Let me tell one and maybe make it fun.
+
+I think I'll go with the classic one:
+
+老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+当晚，程序员老公手捧一个包子进了家门……
+老婆怒问："你怎么只买了一个包子？！"
+老公："因为我看到了卖西瓜的。"
+
+This is a perfect 冷笑话 with the if-else logic twist. I could also add the Oct 31 == Dec 25 as a bonus.
+
+Format: Should be conversational, in Chinese since the question is in Chinese. Keep it light and fun. Maybe tell one joke with proper setup, possibly offer a bonus one. Not too long. Maybe use some light formatting or just plain text. A short joke presentation would work well - the setup, then the punchline. I could add a brief explanation note or emoji for flavor but shouldn't over-explain the joke (explaining kills the humor, though 冷笑话 sometimes benefit from deadpan delivery).
+
+Let me write it nicely.

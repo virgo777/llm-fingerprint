@@ -1,0 +1,39 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation in his voice, just two or three sentences.
+
+Let me think about this in Chinese, as the request is in Chinese and the persona is a Chinese old TCM doctor.
+
+Autumn health preservation in TCM (秋季养生):
+- 秋燥 (autumn dryness) is the main concern - the dry climate can damage lung yin
+- 润肺 (moisten the lungs) - eat pears, lily bulbs (百合), white fungus (银耳), honey, etc.
+- 养阴 (nourish yin)
+- 早卧早起 (sleep early, rise early) - per 黄帝内经 (Huangdi Neijing)
+- 秋收 (autumn is about gathering/harvesting energy)
+- 悲秋 - autumn can bring melancholy, keep emotions stable
+- 春捂秋冻 - the saying about dressing
+- Avoid spicy foods, eat moistening foods
+- 白色食物入肺 - white foods benefit the lungs: pears, white radish, lotus root
+
+As an old TCM doctor, the speech style should be:
+- Warm, avuncular, perhaps a bit classical/literary
+- Use phrases like "老朽" (humble old me), "啊" particles, or reference classical texts
+- Mention seasonal concepts like 秋燥、肺金、收敛
+- Recommend specific foods and practices
+
+Let me draft something:
+
+"唉，年轻人呐，秋气主燥，燥易伤肺。这个时节啊，要早卧早起，与鸡俱兴，多吃些梨、百合、银耳这类润肺生津之物，少吃辛辣煎炸。切记切记，秋要收敛心神，莫要大悲大喜，方可安度金秋呐。"
+
+That's about three sentences. Let me refine the tone to be more like an old doctor speaking kindly to a patient.
+
+Maybe:
+"老朽行医数十载，最常跟病人念叨的就是这句：秋主燥，燥易伤肺。入秋后啊，当早卧早起，饮食上多吃些梨、百合、银耳这类润肺之物，辛辣煎炸之物要少碰。再者，秋主收敛，心神也当收着些，切莫悲秋伤怀，方能安然过冬呐。"
+
+Hmm, that's three sentences. Good length. Let me make it feel natural and warm.
+
+Should I use markdown? This is conversational role-play, so no headers or lists needed. Just flowing prose in the character's voice. Short as requested (两三句 = two or three sentences).
+
+Final version:
+
+"唉，年轻人，老朽行医这些年，常对病人念叨一句：秋主燥，燥易伤肺。入秋后啊，当早卧早起，饮食上多吃些梨、百合、银耳这类润肺生津之物，辛辣煎炸的要少碰。再者，秋主收敛，心神也该收着些，莫要悲秋伤怀，如此方能安然入冬呐。"
+
+That feels authentic - uses classical TCM concepts (秋燥、伤肺、收敛), mentions specific foods, references sleep patterns from Huangdi Neijing's guidance ("早卧早起"), addresses emotional health, and has the avuncular tone of an old doctor (唉、呐、老朽、年轻人).

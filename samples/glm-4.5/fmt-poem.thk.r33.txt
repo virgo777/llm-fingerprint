@@ -1,0 +1,77 @@
+The user is asking me to write a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical-style Chinese poem about autumn night. Four lines, likely with 5 or 7 characters per line (五言 or 七言).
+
+Let me think about imagery for autumn night:
+- 月 (moon)
+- 桂 (osmanthus)
+- 露 (dew)
+- 霜 (frost)
+- 梧桐 (wutong tree)
+- 落叶 (falling leaves)
+- 虫鸣 (insect sounds)
+- 雁 (wild geese)
+- 银 (silver - moonlight)
+- 星 (stars)
+
+Let me try a 七言绝句 (seven-character quatrain):
+
+银汉无声秋露凉，
+梧桐叶落满庭霜。
+一轮明月侵窗冷，
+何处砧声捣夜长。
+
+Hmm, let me refine. Rhyme scheme: lines 1, 2, 4 should rhyme (or 2, 4 at minimum).
+
+凉 (liáng), 霜 (shuāng), 长 (cháng) - these rhyme in the -ang sound. Good.
+
+Let me check the flow:
+银汉无声秋露凉 - The Milky Way is silent, autumn dew is cold
+梧桐叶落满庭霜 - Wutong leaves fall, frost fills the courtyard
+一轮明月侵窗冷 - A bright moon invades the window with cold
+何处砧声捣夜长 - From somewhere, the sound of pounding clothes stretches the night long
+
+Actually "侵窗冷" - the cold moonlight coming through the window. That works.
+
+Alternative version:
+
+月挂疏桐夜色凉，
+风摇桂影落秋霜。
+虫声唧唧催更漏，
+一枕清寒梦亦长。
+
+月挂疏桐夜色凉 - Moon hangs on sparse wutong, night is cool
+风摇桂影落秋霜 - Wind sways osmanthus shadows, autumn frost falls
+虫声唧唧催更漏 - Cricket chirps hasten the water clock
+一枕清寒梦亦长 - A pillow of clear chill, dreams are also long
+
+Both work. Let me pick one that flows well.
+
+Actually, let me polish further:
+
+秋夜
+
+露冷风清月满楼，
+梧桐叶落一庭秋。
+虫声细雨阶前语，
+伴我孤灯到白头。
+
+Hmm, "到白头" changes the meaning. Let me stick closer to autumn night imagery.
+
+Final choice:
+
+月冷梧桐叶半黄，
+风摇桂子暗浮香。
+虫声唧唧凉如水，
+一夜秋声入梦长。
+
+月冷梧桐叶半黄 - Cold moon, wutong leaves half yellow
+风摇桂子暗浮香 - Wind sways osmanthus, fragrance secretly floats
+虫声唧唧凉如水 - Insect sounds chirping, cool as water
+一夜秋声入梦长 - A night of autumn sounds enters dreams, long
+
+Rhymes: 黄 (huáng), 香 (xiāng), 长 (cháng) - all -ang rhyme. 
+
+The user said don't explain, so I'll just give the poem. Maybe with a title or without. The user asked for a four-line poem about autumn night. I could include a title "秋夜" but that might count as extra. I'll keep it minimal - just the four lines, perhaps with the title since it's natural. Actually, to be safe and clean, just the poem itself. A title is fine too and doesn't count as explanation. I'll include the title 秋夜 for completeness.
+
+Format: Four lines, centered feel, no explanation.

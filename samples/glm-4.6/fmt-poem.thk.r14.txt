@@ -1,0 +1,73 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, with no explanation.
+
+Let me compose a classical Chinese four-line poem (绝句 style) about autumn night. I should aim for evocative imagery typical of autumn nights: moon, dew, frost, fallen leaves, cold, crickets (蟋蟀/寒蛩), osmanthus (桂花), geese (雁), etc.
+
+Let me try a 五言绝句 (five-character quatrain):
+
+秋夜
+月落梧桐影，
+霜寒蟋蟀声。
+一帘风入梦，
+半枕雁南征。
+
+Hmm, let me check the tonal patterns roughly and imagery. Actually let me craft something more polished.
+
+Option 1 (五言):
+银汉横秋夜，
+寒露湿桂影。
+Hmm.
+
+Let me try 七言绝句:
+
+金风瑟瑟透帘栊，
+桂子飘香月色浓。
+一夜秋声催落叶，
+满天霜气入寒蛩。
+
+Hmm, "入寒蛩" is a bit odd. Let me refine.
+
+Another attempt:
+凉露无声湿桂花，
+一轮明月照天涯。
+秋声半夜惊残梦，
+风卷梧桐落万家。
+
+Check rhyme: 花 (huā), 涯 (yá), 家 (jiā) — rhyme in -a, works.
+
+Line 3: 秋声半夜惊残梦 — autumn sounds at midnight startle a lingering dream.
+Line 4: 风卷梧桐落万家 — wind rolls wutong leaves falling at ten thousand homes.
+
+That's decent. Or:
+
+月冷梧桐疏影斜，
+寒蛩声里落黄花。
+西风一夜吹秋色，
+吹梦无端到海涯。
+
+Hmm, "吹梦无端" echoes 纳兰? Let me keep the first one but polish.
+
+Final:
+凉露无声湿桂花，
+半帘明月映窗纱。
+秋声惊破南柯梦，
+风卷梧桐落万家。
+
+Rhyme: 花、纱、家 — all -a rhyme. Good.
+
+Line meanings:
+1. Cool dew silently moistens the osmanthus flowers.
+2. Half a curtain of bright moonlight shines on the window gauze.
+3. Autumn sounds shatter the dream (南柯梦 is a specific allusion to a dream of wealth—maybe simplify to 残梦).
+4. Wind sweeps wutong leaves falling over ten thousand homes.
+
+Use 残梦 instead of 南柯梦 to avoid allusion complexity: 秋声惊破一帘梦? But 帘 repeats with line 2's 帘. Change line 2: 半窗明月映轻纱.
+
+Final:
+凉露无声湿桂花，
+半窗明月映轻纱。
+秋声惊破三更梦，
+风卷梧桐落万家。
+
+Check: 三更梦 (dream at third watch/midnight) — good. No repetition issues. Rhymes: 花/纱/家.
+
+The user said no explanation, so just output the poem. Maybe include a title? They said four-line poem on autumn night. I could give it a title like 《秋夜》or just the four lines. A title is fine and doesn't count as explanation. Keep it minimal — just the poem, possibly with title.

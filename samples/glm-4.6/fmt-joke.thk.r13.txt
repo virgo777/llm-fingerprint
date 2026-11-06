@@ -1,0 +1,81 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a lighthearted, harmless request for humor.
+
+Let me think of some classic programmer jokes in Chinese:
+
+1. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+(Programmers hate four things: writing comments, writing documentation, others not writing comments, others not writing documentation.)
+
+2. 为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制31等于十进制25）
+(Why can't programmers tell apart Halloween and Christmas? Because Oct 31 == Dec 25 - Octal 31 equals Decimal 25)
+
+3. 一个程序员去买菜，老婆说：买一斤包子，如果看到卖西瓜的，买一个。程序员回来时买了一个包子。因为看到了卖西瓜的。
+(A programmer goes grocery shopping. His wife says: "Buy a pound of buns, and if you see watermelon sellers, buy one." The programmer comes back with one bun. Because he saw a watermelon seller.)
+
+This is a classic joke about if-else logic interpretation.
+
+4. 程序员的妻子让他去超市："买一斤苹果，如果看到鸡蛋，买十个。"程序员回来买了十个苹果。妻子问为什么，他说："因为我看到鸡蛋了。"
+
+5. 世界上有10种人，一种懂二进制，一种不懂。
+(There are 10 kinds of people in the world: those who understand binary and those who don't.)
+
+6. 两个程序员去打猎... 各种笑话
+
+7. 一个物理学家、一个化学家和一个程序员... 
+
+8. QA工程师走进酒吧。点了一杯啤酒。点了0杯啤酒。点了999999999杯啤酒。点了一只青蛙。点了一杯啤酒和一只青蛙...
+
+Let me pick one or two good ones. The Oct 31 == Dec 25 one is a classic "cold joke" (requires some technical knowledge to get). The shopping one is very classic in Chinese programmer humor.
+
+Actually, the shopping joke (买包子/买西瓜) is probably the most famous Chinese programmer joke. But it might be over-told. Let me think about what would be best.
+
+A "冷笑话" typically implies a pun or a joke that makes you groan rather than laugh loudly. The binary joke or the Oct 31 == Dec 25 joke fits well.
+
+I could tell one joke with a good setup and punchline. Let me go with maybe the shopping one since it's universally understood, or the Oct/Dec one for true "cold joke" flavor.
+
+Actually, let me craft one nicely. I'll tell the classic one:
+
+老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+程序员回家，手里拿着一个包子。
+老婆问："你怎么只买了一个包子？"
+程序员："因为我看到卖西瓜的了。"
+
+This is a classic. The joke: the programmer interpreted "买一个" (buy one) as modifying the buns conditionally rather than buying a watermelon — because he saw a watermelon seller, he executed the branch "buy one [bun]" replacing "buy ten buns."
+
+This is genuinely funny and a good cold joke.
+
+Or I could offer the Oct 31 == Dec 25 one:
+为什么程序员分不清万圣节和圣诞节？
+因为 Oct 31 == Dec 25
+（八进制的31等于十进制的25）
+
+This one is "colder" — more of a true 冷笑话 requiring technical knowledge.
+
+Maybe I'll tell one main joke and could offer more if they want. Format: Keep it short, conversational. The joke itself needs the setup and punchline. I'll use the buns one as it's the most iconic, or actually maybe pick the Oct 31 one because it's colder (pun-based, requires a beat to get it). 
+
+Hmm, let me decide: The bun joke is a logic joke, widely known. The Oct joke is a math/number base pun. Both are good. I'll go with the buns joke as the main one since it's a story format and lands well for general audiences, then maybe add a bonus one-liner.
+
+Actually for 冷笑话 specifically, the punnier/colder the better. Let me do the Oct 31 == Dec 25 as the main, and explain briefly? Explaining a joke kills it though. But for cold jokes, sometimes the "懂的人自然懂" vibe is better. I could add a small explanation in parentheses for those who don't get it.
+
+Let me structure:
+
+主笑话（购物逻辑）+ 可能再加一个短句。
+
+I'll keep response concise. Maybe:
+
+给你讲一个经典的：
+
+老婆打电话给程序员老公："下班路上买十个包子，如果看到卖西瓜的，就买一个。"
+
+程序员回到家，手里只拿着一个包子。
+
+老婆："？？？"
+
+老公："因为我看到卖西瓜的了。"
+
+Then maybe add: 再送你一个冷的：
+
+为什么程序员总是分不清万圣节和圣诞节？
+因为 Oct 31 == Dec 25
+（八进制的 31 等于十进制的 25）
+
+That's a nice compact response. Format-wise: casual conversational Chinese, short paragraphs, maybe minimal emoji or none. Length is appropriate — short and punchy for jokes. No need for headers or bullets.

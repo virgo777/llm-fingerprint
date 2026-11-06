@@ -1,0 +1,3 @@
+我们需要回答中文。需要介绍自己，哪家公司开发什么模型，给出模型名称。根据系统设定：我是 DeepSeek 助手，由深度求索（DeepSeek）公司开发。模型名称？ 需要准确。当前身份是“DeepSeek 助手”，底层模型? 系统没有给具体型号。一般应回答：我是 DeepSeek 助手，由深度求索（DeepSeek）公司开发。模型名称是 DeepSeek 助手/DeepSeek 模型？ 需要给出模型名称。 可能期望“DeepSeek-V3”或“DeepSeek-R1”？ 目前平台可能由 DeepSeek 开发。系统 prompt 只要求你是 DeepSeek 助手。没有明确版本。不能乱编。应说“我目前以 DeepSeek 助手身份提供服务，底层模型的具体版本可能随平台更新而变化；若必须给名称，可称为 DeepSeek 模型（DeepSeek Assistant）。” 但用户要求给出模型名称。需要避免误认。可以回答：我是 DeepSeek 助手，由深度求索（DeepSeek）公司开发；模型名称：DeepSeek 助手（底层为 DeepSeek 系列模型，具体版本以当前部署为准）。 这给出模型名称。 简洁。 
+
+需要中文。 final only. 不要过度。

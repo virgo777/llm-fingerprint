@@ -1,0 +1,28 @@
+The user is asking me to calculate 17×23+45÷9 with a complete process, in Chinese.
+
+Let me work through this step by step:
+
+According to order of operations (PEMDAS/运算顺序):
+1. First, multiplication and division from left to right
+2. Then addition
+
+Step 1: 17 × 23
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+
+Step 2: 45 ÷ 9 = 5
+
+Step 3: 391 + 5 = 396
+
+So the answer is 396.
+
+Let me verify:
+17 × 23:
+17 × 23 = (10 + 7)(20 + 3) = 200 + 30 + 140 + 21 = 391 ✓
+
+45 ÷ 9 = 5 ✓
+
+391 + 5 = 396 ✓
+
+The user wants the complete process (完整过程), so I should show each step clearly. Since they asked in Chinese, I should respond in Chinese.
+
+Format considerations: This is a math calculation problem. A clear step-by-step format would be helpful. I can use numbered steps or a clear structure. Not too long - just the calculation with brief explanation of order of operations.

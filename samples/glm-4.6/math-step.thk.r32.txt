@@ -1,0 +1,16 @@
+The user is asking me to calculate 17×23+45÷9 with a complete process shown. This is a simple arithmetic problem in Chinese.
+
+Let me work through it:
+- 17×23 = 391
+- 45÷9 = 5
+- 391 + 5 = 396
+
+Following order of operations (PEMDAS/顺序规则): multiplication and division first, then addition.
+
+Let me show the complete process:
+1. First calculate 17×23:
+   - 17×23 = 17×20 + 17×3 = 340 + 51 = 391
+2. Then calculate 45÷9 = 5
+3. Finally add: 391 + 5 = 396
+
+The user asked in Chinese, so I should respond in Chinese. They want a complete process, so I'll show each step clearly.

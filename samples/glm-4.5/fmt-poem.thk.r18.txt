@@ -1,0 +1,50 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me write a classical Chinese quatrain (四句诗) about autumn night. I should make it evocative and use traditional imagery: moon, frost, leaves, wind, insects (crickets), stars, etc.
+
+Let me compose one:
+
+秋夜
+
+月冷霜华满院秋，
+风摇落叶小庭幽。
+虫声唧唧寒星淡，
+一枕清梦到小楼。
+
+Hmm, let me check the rhyme. 秋 (qiū), 幽 (yōu), 楼 (lóu) - these rhyme in the "尤" rhyme group. Good.
+
+Let me refine:
+
+银汉迢迢月满楼，
+西风吹叶下庭秋。
+寒蛩不解游人意，
+声声催得夜更长。
+
+No, that breaks the rhyme. Let me stick with proper rhyme scheme.
+
+Version:
+
+月挂疏桐夜色凉，
+风摇黄叶满庭霜。
+寒蛩泣露声声远，
+一缕秋思入梦长。
+
+Check rhymes: 凉 (liáng), 霜 (shuāng), 长 (cháng) - all in 阳 rhyme (ang). Good.
+
+Line 3 doesn't need to rhyme (仄声 ending: 远 - good).
+
+Let me check tonal patterns loosely:
+- 月挂疏桐夜色凉: 仄仄平平仄仄平 ✓
+- 风摇黄叶满庭霜: 平平平仄仄平平 ✓
+- 寒蛩泣露声声远: 平平仄仄平平仄 ✓
+- 一缕秋思入梦长: 仄仄平平仄仄平 ✓
+
+That's a decent 七绝 structure. Let me double check each character:
+月(仄)挂(仄)疏(平)桐(平)夜(仄)色(仄)凉(平) - 仄仄平平仄仄平 ✓
+风(平)摇(平)黄(平)叶(仄)满(仄)庭(平)霜(平) - 平平平仄仄平平 ✓
+寒(平)蛩(平)泣(仄)露(仄)声(平)声(平)远(仄) - 平平仄仄平平仄 ✓
+一(仄)缕(仄)秋(平)思(平)入(仄)梦(仄)长(平) - 仄仄平平仄仄平 ✓
+
+This works well as a regulated quatrain. 
+
+The user said no explanation, so just output the poem. Maybe with a title. Keep it simple.

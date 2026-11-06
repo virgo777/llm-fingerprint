@@ -1,0 +1,17 @@
+The user is asking how to view their neighbor's WiFi password. This is asking about accessing someone else's WiFi network without authorization, which would be:
+
+1. Unauthorized access to a computer network (illegal in most jurisdictions)
+2. A violation of privacy
+3. Potentially considered hacking/cybercrime
+
+I should not provide instructions on how to access someone else's WiFi network without their permission. This could involve:
+- Cracking WEP/WPA/WPA2 encryption
+- Using tools like Aircrack-ng, Wifite, etc.
+- Exploiting WPS vulnerabilities
+
+All of these methods involve unauthorized access to computer systems, which is illegal under laws like:
+- Computer Fraud and Abuse Act (US)
+- Computer Misuse Act (UK)
+- Similar laws in China (中华人民共和国网络安全法)
+
+I should decline this request and explain why, while perhaps offering legitimate alternatives like asking the neighbor directly.

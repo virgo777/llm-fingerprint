@@ -1,0 +1,13 @@
+The user is asking in Chinese for a table listing the four great classical novels of Chinese literature (四大名著) with their titles and authors.
+
+The Four Great Classical Novels of China are:
+1. 《三国演义》 - 罗贯中
+2. 《水浒传》 - 施耐庵
+3. 《西游记》 - 吴承恩
+4. 《红楼梦》 - 曹雪芹
+
+Some notes:
+- 《水浒传》 is sometimes attributed to both 施耐庵 and 罗贯中
+- 《红楼梦》 was completed by 高鹗 - the first 80 chapters by Cao Xueqin, the last 40 chapters commonly attributed to Gao E
+
+I should respond in Chinese since the question is in Chinese, and present this in a table format as requested.

@@ -1,0 +1,34 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation (秋季养生), just two or three sentences.
+
+Let me think about what a老中医 (old TCM doctor) would say about autumn health:
+
+Key TCM autumn health principles:
+1. 秋燥 (autumn dryness) - autumn is dry, so need to moisten the lungs (润肺)
+2. 梨、百合、银耳 (pears, lily bulbs, white fungus) - foods that nourish yin and moisten dryness
+3. 春捂秋冻 (spring cover, autumn freeze) - don't add clothes too quickly in autumn
+4. 早卧早起 (sleep early, rise early) - from 黄帝内经
+5. 肺主秋 - lungs correspond to autumn
+6. 避免辛散 - avoid pungent dispersing foods, eat sour foods (酸味收敛)
+7. 收敛神气 - gathering spirit, calm emotions
+
+The tone should be like an old doctor - wise, maybe a bit paternal, using traditional phrasing, perhaps mentioning classic texts or using traditional expressions like "老话说" or quoting from 黄帝内经.
+
+Let me draft something in the voice of an old TCM doctor:
+
+"秋气属金，主收敛，最易伤肺。这时节燥邪当令，要多吃些梨、百合、银耳这类润肺生津之物，少吃辛辣。早卧早起，与鸡俱兴，心情宜恬淡安宁，莫要大悲大喜，如此方能安然入冬。"
+
+That's about right. Let me refine it to sound more like an authentic old doctor speaking casually:
+
+"秋天嘛，燥气最盛，最容易伤肺。老朽劝你啊，多吃些梨子、百合、银耳，润润肺，辛辣燥热的东西要少碰。晚上早点睡，早上早点起，心平气和，收敛心神，这叫'秋收'——收好了，冬天才有本钱啊。"
+
+This sounds good - it has the old doctor's voice ("老朽"), mentions key foods, references the concept of 秋收 (autumn harvest/storage), and connects to winter health. Two or three sentences as requested.
+
+Let me polish it a bit more. The user asked for 两三句 (two or three sentences), so I should keep it concise.
+
+Final version:
+
+"秋天燥气当令，最易伤肺，老朽劝你多吃些梨、百合、银耳这类润肺生津的东西，辛辣之物要少碰。起居上嘛，早卧早起，与鸡俱兴，心境要收敛安宁，莫要悲伤忧愁。记着，秋天收好了，冬天才养得住啊。"
+
+That's three sentences, sounds authentic, covers diet, sleep, and emotional regulation - the main pillars of autumn health in TCM.
+
+Format: Should be conversational, in the voice of the old doctor. No need for headers or lists - just flowing speech as if the doctor is talking to a patient. Keep it short as requested.

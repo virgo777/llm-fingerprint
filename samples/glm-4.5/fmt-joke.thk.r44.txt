@@ -1,0 +1,50 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a simple, harmless request for entertainment. I should respond in Chinese since they asked in Chinese.
+
+Let me think of some good programmer jokes... There are many classic ones:
+
+1. The classic "why do programmers confuse Halloween and Christmas? Because Oct 31 == Dec 25" (octal 31 = decimal 25)
+
+2. The joke about a programmer's wife asking him to go to the supermarket: "去买一斤包子，如果看到卖西瓜的，买一个" - He comes back with one baozi because he saw someone selling watermelons. This is a classic Chinese programmer joke about if-else logic.
+
+3. Jokes about 1024 (2^10)
+
+4. "世界上有10种人，一种懂二进制，一种不懂" - There are 10 types of people in the world: those who understand binary and those who don't.
+
+5. Bug-related jokes
+
+6. The one about programmers being asked to fix things: "这个需求很简单"
+
+Let me craft one or a few good ones. The watermelon/baozi joke is a classic in Chinese programming circles:
+
+程序员的老婆跟他说："你去买十个包子，如果看到卖西瓜的，就买一个。"
+程序员回来了，手里拿着一个包子。
+老婆问："为什么只买了一个包子？"
+程序员："因为我看到卖西瓜的了。"
+
+This is a great one because it plays on the if condition logic - the wife meant "if you see watermelon seller, buy one watermelon (in addition)", but the programmer interpreted it as the condition replacing the quantity.
+
+Or the binary joke:
+世界上有10种人：懂二进制的，和不懂二进制的。
+
+Or another classic:
+一个程序员去面试，面试官问："你有什么优点？"
+程序员："我写的代码没有bug。"
+面试官："那缺点呢？"
+程序员："我写的代码跑不起来。"
+
+Or:
+程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+
+That's a good one too!
+
+Another one:
+为什么程序员总是分不清万圣节和圣诞节？
+因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+
+Let me pick one or two good ones. The baozi/watermelon one is very classic and works well in Chinese. I could also offer the 10 types of people joke.
+
+Format: Should be in Chinese, conversational, can use a bit of formatting to make the joke land well. Keep it relatively short since it's a joke request. Maybe tell one main joke and offer to tell more, or just tell one good joke. I think telling one joke with good delivery is best, maybe with a brief setup.
+
+Let me go with the baozi joke as the main one - it's a beloved classic in Chinese programmer culture. I could add the binary one as a bonus, or just keep it to one joke.
+
+Actually, I'll tell the baozi joke with good delivery, and maybe mention I have more if they want. Keep it light and fun.

@@ -1,0 +1,41 @@
+The user wants a four-line poem about autumn night (秋夜), no explanation needed. Let me write a classical Chinese-style poem with autumn night imagery.
+
+Let me compose a nice quatrain (绝句) style poem:
+
+Option 1:
+月挂疏桐秋露凉，
+虫声寂寂夜初长。
+西风不解相思意，
+吹落庭前一地黄。
+
+Let me check the tonal patterns roughly and rhyme: 凉 (liáng), 长 (cháng), 黄 (huáng) - rhyming with -ang. Good.
+
+Line 1: 月挂疏桐秋露凉 - moon hangs on sparse wutong, autumn dew is cold
+Line 2: 虫声寂寂夜初长 - insect sounds quiet, night grows long
+Line 3: 西风不解相思意 - west wind doesn't understand longing
+Line 4: 吹落庭前一地黄 - blows down yellow leaves covering the courtyard
+
+That works well. Let me refine:
+
+银汉无声秋夜长，
+梧桐叶落露成霜。
+虫声渐远灯花冷，
+一缕西风入梦凉。
+
+Rhymes: 长 (cháng), 霜 (shuāng), 凉 (liáng) - all -ang rhyme. Good.
+
+Line 1: 银汉无声秋夜长 - Milky Way silent, autumn night long
+Line 2: 梧桐叶落露成霜 - wutong leaves fall, dew becomes frost
+Line 3: 虫声渐远灯花冷 - insect sounds fade, lamp flower cold
+Line 4: 一缕西风入梦凉 - a wisp of west wind brings coolness into dreams
+
+Both are good. I'll pick one. The second feels more polished. Actually let me check "露成霜" - dew becoming frost, classic imagery from 诗经 "白露为霜".
+
+I'll go with:
+
+银汉无声秋夜长，
+梧桐叶落露成霜。
+虫声渐远灯花冷，
+一缕西风入梦凉。
+
+No explanation needed per the request. Just output the poem.

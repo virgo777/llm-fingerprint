@@ -1,0 +1,19 @@
+The user is asking in Chinese for a table listing the Four Great Classical Novels of Chinese literature (四大名著) with their titles and authors. This is a simple factual request.
+
+The Four Great Classical Novels (四大名著) are:
+1. 《三国演义》 - 罗贯中
+2. 《水浒传》 - 施耐庵
+3. 《西游记》 - 吴承恩
+4. 《红楼梦》 - 曹雪芹
+
+Some notes:
+- 《三国演义》: Romance of the Three Kingdoms, attributed to Luo Guanzhong (罗贯中), written in the 14th century during the late Yuan/early Ming dynasty
+- 《水浒传》: Water Margin, attributed to Shi Nai'an (施耐庵), also 14th century. Some editions credit both Shi Nai'an and Luo Guanzhong
+- 《西游记》: Journey to the West, attributed to Wu Cheng'en (吴承恩), 16th century Ming dynasty
+- 《红楼梦》: Dream of the Red Chamber / A Dream of Red Mansions, by Cao Xueqin (曹雪芹), 18th century Qing dynasty. The last 40 chapters are often attributed to Gao E (高鹗) who completed/edited it
+
+The user asked for a table format (表格). I should respond in Chinese since the question is in Chinese, and present the information in a markdown table.
+
+Format: A simple table with columns for the book title and author. I could add the dynasty for extra helpful context, but the user specifically asked for book name and author. I'll keep it focused but could optionally include dynasty as a bonus. Let me keep it clean and simple - maybe add dynasty since it's commonly included and adds value, but the request was specifically 书名与作者. I'll stick with what was asked, perhaps adding dynasty as it's commonly appreciated. Actually, to be precise to the request, I'll just do 书名 and 作者, but adding 朝代 column is a small value-add that's commonly expected. Let me include it as a third column - it's low risk and informative.
+
+Actually, the user asked specifically for 书名与作者. Adding dynasty is extra but helpful. I'll include it as it enriches the answer without being excessive.

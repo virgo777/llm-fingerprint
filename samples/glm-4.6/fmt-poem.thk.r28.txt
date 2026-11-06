@@ -1,0 +1,28 @@
+The user wants a four-line poem about an autumn night, in Chinese, with no explanation. Let me write a classical-style Chinese quatrain (四句诗) about autumn night themes: moon, frost, fallen leaves, geese, cool wind, etc.
+
+Let me compose something elegant:
+
+Option 1:
+秋夜凉风入梦迟，
+一帘明月照残枝。
+雁声掠过庭前树，
+落叶纷飞满旧诗。
+
+Let me refine. A traditional 七言绝句 style:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一行征雁横天去，
+月照西楼夜未央。
+
+Check rhyme: 凉 (liáng), 霜 (shuāng), 央 (yāng) — all rhyme in -ang. Good. Third line doesn't need to rhyme, ending 去 (qù). That fits the jueju pattern.
+
+Tones: roughly fine for a casual poem. Let me finalize:
+
+秋夜
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一行征雁横天去，
+月照西楼夜未央。
+
+That's a nice quatrain. The user said no explanation, so just output the poem. Maybe a title. I'll include the title 秋夜 and the four lines.

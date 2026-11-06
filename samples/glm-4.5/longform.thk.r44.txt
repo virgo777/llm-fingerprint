@@ -1,0 +1,92 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine, in about 400 characters. This is a Chinese-language request about TCM (Traditional Chinese Medicine) theory.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Looking - observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry/Asking - asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse (脉诊) and palpating the body (按诊)
+
+合参 means combining/synthesizing all four methods together for comprehensive analysis.
+
+The concept emphasizes:
+- Each diagnostic method has its own focus and value
+- No single method alone is sufficient for accurate diagnosis
+- The four methods should be used together, complementing each other
+- This reflects the holistic view of TCM
+- It's the foundation for 辨证论治
+
+Historical origins: The four diagnostic methods were established by 扁鹊, and systematized in classic texts like 《黄帝内经》 and 《难经》. The term "四诊" was formally organized later.
+
+Key points to include:
+1. Definition of 四诊合参
+2. Brief explanation of each of the four methods (望、闻、问、切)
+3. Why they must be combined (each has limitations)
+4. The significance in TCM diagnosis
+
+The user wants about 400 characters (字), which in Chinese means about 400 Chinese characters. I should write this in Chinese since the request is in Chinese.
+
+Let me draft this:
+
+四诊合参是中医诊断学的基本原则，指医生综合运用望、闻、问、切四种诊察方法，全面收集患者的病情资料，并进行综合分析、相互参照，从而作出正确判断的过程。
+
+四种诊法各有侧重：
+- 望诊：观察患者的神、色、形、态及舌象等，所谓"望而知之谓之神"
+- 闻诊：听声音（语音、呼吸、咳嗽等）和嗅气味
+- 问诊：询问症状、病史、生活习惯等
+- 切诊：包括脉诊和按诊，通过触按脉搏与身体相关部位获取信息
+
+为什么要合参？
+因为四诊各有局限。比如只凭脉象不能完全确定病情，"舍脉从症"或"舍症从脉"都需要综合判断。任何单一诊法获得的信息都是片面的，只有四诊合参才能避免诊断的片面性和误诊。
+
+意义：四诊合参体现了中医整体观念，是辨证论治的前提和基础，保证了诊断的全面性和准确性。
+
+Let me count and structure this properly. The response should be around 400 Chinese characters. Let me write a well-organized response.
+
+Format considerations: The user asks for a detailed introduction of about 400 characters. I should:
+- Write in Chinese
+- Use clear structure, possibly with brief sections or organized paragraphs
+- Keep it around 400 Chinese characters (maybe slightly more is fine, like 400-450)
+- Could use headers or just flowing paragraphs with clear organization
+
+Given it's ~400 characters, I shouldn't make it too long with excessive headers. A structured but concise format works well. Maybe use a short intro, then explain the four methods briefly, then explain why 合参 matters.
+
+Let me count my draft more carefully:
+
+四诊合参是中医诊断疾病的基本原则和方法，指医生将望、闻、问、切四种诊法所收集的临床资料进行综合分析、相互参照，全面准确地判断病情。
+
+四诊内容：
+望诊，观察病人的神、色、形、态和舌象，居于四诊之首；
+闻诊，听病人的声音、呼吸，嗅其气味变化；
+问诊，询问起病经过、症状特点、既往病史及饮食起居等；
+切诊，包括脉诊和按诊，通过触按脉搏及身体部位探查病变。
+
+为何需要"合参"：
+四诊各有侧重又各有局限，单一诊法的信息具有片面性。临床只有将四诊所得资料互相印证、综合分析，才能避免以偏概全。当脉象与症状不符时，还需"舍脉从症"或"舍症从脉"，这更离不开综合权衡。
+
+意义：
+四诊合参体现了中医整体观念，强调从整体上把握疾病本质，是辨证论治的前提和基础，对保证诊断的准确性和治疗的针对性具有重要意义。
+
+Let me estimate: this looks like around 350-400 characters. Good.
+
+I could format with small headers or bold text for clarity. Since it's a moderately detailed explanation, using bold labels for the four methods might help readability. Markdown formatting should be fine for chat interface.
+
+Let me refine:
+
+四诊合参是中医诊断疾病的基本原则，指医生综合运用望、闻、问、切四种诊察方法，全面收集病情资料，并将所得信息相互参照、综合分析，从而对疾病作出准确判断。
+
+四种诊法简介：
+- **望诊**：观察患者的神、色、形、态及舌象，为四诊之首，有"望而知之谓之神"之说；
+- **闻诊**：听声音（语声、呼吸、咳嗽等）、嗅气味，以判断正气盛衰与病邪性质；
+- **问诊**：询问起病原因、症状特点、病史及饮食起居等，是了解病情的重要途径；
+- **切诊**：包括脉诊与按诊，通过触按脉搏和身体相关部位，探查脏腑气血的变化。
+
+为何强调"合参"？
+四诊各有侧重，也各有局限，任何单一诊法获得的信息都是片面的。只有四诊互相印证、彼此补充，才能避免误诊漏诊。当脉象与症状不符时，需"舍脉从症"或"舍症从脉"，更须综合权衡。
+
+四诊合参体现了中医的整体观念，是辨证论治的前提与基础，对保证诊断准确、指导治疗具有重要意义。
+
+Count: roughly 400 characters.
+
+This seems good. I'll present it with this structure - a brief intro, the four methods with bold labels, why 合参 is needed, and its significance. This is appropriate formatting for the request.

@@ -1,0 +1,33 @@
+The user wants me to play the role of an old traditional Chinese medicine (TCM) doctor and talk about autumn health preservation in just two or three sentences, in the doctor's voice/tone.
+
+I should adopt the persona of an experienced TCM practitioner - typically speaking with wisdom, perhaps using classical Chinese medicine concepts, a warm but authoritative tone, maybe some traditional speech patterns.
+
+Key autumn health concepts in TCM:
+- 秋燥 (autumn dryness) - need to moisten lungs (润肺)
+- 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus) - foods that nourish yin and moisten dryness
+- 春捂秋冻 (wear less in autumn to build cold resistance) - though this should be qualified
+- 早卧早起 (sleep early, rise early)
+- 肺主秋 - lungs correspond to autumn
+- Avoid spicy food, eat more sour foods
+- 白色食物入肺 - white foods nourish lungs
+
+The tone of an old TCM doctor: warm, wise, perhaps speaking colloquially with some traditional flavor, like "老朽" or addressing the patient kindly. Common speech patterns might include phrases like "要知道" "记住了" etc.
+
+Let me craft 2-3 sentences in the voice of an old TCM doctor:
+
+Something like:
+"入了秋，天干物燥，最伤肺气。老朽送你一句话：多食梨藕百合润润燥，早睡早起莫贪凉，心平气和收收敛，这秋冬才好过活。"
+
+Let me refine. The user asked for 2-3 sentences. I should keep it concise but flavorful.
+
+Draft:
+"哎，入了秋啊，燥气当令，最易伤肺。老朽给你支一招：冰糖炖梨、银耳百合多吃些，润肺生津；早卧早起，与鸡俱兴，莫要贪食辛辣。记住喽，秋主收敛，心境也要平和，方能安然度秋。"
+
+That's about 3 sentences. Good. Maybe add a touch of personality like "小友" or ending with a characteristic phrase.
+
+Format considerations: The user asked for just 2-3 sentences, so I should keep the response short. No headers, no lists needed - just conversational speech in character. Maybe a brief opening like "咳咳" or a gesture to make it feel authentic, but keep it minimal since they asked for brevity.
+
+Final version:
+"哎，小友，入秋之后燥气当令，最易伤肺，平日里多用些梨、百合、银耳炖汤，润润肺燥。起居上要早卧早起，辛辣煎炸之物少碰为妙。记住喽——秋主收敛，心境平和，方能安然度秋啊。"
+
+That works well - three sentences, in character, covers diet and lifestyle and emotional aspects, uses TCM concepts naturally.

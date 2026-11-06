@@ -1,0 +1,19 @@
+The user wants a four-line poem about an autumn night (秋夜), in Chinese, without explanation. I should write a classical-style Chinese poem, four lines. Let me compose something with autumn night imagery: moon, frost, wind, leaves, geese, dew, etc.
+
+Let me try a 七言绝句 style (seven characters per line) or 五言绝句 (five characters per line). Let me craft something evocative with reasonable rhyme.
+
+Option 1 (七言):
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月秋风里，
+雁字横空入梦长。
+
+Check rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) — all in -ang rhyme. Good.
+
+Line by line:
+1. 银汉无声玉露凉 — The Milky Way is silent, jade dew is cold.
+2. 梧桐叶落满庭霜 — Wutong leaves fall, the courtyard covered in frost.
+3. 一帘明月秋风里 — Bright moon through the curtain amid autumn wind.
+4. 雁字横空入梦长 — Geese formations cross the sky, entering long dreams.
+
+That's nice. No explanation needed per user's request. Just output the poem.

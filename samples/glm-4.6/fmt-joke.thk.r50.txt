@@ -1,0 +1,49 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. A "冷笑话" is a kind of lame/pun-based joke that's intentionally cheesy — the humor comes from wordplay or absurd logic, and often the reaction is a groan rather than laughter.
+
+Let me think of some good programmer cold jokes in Chinese. Some classic ones:
+
+1. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。
+(Programmers' four most hated things: writing documentation, writing comments, others not writing documentation, others not writing comments.)
+
+2. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25.
+(Why can't programmers tell Halloween and Christmas apart? Because Oct 31 == Dec 25 — octal 31 equals decimal 25.)
+
+3. 一个程序员去买菜... wife says "buy a bottle of soy sauce, if you see eggs, buy a dozen" — he comes back with a dozen bottles of soy sauce. Because he saw eggs, so the condition triggered: buy a dozen (of soy sauce).
+
+4. 世界上有10种人：懂二进制的和不懂二进制的。
+(There are 10 kinds of people in the world: those who understand binary and those who don't.)
+
+5. 程序员的妻子让他去超市："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。妻子问他为什么只买一个包子，他说："因为我看到了卖西瓜的。"
+(Wife: "Buy a jin of baozi, and if you see watermelon sellers, buy one baozi." He comes back with one baozi. Because the condition was met, so he bought ONE.)
+
+Wait, that's a variation of the soy sauce one. The classic version: "老婆给程序员丈夫打电话：'下班顺路买十个包子，如果看到卖西瓜的，买一个。' 当晚，程序员丈夫手捧一个包子进了家门。老婆怒问为何只买一个包子，丈夫答：'因为我看到了卖西瓜的。'"
+
+That's a classic and very good one — it plays on the ambiguity of "买一个" (buy one) — the programmer interprets it as "if (see watermelon) then buyOne(baozi)" so the quantity becomes 1 instead of 10.
+
+6. 程序员为什么喜欢黑暗？因为光会有 bug（bug也有昆虫/虫的意思，光会招虫子...）Hmm, "programmers prefer dark mode because light attracts bugs" — that works in English because bugs are insects attracted to light and bugs are software errors. In Chinese this translates less well but could be explained.
+
+7. 面试官：你有什么缺点？程序员：我太诚实。面试官：我不觉得这是缺点。程序员：我不在乎你怎么觉得。
+
+8. 两个程序员去打猎... 
+
+9. 有一天程序员去面试，面试官问他："你用什么语言？" 程序员："中文。"
+
+Let me pick the strongest ones. The watermelon/baozi one is a classic. The Oct 31 == Dec 25 one is a great "cold" joke with technical wordplay.
+
+Format considerations: The user asked for one joke (讲一个). I could tell one joke well, maybe with a brief setup, or offer one main joke plus a bonus. Since they asked for "一个" (one), I should deliver one main joke, keep it punchy. I could add a small bonus as an extra, but keeping it focused might be better. A short, punchy response is ideal for jokes.
+
+Let me write the baozi one:
+
+程序员下班前，老婆打电话给他：
+"回家路上买十个包子。如果看到卖西瓜的，就买一个。"
+
+晚上，程序员手里拎着一个包子进了家门。
+
+老婆：你怎么就买了一个包子？！
+程序员：因为我看到卖西瓜的了。
+
+That's a perfect execution. Maybe add a one-line explanation or not — explaining jokes kills them, but for cold jokes, sometimes a tiny deadpan follow-up works. Actually the joke is self-explanatory enough for anyone who knows programming logic.
+
+Maybe I can offer a second bonus joke like Oct 31 == Dec 25. Actually, the user asked for one joke. Keep it tight. Maybe end with offering more if they want.
+
+Format: Short, use dialogue format, maybe minimal. No headers needed. Keep it conversational and punchy. Chinese response since the question is in Chinese.

@@ -1,0 +1,66 @@
+The user is asking in Chinese for a four-line poem about autumn night (秋夜), and they explicitly say "不要解释" (don't explain).
+
+So I should just write the poem without any explanation. A four-line poem in Chinese would typically be a 绝句 (jueju) - either 五言绝句 (five characters per line) or 七言绝句 (seven characters per line).
+
+Let me compose a good autumn night poem. Classic imagery for autumn night: moon (月), dew (露), frost (霜), osmanthus (桂), maple leaves (枫叶), geese (雁), cold (寒), stars (星), wutong trees (梧桐), night wind (夜风), etc.
+
+Let me try a 七言绝句 style:
+
+秋风萧瑟入寒窗，
+桂影婆娑月满江。
+雁字南飞声渐远，
+一庭清露夜微凉。
+
+Let me check the imagery: autumn wind into cold window, osmanthus shadows dancing, moon over river, geese flying south with fading cries, courtyard dew, slightly cool night. That's decent.
+
+Or maybe:
+
+月挂疏桐夜未央，
+风摇桂子落寒霜。
+虫声渐细秋将老，
+一枕清凉梦亦长。
+
+Let me think about rhyme: 央 (yāng), 霜 (shuāng), 长 (cháng) - all rhyme in -ang. Good.
+
+Line 3: 虫声渐细秋将老 - insect sounds growing faint, autumn growing old
+Line 4: 一枕清凉梦亦长 - a pillow of coolness, dreams are long too
+
+That's nice. Let me refine:
+
+月挂疏桐夜未央 - moon hanging on sparse wutong, night not yet ended
+风摇桂子落寒霜 - wind shakes osmanthus, falling cold frost... hmm, "桂子落寒霜" - osmanthus seeds falling with cold frost? Maybe 风送桂香过短墙 (wind carries osmanthus fragrance over the low wall)?
+
+月挂疏桐夜未央，
+风送桂香过短墙。
+虫语渐稀秋意重，
+一帘凉露梦初长。
+
+Rhyme: 央, 墙, 长 - all -ang. Good.
+
+Actually, let me reconsider. The tone patterns (平仄) for a proper jueju would be ideal but for a casual request, good imagery and rhyme matter most.
+
+Version:
+月挂疏桐夜未央，
+风携桂影度回廊。
+虫声渐寂秋露重，
+一枕新凉入梦乡。
+
+Rhyme: 央 yāng, 廊 láng, 乡 xiāng - all -ang. 
+
+Line 1: Moon hangs on sparse wutong, night not yet over
+Line 2: Wind carries osmanthus shadows through the winding corridor
+Line 3: Insect sounds gradually quiet, autumn dew heavy
+Line 4: A pillow of fresh coolness enters dreamland
+
+That's cohesive and evocative. Let me check 平仄 roughly:
+月挂疏桐夜未央: 仄仄平平仄仄平 - good pattern
+风携桂影度回廊: 平平仄仄仄平平 - good
+虫声渐寂秋露重: 平平仄仄平仄仄 - hmm, 露 is 仄, should ideally be 平平仄仄平平仄. 秋露重: 平仄仄. Could adjust to 虫声渐寂秋声远 but repeats 声. Maybe 虫吟渐寂秋庭静 - 平平仄仄平平仄. Then line 4: 一枕新凉入梦乡 - 仄仄平平仄仄平. Good.
+
+Final:
+月挂疏桐夜未央，
+风携桂影度回廊。
+虫吟渐寂秋庭静，
+一枕新凉入梦乡。
+
+That works well. The user said no explanation, so I'll just output the poem. Should I add a title? A title could be nice, like 《秋夜》. That's not an explanation, so it should be fine. Format: title centered or just on first line, then the four lines. Keep it minimal.

@@ -1,0 +1,52 @@
+The user is asking me in Chinese to explain the precautions/matters needing attention for daily water drinking using three points. This is a simple health/wellness question.
+
+Let me think about what are the most important considerations for daily water drinking:
+
+1. **不要等口渴才喝水** - The body is already mildly dehydrated when you feel thirsty. It's better to drink water regularly throughout the day.
+
+2. **喝水要适量，少量多次** - Drinking too much water at once can burden the kidneys; it's better to drink small amounts multiple times. Also don't drink too little.
+
+3. **水温要适宜** - Avoid drinking too cold or too hot water. Very cold water can irritate the gastrointestinal tract; very hot water (over 65°C) can damage the esophagus and may increase cancer risk.
+
+4. **晨起喝水** - Drinking a glass of water after waking up helps replenish water lost overnight and promotes metabolism.
+
+5. **不要用饮料代替白开水** - Sugary drinks don't replace water well.
+
+6. **睡前不宜大量喝水** - Can cause frequent night urination and possibly morning edema.
+
+7. **饭前饭后不宜大量饮水** - Can dilute digestive juices.
+
+The user wants exactly three points (三点). I should pick the three most important/practical ones. Let me structure a clear, concise response in Chinese.
+
+The format should be:
+- A brief intro (optional, could be just the three points)
+- Three numbered points with brief explanations
+- Keep it concise since the user asked for exactly three points
+
+Let me pick the best three:
+1. 主动喝水，不要等口渴才喝 - This is probably the most commonly cited advice
+2. 少量多次，适量饮用 - About quantity and pacing
+3. 水温适宜，避免过冷过热 - About temperature
+
+Alternatively:
+- 白开水为主，少喝饮料
+
+I'll go with:
+1. 主动喝水，不渴也要喝
+2. 少量多次，总量适宜 (about 1500-1700ml per day per Chinese dietary guidelines)
+3. 水温适宜，晨起睡前有讲究
+
+Actually, let me reconsider. I could combine temperature with something else, or make each point distinct. Common authoritative points from Chinese dietary guidelines (中国居民膳食指南):
+- 成人每天饮水1500-1700ml
+- 少量多次
+- 不等口渴再喝
+- 白开水或茶水，不喝或少喝含糖饮料
+
+I'll structure it as:
+1. **主动饮水，不要等口渴才喝** - 口渴时身体已缺水
+2. **少量多次，总量适宜** - 每次100-200ml，每天1500-1700ml，不要一次猛灌
+3. **首选白开水，水温适宜** - 少喝含糖饮料，避免过烫过冰的水
+
+This covers timing, quantity, and quality/temperature - comprehensive three points.
+
+Format: Should use numbered list with bold headers, brief explanations under each. Keep it concise - maybe 100-200 Chinese characters total or a bit more. Markdown numbered list is appropriate since this will likely be rendered.

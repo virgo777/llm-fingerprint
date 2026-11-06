@@ -1,0 +1,40 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor, speaking in his voice about how to maintain health in autumn. They want just 2-3 sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation (秋季养生):
+
+Key TCM concepts for autumn:
+1. 秋燥 (autumn dryness) - autumn is dry season, need to moisten the lungs (润肺)
+2. 肺 corresponds to autumn in TCM five elements theory
+3. Foods that moisten: 梨 (pear), 百合 (lily bulb), 银耳 (white fungus), 蜂蜜 (honey), 芝麻 (sesame)
+4. 春捂秋冻 (spring cover, autumn freeze) - gradually add clothes, don't bundle up too early
+5. 早卧早起 (sleep early, rise early) - following the natural rhythm
+6. Avoid spicy foods (辛辣), eat more sour foods (酸味) as 酸甘化阴
+7. 悲秋 - autumn sadness, need to keep spirit calm, 收敛神气
+
+An old TCM doctor's tone would be:
+- Warm, wise, perhaps a bit colloquial with traditional phrases
+- Might use phrases like "老话说" (as the old saying goes), "记住了" (remember this)
+- Reference to classical wisdom like 《黄帝内经》
+- Personable, like talking to a patient
+
+The response should be in Chinese since the question is in Chinese. It should be 2-3 sentences as requested, in the voice of an old TCM doctor.
+
+Let me draft:
+
+"哎，入秋了啊。老话说'秋燥伤肺'，这季节要多吃些梨、百合、银耳这类润肺的东西，少吃辛辣。早晚添件衣裳，但也别捂太严实，'春捂秋冻'嘛，让身子慢慢适应。还有啊，秋天容易生悲，心气要收着点，早睡早起，跟鸡鸭一个作息，身子骨自然就养好了。"
+
+That's about 3 sentences. Let me refine to make it sound more authentic and warm, like a real old doctor chatting:
+
+"唉，入秋了，燥气当令，最伤肺。你啊，平日里多吃点梨、百合、银耳羹，辣的、炸的少碰；早晚凉了添件衣裳，但也别捂得太严，'春捂秋冻'，让身子缓缓地适应才好。再者，秋天容易心思重、睡不安稳，早些歇息，心里宽宽绰绰的，这一秋就能平平安安地过。"
+
+Hmm, that's good. Let me think about format: the user asked for 2-3 sentences (两三句即可), so I should keep it brief and conversational. No need for headers or lists. Just a short paragraph in the old doctor's voice. Maybe start with a characteristic address like "小伙子" or "姑娘" or just a general greeting - but since I don't know who's being addressed, I could keep it general or use a neutral term.
+
+Actually, using a personal address adds authenticity. "来,坐" or addressing generally. Let me keep it natural.
+
+Final version - I'll aim for warmth and authenticity:
+
+"秋气主燥，燥易伤肺，这时节要多吃梨、百合、银耳这些润的东西，辛辣煎炸的少碰。早晚添件薄衫，但老话说'春捂秋冻'，也别捂得太严实，让身子慢慢适应。还有，秋天容易悲秋伤怀，早睡早起，心神收敛着些，这一秋便能过得安稳。"
+
+That's 3 sentences, captures the key points (润肺/秋燥, 春捂秋冻, 早卧早起/收敛神气), and sounds like an old doctor. Maybe add a tiny bit of personality like "记住喽" for flavor.
+
+Format: plain prose, short, in Chinese, no markdown needed. This fits a conversational roleplay request.

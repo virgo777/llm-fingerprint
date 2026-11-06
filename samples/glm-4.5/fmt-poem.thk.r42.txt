@@ -1,0 +1,134 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), without explanation. They're writing in Chinese, so I should respond in Chinese with a classical-style poem.
+
+Let me compose a four-line poem about autumn night. A classic quatrain (绝句) style would be appropriate - either 五言绝句 (5 characters per line) or 七言绝句 (7 characters per line).
+
+Let me think about autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 梧桐 (wutong tree), 雁 (wild geese), 霜 (frost), 虫鸣 (insect sounds), 秋风 (autumn wind), 寒 (cold), 落叶 (falling leaves).
+
+Let me try a 七言绝句:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月侵窗冷，
+雁过南天夜正长。
+
+Let me check the rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) - these rhyme in the -ang sound. Good.
+
+Line by line:
+1. 银汉无声玉露凉 - The Milky Way is silent, jade dew is cold
+2. 梧桐叶落满庭霜 - Wutong leaves fall, frost fills the courtyard
+3. 一帘明月侵窗冷 - A curtain of bright moonlight brings cold through the window
+4. 雁过南天夜正长 - Geese pass in the southern sky, the night is long
+
+That works well. The user said no explanation, so I should just give the poem. Maybe a title could be nice but they just asked for a four-line poem. I'll keep it minimal - just the poem itself, perhaps with a title like 《秋夜》which is natural.
+
+Actually, since they said "不要解释" (no explanation), I'll just provide the poem. A title is fine as it's part of the poem, not an explanation.
+
+Let me refine once more:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月侵窗冷，
+雁过南天夜正长。
+
+Actually "侵窗冷" - maybe 静 is better than 冷 since 冷 already appears via 凉... Let me check: 凉 in line 1, 冷 in line 3. Having both is a bit repetitive in meaning. Let me revise:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月侵窗静，
+雁过南天夜正长。
+
+Hmm, "侵窗静" is a bit odd. Maybe:
+
+一帘明月洒庭前 - no, 庭 repeats with line 2's 庭.
+
+Let me try:
+银汉无声玉露凉，
+梧桐疏影落寒塘。
+一帘明月人未寐，
+雁过南天夜正长。
+
+Hmm, that changes things. Let me think again.
+
+Option:
+月落乌啼... no that's too derivative of 枫桥夜泊.
+
+Let me craft carefully:
+
+秋风萧瑟入庭轩 - too plain
+
+Try:
+桂子飘香月满楼，
+西风一夜染清秋。
+虫声唧唧凉如水，
+独倚阑干看斗牛。
+
+Rhyme: 楼 (lóu), 秋 (qiū), 牛 (niú) - -ou/-iu rhyme, acceptable in 平水韵? 楼 is 十一尤, 秋 is 十一尤, 牛 is 十一尤. Yes, all in 尤 rhyme group. Good.
+
+But "看斗牛" (looking at the Dipper and Ox constellations) is nice and classical.
+
+Or simpler and more evocative:
+
+玉露初零桂子香，
+一轮明月照回廊。
+秋虫不解游人意，
+犹向阶前诉夜长。
+
+Rhyme: 香, 廊, 长 - all -ang. Good.
+
+Line meanings:
+1. Jade dew begins to fall, osmanthus fragrance drifts
+2. A bright moon shines on the winding corridor
+3. Autumn insects don't understand the traveler's feelings
+4. Still they chant before the steps about the long night
+
+Hmm, "秋虫不解游人意" - insects don't understand the wanderer's heart, yet they keep chirping about the long night. That's a nice turn.
+
+Actually my first version was solid. Let me finalize:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月侵窗冷... 
+
+The repetition of cold words (凉, 霜, 冷) is actually thematically consistent for autumn night, but poetically might be seen as redundant. In classical poetry, however, consistency of mood is fine. But let me vary:
+
+银汉无声玉露凉，
+梧桐叶落小池塘。
+一帘明月清如水，
+雁字横空夜正长。
+
+Rhyme: 凉, 塘, 长. Good.
+1. The Milky Way silent, jade dew cool
+2. Wutong leaves fall on the small pond
+3. A curtain of moonlight, clear as water
+4. Wild geese in formation cross the sky, the night is long
+
+"雁字横空" - geese forming characters across the sky. Nice imagery.
+
+Actually "一帘明月清如水" is lovely - moonlight clear as water.
+
+Final check on tonal patterns (平仄) for a 七绝. This would be 平起首句入韵 pattern:
+平平仄仄仄平平
+仄仄平平仄仄平
+仄仄平平平仄仄
+平平仄仄仄平平
+
+Line 1: 银汉无声玉露凉
+银(平)汉(仄)无(平)声(平)玉(仄)露(仄)凉(平)
+Pattern: 平仄平平仄仄平 - this matches 仄起入韵 first line: 仄仄平平仄仄平 (with 一三五不论: position 1 is 平 instead of 仄, fine; position 3 无 is 平 instead of 平... wait let me redo.
+
+仄起首句入韵:
+仄仄平平仄仄平
+平平仄仄仄平平
+平平仄仄平平仄
+仄仄平平仄仄平
+
+Line 1: 银汉无声玉露凉 = 平仄平平仄仄平 ✓ (position 1 flexible)
+Line 2: 梧桐叶落小池塘 = 平平仄仄仄平平 ✓ (梧平 桐平 叶仄 落仄 小仄 池平 塘平) ✓
+Line 3: 一帘明月清如水 = 仄平平仄平平仄 (一 is 仄 in classical, 帘平 明平 月仄 清平 如平 水仄). Expected: 平平仄仄平平仄. Position 3 should be 仄 but 明 is 平... position 3 flexible (一三五不论). Position 4 should be 仄, 月 is 仄 ✓. Position 5 should be 平, 清 is 平 ✓. So: 仄平平仄平平仄 - acceptable.
+Line 4: 雁字横空夜正长 = 仄仄平平仄仄平 ✓ (雁仄 字仄 横平 空平 夜仄 正仄 长平) ✓
+
+Great, this is a well-formed 七绝.
+
+The user said no explanation, so I'll just output the poem with minimal framing. I could add the title 《秋夜》 which is customary and not an explanation.
+
+Format: Just the poem, centered or as lines. Keep it clean, no commentary.

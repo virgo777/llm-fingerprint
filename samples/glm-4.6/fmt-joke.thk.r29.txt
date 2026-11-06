@@ -1,0 +1,36 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a fun, casual request. Let me think of some classic programmer jokes that work well in Chinese.
+
+Some classic programmer jokes in Chinese:
+
+1. The classic one about 0.1 + 0.2 != 0.3 (floating point)
+
+2. The wife/milk joke: 程序员买包子，妻子说"买十个包子，如果看到卖西瓜的，买一个。" 程序员回来只买了一个包子，因为他看到了卖西瓜的。(Classic programming logic joke)
+
+3. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。
+
+4. 世界上最遥远的距离不是生与死，而是你亲手制造的Bug就在你眼前，你却找不到她在哪里。
+
+5. 一个程序员去面试，面试官问："你有什么优点？" 程序员说："我写的代码没有bug。" "那缺点呢？" "吹牛。"
+
+6. 关于二进制的笑话：世界上有10种人，一种懂二进制，一种不懂。
+
+7. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+
+8. 程序员的老婆让他去超市："买一斤包子，如果看到卖西瓜的，就买一个。" 程序员买了一个包子回来。
+
+Let me pick a good one. The classic "买包子" (buying buns) joke is a classic that plays on programming logic (conditional statements). The Oct 31 == Dec 25 joke is also clever but requires knowing octal/decimal.
+
+The binary joke "世界上有10种人" is very classic but maybe too well-known.
+
+Let me go with the bun joke as the main one, it's genuinely funny and works well:
+
+老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+程序员回家，手里只拿着一个包子。
+老婆问："怎么只买了一个包子？"
+程序员："因为我看到卖西瓜的了。"
+
+This is a classic joke about how programmers interpret conditional statements literally - "if you see watermelon seller, buy one" - the programmer interprets "buy one" as replacing "buy ten buns" rather than adding one watermelon.
+
+I could also add a bonus joke. Let me think about format: the user asked for one joke ("讲一个"), so I should tell one joke. Maybe I can tell one main joke and offer more if they want. Keep it concise and punchy - jokes shouldn't be over-explained.
+
+Format: Should be short, conversational, in Chinese. The joke itself with maybe a tiny setup. No need for headers or lists. Maybe offer to tell another one at the end, briefly.

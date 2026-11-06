@@ -1,0 +1,73 @@
+The user is asking me to write a four-line poem (四句诗) with the theme of autumn night (秋夜), and they explicitly say "不要解释" (don't explain).
+
+This is a creative writing request in Chinese. I should write a classical-style four-line poem about autumn night. The user wants no explanation, just the poem itself.
+
+Let me compose a nice four-line Chinese poem about autumn night. Traditional Chinese quatrains (绝句) typically have 5 or 7 characters per line, with attention to rhyme.
+
+Let me think about autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 梧桐 (wutong tree), 霜 (frost), 虫鸣 (insect sounds), 星 (stars), 风 (wind), etc.
+
+Let me try a 7-character quatrain (七言绝句):
+
+秋风瑟瑟入帘栊，
+月色如霜满碧空。
+桂子飘香人不寐，
+一庭虫语伴梧桐。
+
+Let me check the rhyme: 栊 (lóng), 空 (kōng), 寐 (mèi - not rhyming, this is the third line which doesn't need to rhyme), 桐 (tóng). The rhyme scheme works: 栊, 空, 桐 all rhyme with -ong.
+
+Let me refine:
+
+秋风瑟瑟入帘栊，
+月冷霜清桂影重。
+雁字南飞人未寝，
+一庭虫语伴梧桐。
+
+Hmm, let me think again. 
+
+Option:
+玉露初凝月满楼，
+梧桐叶落碧云秋。
+雁声远过潇湘去，
+只有寒虫语不休。
+
+Rhyme: 楼 (lóu), 秋 (qiū), 休 (xiū) - these rhyme in the -iu/-ou family (尤韵).
+
+Let me polish:
+
+秋夜
+
+银汉迢迢月满楼，
+梧桐叶落一庭秋。
+雁声遥向潇湘去，
+唯有寒虫语未休。
+
+This is nice. Or:
+
+霜华满地月如钩，
+桂影摇风入小楼。
+雁过南天云寂寂，
+虫声唧唧伴清秋。
+
+Rhyme: 钩 (gōu), 楼 (lóu), 秋 (qiū). Works.
+
+Let me pick a good one. I'll go with something evocative:
+
+月冷梧桐叶半凋，
+寒星几点缀云霄。
+虫声唧唧眠难稳，
+一夜西风梦亦遥。
+
+Rhyme: 凋 (diāo), 霄 (xiāo), 遥 (yáo) - all rhyme in -iao/-ao (萧韵).
+
+Or my earlier one:
+
+银汉迢迢月满楼，
+梧桐叶落一庭秋。
+雁声遥向潇湘去，
+唯有寒虫语未休。
+
+I like this one. The imagery: Milky Way stretching far, moonlight filling the tower, wutong leaves falling in courtyard autumn, geese flying toward Xiaoxiang, only cold insects chattering without rest.
+
+The user said don't explain, so I should just give the poem. Maybe a title is fine, or just the poem. Keep it minimal - just the poem itself, perhaps with a title "秋夜" which is natural for Chinese poems.
+
+Format: Since they asked for no explanation, I should output just the poem. A title would be appropriate. The response should be very short - just the four lines, possibly with a title. No preamble, no explanation after.

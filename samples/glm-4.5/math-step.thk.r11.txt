@@ -1,0 +1,16 @@
+The user asks to calculate 17×23+45÷9 with complete process.
+
+17 × 23 = 391
+45 ÷ 9 = 5
+391 + 5 = 396
+
+Let me show the complete process:
+
+17 × 23:
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+
+45 ÷ 9 = 5
+
+391 + 5 = 396
+
+Answer: 396

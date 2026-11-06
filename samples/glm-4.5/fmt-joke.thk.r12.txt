@@ -1,0 +1,38 @@
+The user is asking for a cold joke (冷笑话) about programmers, in Chinese. This is a simple, benign request for humor. Let me think of some good programmer jokes.
+
+Some classic programmer jokes:
+
+1. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+
+2. 一个程序员去买菜，老婆说："买一斤包子，如果看到卖西瓜的，买一个。" 结果程序员买了一个包子回来。老婆问为什么？他说："因为我看到卖西瓜的了。"
+
+3. 程序员的妻子让他去超市："买一瓶酱油，如果有鸡蛋，买十个。" 程序员回来带十瓶酱油。妻子问为什么，他说："因为有鸡蛋。"
+
+4. 世界上有10种人，一种懂二进制，一种不懂。
+
+5. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+
+6. 为什么程序员喜欢暗色主题？因为光会吸引 bug（bugs）。
+
+7. 一个程序员去面试，面试官问："你有什么缺点？" 程序员："诚实。" 面试官："我不觉得诚实是缺点。" 程序员："我不在乎你怎么觉得。" —— 这个不算程序员专属。
+
+8. 程序员死了，朋友在他墓碑上写：这个人的生命已停止运行。
+
+9. "我讨厌说'它在我电脑上是好的'，所以我一般说'是你们的电脑坏了'。"
+
+The 卖包子/买一个 joke is a classic Chinese programmer cold joke based on the "if condition" logic. Let me pick one or two good ones.
+
+The Oct 31 == Dec 25 one is clever but requires understanding octal/decimal. 
+
+The 买包子 joke is very classic and works well in Chinese:
+
+老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+程序员回家，手里拿着一个包子。
+老婆问："你怎么只买了一个包子？"
+老公答："因为我看到卖西瓜的了。"
+
+This is the classic one. The joke is that the programmer interprets it as code: buy 10 baozi, IF (see watermelon seller) THEN buy 1 (baozi). So the conditional statement modified the quantity of baozi instead of adding watermelon.
+
+I could tell this one, maybe with a bonus joke. Let me keep the response concise and fun. Format: conversational, tell the joke, maybe add a brief explanation or a second short one. Since it's a casual request, keep it light. Maybe tell one main joke and offer another.
+
+Format considerations: Short, in Chinese, storytelling style. No need for headers or lists. Maybe emoji-free or minimal. I'll tell the classic one well, and perhaps add a small bonus.

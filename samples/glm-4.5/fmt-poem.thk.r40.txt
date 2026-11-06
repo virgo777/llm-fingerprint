@@ -1,0 +1,54 @@
+The user wants a four-line poem about autumn night (秋夜) in Chinese, with no explanation.
+
+Let me compose a nice classical-style Chinese quatrain about an autumn night. Traditional themes: moon, dew, frost, crickets, falling leaves, cool wind, solitude.
+
+Let me write something elegant:
+
+Option 1:
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一轮明月照孤影，
+何处砧声入夜长。
+
+Let me check tones and rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) - all rhyme in -ang. Good.
+
+Line 3 doesn't rhyme, which is correct for a jueju.
+
+Let me refine:
+
+秋夜
+玉露初凝桂子香，
+梧桐叶落满庭霜。
+一轮明月窥窗牖，
+万点寒星伴夜长。
+
+Hmm, let me make it flow well:
+
+凉风有信透罗裳，
+桂影婆娑月满廊。
+虫语渐稀霜露重，
+一庭秋色夜微茫。
+
+Rhyme: 裳 (shang/cháng), 廊 (láng), 茫 (máng) - all -ang. Good.
+
+Or a simpler, more classic one:
+
+月挂疏桐夜色凉，
+风摇落叶满庭霜。
+虫声唧唧添幽寂，
+一缕清愁入梦长。
+
+Rhyme: 凉, 霜, 长 - good.
+
+I'll go with something like:
+
+银汉迢迢夜未央，
+梧桐叶落露成霜。
+虫声唧唧吟秋意，
+一枕清凉梦亦长。
+
+Rhyme: 央 (yāng), 霜 (shuāng), 长 (cháng) - all -ang rhymes. Nice.
+
+Check content: Milky Way distant, night not yet ended; wutong leaves fall, dew becomes frost; insect chirps chant autumn's mood; a cool pillow, dreams are long too. Nice autumn night imagery.
+
+The user said "不要解释" (no explanation), so I should just give the poem, no commentary.

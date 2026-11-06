@@ -1,0 +1,72 @@
+The user wants a four-line poem (四句诗) about an autumn night (秋夜), and asks me not to explain (不要解释).
+
+Let me write a classical Chinese poem about autumn night. Traditional Chinese poems often have four lines with five or seven characters per line (五言 or 七言).
+
+Let me compose a 七言绝句 (seven-character quatrain) about autumn night:
+
+Ideas for imagery: 月 (moon), 露 (dew), 桂花 (osmanthus), 雁 (wild geese), 虫鸣 (insect sounds), 霜 (frost), 梧桐 (wutong tree), 银 (silver/moonlight), 竹 (bamboo), 寒 (cold), 风 (wind), 星 (stars)
+
+Draft 1:
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁声远过潇湘去，
+月满西楼夜正长。
+
+Let me check: 
+- 银汉无声玉露凉 (The Milky Way is silent, jade dew is cool)
+- 一庭桂影浸秋光 (A courtyard of osmanthus shadows steeped in autumn light)
+- 雁声远过潇湘去 (Goose cries pass far beyond Xiaoxiang)
+- 月满西楼夜正长 (Moon fills the western tower, the night is long)
+
+Rhyme check: 凉 (liáng), 光 (guāng), 长 (cháng) - all rhyme in -ang. Good.
+
+Tonal pattern (平仄): For a proper 七绝:
+仄仄平平仄仄平 (or variations)
+Let me check:
+银汉无声玉露凉: 平仄平平仄仄平 - close to 平平仄仄仄平平... Actually let me not over-analyze, but let me try to make it reasonably correct.
+
+Line 1: 银(平)汉(仄)无(平)声(平)玉(仄)露(仄)凉(平) - 平仄平平仄仄平 ✓ (standard: 仄仄平平仄仄平, first character flexible)
+Line 2: 一(仄)庭(平)桂(仄)影(仄)浸(仄)秋(平)光(平) - 仄平仄仄仄平平 ✓ (standard: 平平仄仄仄平平, first character flexible, but third character 桂 is 仄 where 仄 expected... 平平仄仄仄平平 - positions: 平平仄仄仄平平. 一(仄)庭(平)桂(仄)影(仄)浸(仄)秋(平)光(平) = 仄平仄仄仄平平. Position 2 is 平 (庭) ✓, position 4 is 仄 (影) ✓, position 6 is 平 (秋) ✓. Good.
+Line 3: 雁(仄)声(平)远(仄)过(仄)潇(平)湘(平)去(仄) - 仄平仄仄平平仄. Standard: 仄仄平平平仄仄. Position 2: 声(平)... hmm, should be 仄. Let me adjust.
+
+Actually, for line 3 after line 2 ending 平平, line 3 should be 仄仄平平平仄仄 pattern roughly. 雁声远过潇湘去: 仄平仄仄平平仄. Position 2 is 声 (平) - should be 仄. Position 4 is 过 (仄) - should be 平. Position 6 is 湘 (平) - should be 仄. This is like the opposite pattern. Hmm.
+
+Let me revise line 3: something like 仄仄平平平仄仄
+"雁字一声人独倚" - 仄仄仄平平仄仄. Close.
+Or "忽有雁声惊客梦" - 仄仄仄平平仄仄.
+Or "雁过南楼惊客梦" - 仄仄平平平仄仄: 雁(仄)过(仄)南(平)楼(平)惊(平)客(仄)梦(仄) ✓
+
+Line 4: 月满西楼夜正长 - but then 南楼 and 西楼 repeat 楼. Let me change.
+
+New draft:
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁过南云惊客梦，
+月斜西院夜初长。
+
+Hmm, "夜初长" - the night just begins to lengthen. Or 夜正长.
+
+Line 4: 月(仄)斜(平)西(平)院(仄)夜(仄)初(平)长(平) - 仄平平仄仄平平. Standard: 平平仄仄仄平平. Position 2: 斜(平) ✓, position 4: 院(仄) ✓, position 6: 初(平) ✓. Good.
+
+Line 3 revised: 雁(仄)过(仄)南(平)云(平)惊(平)客(仄)梦(仄) - 仄仄平平平仄仄 ✓ perfect.
+
+But wait, rhyme: 凉、光、长 - all in 平水韵 下平七阳. ✓
+
+Final check of imagery: Milky Way silent, jade dew cool, courtyard osmanthus shadows in autumn light, geese passing southern clouds startling dreams, moon slanting over western courtyard, night growing long. Nice autumn night imagery.
+
+Hmm, "惊客梦" - startling a traveler's dream. That's fine for autumn night melancholy.
+
+Actually let me reconsider "南云" - geese fly south in autumn, so "雁过南云" (geese pass southern clouds) works.
+
+Alternatively:
+月挂疏桐夜未央 type stuff. Let me stick with my draft.
+
+Final:
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁过南云惊客梦，
+月斜西院夜初长。
+
+The user said no explanation, so I'll just provide the poem. Should I give it a title? A title could be nice: 《秋夜》. That's still not "explaining" - it's just the title. I'll include the title 《秋夜》 for completeness.
+
+Format: Just the poem, no explanation. Short response.

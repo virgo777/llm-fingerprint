@@ -1,0 +1,62 @@
+The user is asking me to write a four-line poem in Chinese about an autumn night (秋夜), with no explanation needed.
+
+Let me compose a classical-style Chinese poem about autumn night. Traditional Chinese poems often have five or seven characters per line (五言 or 七言).
+
+Let me write a 七言绝句 (seven-character quatrain) about autumn night:
+
+Some imagery for autumn night:
+- 月 (moon)
+- 桂花 (osmanthus)
+- 露 (dew)
+- 霜 (frost)
+- 落叶 (falling leaves)
+- 雁 (wild geese)
+- 虫鸣 (insect sounds/crickets)
+- 秋风 (autumn wind)
+- 寒 (cold)
+
+Let me try:
+
+月冷霜天雁字斜，
+桂花香里露凝花。
+西风不解人间意，
+吹落梧桐满院纱。
+
+Hmm, let me refine:
+
+秋风瑟瑟入帘纱，
+桂子飘香月影斜。
+一夜寒蛩鸣不住，
+梧桐叶落满庭花。
+
+Wait, "满庭花" doesn't quite work since it's falling leaves not flowers. Let me revise:
+
+凉风有信入窗纱，
+桂子香浮月影斜。
+蟋蟀声中霜满地，
+梧桐叶落似飞花。
+
+That's better. Let me check the tones and flow:
+
+凉风有信入窗纱 (liáng fēng yǒu xìn rù chuāng shā)
+桂子香浮月影斜 (guì zǐ xiāng fú yuè yǐng xié)
+蟋蟀声中霜满地 (xī shuài shēng zhōng shuāng mǎn dì)
+梧桐叶落似飞花 (wú tóng yè luò sì fēi huā)
+
+Rhyme: 纱 (shā), 斜 (xié - in classical reading xiá), 花 (huā) - these rhyme in classical Chinese poetry (麻韵).
+
+Actually 斜 was pronounced "xiá" in old Chinese and rhymes with 纱 and 花 in the 麻 rhyme group. This works.
+
+The imagery: cool wind through window gauze, osmanthus fragrance and slanting moon shadows, crickets chirping with frost covering the ground, wutong leaves falling like flying flowers.
+
+This is a nice autumn night poem. The user said no explanation, so I'll just give the poem, perhaps with a title.
+
+Let me finalize:
+
+《秋夜》
+凉风有信入窗纱，
+桂子香浮月影斜。
+蟋蟀声中霜满地，
+梧桐叶落似飞花。
+
+Should I include the title? A title would be natural. The user just asked for the poem, so I'll give it with a simple title, no explanation.

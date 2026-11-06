@@ -1,0 +1,45 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Explain the precautions/matters needing attention for daily drinking water in three points."
+
+This is a simple informational request about daily water drinking habits/tips. The user wants three points.
+
+Let me think about what the most important daily water drinking precautions are:
+
+1. **Water temperature (水温)** - Avoid drinking too cold or too hot water. Ice-cold water can irritate the gastrointestinal tract; too hot water (above 65°C) can damage the esophageal mucosa. Lukewarm water (around 30-40°C) is generally recommended.
+
+2. **Amount and rhythm (饮水量与节奏)** - Drink water in small amounts multiple times rather than gulping large quantities at once. Don't wait until you're thirsty to drink. Recommended daily intake is about 1500-2000ml (about 7-8 cups). Don't drink too much water at once, especially before bed.
+
+3. **Timing (饮水时机)** - Morning after waking up (drink a glass of warm water), before meals (don't drink too much), avoid drinking large amounts before sleep (to prevent nocturia and edema). Don't wait until thirsty - thirst is already a sign of mild dehydration.
+
+Other possible points:
+- Water quality (选择安全的水源, boiled tap water is fine)
+- Don't substitute beverages for water (少喝含糖饮料)
+- Special populations (kidney disease patients need to limit water)
+
+The user asked for exactly three points, so I should give three clear, well-organized points.
+
+Format considerations:
+- The response should be in Chinese since the question is in Chinese
+- A numbered list with three points makes sense
+- Each point should have a clear heading/topic and brief explanation
+- Should be concise but informative - not overly long
+- Could use bold headings for each point
+
+Let me draft the three points:
+
+**1. 控制水温，避免过冷过热**
+- 过烫的水（超过65°C）会烫伤口腔和食道黏膜，长期可能增加食道疾病风险
+- 过冷的水会刺激肠胃，引起不适
+- 建议饮用温开水（约30-40°C）
+
+**2. 少量多次，不要等口渴才喝**
+- 口渴时身体已处于轻度缺水状态
+- 建议每天饮水1500-2000毫升（约7-8杯）
+- 每次喝100-200毫升，分多次饮用
+- 避免一次性大量饮水，以免加重心脏和肾脏负担
+
+**3. 注意饮水时机**
+- 晨起一杯温水，补充夜间流失的水分，促进代谢
+- 饭前不宜大量饮水，以免影响消化
+- 睡前不宜大量饮水，避免夜间频繁起夜和晨起水肿
+
+This covers the main aspects comprehensively. I'll format it nicely with bold headers and brief explanations. The length seems appropriate - detailed enough to be useful but not overwhelming.

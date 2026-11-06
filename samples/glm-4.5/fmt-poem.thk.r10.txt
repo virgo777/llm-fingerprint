@@ -1,0 +1,107 @@
+The user wants me to write a four-line poem about autumn night (秋夜), in Chinese, and explicitly says not to explain it (不要解释).
+
+Let me compose a classical-style Chinese poem about autumn night. Four lines, could be a 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain).
+
+Let me think about imagery for autumn night: moon, frost, osmanthus (桂花), falling leaves, cold dew, crickets, geese flying south, stars, cool breeze, etc.
+
+Let me try a 七言绝句:
+
+秋夜
+月冷霜天桂子香，
+虫声渐远入寒塘。
+风吹落叶惊栖鸟，
+一夜秋思到晓霜。
+
+Hmm, let me check rhyme: 香 (xiāng), 塘 (táng), 霜 (shuāng) — all in -ang rhyme. Good.
+
+Or another attempt:
+
+玉露初凝桂影斜，
+寒星数点落谁家。
+西风一夜梧桐老，
+月满空庭秋满纱。
+
+Rhyme: 斜 (xié/xiá in old pronunciation), 家 (jiā), 纱 (shā) — 斜 in classical rhyme reads xiá, rhymes with 家 and 纱. This works in 麻 rhyme group.
+
+Let me refine:
+
+月落乌啼 imagery is from 枫桥夜泊, too cliché.
+
+Let me write:
+
+金风萧瑟入庭柯，
+桂子飘香月满河。
+雁字横空秋思远，
+一帘霜露梦寒多。
+
+Rhyme: 柯 (kē), 河 (hé), 多 (duō) — 歌 rhyme group. Okay.
+
+Simpler five-character version:
+
+霜月照庭柯，
+虫声入户多。
+西风吹叶落，
+秋思满星河。
+
+Rhyme: 柯, 多, 河 — good.
+
+I think a 七言 version is nicer. Let me finalize:
+
+《秋夜》
+银汉无声玉露凉，
+一庭桂影浸月光。
+虫声渐息风敲叶，
+半枕秋寒梦亦霜。
+
+Rhyme: 凉 (liáng), 光 (guāng), 霜 (shuāng) — -ang rhyme, good.
+
+Line 2: 一庭桂影浸月光 — "moonlight" appearing with 浸 is fine. But 光 and 凉/霜 — 光 is guāng, rhymes fine.
+
+Line 3: 虫声渐息风敲叶 — insect sounds fading, wind tapping leaves.
+Line 4: 半枕秋寒梦亦霜 — half a pillow of autumn cold, dreams also frosty.
+
+Actually "玉露凉" and "浸月光" — 玉露 (jade dew), decent.
+
+Alternatively:
+
+《秋夜》
+霜天雁影过南楼，
+桂子香残月满钩。
+落叶敲窗人不寐，
+一帘秋色冷如流。
+
+Rhyme: 楼 (lóu), 钩 (gōu), 流 (liú) — 尤 rhyme group. Nice.
+
+Line 3: 落叶敲窗人不寐 — falling leaves knock on the window, one cannot sleep.
+Line 4: 一帘秋色冷如流 — a curtain of autumn scenery, cold as flowing water.
+
+Hmm, "冷如流" is a bit odd. Maybe "凉于水"? But needs to rhyme with 流... "冷于秋"? That ends with 秋 which is the theme word. "一帘幽梦冷于秋" — a curtain of dreams colder than autumn. But repeats 秋.
+
+Let me go with:
+
+霜天雁影过南楼，
+桂子香残月满钩。
+落叶敲窗人未寐，
+西风偷梦入帘秋。
+
+Hmm, last line awkward.
+
+Try:
+
+霜华满地月初钩，
+雁字横空过小楼。
+落叶敲窗人不寐，
+一窗凉月替人愁。
+
+Rhyme: 钩, 楼, 愁 — good. But 月 appears twice (月初钩, 凉月). Fix line 1: 霜华满地夜初幽?
+
+霜华满地桂香浮，
+雁字横空过小楼。
+落叶敲窗人不寐，
+半帘凉月伴清愁。
+
+Rhyme: 浮 (fú), 楼 (lóu), 愁 (chóu) — 尤 rhyme. Good.
+
+This is nice. Four lines about autumn night: frost on the ground with floating osmanthus fragrance, wild geese flying across the sky past the small tower, falling leaves tapping the window as one cannot sleep, half a curtain of cool moonlight accompanying quiet sorrow.
+
+The user said don't explain, so I'll just give the poem, maybe with a title or not. Keep it minimal. I'll just output the four lines, possibly with title 《秋夜》.

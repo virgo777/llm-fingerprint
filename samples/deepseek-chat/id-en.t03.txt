@@ -1,0 +1,3 @@
+I was created by **DeepSeek** (深度求索), a Chinese AI company. My exact model name is **DeepSeek-V3** — specifically the version identifier you'll see in my system context is `DeepSeek-V3.2`. 
+
+If you need the precise API model string or version details, let me know and I can point you to the right place!

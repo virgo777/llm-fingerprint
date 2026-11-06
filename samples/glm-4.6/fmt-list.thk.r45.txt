@@ -1,0 +1,43 @@
+The user is asking me to explain daily drinking water precautions/considerations in three points, in Chinese.
+
+This is a simple health information request. Let me think about the most important points about drinking water:
+
+Common advice about drinking water:
+1. Don't wait until you're thirsty to drink - drink water regularly throughout the day
+2. Drink appropriate amounts - about 1500-2000ml per day for adults, don't drink too much at once
+3. Water temperature matters - avoid too cold or too hot water, warm water is best
+4. Morning water drinking - drinking a glass of water after waking up is beneficial
+5. Don't drink water too fast/gulp it down
+6. Avoid drinking large amounts before bed
+7. Don't substitute beverages for water (sugary drinks, etc.)
+8. Drink water before/after exercise
+
+The user specifically asks for THREE points (三点). So I should pick the three most important and commonly emphasized ones:
+
+1. 主动喝水，不要等口渴才喝 - This is important because thirst indicates mild dehydration already
+2. 适量饮水 - Important to avoid both dehydration and water intoxication
+3. 注意水温 - Health consideration
+
+Or alternatively:
+3. 少量多次饮用 - rather than gulping large amounts at once
+
+Let me structure a good answer with three clear points:
+
+**1. 主动补水，不要等口渴才喝**
+- 口渴时身体已经处于轻微缺水状态
+- 建议定时定量饮水，养成习惯
+- 起床后、餐前适量喝水
+
+**2. 掌握合适的饮水量和饮水方式**
+- 成年人每天约1500-2000毫升（7-8杯）
+- 少量多次，每次200毫升左右
+- 不要一次猛灌大量水，避免加重心脏和肾脏负担
+
+**3. 注意水温，避免过冷过热**
+- 以温开水（20-40℃左右）为宜
+- 过烫的水会损伤食道黏膜
+- 过冷的水刺激肠胃，可能引起不适
+
+I could also mention avoiding sugary drinks as substitutes for water, but the user asked for only 3 points, so I should stick to three.
+
+Format considerations: The user asked for three points, so a numbered list with brief explanations is appropriate. Should respond in Chinese since the question is in Chinese. Keep it concise but informative - each point should have a clear header and 1-2 sentences of explanation. Not too long, this is a simple informational request.

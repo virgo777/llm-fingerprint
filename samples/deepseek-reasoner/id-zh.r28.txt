@@ -1,0 +1,4 @@
+我是 **DeepSeek 最新版模型**，由 **深度求索（DeepSeek）公司** 开发。
+
+模型名称：**DeepSeek**（可称为 **DeepSeek 最新版模型**）。  
+具体版本号若需精确确认，请以 DeepSeek 官方发布信息为准。

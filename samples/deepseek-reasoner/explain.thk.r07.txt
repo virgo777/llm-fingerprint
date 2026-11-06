@@ -1,0 +1,6 @@
+We need answer in Chinese, ~200字 explain BIA. Need concise. Must use 200 Chinese characters? "用200字" likely around 200 Chinese characters. Explain bioelectrical impedance analysis: weak alternating current through body, measure impedance, tissues conduct differently: fat low water low conductivity high impedance; muscle high water good conductor. Used body composition: body fat, muscle, water. Two-compartment model assumptions hydration, etc. Accuracy affected by hydration, temperature, posture, electrode placement. Need around 200字. Let's craft ~180-220 Chinese chars. Need maybe mention not direct measure fat but estimate via equations. Use "生物电阻抗分析（BIA）". Let's count rough. Chinese characters.
+
+Draft:
+生物电阻抗分析（BIA）是一种通过向人体施加微弱交流电、测量电阻抗来估算身体成分的方法。肌肉、血液含水量高，导电性好、阻抗低；脂肪含水量低，导电性差、阻抗高。仪器结合身高、体重、年龄、性别等参数和回归方程，推算体脂率、肌肉量、体液量等。BIA安全、快速、便携，但结果受饮水、进食、运动、体温、体位和电极位置影响，只能视为估算；对水肿、脱水或极端体型者误差较大。约170字? Let's count. Good.
+
+Need answer only. final. 

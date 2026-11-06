@@ -1,0 +1,45 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters, and they're asking in Chinese, so I should respond in Chinese.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), complexion (色), form (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+四诊合参 means that a physician must combine and synthesize all four diagnostic methods' findings to make a comprehensive analysis and accurate diagnosis (辨证), rather than relying on just one method.
+
+The concept comes from classic texts like 《黄帝内经》 and was emphasized in 《难经》: "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧" (comparing the levels of skill).
+
+Key points to cover:
+1. Definition: 望、闻、问、切 four methods
+2. Explanation of each method
+3. The meaning of 合参 - combining/synthesizing all findings
+4. Why it's important - avoiding one-sided diagnosis ("独取寸口"的局限 or 见一症便下结论)
+5. Its role in 辨证论治
+
+Let me write approximately 400 Chinese characters. I should aim for around 400 characters (Chinese characters count differently). Let me draft:
+
+---
+
+四诊合参是中医诊断学的基本原则，指医生综合运用望、闻、问、切四种诊法，全面收集患者的病情资料，并加以归纳分析，从而作出正确辨证的过程。
+
+望诊，是观察患者的神、色、形、态及舌象等，以推断体内变化，所谓"望而知之谓之神"。闻诊，包括听声音（语声、呼吸、咳嗽等）与嗅气味，以判断病邪性质与脏腑功能。问诊，是询问患者的症状、病史、饮食起居等，是了解病情的重要途径。切诊，包括脉诊和按诊，通过触按脉搏与肌肤、脘腹等，探察脏腑气血的盛衰。
+
+"合参"强调四诊不可偏废。因每一诊法只能反映疾病的一个侧面，单凭某一诊法易致误诊，故须将四诊所获信息互相参照、综合分析，去伪存真，才能全面把握疾病的本质，为辨证论治提供可靠依据。这一原则体现了中医整体观念，是中医临床诊断的核心方法。
+
+---
+
+Let me count roughly: This is about 380-400 characters. Good.
+
+I could use headers or formatting, but since it's a short 400-character essay-style answer, flowing paragraphs with perhaps the four methods clearly delineated would work well. Maybe I can structure it slightly with the four methods. Given the request is for a ~400 character explanation, prose format is appropriate. I could use light formatting to make the four diagnosis methods stand out, but a cohesive essay might match the "400字左右" request better - this sounds like it could be for an assignment or study purposes. I'll write it as flowing prose, which is what "400字左右" typically implies.
+
+Let me refine the content for accuracy:
+
+- 望诊: 神色形态、舌象 - correct
+- 闻诊: 听声音和嗅气味 - correct
+- 问诊: 十问 - correct
+- 切诊: 脉诊和按诊 - correct
+- 四诊合参出自《黄帝内经》思想，具体术语强调综合运用
+- 《难经·六十一难》"望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"
+
+The draft looks good. Let me finalize it at around 400 characters.

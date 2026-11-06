@@ -1,0 +1,9 @@
+We need answer in Chinese: four-line poem theme autumn night, no explanation. Need compose. Four lines likely 五言 or 七言绝句. Need just poem. Need adhere no explanation. Could be:
+秋夜深
+寒蛩鸣砌月窥窗，风卷梧桐落半黄。
+独坐空庭人不寐，一帘清露湿秋香。
+Need four lines. Ensure theme autumn night. No explanation. Could output only poem. Maybe safer classical four句. Let's craft concise:
+秋夜
+霜风入户夜初凉，月照梧桐叶半黄。
+独倚空庭听雁过，一帘清露湿秋香。
+Four lines. Need no title? Title not explanation. Could include. User says write poem, no explanation. Output poem only.

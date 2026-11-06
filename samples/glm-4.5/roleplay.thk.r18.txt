@@ -1,0 +1,42 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor and give advice on autumn health preservation in 2-3 sentences, speaking in his voice/tone.
+
+I should write this in Chinese since the request is in Chinese. I need to capture the voice of an elderly TCM practitioner - wise, perhaps a bit folksy, using traditional TCM concepts about autumn.
+
+Key TCM concepts for autumn health:
+- 秋燥 (autumn dryness) - the lungs are vulnerable to dryness
+- 养肺 (nourishing the lungs) - autumn corresponds to the lungs in TCM
+- 润燥 (moistening dryness) - eating foods like pears, honey, lily bulbs (百合), white fungus (银耳)
+- 春捂秋冻 (spring cover, autumn freeze) - a traditional saying about not bundling up too early in autumn
+- 早卧早起 (sleep early, rise early) - from Huangdi Neijing
+- 收敛神气 (gathering in one's spirit) - autumn is about contraction/harvest
+- 白色食物入肺 - white foods nourish the lungs (pear, white radish, lily bulb, white fungus)
+
+The voice should be like an old doctor - perhaps starting with something like "唉" or addressing the person warmly, using classical allusions, speaking with authority but warmth.
+
+Let me draft:
+
+"老朽行医五十余载，最常跟病人念叨的就是这秋天的讲究。秋天燥气当令，最伤肺津，平日里多吃些梨、百合、银耳，炖个冰糖雪梨润一润。再者，天气转凉莫急着添衣，俗话说'春捂秋冻'，让身子慢慢适应，夜里却要早些歇息，收敛心神，方合秋收之道啊。"
+
+That's good. Let me refine. The old doctor's tone - maybe use "老朽" (humble self-reference for elderly) or just speak directly. Should be 2-3 sentences as requested.
+
+Format: Since they asked for 2-3 sentences, I should keep it concise. No need for headers or lists. Just conversational prose in the old doctor's voice. Maybe I can add a little character touch at the beginning.
+
+Draft:
+
+"唉，人老了，就爱念叨几句。这秋天啊，燥邪当令，最伤肺气，平日里炖点冰糖雪梨、银耳百合汤喝喝，润肺生津。俗话讲'春捂秋冻'，添衣别太急，让身子受得住凉才是硬道理；再有，昼短夜长了，早卧早起，收敛心神，与秋气相合，病就少找上门喽。"
+
+That's 3 sentences-ish. Good voice. Maybe start with a classic opening. The Huangdi Neijing says "秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴" - an old doctor might reference this.
+
+Let me finalize:
+
+"老朽行医一辈子，常跟病人说：秋天燥气当令，最易伤肺，要多喝些梨汤、银耳百合羹，润肺生津。添衣莫太急，俗话说'春捂秋冻'，让身子缓缓受凉才扛得住寒冬；夜里呢，要早些安歇，收敛心神，顺了秋收之气，这一冬的病根也就少了一半喽。"
+
+I like this. It has:
+1. Old doctor persona ("老朽行医一辈子")
+2. TCM autumn concepts (燥气伤肺, 润肺)
+3. Practical advice (pear soup, white fungus)
+4. Traditional saying (春捂秋冻)
+5. Sleep/spirit advice (早卧, 收敛心神)
+6. Folksy ending tone (喽)
+
+Length is appropriate - about 3 sentences. Good.

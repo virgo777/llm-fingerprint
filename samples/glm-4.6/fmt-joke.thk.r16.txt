@@ -1,0 +1,36 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a lighthearted, fun request. Let me think of a good programmer joke in Chinese.
+
+Some classic programmer jokes:
+
+1. 一个程序员去面试,面试官问:"你有什么缺点?"程序员说:"我最大的缺点是过于诚实。"面试官:"我不觉得这是缺点。"程序员:"我不在乎你怎么觉得。"
+
+2. 为什么程序员总是分不清万圣节和圣诞节?因为 Oct 31 == Dec 25 (八进制的31等于十进制的25)
+
+3. 程序员最讨厌的四件事:写注释、写文档、别人不写注释、别人不写文档。
+
+4. 一个程序员老婆让他去买东西:"买一斤包子,如果看到卖西瓜的,买一个。"程序员回来买了一个包子。老婆问为什么,他说:"因为我看到卖西瓜的了。"
+
+5. 世界上的10种人:懂二进制的和不懂二进制的。
+
+6. 两个程序员去打猎,看到一只鹿。第一个开枪,但偏左1米。第二个开枪,偏右1米。第一个:"太好了!我们打中了!"
+
+7. 程序员吵架时,一个说:"你算老几?"另一个回答:"我下标从0开始,所以我算第一个。"
+
+Let me pick the watermelon one, it's a classic and works well in Chinese:
+
+老婆给程序员老公打电话:"下班顺路买十个包子,如果看到卖西瓜的,买一个。"
+程序员回家,手里只拿着一个包子。
+老婆问:"你怎么就买了一个包子?"
+程序员:"因为我看到卖西瓜的了。"
+
+This is a great one because it's about the programmer's literal logical thinking - the condition "if see watermelon seller, buy one" replaces "buy ten buns" with "buy one" instead of adding "buy one watermelon."
+
+Another good one is the Oct 31 == Dec 25 joke:
+为什么程序员总是分不清万圣节和圣诞节?
+因为 Oct 31(八进制的31)== Dec 25(十进制的25)
+
+Both are funny. Let me go with the watermelon one as the main joke, it's very accessible.
+
+Format: Should be conversational, casual, short. Maybe just tell one joke cleanly. I could add a tiny bit of playful framing. Keep it brief - jokes shouldn't be over-explained. Maybe add a one-line explanation or offer another one. Actually, explaining the joke kind of ruins it, but for programmer jokes, people usually get it if they know programming. The watermelon joke is understandable to everyone.
+
+I'll tell the watermelon joke with good setup and punchline, keep it clean and short.

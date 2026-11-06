@@ -1,0 +1,41 @@
+The user is asking about Traditional Chinese Medicine's "四诊合参" (Four Diagnostic Methods Combined Analysis/Synthesis), requesting a detailed introduction in about 400 characters in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in Traditional Chinese Medicine:
+1. 望诊 (Wàng zhěn) - Inspection/Observation - observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to voice, breathing, coughing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry - asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse (脉诊) and palpating the body (按诊)
+
+合参 means combining and synthesizing all four methods' findings together to form a comprehensive diagnosis. The key principle is that no single method should be used in isolation - the practitioner must integrate all information (四诊合参) to make an accurate diagnosis (辨证).
+
+Key points to cover:
+- Definition of 四诊: 望、闻、问、切
+- Brief explanation of each diagnostic method
+- The concept of 合参 - why integration is necessary
+- The importance: single method is limited, "独取一诊" is insufficient
+- Historical basis: 《难经》says "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"
+- Relationship to 辨证论治 - foundation of TCM diagnosis
+- Examples of how symptoms from different methods combine (e.g., 舌脉互参)
+
+The user wants about 400 characters (字). I should write in Chinese since the question is in Chinese. Let me structure this:
+
+1. Opening: Define 四诊合参
+2. Explain the four methods briefly
+3. Explain why 合参 is necessary
+4. Conclusion about its significance
+
+Let me draft:
+
+四诊合参是中医学的基本诊断原则，指医生综合运用望、闻、问、切四种诊法收集病情资料，并将所得信息相互参照、综合分析，从而对疾病作出全面准确判断的过程。
+
+望诊，即观察患者的神、色、形、态及舌象等，所谓"望而知之谓之神"；闻诊，包括听声音（语声、呼吸、咳嗽等）和嗅气味；问诊，通过询问了解发病经过、症状特点、既往史及生活习惯等；切诊，包括脉诊和按诊，通过触按脉搏与肌肤、脘腹等获取信息。
+
+中医强调四诊合参，是因为每种诊法各有侧重，也各有局限。单一诊法所得资料往往片面，若仅凭脉或仅凭舌断病，容易误诊。临床常出现"脉症不符"的情况，此时更需四诊互参、去伪存真，或"舍脉从症"，或"舍症从脉"，方能抓住疾病本质。
+
+四诊合参体现了中医整体观念，是辨证论治的基础。只有全面收集资料、综合分析，才能准确辨证，为治疗提供可靠依据。
+
+Let me count roughly - this should be around 400 characters. Let me refine it.
+
+Format considerations: The user asked for a ~400 character introduction in Chinese. A structured response with perhaps some organization would be good. Since it's a specific length request, I should aim for approximately 400 Chinese characters. I could use paragraphs. Maybe light use of structure but given the length constraint, flowing paragraphs work well. I'll write it in Chinese with clear paragraph structure.

@@ -1,0 +1,38 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, and no explanation should be given.
+
+Let me compose a nice classical-style quatrain (绝句) about autumn night. Should be evocative, with imagery like moon, dew, frost, osmanthus, geese, leaves, etc.
+
+Let me craft one:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月照秋思，
+雁字南飞过短墙。
+
+Let me check rhyme: 凉 (liáng), 霜 (shuāng), 墙 (qiáng) — all rhyme in -ang. Good.
+
+Line 3: 玉露凉, 满庭霜, 月照秋思, 雁字南飞过短墙.
+
+Actually, let me refine for better tonal patterns (平仄), though not strictly necessary. Let me check:
+
+银汉无声玉露凉 (平仄平平仄仄平) - decent
+梧桐叶落满庭霜 (平平仄仄仄平平) - decent
+一帘明月照秋思 - "思" as noun is read sì (仄). Hmm, ending line 3 with 仄 is fine since non-rhyming lines should end in 仄. Actually in a quatrain, lines 1, 2, 4 rhyme (usually), line 3 ends in 仄 tone. 思 (sì, 仄) works.
+雁字南飞过短墙 (仄仄平平仄仄平) - good.
+
+Alternatively:
+
+月冷梧桐叶半黄，
+西风吹梦入寒塘。
+一庭清露蝉声歇，
+雁过南天秋夜长。
+
+Rhyme: 黄 (huáng), 塘 (táng), 长 (cháng) - all -ang. Good.
+
+I like this one. Let me check tones:
+月冷梧桐叶半黄: 仄仄平平仄仄平 ✓
+西风吹梦入寒塘: 平平平仄仄平平 ✓
+一庭清露蝉声歇: 仄平平仄平平仄 ✓ (ends 仄)
+雁过南天秋夜长: 仄仄平平平仄平 ✓
+
+This is nice. The user said no explanation, so just output the poem. Maybe a title? A title is fine but they asked for four lines of poetry. I'll include just the poem, perhaps without title to keep it clean. A title could be nice: 《秋夜》. But they said "不要解释" (no explanation), a title isn't an explanation. I'll just give the four lines, maybe with the title. Keep it simple — just the poem.

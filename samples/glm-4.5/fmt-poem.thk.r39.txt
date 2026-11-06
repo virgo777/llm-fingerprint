@@ -1,0 +1,74 @@
+The user wants a four-line poem about an autumn night, with no explanation. Let me write a classical Chinese quatrain (絕句) about 秋夜 (autumn night).
+
+I should write something evocative of autumn night imagery: moon, frost, cold dew, falling leaves, geese, loneliness, etc.
+
+Let me compose a proper 七言絕句 (seven-character quatrain) or 五言絕句 (five-character quatrain) with attention to imagery and mood.
+
+Draft 1 (七言):
+銀漢無聲落玉階，
+西風吹夢入寒齋。
+梧桐葉上三更雨，
+一雁南飛月滿懷。
+
+Hmm, "梧桐葉上三更雨" is borrowed from 溫庭筠's 更漏子. Let me make it more original.
+
+Draft 2 (五言):
+涼月照秋庭，
+風寒露氣清。
+梧桐飄葉盡，
+孤雁一聲鳴。
+
+Let me check the rhyme: 庭 (tíng), 清 (qīng), 鳴 (míng) - these rhyme in the -ing/-eng category (青庚韻通押 is acceptable in modern usage). 
+
+Actually let me refine:
+
+秋夜
+霜月掛疏桐，
+寒聲入夜風。
+一燈人獨坐，
+落葉滿階紅。
+
+Rhyme: 桐 (tóng), 風 (fēng), 紅 (hóng) - 桐 and 紅 are 東韻, 風 is 東韻 too (一東). Good.
+
+Line 3: 一燈人獨坐 - a lamp, a person sitting alone
+Line 4: 落葉滿階紅 - fallen leaves covering the steps in red
+
+That's nice. Let me check tonal patterns loosely (I don't need perfect 平仄 but should be reasonably good):
+
+霜月掛疏桐 (平仄仄平平)
+寒聲入夜風 (平平仄仄平)
+一燈人獨坐 (仄平平仄仄)
+落葉滿階紅 (仄仄仄平平)
+
+That works reasonably as a 五絕 pattern. 
+
+Alternative with more imagery:
+
+銀漢橫秋夜，
+涼風滿桂枝。
+蟲聲侵夢淺，
+霜月照人歸。
+
+Hmm, rhyme: 枝 (zhī), 歸 (guī) - both in 支/微 area... 枝 is 支韻, 歸 is 微韻. Close but not perfect. 
+
+I'll go with the 五言 version:
+
+秋夜
+
+霜月掛疏桐，
+寒聲入夜風。
+一燈人獨坐，
+落葉滿階紅。
+
+Actually "寒聲入夜風" - cold sounds enter the night wind. Maybe "蛩聲入夜風" (cricket sounds entering the night wind) is more vivid. 蛩 = cricket. But 寒聲 is also fine.
+
+Let me finalize:
+
+霜月掛疏桐，
+蛩聲入夜風。
+一燈人獨坐，
+落葉滿階紅。
+
+Hmm, 蛩聲入夜風 - 仄平仄仄平. "寒" gives better tone: 平平仄仄平. Let me keep 寒聲.
+
+Final answer - just the poem, no explanation as requested. Should I give it a title? A title like 《秋夜》 would be nice. The user said no explanation, so just the poem itself, possibly with a title.

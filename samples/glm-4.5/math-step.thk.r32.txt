@@ -1,0 +1,18 @@
+The user is asking me to calculate 17×23+45÷9 and show the complete process. This is a simple math problem in Chinese.
+
+Let me calculate:
+- 17 × 23 = 391
+  - 17 × 20 = 340
+  - 17 × 3 = 51
+  - 340 + 51 = 391
+- 45 ÷ 9 = 5
+- 391 + 5 = 396
+
+The order of operations: multiplication and division first (from left to right), then addition.
+
+So:
+17 × 23 + 45 ÷ 9
+= 391 + 5
+= 396
+
+Let me write this in Chinese since the question was asked in Chinese, showing the complete process with the order of operations explained.

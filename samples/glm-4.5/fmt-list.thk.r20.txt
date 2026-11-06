@@ -1,0 +1,42 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain the precautions/points to note for daily water drinking."
+
+This is a simple, benign health information request. The user wants me to explain daily drinking water precautions in three points.
+
+Let me think about what the most important points about drinking water are:
+
+1. 饮水量 - Don't wait until thirsty; drink adequate amounts throughout the day. General recommendation is about 1500-2000ml per day for adults.
+
+2. 喝水的时间和方式 - Drink small amounts multiple times rather than large amounts at once; don't gulp water quickly. Also avoid drinking too much water before bed.
+
+3. 水温 - Avoid drinking ice-cold water or overly hot water; warm or room temperature water is best (around 20-40°C).
+
+Other possible points:
+- 早晨起床后喝水
+- 饭前饭后喝水时机
+- 水的质量 - safe, clean water
+- 运动后补水
+- 不要用饮料代替白开水
+
+Since they asked for exactly three points, I should pick the three most important/common ones. Let me structure:
+
+1. 主动饮水，少量多次 - Drink proactively, in small amounts multiple times. Don't wait until you're thirsty (thirst already indicates mild dehydration). About 1500-1700ml per day, spread throughout the day.
+
+2. 注意水温，避免过冷过热 - Warm water (around 20-40°C) is ideal; very cold water can irritate the stomach, very hot water (above 65°C) can damage esophagus and is linked to cancer risk.
+
+3. 特殊时间点的注意事项 - Morning after waking up drink a glass of water; before bed don't drink too much (to avoid nocturia); don't gulp large amounts right after exercise or meals.
+
+Or I could make point 3 about choosing plain water over sugary drinks.
+
+Let me think about which three points are most valuable:
+- 饮水量和主动性
+- 喝水方式（少量多次）
+- 水温
+- 时机（晨起、睡前、运动后）
+- 水的选择（白开水 vs 饮料）
+
+Three points format:
+1. 主动适量饮水：不要等口渴才喝，成人每天约1500-1700毫升
+2. 少量多次，切忌暴饮：每次100-200ml，慢慢喝
+3. 注意水温与时机：温水最佳，晨起一杯水，睡前少喝
+
+The response should be in Chinese since the question is in Chinese. Format: three numbered points, each with a brief explanation. Keep it concise but informative. Maybe use headers or bold for each point. A moderate length response with 3 numbered points, each with 2-3 sentences of explanation, would be appropriate. Not too long.

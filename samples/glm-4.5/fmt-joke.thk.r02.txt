@@ -1,0 +1,19 @@
+The user is asking for a cold joke (冷笑话) about programmers in Chinese. Let me think of a good one.
+
+Some classic programmer jokes:
+1. Why do programmers always confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+2. A programmer's wife asks him to buy groceries: "Buy a bag of groceries, and if you see a watermelon, buy one." The programmer came back with one bag of groceries. His wife asked why only one bag, and he said "because I saw a watermelon."
+3. There are 10 types of people in the world: those who understand binary and those who don't.
+4. Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25.
+
+The classic Chinese programmer joke is the watermelon one (买包子/买西瓜). Let me tell that one, it's very popular in Chinese programmer communities.
+
+The joke: A programmer's wife says to him: "Go buy ten buns, and if you see someone selling watermelons, buy one." The programmer comes back with just one bun. The wife asks: "Why did you only buy one bun?" The programmer answers: "Because I saw someone selling watermelons."
+
+This is a classic joke about programmer thinking - interpreting instructions literally like code with conditional logic. The "if" condition changes the number from 10 to 1.
+
+Let me format this nicely in Chinese. I could tell it with a bit of setup. Keep it concise and fun. Maybe add a brief explanation or just let the punchline land. For jokes, less explanation is usually better, but for a "冷笑话" the humor comes from the groan-worthy literal interpretation.
+
+I could also offer another one or just deliver one well. Let me just tell one joke well, maybe with a tiny follow-up comment.
+
+Format: Short, conversational, with the joke clearly delivered. Maybe use dialogue format to make it punchy.

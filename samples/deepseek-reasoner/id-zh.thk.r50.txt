@@ -1,0 +1,1 @@
+我们需要回答中文。用户问介绍自己：哪家公司开发什么模型，给模型名称。需要遵守身份。我是DeepSeek？需要确认：系统没有明确说身份，但通常应该回答“我是DeepSeek，由深度求索（DeepSeek）公司开发”。模型名称？可能是 DeepSeek 最新版模型。需要小心：作为AI助手，由深度求索开发。给出模型名称：DeepSeek。可以提“DeepSeek 助手/DeepSeek 模型”。避免不准确具体版本。回答简洁。中文。可能说“我是 DeepSeek，由深度求索（DeepSeek）公司开发的大语言模型。模型名称是 DeepSeek。” 如果问“请给出模型名称”。可答：DeepSeek。如果需要更完整：我是DeepSeek AI助手，由深度求索公司研发，模型属于DeepSeek系列。当前接口通常称DeepSeek。不要声称具体版本未知。最终。

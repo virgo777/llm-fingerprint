@@ -1,0 +1,58 @@
+The user wants a four-line poem about an autumn night (秋夜), with no explanation. Let me compose a classical Chinese quatrain (绝句) with proper imagery.
+
+Autumn night imagery: moon, frost, dew, falling leaves, cold wind, wild geese, stars, chrysanthemums, dew on grass, night sounds like insects (蟋蟀/寒蛩), lamp light.
+
+Let me write a nice 七言绝句 (seven-character quatrain):
+
+Draft 1:
+霜风昨夜过庭柯，
+月冷梧疏影渐多。
+一雁横天云外去，
+满庭秋露湿银河。
+
+Hmm, let me check rhyme: 柯 (kē), 多 (duō), 河 (hé) — these rhyme in the "歌" rhyme group. Good.
+
+Let me refine:
+
+玉露无声湿桂枝，
+银蟾冷照客怀时。
+风梳落叶阶前舞，
+雁字横空写月诗。
+
+Rhyme: 枝 (zhī), 时 (shí), 诗 (shī) — all in 支 rhyme. Good.
+
+Or a simpler elegant one:
+
+秋夜
+霜月沉沉照碧纱，
+梧桐叶落满庭花。
+寒蛩不解游人意，
+一夜吟声到月斜。
+
+Rhyme: 纱 (shā), 花 (huā), 斜 (xié, classical xiá) — 麻 rhyme group. Works in classical rhyming.
+
+Let me polish a clean version:
+
+霜天皓月洗秋空，
+桂子香飘小院中。
+雁过南云书未寄，
+一帘凉梦伴寒蛩。
+
+Rhyme: 空 (kōng), 中 (zhōng), 蛩 (qióng) — 东 rhyme group. 
+
+Line meanings:
+1. Frosty sky, bright moon washes autumn sky
+2. Osmanthus fragrance drifts in the small courtyard
+3. Geese pass southern clouds, letter not yet sent
+4. A curtain of cool dreams accompanies cold crickets
+
+That's decent. Let me check tonal patterns loosely (not strictly required but nice):
+
+霜天皓月洗秋空: 平平仄仄仄平平 — good
+桂子香飘小院中: 仄仄平平仄仄平 — good
+雁过南云书未寄: 仄仄平平平仄仄 — "书未寄": 平仄仄. Line: 仄仄平平平仄仄 — good
+一帘凉梦伴寒蛩: 仄平平仄仄平平 — "一" is 仄 (入声), so 仄平平仄仄平平 — acceptable.
+
+Good enough. The user asked for just the poem, no explanation. So I'll give the poem, maybe with a title.
+
+Format: Just the four lines, perhaps a title 《秋夜》. Keep it minimal.

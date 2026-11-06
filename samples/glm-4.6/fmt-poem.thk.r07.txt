@@ -1,0 +1,55 @@
+The user is asking me to write a four-line poem about autumn night (秋夜), in Chinese, without explanation. This is a classic Chinese poetry request. Let me write a nice four-line poem about autumn night themes - typical imagery includes: moon, dew, falling leaves, geese flying south, chrysanthemums, cool wind, stars, etc.
+
+Let me compose a four-line poem (四句诗), likely in the classical style (五言 or 七言). I'll aim for something evocative.
+
+Let me try a 七言绝句 style:
+
+秋夜
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一雁南飞云外去，
+月明如水照空廊。
+
+Let me check the imagery: Silver river (Milky Way) silent, jade dew cool; wutong leaves fall, courtyard full of frost; a wild goose flies south beyond the clouds; moonlight like water shines on the empty corridor.
+
+That's decent. Let me refine for rhyme: 凉 (liáng), 霜 (shuāng), 廊 (láng) - all rhyme in -ang. Good.
+
+Line 3 doesn't need to rhyme in a jueju. Good.
+
+Alternatively:
+
+金风瑟瑟透罗窗，
+桂影婆娑月满江。
+一夜秋声催雁字，
+半帘凉露湿孤灯。
+
+Hmm, 灯 doesn't rhyme with 窗/江. Let me stick with my first version or improve.
+
+Version:
+玉露初凝夜气清，
+梧桐疏影伴虫鸣。
+一轮明月千里共，
+风送雁声过小城。
+
+Rhyme: 清 (qīng), 鸣 (míng), 城 (chéng) - -ing/-eng rhyme, acceptable in modern Chinese poetry.
+
+I think the first version is better. Let me polish:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+雁声遥带乡愁远，
+月照西窗一枕凉。
+
+Hmm, repeating 凉 twice is not great.
+
+Final:
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+南飞雁字云中断，
+月满空庭桂子香。
+
+Rhyme: 凉, 霜, 香 - good. Imagery: Milky Way silent, jade dew cool; wutong leaves fall, frost on steps; south-flying geese formation breaks off in clouds; moon fills empty courtyard, osmanthus fragrance.
+
+That's a nice autumn night poem. The user said "不要解释" (no explanation), so I should just give the poem, maybe with a title.
+
+Format: Just the poem, four lines. Maybe a title like 《秋夜》. Keep it minimal per the request.

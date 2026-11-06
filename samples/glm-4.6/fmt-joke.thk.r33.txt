@@ -1,0 +1,35 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. A "冷笑话" is a type of Chinese humor that's intentionally cheesy or groan-worthy - like a pun-based joke or a dad joke.
+
+Let me think of some good programmer jokes that work well in Chinese or can be translated:
+
+1. Classic programmer jokes:
+- Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+- A programmer's wife asks him to go to the store: "Buy a bottle of milk, and if there are eggs, buy a dozen." He comes back with 12 bottles of milk. (Because eggs existed = true condition)
+- Why do programmers prefer dark mode? Because light attracts bugs!
+- 世界上有10种人：懂二进制的和不懂二进制的 (There are 10 types of people in the world: those who understand binary and those who don't)
+
+2. Chinese-specific programmer jokes:
+- 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释
+- 一个程序员去面试，面试官问："你有什么缺点？" 程序员说："我有时候会过于诚实。" 面试官说："我不觉得这是缺点。" 程序员说："我不在乎你怎么觉得。"
+
+Let me pick one or two good ones. The milk and eggs joke is a classic and works well in Chinese. The binary joke is also very classic.
+
+Let me craft the milk/eggs joke in Chinese:
+
+程序员的老婆对他说："去超市买一斤包子，如果看到卖西瓜的，就买一个。"
+程序员回来了，手里拿着一个包子。
+老婆问："怎么只买了一个包子？"
+程序员说："因为我看到卖西瓜的了。"
+
+This is a great one because it shows the programmer interpreting the conditional literally: if (看到卖西瓜的) { 买一个(包子) } - buying ONE baozi instead of one watermelon.
+
+The binary joke:
+世界上有 10 种人：懂二进制的，和不懂二进制的。
+
+Both are classics. I could tell one main joke and maybe offer another. The format should be conversational and fun. Since it's a joke request, I should keep it light and not overly long. Maybe tell one joke well with the setup and punchline, possibly with a brief emoji or comment at the end.
+
+Let me write it nicely:
+
+I'll go with the 包子/西瓜 joke as the main one since it's particularly good in Chinese and demonstrates conditional logic humor. Or the binary one. Actually, let me do the baozi one - it's more of a story and lands well.
+
+Format: Short, punchy, conversational. Maybe tell one joke, and offer to tell more. Keep it brief since jokes shouldn't be over-explained. I could add a tiny punchline explanation or just leave it for them to get it. Cold jokes are better when not explained, but the baozi one benefits from the reader knowing programming logic - most people asking about programmer jokes will get it.

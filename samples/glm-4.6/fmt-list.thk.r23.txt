@@ -1,0 +1,30 @@
+The user is asking me to explain daily drinking water precautions with three points. This is a simple, factual health question in Chinese. Let me think about what would be useful points to cover.
+
+Common recommendations about drinking water:
+1. Don't wait until you're thirsty to drink - thirst is already a sign of mild dehydration
+2. Drink small amounts frequently rather than large amounts at once
+3. Drink warm/temperature-appropriate water rather than very cold or very hot water
+4. Don't drink too much water at once (especially before bed, which can affect sleep)
+5. Morning water is good for the body
+6. Avoid drinking water during/around meals excessively (some say this)
+7. Drink water before exercise
+8. Quality of water matters
+
+The user asked for exactly three points (三点), so I should pick the three most important/practical ones and elaborate slightly on each.
+
+Let me structure a good answer with three clear points:
+
+1. **不要等口渴才喝水** - Don't wait until you feel thirsty. By the time you feel thirsty, your body is already mildly dehydrated. Drink water regularly throughout the day.
+
+2. **少量多次饮水** - Drink in small amounts multiple times, rather than gulping large quantities at once. Drinking too much at once can burden the kidneys and cause water intoxication in extreme cases. About 100-200ml each time is good.
+
+3. **注意水温** - Pay attention to water temperature. Warm water (around 20-40°C) is best for most people. Very hot water can damage the esophagus, and very cold/icy water can irritate the gastrointestinal tract.
+
+I could also mention:
+- 早晨起床后喝一杯温水
+- 睡前不宜大量饮水
+- 每天1500-1700ml total intake
+
+Format considerations: The user asked for three points, so a numbered list format makes sense. Each point should have a brief explanation. I should keep it concise but informative - not too long. Using bold headers for each point with a short explanation would be ideal. The response should be in Chinese since the question is in Chinese.
+
+Length: Medium - three points with 1-2 sentences of explanation each, plus maybe a brief closing note. Should be practical and easy to follow.

@@ -1,0 +1,11 @@
+The user is asking in Chinese for a table listing the names and authors of the Four Great Classical Novels of Chinese literature (四大名著).
+
+The Four Great Classical Novels are:
+1. 《三国演义》 - by 罗贯中, Yuan-Ming dynasty
+2. 《水浒传》 - by 施耐庵, Yuan-Ming dynasty
+3. 《西游记》 - by 吴承恩, Ming dynasty
+4. 《红楼梦》 - by 曹雪芹, Qing dynasty
+
+The user wants this in a table format. I should respond in Chinese since they asked in Chinese. A simple table with columns for 书名 and 作者 would be appropriate. I could also add dynasty information as a helpful extra, but the user specifically asked for 书名与作者, so I'll focus on those two columns, though adding dynasty might be a nice touch. Let me keep it simple and match what they asked - book name and author. Actually, adding the dynasty could be helpful supplementary info, but the request was specific. I'll include just what was asked, perhaps with a brief note.
+
+Format: A markdown table is clearly appropriate here since they explicitly requested a table (请用表格). I'll keep it concise.

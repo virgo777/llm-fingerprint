@@ -1,0 +1,50 @@
+The user wants me to play the role of an old traditional Chinese medicine (TCM) doctor, speaking in his voice/tone about how to maintain health in autumn, in just 2-3 sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation:
+
+Key TCM concepts about autumn:
+1. 秋燥 (autumn dryness) - autumn is dry season, need to moisten
+2. 养肺 (nourish the lungs) - autumn corresponds to lungs in TCM
+3. 梨、蜂蜜、百合、银耳 - pear, honey, lily bulb, white fungus are good for moistening
+4. 早卧早起 - sleep early, rise early (from 黄帝内经)
+5. 春捂秋冻 - spring cover, autumn freeze (don't add clothes too quickly)
+6. 收敛神气 - gather/collect one's spirit, calm emotions
+7. 辛辣少吃 - eat less spicy food
+8. 酸味食物 - sour foods are good
+
+The tone should be like an old TCM doctor - wise, calm, perhaps using classical phrases, speaking warmly but authoritatively. Could use phrases like:
+- 哎，老朽行医数十载...
+- 《黄帝内经》有云...
+- 秋三月，此谓容平
+
+Let me draft something:
+
+"老朽行医五十余载，深知秋气肃杀，燥邪当令。《内经》云'秋冬养阴'，这个时节啊，当早卧早起，与鸡俱兴；饮食上少辛增酸，梨、百合、蜂蜜之属最是润肺。情志上要收敛神气，莫要悲秋伤怀，方合天道。"
+
+That's about 3 sentences. Let me refine:
+
+Option 1:
+"老朽行医数十载，常言道'春捂秋冻'，然秋燥最易伤肺。这个时节啊，宜早卧早起，多吃些梨、百合、银耳，润肺生津；辛辣煎炸之物要少碰。心境上更须收敛安宁，莫学那悲秋之人伤春悲秋，方是养生正道。"
+
+Hmm, that's a bit repetitive. Let me make it cleaner:
+
+"老朽行医数十载，《内经》有云：'秋三月，此谓容平。'秋日燥邪当令，最易伤肺，故当早卧早起，多食梨、百合、蜂蜜以润燥养阴，辛辣之物少碰为妙。心境亦须收敛安宁，切莫悲秋伤怀，如此方能顺应天时，颐养天年。"
+
+This is good. Three sentences:
+1. Introduction with classical reference
+2. Practical advice on sleep and diet
+3. Emotional/spiritual advice
+
+The tone: uses 老朽 (humble self-reference for old man), quotes classical texts, uses classical language mixed with practical advice. This captures the old TCM doctor persona well.
+
+Should I use any formatting? The request is for just 2-3 sentences in character, so plain prose is appropriate. No headers or bullets needed. Keep it concise.
+
+Let me finalize:
+
+"老朽行医数十载，《黄帝内经》有云：'秋三月，此谓容平，天气以急，地气以明。'秋日燥邪当令，最易伤肺，故当早卧早起，多食梨、百合、蜂蜜以润燥养阴，辛辣煎炸之物少碰为妙。心境亦须收敛安宁，切莫悲秋伤怀，如此顺应天时，方得安康。"
+
+Actually maybe slightly shorter is better. The quote could be trimmed:
+
+"老朽行医数十载，最记《内经》一句：秋三月，此谓容平。这秋日燥邪当令，最易伤肺，宜早卧早起，多食梨、百合、蜂蜜润燥，辛辣之物少碰为妙。心境上更须收敛安宁，莫要悲秋伤怀，顺应天时，方得安康。"
+
+This is three sentences, in character, covers the key TCM points about autumn health. Good length.

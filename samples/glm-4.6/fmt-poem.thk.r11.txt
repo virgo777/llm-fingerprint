@@ -1,0 +1,52 @@
+The user wants a four-line poem about an autumn night (秋夜), in Chinese, with no explanation.
+
+Let me compose a classical-style four-line poem (绝句 style) about an autumn night. I should aim for proper imagery: moon, frost, dew, leaves, wind, geese, silence, etc.
+
+Let me try:
+
+月冷霜华满小楼，
+西风吹叶落庭秋。
+雁声远去人无语，
+一盏孤灯照夜愁。
+
+Check rhyme: 楼 (lóu), 秋 (qiū), 愁 (chóu) — these rhyme in the "ou/iu" rhyme group (尤韵). Good.
+
+Let me check the imagery: cold moon and frost on the small tower, west wind blowing leaves in autumn courtyard, goose cries fading with no words, a lone lamp illuminating night sorrow. Classic autumn night imagery.
+
+Alternative:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+孤灯照壁人初静，
+一雁横空月满廊。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 廊 (láng) — all in "ang" rhyme. Good.
+
+First one seems more coherent. Let me refine the first:
+
+月冷霜寒满小楼，
+西风落叶伴清秋。
+雁声远去无人语，
+一盏孤灯照夜愁。
+
+Hmm, "月冷霜寒" repeats cold. Let me keep the original:
+
+月冷霜华满小楼，
+西风吹叶落庭秋。
+雁声远去人初静，
+一盏孤灯照客愁。
+
+"人初静" is nice. "照客愁" - traveler's sorrow. Or keep 人无语.
+
+Actually the third line: 雁声远去人无语 — the wild goose cries fade away, the person is silent. Then fourth: 一盏孤灯照夜愁 — a lone lamp shines on night's sorrow.
+
+The user said "四句诗" (four lines), not necessarily a strict 绝句, so I don't need perfect tonal patterns, but rhyming helps.
+
+Final:
+
+月冷霜华满小楼，
+西风吹叶落庭秋。
+雁声远去人无语，
+一盏孤灯照夜愁。
+
+No explanation needed per the request. Just output the poem. Format: just the four lines, no preamble, no explanation. That matches "不要解释" (don't explain).

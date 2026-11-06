@@ -1,0 +1,1 @@
+我是 **DeepSeek**，由 **深度求索（DeepSeek）公司** 开发的大语言模型。模型名称就是 **DeepSeek**（当前为 DeepSeek 最新版模型）。

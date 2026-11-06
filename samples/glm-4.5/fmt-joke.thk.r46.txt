@@ -1,0 +1,23 @@
+The user is asking in Chinese for a cold joke (冷笑话) about programmers. Let me think of a good programmer joke in Chinese.
+
+Classic programmer jokes:
+1. Why do programmers confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+2. A programmer's wife says "去超市买一斤包子,如果看到卖西瓜的,买一个" - the programmer buys one baozi because he saw a watermelon seller
+3. 世界上有10种人,一种懂二进制,一种不懂
+4. Why do programmers always confuse Christmas and Halloween?
+5. 程序员最讨厌的四件事:写注释、写文档、别人不写注释、别人不写文档
+
+The baozi joke is a classic Chinese programmer joke:
+程序员的老婆跟他说:"下班买十个包子,如果看到卖西瓜的,就买一个。"
+程序员下班回来,只买了一个包子。
+老婆问:"怎么只买了一个包子?"
+程序员说:"因为我看到卖西瓜的了。"
+
+This is a great one because it plays on the conditional logic interpretation - "if you see a watermelon seller, buy one (watermelon)" vs the programmer interprets "buy one baozi if condition is met."
+
+The 10 kinds of people binary joke:
+世界上有10种人:懂二进制的和不懂二进制的。
+
+The wife/baozi joke is probably the most famous Chinese programmer joke and works well as a "cold joke." Let me tell that one.
+
+Format: Should be conversational, tell the joke with a setup and punchline, maybe a brief explanation or emoji. Keep it light and fun. Chinese response since the question is in Chinese.

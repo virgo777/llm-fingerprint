@@ -1,0 +1,1 @@
+We need answer Chinese. User asks: "请用表格列出中国四大名著的书名与作者。" Need provide table with book titles and authors. Need be accurate. Four great classical novels: 红楼梦 曹雪芹 (高鹗续? Usually author 曹雪芹, 高鹗续). 三国演义 罗贯中. 水浒传 施耐庵 (some say 罗贯中合著? Common 施耐庵). 西游记 吴承恩. Need table. Desired concise. Include maybe "作者（常见署名）". Let's craft.

@@ -1,0 +1,48 @@
+The user is asking about "四诊合参" (the integration of the four diagnostic methods) in Traditional Chinese Medicine (TCM), and wants a detailed explanation of about 400 characters (Chinese characters).
+
+Let me think about what I know about this topic:
+
+四诊合参 refers to the comprehensive use of the four diagnostic methods in TCM:
+1. 望诊 - observing the patient's appearance, complexion, tongue, body shape, spirit/vitality (神), etc.
+2. 闻诊 - listening to sounds (voice, breathing, coughing) and smelling odors
+3. 问诊 - asking about symptoms, medical history, lifestyle, etc. (十问歌)
+4. 切诊 - includes pulse diagnosis (脉诊) and palpation (按诊)
+
+四诊合参 means that these four methods should be used together comprehensively, not relying on just one. The concept emphasizes:
+- Each diagnostic method has its own scope and limitations
+- They must be combined to get a complete picture
+- This is the foundation for 辨证论治
+- The idea comes from classic texts like 《黄帝内经》 and 《难经》
+- 《难经》says "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧"
+
+Key points to include:
+1. Definition: 望、闻、问、切 four diagnostic methods used together
+2. Brief description of each method
+3. Why they must be combined (each has limitations, avoids one-sided conclusions)
+4. Significance: foundation for syndrome differentiation and treatment
+5. Historical/classical basis
+
+The user wants about 400 Chinese characters. I should write in Chinese since the question is in Chinese. Let me draft this:
+
+Draft:
+"四诊合参"是中医诊断学的基本原则，指将望、闻、问、切四种诊法所收集的临床资料进行综合分析、相互参照，从而全面准确地判断病情。
+
+望诊，即医生运用视觉观察患者的神、色、形、态及舌象等，所谓"望而知之谓之神"；闻诊包括听声音（如语言、呼吸、咳嗽）和嗅气味；问诊是询问患者的症状、病史、饮食起居等，以了解病情的来龙去脉；切诊则包括脉诊和按诊，通过触摸脉搏和按压肌肤、脘腹等获取体内信息。
+
+四诊合参强调诸诊法不可偏废。因为每种诊法各有侧重，只能反映疾病的一个侧面，若单凭某一诊法（如仅凭脉象）下诊断，难免以偏概全，甚至误诊。只有将四诊所得信息互相印证、综合分析，去伪存真，才能对病因、病位、病性作出正确判断，为辨证论治提供可靠依据。
+
+这一原则源于《黄帝内经》《难经》等经典，体现了中医整体观念——人体是有机整体，局部病变可反映于全身，故须多方诊察、全面把握。
+
+Let me count roughly - this is about 400 characters. Let me refine it.
+
+Actually, let me count more carefully:
+Paragraph 1: ~75 characters
+Paragraph 2: ~150 characters
+Paragraph 3: ~130 characters
+Paragraph 4: ~80 characters
+
+Total around 430-450 characters, which is close to 400. That's fine.
+
+Format considerations: The user asked for a ~400 character detailed introduction in Chinese. I should respond in Chinese with well-organized paragraphs. Could use some structure but since it's a relatively short essay-style answer, flowing paragraphs with perhaps clear delineation of the four methods would work well. I could use a numbered/bulleted structure for the four methods for clarity, or keep it as prose. Given it's asking for an introduction (详细介绍), prose with clear structure seems appropriate. Maybe I'll use short paragraphs. The length target is 400字左右, so I should aim for that - not too much longer.
+
+Let me finalize the response in Chinese, around 400 characters, well-structured.

@@ -1,0 +1,34 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. A "冷笑话" is a type of joke that's intentionally corny or groan-worthy, often involving puns or wordplay. Chinese programmer jokes often play on programming terminology, binary, bugs, etc.
+
+Let me think of some classic programmer jokes in Chinese:
+
+1. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。
+
+2. 一个程序员去买菜，老婆打电话说："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回家。老婆问为什么，他说："因为我看到了卖西瓜的。" (This is a classic conditional logic joke)
+
+3. 为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25 (八进制31等于十进制25)
+
+4. 程序员找女朋友的笑话
+
+5. 0.1 + 0.2 != 0.3 的笑话
+
+6. 一个二进制笑话：世界上有10种人，一种懂二进制，一种不懂。
+
+Let me pick a good one. The conditional logic joke (买包子) is very classic and works well as a 冷笑话. The Oct 31 == Dec 25 one is also great but requires understanding of octal/decimal.
+
+The user asked for one joke (一个), so I should give one main joke. Maybe I can tell one and offer more if they want.
+
+Format: This should be conversational and light. The joke should be told clearly. I could use a short setup. Keep it relatively brief since it's a casual request. Maybe add a tiny bit of flavor but not overdo it.
+
+Let me go with the classic:
+
+一个程序员的妻子对他说："去超市买一斤包子，如果看到卖西瓜的，就买一个。"
+程序员回来了，手里拿着一个包子。
+妻子生气地问："怎么就买了一个包子？！"
+程序员答："因为我看到卖西瓜的了。"
+
+This is a great conditional logic joke. The joke is that the programmer interpreted "如果看到卖西瓜的，就买一个" as modifying "买一斤包子" → buy 1 baozi if condition met, rather than "buy one watermelon".
+
+I'll tell this one. I could optionally add a brief punchline explanation or just leave it. Cold jokes often benefit from being delivered deadpan. Maybe I'll add a light comment at the end offering another one if they want.
+
+Format considerations: Short, conversational, use line breaks for dialogue to make it readable. No headers needed. Maybe an emoji-free or minimal style. Chinese response since the question is in Chinese.

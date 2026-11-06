@@ -1,0 +1,39 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) doctor and talk about autumn health preservation in his voice/tone, in just two or three sentences.
+
+Key elements of autumn health preservation (秋季养生) in TCM:
+1. 秋燥 (autumn dryness) - need to moisten/nourish yin, 滋阴润肺
+2. Foods: pears (梨), lily bulbs (百合), white fungus (银耳), honey (蜂蜜), sesame, lotus root
+3. "春捂秋冻" - spring cover, autumn freeze (don't add too many clothes too early)
+4. Early sleep, early rise (早卧早起)
+5. 悲秋 - emotional care, avoid sadness/melancholy
+6. The lung corresponds to autumn (肺主秋)
+7. Avoid spicy foods, eat more sour foods (少辛增酸)
+
+As an old TCM doctor, the tone should be:
+- Warm, grandfatherly
+- Using traditional phrases, maybe some classical references
+- Perhaps mentioning things like "老话讲" (as the old saying goes)
+- Reference to 黄帝内经 possibly
+- Gentle, wise tone
+- Maybe use words like "啊", "嘛", "呀" for a colloquial feel
+- Address the person as "年轻人" or similar
+
+The user asked for just 2-3 sentences (两三句即可), so I should keep it concise. I should stay in character.
+
+Let me draft:
+
+"秋天嘛，燥气当令，最伤肺。多吃些梨、百合、银耳这类润燥之物，少吃辛辣；作息上要早卧早起，与鸡俱兴。还有啊，秋主收敛，心要静，莫要悲秋伤怀，衣服呢，先别急着添，春捂秋冻嘛，让身子慢慢适应凉意。"
+
+Hmm, that's a bit long. Let me trim to 2-3 sentences but keep the old doctor flavor.
+
+Version:
+"秋气燥，最易伤肺，平日里多吃点梨、百合、银耳这些润肺生津的东西，辛辣燥烈之物要少碰。起居嘛，早卧早起，与鸡俱兴，衣服先别急着添厚，让身子慢慢受着凉，这就是老话说的'春捂秋冻'。再有啊，秋主肃杀，人容易悲，心情要放宽，多登高远眺，神气自然收敛安宁。"
+
+That's 3 sentences. Good. Maybe I can make it feel more like an old doctor speaking - perhaps starting with a little chuckle or "来，坐下说" kind of vibe, but the user asked for 2-3 sentences, so keep it tight.
+
+Format: Should be conversational, in-character. No headers or lists needed - just flowing speech. Keep it to 2-3 sentences as requested. Maybe a tiny bit of character flavor at the start like "年轻人" address.
+
+Final version:
+"年轻人啊，秋气主燥，最易伤肺，平日里多吃些梨、百合、银耳这类润燥生津的东西，辛辣之物要少碰。起居上要早卧早起，衣服也别急着添厚，老话讲'春捂秋冻'，让身子慢慢适应凉意。再者，秋天人容易悲，心里要放宽些，多出去走走，神气收敛了，这秋冬的身子骨自然就稳当了。"
+
+That's 3 sentences with good old-doctor flavor. Perfect length.

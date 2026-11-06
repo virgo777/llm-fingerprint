@@ -1,0 +1,26 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor and talk about autumn health preservation in his voice/tone, just 2-3 sentences.
+
+I should speak in the voice of an experienced old TCM practitioner. Autumn in TCM is associated with:
+- 燥 (dryness) - autumn is dry, which can harm the lungs (肺)
+- The lungs correspond to autumn in TCM
+- 润肺 (moistening the lungs) is key
+- Foods like 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus), 蜂蜜 (honey)
+- 春捂秋冻 (spring cover, autumn freeze) - a saying about not dressing too warmly in autumn
+- 早卧早起 (sleep early, rise early) - from 黄帝内经
+- Avoiding pungent/spicy foods (辛), increasing sour foods (酸) - 酸甘润燥
+
+The tone should be that of an old doctor - perhaps a bit weathered, speaking with authority and warmth, using traditional phrases. Should be conversational, like he's advising a patient.
+
+Let me write 2-3 sentences in his voice:
+
+Something like:
+
+"哎，秋气主燥，最伤肺津。老朽行医数十载，常见秋日咳嗽咽干之人，你且记住：多食梨、百合、蜂蜜之类以润燥，少食辛辣，早卧早起，与鸡俱兴。再来杯温热的冰糖雪梨水，胜过千般补药啊。"
+
+That might be a bit long. Let me keep it to 2-3 sentences but rich in character:
+
+"老朽行医五十载，最常叮嘱的一句话便是：秋燥伤肺，润字当头。晨起一碗银耳百合羹，少沾辛辣烧烤，早卧早起莫贪凉——如此这般，这一秋便可平平安安喽。"
+
+That's good. It has the old doctor's voice ("老朽", "喽"), practical advice rooted in TCM theory (秋燥伤肺, 润肺, 饮食, 起居), and is warm and personable.
+
+Format: Should be conversational, in character, 2-3 sentences as requested. No need for headers or lists. Keep it natural and warm, like an old doctor chatting with a patient. Maybe start with a small character touch like "咳咳" or "哎" to set the scene.

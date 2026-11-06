@@ -1,0 +1,77 @@
+The user is asking me to write a four-line poem about autumn night, without explanation. They're writing in Chinese, so I should respond in Chinese with a poem.
+
+Let me write a classical Chinese four-line poem (绝句 style) about autumn night (秋夜).
+
+I should think about imagery: autumn night typically includes moon, frost, falling leaves, crickets, cold dew, geese flying south, osmanthus fragrance, etc.
+
+Let me compose a nice quatrain:
+
+Option 1:
+月落梧桐影渐斜，
+寒蛩声里到山家。
+西风一夜吹黄叶，
+满地清霜浸月华。
+
+Hmm, let me refine. Let me think about rhyme and tonal patterns.
+
+A good 七言绝句 attempt:
+
+秋夜
+玉露无声湿桂花，
+疏星几点落谁家。
+西风卷起梧桐叶，
+月色凉如一水沙。
+
+Let me check the rhyme: 花 (huā), 家 (jiā), 沙 (shā) - these rhyme in the "麻" rhyme group. Good.
+
+Let me refine the imagery:
+- 玉露无声湿桂花 - jade dew silently wets the osmanthus flowers
+- 疏星几点落谁家 - a few sparse stars fall... 
+- 西风卷起梧桐叶 - west wind rolls up wutong leaves
+- 月色凉如一水沙 - moonlight cool as water and sand
+
+Maybe better:
+
+秋夜
+银汉迢迢月满楼，
+寒蛩泣露夜深秋。
+西风摇落梧桐叶，
+一片乡心逐水流。
+
+Check rhyme: 楼 (lóu), 秋 (qiū), 流 (liú) - 尤 rhyme group. Good.
+
+Line 1: 银汉迢迢月满楼 - The Milky Way stretches far, moonlight fills the tower
+Line 2: 寒蛩泣露夜深秋 - cold crickets weep in dew, deep autumn night
+Line 3: 西风摇落梧桐叶 - west wind shakes down wutong leaves
+Line 4: 一片乡心逐水流 - a heart of homesickness follows the flowing water
+
+That's decent. Let me polish tonal patterns a bit (though modern readers may not scrutinize strictly).
+
+银汉迢迢月满楼 (平仄平平仄仄平) - ok
+寒蛩泣露夜深秋 (平平仄仄仄平平) - ok
+西风摇落梧桐叶 (平平平仄平平仄) - ok
+一片乡心逐水流 (仄仄平平仄仄平) - ok
+
+This works reasonably as a 七绝.
+
+Alternatively a 五言绝句:
+
+秋夜
+霜月照庭柯，
+虫声入夜多。
+西风吹叶落，
+凉意满山河。
+
+Rhyme: 柯 (kē), 多 (duō), 河 (hé) - 歌 rhyme group. Good.
+
+I think the 七言 one is more evocative. Let me finalize:
+
+秋夜
+银汉迢迢月满楼，
+寒蛩泣露夜深秋。
+西风摇落梧桐叶，
+一片乡心逐水流。
+
+The user said "不要解释" (no explanation), so I should just present the poem without commentary. Should I include the title? A title "秋夜" would be natural but the theme is already given. I could include it or not. Including a title is fine and doesn't count as explanation.
+
+Format: Just the four lines, possibly with the title. Keep it minimal. No explanation.

@@ -1,0 +1,61 @@
+The user wants a four-line poem (四句诗) with the theme of autumn night (秋夜), and explicitly says not to explain (不要解释).
+
+I should write a classical Chinese poem in the style of a quatrain (绝句), four lines, about autumn night. Common imagery: moon, dew, frost, leaves falling, geese, cool wind, osmanthus, stars, etc.
+
+Let me compose a seven-character quatrain (七言绝句) or five-character (五言绝句). Let me try:
+
+秋夜
+
+月落梧桐影渐长，
+金风送露桂初香。
+一庭凉夜虫声碎，
+遥望星河入梦乡。
+
+Let me check rhyme: 长 (cháng), 香 (xiāng), 乡 (xiāng) — rhymes in -ang. Good.
+
+Or a five-character version:
+
+凉月满庭秋，
+虫声入夜稠。
+风清桂影动，
+霜露湿帘钩。
+
+Rhyme: 秋 (qiū), 稠 (chóu), 钩 (gōu) — 秋/稠/钩 all rhyme in -iu/-ou group (尤韵). Good.
+
+Let me refine the seven-character one:
+
+金风拂槛桂香浮，
+一枕清凉梦亦幽。
+月色满庭桐叶落，
+虫声伴我到更筹。
+
+Hmm, let me keep it simple and elegant:
+
+秋风昨夜到庭柯，
+月满中庭凉意多。
+叶落有声惊宿鸟，
+一帘霜露湿嫦娥？
+
+That last line is odd. Let me go back to the first:
+
+月落梧桐影渐长，
+金风送露桂初香。
+一庭凉夜虫声细，
+遥数星河雁几行。
+
+Rhyme: 长、香、行 (háng) — all -ang. Good. Line 3 doesn't need to rhyme. "遥数星河雁几行" — gazing at the Milky Way, counting lines of geese. Nice autumn night imagery.
+
+Actually "月落" and "影渐长" — moon setting, shadows lengthening. Fine.
+
+Let me polish:
+
+月冷梧桐叶半黄，
+一庭清露桂初香。
+虫声唧唧凉如水，
+雁字横空入梦乡。
+
+Rhyme: 黄、香、乡 — all -ang, good. Line 3 ends 水, no rhyme needed. "凉如水" echoes 天阶夜色凉如水 (杜牧). "雁字横空" — geese formation crossing the sky.
+
+This is a nice quatrain. The user said no explanation, so just output the poem. Maybe include a title "秋夜" — that's fine, it's part of the poem, not explanation.
+
+Format: four lines, centered or just plain. Keep it minimal.

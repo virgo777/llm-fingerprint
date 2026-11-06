@@ -1,0 +1,51 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Explain the precautions/matters needing attention for daily drinking water in three points."
+
+This is a simple, benign request for health information about drinking water habits. I should respond in Chinese since the question was asked in Chinese.
+
+Let me think about the most important points about daily water drinking habits:
+
+1. Don't wait until you're thirsty to drink - drink water regularly throughout the day. By the time you feel thirsty, your body is already mildly dehydrated. Adults should aim for about 1500-2000ml per day (roughly 7-8 cups).
+
+2. Drink water in small amounts multiple times rather than gulping large amounts at once - drinking too much water at once can burden the kidneys and dilute electrolytes. Small sips throughout the day are better.
+
+3. Temperature matters - avoid drinking ice-cold water (can irritate the stomach) or overly hot water (can damage the esophagus). Warm or room temperature water is best.
+
+Other possible points:
+- Don't drink water immediately before bed (can cause nocturia and affect sleep, may cause edema)
+- Drink a glass of water in the morning after waking up
+- Don't replace water with beverages (sugary drinks, etc.)
+- Drink water before and during exercise
+
+The user asked for exactly three points, so I should pick the three most important ones. Let me choose:
+
+1. 主动喝水，不要等口渴才喝 - Active drinking, don't wait until thirsty. Daily intake around 1500-1700ml or so.
+
+2. 少量多次，避免一次性大量饮水 - Small amounts multiple times, avoid drinking large amounts at once.
+
+3. 注意水温，避免过冷或过热 - Pay attention to water temperature, avoid too cold or too hot.
+
+Or I could include the point about not replacing water with beverages. Let me think about which three are most essential:
+
+Actually, the three most commonly cited ones in health guidance:
+1. Don't wait until thirsty / regular drinking habits with adequate amount
+2. Small frequent sips, not large gulps
+3. Water temperature appropriate (warm, not too hot/cold)
+
+I could also mention avoiding bedtime drinking within one of the points or as a bonus. But the user asked for three points, so I'll stick to three clear points.
+
+Format considerations: The user asked for "three points" so a numbered list format is appropriate. Each point should have a brief header/title and a short explanation. I should respond in Chinese. Keep it concise but informative - maybe 2-3 sentences per point. Use a numbered list format.
+
+Let me draft:
+
+日常喝水的三点注意事项：
+
+**1. 不要等口渴了才喝水**
+口渴时身体已经处于轻度缺水状态。建议养成定时饮水的习惯，成年人每天饮水量约1500~1700毫升（约7~8杯），可分布在晨起、餐前半小时、两餐之间等时段。
+
+**2. 少量多次，切忌暴饮**
+一次性大量饮水会加重胃肠和肾脏负担，还可能稀释体内电解质。每次喝100~200毫升左右，细水长流地补充更利于身体吸收。
+
+**3. 注意水温适宜**
+过烫的水（超过65℃）可能损伤食道黏膜，增加食道疾病风险；过冰的水则易刺激肠胃，引起不适。温开水（20~40℃左右）是最理想的选择。
+
+This is good. Concise, accurate, well-formatted. Maybe I can add a tiny closing note, but it's optional. I'll keep it clean with just the three points, perhaps with a one-line intro.

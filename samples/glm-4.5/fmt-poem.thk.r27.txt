@@ -1,0 +1,93 @@
+The user wants me to write a four-line poem about an autumn night, without explanation. The request is in Chinese, so I should write the poem in Chinese, likely in classical style (四句诗 suggests a classical quatrain, like 绝句).
+
+Let me compose a poem about 秋夜 (autumn night). A traditional 七言绝句 (seven-character quatrain) or 五言绝句 (five-character quatrain) would be appropriate.
+
+Let me think about autumn night imagery: 明月 (bright moon), 落叶 (falling leaves), 寒霜 (cold frost), 桂花 (osmanthus), 虫鸣 (insect sounds), 芦花 (reed flowers), 雁 (geese), 露 (dew), 灯 (lamp), 梧桐 (wutong tree), 银河 (Milky Way), etc.
+
+Let me try a 七言绝句:
+
+秋风萧瑟入庭梧，
+月冷霜寒雁影孤。
+一夜虫声催落叶，
+满窗竹影伴灯枯。
+
+Hmm, let me refine. Let me check tonal patterns roughly, though perfect tonal adherence may not be strictly necessary for a casual request, but good rhyme is important.
+
+Let me try:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月虫声细，
+吹灭残灯梦亦香。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 香 (xiāng) — all in -ang rhyme. Good.
+
+Line 3 doesn't rhyme (细), which is correct for 绝句 (lines 1, 2, 4 rhyme, line 3 doesn't).
+
+Let me polish:
+
+银汉无声玉露凉 — The Milky Way is silent, jade dew is cool
+梧桐叶落满庭霜 — Wutong leaves fall, courtyard full of frost
+一帘明月虫声细 — A curtain of bright moonlight, faint insect sounds
+吹灭残灯梦亦香 — Blow out the dying lamp, dreams are fragrant too
+
+That's nice. Alternatively:
+
+月挂疏桐夜气清，
+寒蛩泣露叶有声。
+
+Let me stick with my version but refine word choices.
+
+"吹灭残灯梦亦香" — maybe "半窗残梦一灯黄" or something. Let me think.
+
+Option:
+桂子飘香月满楼，
+虫声唧唧夜深秋。
+西风不解离人意，
+吹落梧桐一叶愁。
+
+Rhyme: 楼 (lóu), 秋 (qiū), 愁 (chóu) — -ou/-iu rhyme, works in Chinese poetry (尤韵).
+
+Hmm, both are good. Let me pick the first one, slightly adjusted:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+一帘明月虫吟细，
+半盏残茶夜话长。
+
+Rhyme: 凉、霜、长 (cháng) — all -ang. 
+
+Actually "夜话长" implies conversation, which adds warmth. Or keep "梦亦香."
+
+Final version:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+一帘明月虫吟细，
+半盏清茶夜话长。
+
+Hmm, "虫吟细" vs "虫声细" — both fine. 
+
+Or a more melancholic ending: "吹落西风一夜凉" — no, 凉 already used.
+
+I'll go with:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+一帘明月虫吟细，
+半盏残灯夜梦长。
+
+Wait, 残灯 with 半盏 — lamps use 灯 not measured in 盏 usually... actually 一盏灯 is standard. "半盏残灯" is acceptable poetically. But earlier I had 吹灭残灯梦亦香 which is nice too.
+
+Let me finalize:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+一帘明月虫声细，
+半枕清梦桂花香。
+
+Rhyme: 凉、霜、香. Nice imagery: silent Milky Way, cool jade dew, falling wutong leaves, frost on steps, curtain of moonlight, faint insect chirps, half-pillow of clear dreams, osmanthus fragrance. Cohesive autumn night scene.
+
+The user said no explanation, so I just output the poem. Format: four lines, no commentary. Should I add a title? A title like 《秋夜》 could be nice but "不要解释" means no explanation — a title isn't explanation. I could include it or not. Simple four lines is safest, maybe with a title. I'll include the title 《秋夜》 as it's conventional and not an explanation.
+
+Format: short, just the poem.

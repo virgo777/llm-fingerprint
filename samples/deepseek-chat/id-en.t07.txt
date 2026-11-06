@@ -1,0 +1,1 @@
+I was created by **DeepSeek (深度求索)**, a Chinese AI company. My exact model name is **DeepSeek-V3** — specifically the version identifier you may see in API responses is `deepseek-chat` for the chat model. The underlying architecture is DeepSeek-V3, a Mixture-of-Experts (MoE) language model.

@@ -1,0 +1,31 @@
+The user wants me to write a four-line poem about autumn night (秋夜) in Chinese, with no explanation. This is a creative writing task. Classical Chinese poetry typically comes in five-character (五言) or seven-character (七言) lines. Let me compose a nice autumn night poem.
+
+Let me think about autumn night imagery: moon, frost, cold dew, osmanthus (桂花), falling leaves, wild geese, crickets (蟋蟀/寒蛩), stars, cold wind, etc.
+
+Let me write a 七言绝句 style poem:
+
+月挂疏桐夜未央
+风摇桂影落秋霜
+寒蛩泣露阶前草
+一枕清愁梦故乡
+
+Let me check: 
+- 月挂疏桐夜未央 (The moon hangs on sparse wutong trees, the night not yet ended)
+- 风摇桂影落秋霜 (Wind sways osmanthus shadows, autumn frost falls)
+- 寒蛩泣露阶前草 (Cold crickets weep dew on grass before the steps)
+- 一枕清愁梦故乡 (A pillow of clear sorrow, dreaming of homeland)
+
+Rhyme check: 央 (yāng), 霜 (shuāng), 乡 (xiāng) - all rhyme in -ang. Good.
+
+Line 3 doesn't need to rhyme in a 绝句 (lines 1, 2, 4 rhyme, or 2 and 4 with optional 1). This works.
+
+Tonal patterns for 平仄 would be ideal but let me not overcomplicate. Let me verify roughly:
+
+月挂疏桐夜未央: 仄仄平平仄仄平 - 月(仄)挂(仄)疏(平)桐(平)夜(仄)未(仄)央(平) - good pattern
+风摇桂影落秋霜: 平平仄仄仄平平 - 风(平)摇(平)桂(仄)影(仄)落(仄)秋(平)霜(平) - good
+寒蛩泣露阶前草: 平平仄仄平平仄 - 寒(平)蛩(平)泣(仄)露(仄)阶(平)前(平)草(仄) - good
+一枕清愁梦故乡: 仄仄平平仄仄平 - 一(仄)枕(仄)清(平)愁(平)梦(仄)故(仄)乡(平) - good
+
+This follows a proper 七绝 pattern quite well. 
+
+The user said "不要解释" (don't explain), so I should just output the poem without any explanation. Format: just the four lines, perhaps with a title. A title could be nice but they said no explanation — a title isn't an explanation, but to be safe I could just give the four lines. Actually a simple title 《秋夜》 would be appropriate and elegant. I'll include it minimally.

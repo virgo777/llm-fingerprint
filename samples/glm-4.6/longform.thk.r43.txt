@@ -1,0 +1,39 @@
+The user is asking me to explain in detail what "四诊合参" (the combination of four diagnostic methods) is in Traditional Chinese Medicine (TCM), and they want approximately 400 characters/words.
+
+This is a Chinese language question about TCM's diagnostic framework. Let me write a comprehensive answer in Chinese since the question is in Chinese.
+
+四诊合参 refers to the four diagnostic methods of TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's complexion, tongue, body shape, spirit (神), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse and palpating the body
+
+四诊合参 means combining all four methods comprehensively rather than relying on any single one. The concept emphasizes that these four methods must be used together, cross-verified, to accurately determine the syndrome (辨证).
+
+Key points to cover:
+- Definition of 四诊: 望、闻、问、切
+- What each method involves
+- Why they must be combined (合参): each has limitations, they complement each other
+- The principle: 不能以偏概全 - shouldn't generalize from partial evidence
+- Historical basis: 《黄帝内经》, 《难经》 mentions "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧"
+- The relationship to 辨证论治: 四诊合参 is the foundation of syndrome differentiation
+
+The user wants about 400 characters (in Chinese, 字 means characters). Let me aim for around 400 Chinese characters, maybe slightly more with structure.
+
+Let me draft:
+
+中医"四诊合参"是中医诊断疾病的基本原则和方法论，指将望、闻、问、切四种诊法所收集的临床信息进行综合分析、相互参照，从而全面准确地判断疾病的本质。
+
+四诊的具体内容包括：
+1. 望诊：观察患者的神色、形态、舌象等外在表现，所谓"望而知之谓之神"。
+2. 闻诊：听患者的声音、呼吸、语言，嗅其气味变化。
+3. 问诊：询问起病经过、症状特点、既往病史、饮食起居等。
+4. 切诊：通过切脉和触按身体有关部位，探查脉象与体内变化。
+
+为何要"合参"？因为四诊各有其独特作用，也各有局限。单凭某一诊法（如仅凭脉诊）作出诊断，容易以偏概全，导致误诊。只有四诊并用、彼此印证，才能全面把握疾病的病因、病位、病性和邪正关系。
+
+四诊合参是中医"辨证论治"体系的基础。医生通过合参得出"证"的判断，才能确立治则治法、处方用药。这一原则体现了中医整体观念，强调从整体上认识疾病，是中医临床思维的核心。
+
+Let me count roughly - this is about 400 characters. Good length. Let me refine it a bit.
+
+Format considerations: The user asks for ~400 characters, detailed introduction. A structured response with headers or numbered points would work well for the four methods. Should be in Chinese. Medium length response matching their ~400 character request.

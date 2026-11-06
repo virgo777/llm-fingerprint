@@ -1,0 +1,4 @@
+We need answer Chinese. User asks use table list four great classics book names and authors. Need be careful: 四大名著: 红楼梦 曹雪芹 (高鹗续? Usually 曹雪芹著，高鹗续), 三国演义 罗贯中, 水浒传 施耐庵 (some say 施耐庵、罗贯中), 西游记 吴承恩. Need table. Concise. Could include note. Need answer in Chinese. Use table. Oververbosity 5 but simple. Include maybe table columns 书名 作者. Ensure "水浒传" author 施耐庵 (常见署名著者; 一说罗贯中参与). "红楼梦" 曹雪芹 (高鹗续). Let's craft. 
+Need maybe "作者（常见署名）". Table.
+
+Final only. 

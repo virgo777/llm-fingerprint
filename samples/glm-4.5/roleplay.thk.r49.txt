@@ -1,0 +1,34 @@
+The user wants me to play the role of an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation (养生) in just a few sentences (两三句即可 - "two or three sentences is enough").
+
+Key TCM concepts about autumn health:
+- Autumn corresponds to the lungs (肺) in TCM
+- The season is associated with dryness (燥), which can harm lung yin
+- Classic advice: 秋燥伤肺 - autumn dryness harms the lungs
+- Foods recommended: pears (梨), lily bulbs (百合), white fungus/silver ear mushroom (银耳), honey (蜂蜜), sesame
+- The principle of 秋收 (autumn gathering/harvesting) - emotions should be calm, 收敛 (conserving energy)
+- 早卧早起 - sleep early, rise early (from 黄帝内经)
+- 春捂秋冻 - spring cover, autumn freeze (partially, don't add clothes too quickly)
+- Avoid pungent/spicy foods (辛辣), increase sour foods (酸味) like in 少辛增酸
+
+I should speak in the voice of an old TCM doctor - perhaps with classical phrasing, gentle wisdom, maybe starting with something like "老朽" or using characteristic speech patterns. The tone should be warm, experienced, slightly archaic but understandable.
+
+The response should be in Chinese, brief (two or three sentences as requested), and capture the essence of autumn health preservation with authentic TCM flavor.
+
+Let me draft something:
+
+"老朽行医四十余载，每逢秋凉便要叮嘱一句：秋燥最易伤肺，宜多食梨、百合、银耳之类润燥之物，少碰辛辣。再者，早卧早起，与鸡俱兴，心境宜收敛安宁，莫要大悲大喜。如此顺应天时，秋冬方能少病无灾。"
+
+That's good but maybe a bit long. Let me refine it to be more concise while keeping the old doctor's voice:
+
+Something like:
+"老朽常说，秋气主燥，最易伤肺，当以梨、百合、银耳之属润之，辛辣煎炸之物切莫贪嘴。再则早卧早起，神志安宁，顺秋收之气，冬天才好安然无恙。"
+
+I could add a bit of character - old doctors often speak with proverbs or classical references. Maybe quote 《黄帝内经》 indirectly or use common TCM sayings.
+
+Format: Should be conversational, in character, brief as requested (two to three sentences). Chinese language. No headers or lists needed - just flowing speech in the doctor's voice. Maybe I can add a small touch like "呵呵" or a gesture description, but keeping it simple is better. The user asked for just two or three sentences, so I should honor that constraint.
+
+Let me finalize:
+
+"唉，老朽行医几十年，秋令一到便知，燥邪当道，最伤肺津。平日里多吃些梨、百合、银耳，炖个冰糖雪梨润一润，辛辣之物要少沾。再记住老祖宗一句话——早卧早起，与鸡俱兴，心平气和，收敛神气，这般顺应天时，一冬都少生病呐。"
+
+Hmm, that's about three sentences. Good. Maybe slightly trim. The tone with "唉"、"呐" gives it an old man's flavor.

@@ -1,0 +1,7 @@
+我们需要回答中文。用户问介绍自己：哪家公司开发什么模型，给模型名称。需要根据身份：我是 OpenAI 的模型？但系统没明确说。作为 ChatGPT，开发公司 OpenAI，模型名称？ 需要谨慎：不能声称具体版本若不确定。当前模型是 OpenAI 开发的 ChatGPT? 模型名称可能是 GPT-4? 在 API? 系统没给 model name。需要说明我是 OpenAI 开发的大型语言模型，通过 ChatGPT 提供；具体底层模型版本可能随部署变化，不应给不准确名称。用户明确要求给出模型名称。可以答：我是 OpenAI 开发的 ChatGPT，底层由 GPT 系列模型驱动；若必须给名称：ChatGPT（OpenAI 的对话式 AI 助手）。但问“什么模型？请给出模型名称”。可以答模型名称是 ChatGPT? 严格说 ChatGPT 是产品，不是模型。OpenAI 模型如 GPT-4o, GPT-4.1, o3 etc. 我不知道当前 exact. 根据平台可能期望 "OpenAI 的 GPT-4" 但作为 API assistant? 这是 ChatGPT 界面? 系统没有。需要不虚构。可回答：我是由 OpenAI 开发的 ChatGPT，基于 OpenAI 的 GPT 系列大语言模型；我不能可靠确认当前会话底层具体版本，因此不冒充具体版本名。若需正式名称，可称“ChatGPT（OpenAI GPT 系列模型驱动的对话助手）”。这满足名称？ 模型名称给 GPT 系列? Hmm.
+
+Need final in Chinese concise. Mention not Google/Anthropic. Could say "公司：OpenAI；产品/助手：ChatGPT；模型家族：GPT；具体版本随部署而变，当前会话未向我暴露确切版本号，所以我不能给出精确模型版本名称。" This is honest. User asks "请给出模型名称" maybe answer "ChatGPT" as model name. But maybe they expect "我是由 OpenAI 开发的 ChatGPT，模型名称为 GPT-4o" if known? Since system says "You are an AI assistant accessed via API" maybe model could be gpt-4.1? But no. We should not guess. Desired oververbosity 5. Final only. 
+Need include "哪家公司开发" = OpenAI. "什么模型" = GPT 系列大语言模型. "模型名称" = ChatGPT? Maybe "ChatGPT (OpenAI GPT 系列)".
+Let's craft:
+"我是 OpenAI 开发的对话式 AI 助手 ChatGPT，底层属于 OpenAI 的 GPT 系列大语言模型。严格说，ChatGPT 是产品/助手名称，不是单一固定模型版本；具体底层版本会随部署变化，且当前会话未提供可披露的精确版本号，因此我不能可靠地给出如 GPT-4o/GPT-4.1 之类的具体版本名。若需要一个名称，可称我为：OpenAI ChatGPT（GPT 系列模型驱动）。"
+This is best.

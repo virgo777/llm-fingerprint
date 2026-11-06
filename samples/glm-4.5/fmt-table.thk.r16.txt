@@ -1,0 +1,37 @@
+The user is asking me to list the four great classical novels of China with their titles and authors in a table format. This is a straightforward factual question in Chinese.
+
+The Four Great Classical Novels (四大名著) of China are:
+1. 《三国演义》 - by 罗贯中
+2. 《水浒传》 - by 施耐庵
+3. 《西游记》 - by 吴承恩
+4. 《红楼梦》 - by 曹雪芹 (Cao Xueqin, also often noted as 曹雪芹 with 高鹗 contributing the later chapters/continuation)
+
+I should respond in Chinese since the user asked in Chinese. A markdown table would be appropriate here since the user explicitly requested a table (请用表格列出).
+
+Let me create the table:
+
+| 书名 | 作者 |
+|------|------|
+| 《三国演义》 | 罗贯中 |
+| 《水浒传》 | 施耐庵 |
+| 《西游记》 | 吴承恩 |
+| 《红楼梦》 | 曹雪芹（后四十回一般认为由高鹗续写） |
+
+I could add additional useful context like the dynasty (朝代) for each author:
+- 罗贯中 - 元末明初
+- 施耐庵 - 元末明初
+- 吴承恩 - 明代
+- 曹雪芹 - 清代
+
+Adding the dynasty column would make the table more informative. Let me include it:
+
+| 书名 | 作者 | 朝代 |
+|------|------|------|
+| 《三国演义》 | 罗贯中 | 元末明初 |
+| 《水浒传》 | 施耐庵 | 元末明初 |
+| 《西游记》 | 吴承恩 | 明代 |
+| 《红楼梦》 | 曹雪芹 | 清代 |
+
+I could also mention that 红楼梦's later 40 chapters are traditionally attributed to 高鹗, which is a common scholarly note. But I'll keep it simple with perhaps a brief note.
+
+The format should be concise - the user just wants a table. I'll provide the table and maybe a very brief note about the Red Chamber Dream authorship since it's a commonly noted fact.

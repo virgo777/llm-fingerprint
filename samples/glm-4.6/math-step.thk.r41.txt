@@ -1,0 +1,8 @@
+The user asks to calculate 17×23+45÷9 with complete process. Chinese language request.
+
+Let me compute:
+- 17 × 23 = 391
+- 45 ÷ 9 = 5
+- 391 + 5 = 396
+
+Let me show the steps clearly.

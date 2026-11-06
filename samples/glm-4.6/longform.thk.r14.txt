@@ -1,0 +1,33 @@
+The user is asking me to explain the Traditional Chinese Medicine (TCM) concept of "四诊合参" (Four Diagnostic Methods Used Together) in about 400 characters. This is a factual educational question about traditional Chinese medicine theory. Let me write a comprehensive explanation in Chinese.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation - observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry - asking about symptoms, medical history, lifestyle
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse (脉诊) and palpating the body (按诊)
+
+The concept emphasizes that these four methods should be used together comprehensively (合参) rather than relying on just one, to form a complete understanding of the patient's condition (辨证论治).
+
+Key points to cover:
+- Definition of 四诊合参
+- Explanation of each of the four diagnostic methods
+- Why they must be combined (each has limitations, they complement each other)
+- Historical context (from 《黄帝内经》, 《难经》, promoted by 张仲景 in 《伤寒杂病论》)
+- Its role in 辨证论治
+- Modern significance
+
+Let me aim for around 400 Chinese characters. The format should be well-organized, perhaps with some structure. Given it's a ~400 character request, I should write a coherent piece of prose, possibly with light structure. Let me write it in Chinese since the question is in Chinese.
+
+Draft:
+
+"四诊合参"是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者的临床信息，并综合分析、互相参照，从而对病情作出正确判断。
+
+望诊，即观察患者的神、色、形、态及舌象等，所谓"望而知之谓之神"；闻诊，包括听声音（语声、呼吸、咳嗽等）和嗅气味；问诊，通过询问了解发病经过、症状特点、既往史及生活习惯等；切诊，包括脉诊和按诊，通过触按脉搏与肌肤、脘腹等探查病变。
+
+四诊各有侧重，又各有局限：单凭脉诊或仅凭望色，往往难以全面把握病情，甚至发生误判。故中医强调"四诊合参"，将四种诊法所获资料相互印证、补充，去伪存真，才能准确辨证，为"辨证论治"提供依据。
+
+这一原则肇始于《黄帝内经》，经张仲景等历代医家充实完善，至今仍是中医临床诊疗的核心方法论，体现了中医整体观念——将人体视为有机整体，从多角度把握疾病本质。
+
+Let me count roughly... This is around 380-400 characters, which fits well.
+
+Format: I'll present this as flowing prose, possibly with a brief structure. Since the user asked for ~400 characters, keeping it as coherent paragraphs makes sense. Maybe I could use slight formatting but given the length constraint, prose paragraphs are appropriate. Let me keep it clean and well-organized with 3-4 paragraphs.

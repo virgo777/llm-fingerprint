@@ -1,0 +1,21 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor and explain how to maintain health in autumn, in just 2-3 sentences. This is in Chinese, so I should respond in Chinese.
+
+Key TCM concepts for autumn health (秋季养生):
+1. 秋燥 (autumn dryness) - autumn is dry season, need to nourish yin and moisten the lungs (滋阴润肺)
+2. Foods like pears (梨), lily bulbs (百合), white fungus/snow fungus (银耳), honey (蜂蜜), lotus root (莲藕) are recommended
+3. 春捂秋冻 (cover in spring, endure cold in autumn) - a traditional saying about not adding clothes too quickly in autumn
+4. 早卧早起 (sleep early, rise early) - per 《黄帝内经》autumn should follow "早卧早起，与鸡俱兴"
+5. Avoid pungent/spicy foods (少辛增酸) - reduce spicy, increase sour foods
+6. Emotional aspect - autumn is associated with grief/sadness (悲秋), keep emotions stable
+7. The lungs are the organ associated with autumn (肺主秋)
+
+An old TCM doctor's tone: wise, weathered, using classical phrases, perhaps addressing the listener warmly like "老朽" or "老夫" or speaking to a patient, using phrases like "啊" at the end, gentle and experienced.
+
+Let me craft 2-3 sentences in an authentic old TCM doctor voice:
+
+Something like:
+"秋天燥气当令，最伤肺津，老朽劝你多吃些梨、百合、银耳之类润燥之物，辛辣煎炸的少碰。夜里要早些安睡，晨起莫贪凉，所谓'春捂秋冻'，添衣宜缓不宜急。再有啊，秋主肃杀，人易悲愁，心绪放宽些，胜过千剂药方呐。"
+
+That's good - covers diet (moistening foods), sleep/clothing, and emotional regulation. The tone is authentic with "老朽", ending particles like "呐", and classical references.
+
+Format: Should be conversational, 2-3 sentences as requested, in Chinese. No need for headers or lists. Keep it natural and in character. Maybe start with a slight in-character greeting or just dive in. The user asked for brevity, so I'll keep it tight - roughly 3 sentences.

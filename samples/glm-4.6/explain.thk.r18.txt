@@ -1,0 +1,14 @@
+The user asks me to explain what bioelectrical impedance analysis (BIA) is in about 200 characters (in Chinese, 200字 means 200 Chinese characters). Let me write a concise explanation in Chinese.
+
+Key points:
+- BIA = Bioelectrical Impedance Analysis (生物电阻抗分析)
+- Principle: body tissues have different electrical conductivity; fat is a poor conductor (high impedance) due to low water content, while muscle and water conduct electricity well (low impedance)
+- Method: safe low-level electrical currents passed through the body via electrodes
+- Measures: body fat percentage, muscle mass, body water, basal metabolic rate, etc.
+- Applications: health assessment, fitness tracking, nutritional evaluation, clinical monitoring
+
+Let me draft ~200 Chinese characters:
+
+生物电阻抗分析（BIA）是一种通过测量人体电阻来评估身体成分的无创技术。其原理是：人体内不同组织的导电性不同——肌肉和水分含电解质，导电性好；脂肪含水少，电阻高。检测时，仪器通过贴在身体上的电极向人体施加微弱、安全的交流电流，根据电流通过时的阻抗值，结合身高、体重、年龄、性别等数据，估算出体脂率、肌肉量、身体水分、基础代谢率等指标。BIA操作简便、快速、无辐射，广泛用于健康管理、健身监测和临床营养评估。
+
+Let me count roughly: that's around 200 characters. Good. Format: a paragraph is fine, no need for headers. Keep it concise.

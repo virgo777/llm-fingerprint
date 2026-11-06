@@ -1,0 +1,75 @@
+The user is asking me to write a four-line poem with the theme of autumn night, and they explicitly say "不要解释" (don't explain/explain nothing).
+
+So I should just write the poem in Chinese, four lines, on the theme of autumn night (秋夜), without any explanation.
+
+Let me compose a classical Chinese four-line poem (quatrain) about autumn night. Traditional Chinese quatrains often have 5 or 7 characters per line.
+
+Let me think about autumn night imagery: moon (月), frost (霜), osmanthus (桂), crickets (蛩/蟋蟀), fallen leaves (落叶), dew (露), cool breeze (凉风), stars (星), lamp (灯), geese (雁), chrysanthemum (菊), etc.
+
+Let me try a 7-character quatrain:
+
+银汉无声玉露凉，
+一帘秋月照东墙。
+风摇落叶惊寒鹊，
+桂子飘香入梦长。
+
+Let me check the rhyme: 凉 (liáng), 墙 (qiáng), 长 (cháng) - these rhyme in the -ang sound. Good.
+
+Line 1: 银汉无声玉露凉 - The Milky Way is silent, jade dew is cool
+Line 2: 一帘秋月照东墙 - A curtain of autumn moonlight shines on the east wall
+Line 3: 风摇落叶惊寒鹊 - Wind shakes falling leaves, startling cold magpies
+Line 4: 桂子飘香入梦长 - Osmanthus fragrance drifts into long dreams
+
+This is decent. Let me refine:
+
+Alternative:
+霜华满地月如钩，
+桂影摇窗夜色幽。
+一雁横空何处去，
+清辉万里照离愁。
+
+Rhyme: 钩 (gōu), 幽 (yōu), 愁 (chóu) - -ou rhyme. Good.
+
+Or:
+落叶敲窗月满楼，
+寒蛩泣露夜深幽。
+一天霜气笼银汉，
+万里秋风入梦悠。
+
+Hmm, let me stick with my first one or improve it.
+
+Final choice:
+
+月冷疏桐夜色清，
+风摇桂影落阶庭。
+寒蛩不解秋声苦，
+犹伴幽人壁上灯。
+
+Rhyme: 清 (qīng), 庭 (tíng), 灯 (dēng) - hmm, 清 and 庭 rhyme in -ing/-ing, but 灯 is -eng. In classical Chinese rhyming (平水韵), 清 and 庭 are in 九青 rhyme, and 灯 is in 十蒸 rhyme. These are different rhyme groups traditionally. In modern Mandarin they sound similar but not perfect.
+
+Let me go back to my first one:
+
+银汉无声玉露凉，
+一帘秋月照东墙。
+风摇落叶惊寒鹊，
+桂子飘香入梦长。
+
+凉 (liáng), 墙 (qiáng), 长 (cháng) - all in 阳 rhyme group (七阳 in 平水韵). This works well.
+
+Check tonal patterns (平仄):
+Line 1: 银汉无声玉露凉 - 平仄平平仄仄平 - standard pattern 平平仄仄仄平平... let me check: 银(平)汉(仄)无(平)声(平)玉(仄)露(仄)凉(平) - 平仄平平仄仄平 - this fits 仄起平收 variant... Actually the standard patterns:
+- 平平仄仄仄平平
+- 仄仄平平仄仄平
+Line 1 is 仄仄平平仄仄平 pattern (with 银 as 平 in position 1, which is flexible: 一三五不论). Good.
+
+Line 2: 一帘秋月照东墙 - 一(仄)帘(平)秋(平)月(仄)照(仄)东(平)墙(平) - 仄平平仄仄平平 - should be 平平仄仄仄平平 after line 1's 仄仄平平仄仄平. Position 1 一 is flexible. Position 3 秋 is 平 where 仄 expected (flexible). Position 4 月 is 仄 where 仄 expected. Wait: 平平仄仄仄平平 - positions: 1平2平3仄4仄5仄6平7平. My line: 仄平平仄仄平平. Position 2 帘 is 平 ✓, position 4 月 is 仄 ✓, position 6 东 is 平 ✓. Good.
+
+Line 3: 风摇落叶惊寒鹊 - 风(平)摇(平)落(仄)叶(仄)惊(平)寒(平)鹊(仄) - 平平仄仄平平仄 ✓ (after line 2, should be 平平仄仄平平仄) ✓
+
+Line 4: 桂子飘香入梦长 - 桂(仄)子(仄)飘(平)香(平)入(仄)梦(仄)长(平) - 仄仄平平仄仄平 ✓
+
+Great, this is a properly regulated quatrain (仄起首句入韵式).
+
+The user said no explanation, so I'll just output the poem. Maybe with a title? The user asked for a poem on the theme of autumn night. A title like 《秋夜》 could be nice but might count as extra. I think a title is fine and conventional, not an explanation. I'll include it or maybe just the four lines. To be safe and minimal, I could give just the four lines. A title 《秋夜》 is harmless and fitting. I'll include it.
+
+Format: Just the poem, no explanation as requested. Keep it minimal.

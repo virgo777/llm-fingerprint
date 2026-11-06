@@ -1,0 +1,41 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical-style Chinese quatrain (绝句) about autumn night. Traditional Chinese quatrains have either 5 characters per line (五言绝句) or 7 characters per line (七言绝句).
+
+Let me think about autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 霜 (frost), 梧桐 (wutong/parasol tree), 虫鸣 (insect sounds), 星 (stars), 风 (wind), 寒 (cold), etc.
+
+Let me try a 七言绝句:
+
+月挂疏桐夜未央，
+桂香浮动小庭凉。
+一声雁过秋千里，
+露湿阶前月色黄。
+
+Hmm, let me refine. Rhyme scheme: lines 1, 2, 4 should rhyme (央、凉、黄 - all in -ang rhyme, good).
+
+Let me polish:
+
+月挂疏桐夜未央 — moon hangs on sparse wutong, night not yet ended
+桂香浮动小庭凉 — osmanthus fragrance drifts, small courtyard cool
+一雁横空秋万里 — a goose crosses the sky, autumn ten thousand li
+露凝阶下作微霜 — dew congeals beneath the steps, becoming light frost
+
+Check rhyme: 央 (yāng), 凉 (liáng), 霜 (shuāng) - all -ang rhyme. Good.
+
+Tonal patterns (平仄) — let me not over-engineer, but roughly:
+月挂疏桐夜未央: 仄仄平平仄仄平 — good
+桂香浮动小庭凉: 仄平平仄仄平平 — roughly fine
+一雁横空秋万里: 仄仄平平平仄仄 — good
+露凝阶下作微霜: 仄平平仄仄平平 — good enough
+
+Actually let me check line 3: 一雁横空秋万里 — 一(仄)雁(仄)横(平)空(平)秋(平)万(仄)里(仄) = 仄仄平平平仄仄. Good.
+
+Line 4: 露(仄)凝(平)阶(平)下(仄)作(仄)微(平)霜(平) = 仄平平仄仄平平. Good.
+
+Line 2: 桂(仄)香(平)浮(平)动(仄)小(仄)庭(平)凉(平) = 仄平平仄仄平平. Good.
+
+Line 1: 月(仄)挂(仄)疏(平)桐(平)夜(仄)未(仄)央(平) = 仄仄平平仄仄平. Good.
+
+This is a proper 七绝 pattern starting with 仄起平收.
+
+The user said no explanation, so just output the poem. Format: four lines, maybe centered or just plain lines. Keep it clean and simple. No headers needed.

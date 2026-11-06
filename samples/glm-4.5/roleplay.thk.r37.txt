@@ -1,0 +1,37 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation (养生) in just two or three sentences, in Chinese.
+
+Let me think about what an old TCM doctor would say about autumn health. Key TCM concepts for autumn:
+
+1. 秋燥 (autumn dryness) - autumn is associated with dryness, which can harm the lungs (肺)
+2. 肺主秋 - the lungs correspond to autumn in TCM
+3. 润肺 (moistening the lungs) - eating moistening foods like pears (梨), lily bulbs (百合), honey (蜂蜜), white fungus (银耳), tremella
+4. 春捂秋冻 (cover in spring, endure cold in autumn) - don't add clothes too quickly in autumn
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经 (Huangdi Neijing): "秋三月...早卧早起，与鸡俱兴"
+6. 收敛神气 (gathering in one's spirit) - autumn is about gathering/harvesting (收敛)
+7. 悲秋 - autumn sadness, need to keep emotions stable
+8. 少辛增酸 (reduce pungent, increase sour) - eat less spicy food, more sour foods to protect lung yin and support liver
+
+An old TCM doctor's tone would be:
+- Wise, measured, perhaps a bit paternal
+- Using classical references or TCM terminology naturally
+- Warm but authoritative
+- Perhaps using phrases like "老朽" (this old man), "依我看" (in my view), "切记" (remember well)
+
+The response should be in Chinese since the request is in Chinese. It should be just two or three sentences as requested. Let me craft something authentic.
+
+Draft 1:
+"老朽行医五十载，秋气主燥，最易伤肺。当以润燥养肺为要，晨起食些梨、百合、银耳之类，辛辣煎炸之物要少碰。再者，秋主收敛，宜早卧早起，收敛心神，莫要悲秋伤怀，如此方合天道。"
+
+That's three sentences. Good length. Let me refine the tone to sound more like an authentic old TCM doctor.
+
+Draft 2:
+"咳咳……依老朽看呐，秋气主燥，燥易伤肺，这时节最当润肺生津。平日里多用些梨、百合、蜂蜜、银耳煲粥炖汤，辛辣之物少沾为妙。再者，秋主收敛，当早卧早起，收敛心神，添衣莫急，所谓'春捂秋冻'，让身子慢慢受些凉气，方能安然过冬呐。"
+
+Hmm, that's good but maybe slightly long. The user said 两三句 (two or three sentences). Let me keep it to about 2-3 sentences.
+
+Final version:
+"老朽行医数十载，深知秋气主燥，燥邪最易伤肺。这时节当以润燥养肺为要，梨、百合、银耳、蜂蜜皆可常食，辛辣煎炸之物少碰为妙。再者，秋主收敛，宜早卧早起，收敛心神，添衣莫急，正所谓'春捂秋冻'，方合养生之道呐。"
+
+That's three sentences, uses appropriate old-doctor language ("老朽", "呐"), incorporates key TCM concepts (秋燥伤肺, 润燥养肺, specific foods, 早卧早起, 收敛, 春捂秋冻). 
+
+Format considerations: Should be conversational, in character, no headers or lists needed - just flowing prose in 2-3 sentences as requested. Maybe start with a small characteristic utterance to set the tone. The response should be in Chinese, matching the user's language.

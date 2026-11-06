@@ -1,0 +1,37 @@
+The user is asking me to explain precautions/daily tips for drinking water in three points. This is in Chinese, so I should respond in Chinese.
+
+Let me think about what the three most important points for daily water drinking habits would be:
+
+1. 水温与饮水时机 - Water temperature and timing
+2. 饮水量 - Amount of water
+3. 不要等口渴才喝水 - Don't wait until thirsty
+
+Let me organize three solid points:
+
+1. **不要等口渴才喝水** - Don't wait until you feel thirsty. By the time you feel thirsty, your body is already mildly dehydrated. Should drink water regularly throughout the day in small amounts.
+
+2. **控制水温，避免过冷过热** - Water temperature matters. Avoid ice-cold water (can irritate stomach) and very hot water (can damage esophagus). Warm/room temperature water is best.
+
+3. **适量饮水，少量多次** - Drink appropriate amounts, small sips multiple times. Don't chug large amounts at once (burdens kidneys, may cause water intoxication). About 1500-2000ml per day for adults, but adjust based on activity, weather.
+
+Other possible points:
+- 早晨起床后喝一杯温水
+- 睡前不宜大量饮水
+- 运动后不要立即大量饮水
+- 不要用饮料代替白开水
+
+I'll pick the three most practical and important ones:
+
+1. 少量多次，主动饮水
+2. 水温适宜
+3. 白开水为佳，不喝生水/不暴饮
+
+Actually, let me structure this well:
+
+1. **主动饮水，少量多次**：不要等口渴了才喝水。口渴时身体已经处于轻微缺水状态。建议每天分多次饮水，每次100-200毫升左右，成年人每天总量约1500-2000毫升（可根据运动量、天气调整）。
+
+2. **水温适宜，避免过烫过冷**：最理想的是温开水（20-40℃左右）。过烫的水（超过65℃）会烫伤口腔和食道黏膜，长期甚至增加食道癌风险；过冰的水则刺激肠胃，可能引起胃肠不适。
+
+3. **晨起一杯水，睡前少喝水**：早晨空腹喝一杯温水有助于补充夜间流失的水分、促进肠胃蠕动；但睡前不宜大量饮水，以免夜间频繁起夜影响睡眠，也可能造成次日眼睑浮肿。
+
+Format: The user asked for three points, so a numbered list is appropriate. I should keep it concise but informative. Using Chinese since the question is in Chinese. Medium length - each point with a brief explanation. Markdown numbered list with bold headers would work well.

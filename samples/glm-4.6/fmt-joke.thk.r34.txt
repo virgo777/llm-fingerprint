@@ -1,0 +1,41 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a simple, fun request. Let me think of a good programmer joke that works well in Chinese.
+
+Some classic programmer jokes:
+
+1. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。(The four things programmers hate most: writing documentation, writing comments, others not writing documentation, others not writing comments.)
+
+2. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25。(Why can't programmers tell apart Halloween and Christmas? Because Oct 31 == Dec 25 — octal 31 equals decimal 25. This is a classic "cold" joke because it requires understanding of number bases.)
+
+3. 一个程序员去面试，面试官问："你有什么缺点？" 程序员说："我说话太直了。" 面试官："比如？" 程序员："比如你今天的领带很丑。" 面试官："这不算直，这算毒舌。" 程序员："好吧，我的另一个缺点是不会说话。" — not great.
+
+4. 程序员的妻子让他去买东西："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。妻子问为什么，他说："因为我看到了卖西瓜的。" (A programmer's wife asks him to buy a jin of buns, and "if you see someone selling watermelons, buy one." He comes back with one bun. When asked why, he says "Because I saw someone selling watermelons.") — This is a classic programmer logic joke, quite good as a cold joke.
+
+5. 0/false jokes: "世界上有10种人：懂二进制的和不懂二进制的。" (There are 10 kinds of people in the world: those who understand binary and those who don't.) — Classic.
+
+6. 为什么程序员喜欢黑暗模式？因为光会吸引 bug。(Why do programmers like dark mode? Because light attracts bugs.) — This is a good bilingual pun (bug as insects).
+
+7. 一个SQL查询走进酒吧，走向两张表，然后问："可以join一下吗？" (A SQL query walks into a bar, approaches two tables and asks "Can I join you?") — translation of English joke.
+
+8. 程序员为什么分不清重阳节和万圣节？similar octal joke.
+
+The watermelon/bun joke (#4) is very famous in Chinese programmer circles and is a perfect "冷笑话" because the punchline relies on programming logic (conditional statements). The Oct 31 == Dec 25 one is also great and truly "cold" (requires tech knowledge to get it).
+
+Let me pick one or two good ones. Since they asked for "一个" (one), I should probably tell one main joke, maybe with a brief bonus. Let me go with the watermelon one as the main, since it's classic and works perfectly in Chinese. Or I could do the binary one.
+
+Actually, let me consider format: The user wants a cold joke. A short response is appropriate. I could tell one joke and maybe offer another if they want more. Keep it light and fun.
+
+Let me write the watermelon joke well:
+
+程序员的老婆对他说："去超市买一斤包子。如果看到卖西瓜的，就买一个。"
+
+程序员回来了，手里拿着一个包子。
+
+老婆生气地问："你怎么就买了一个包子？！"
+
+程序员："因为我看到卖西瓜的了。"
+
+This is the conditional logic joke — the wife meant "buy one watermelon" but the programmer interpreted it as "buy one [bun] if condition is true."
+
+I could add a small emoji or comment. Maybe I'll tell it and optionally add a bonus. Let me keep it concise and deliver one joke well. Maybe end with a playful line.
+
+Format: Short, conversational, the joke with a setup and punchline. No need for headers or lists. Maybe use line breaks for the dialogue to make it read like a joke.

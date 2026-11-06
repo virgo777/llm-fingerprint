@@ -1,0 +1,4 @@
+We need answer in Chinese. User asks: "请用表格列出中国四大名著的书名与作者。" Need table with titles and authors. Four classics: 《三国演义》罗贯中, 《水浒传》施耐庵 (some say施耐庵、罗贯中), 《西游记》吴承恩, 《红楼梦》曹雪芹（高鹗续? Usually 曹雪芹著，高鹗续） Need table. Could include notes. Keep concise. Use Markdown table. Ensure Chinese. Maybe "作者" column. Let's craft. 
+Need consider "四大名著" commonly: 红楼梦, 三国演义, 水浒传, 西游记. Authors. For 水浒传 author 施耐庵 (常见署名; 另有罗贯中参与说). For 红楼梦 曹雪芹（后四十回一般署高鹗续）. Since request simple, include standard. Table. Final only. 
+Need maybe no extra. Use table with "书名" "作者". 
+Let's final. 

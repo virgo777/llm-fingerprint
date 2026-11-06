@@ -1,0 +1,42 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain the precautions/considerations for daily water drinking."
+
+This is a simple informational request about healthy drinking water habits. The user wants three points about daily water drinking precautions/tips.
+
+Let me think about the most important points about daily water drinking:
+
+1. **Drinking water amount and timing** - Don't wait until thirsty, drink regularly throughout the day. Around 1500-2000ml per day for adults. Drink small amounts multiple times rather than gulping large amounts at once.
+
+2. **Water temperature** - Avoid drinking too cold or too hot water. Warm water (around 20-40°C) is best for the body. Ice-cold water can irritate the stomach; very hot water can damage the esophagus.
+
+3. **Special situations** - Don't drink too much water before bed (affects sleep, causes nocturia); don't drink large amounts of water immediately after intense exercise; drinking a glass of water in the morning after waking helps metabolism.
+
+Other possible points:
+- Don't replace water with beverages (sugary drinks, tea, coffee don't fully substitute)
+- Don't drink raw/unboiled water (in areas where tap water isn't potable)
+- Don't drink water too fast/gulp (chugging)
+
+Since the user asked for exactly three points, I should pick the three most important and practical ones:
+
+1. 主动喝水，少量多次 - proactive drinking, don't wait until thirsty, small amounts multiple times, about 1500-2000ml daily
+2. 注意水温 - warm water is best, avoid ice cold and scalding hot
+3. 特殊时段注意 - morning water, before bed limitation, after exercise caution
+
+Or alternatively:
+1. 保证饮水量
+2. 喝水时机
+3. 水的温度和水质
+
+Format considerations: The user asked for three points, so a numbered list format is appropriate. Since this is in Chinese, I should respond in Chinese. Each point should have a brief heading and a short explanation. Keep it concise but informative. Maybe 2-3 sentences per point. Not too long overall - this is a simple informational request.
+
+Let me draft:
+
+**1. 主动饮水，少量多次**
+不要等到口渴才喝水，口渴时身体已经处于轻度缺水状态。建议成年人每天饮水1500~2000毫升，分多次少量饮用，每次100~200毫升为宜，避免一次猛灌大量水加重肾脏负担。
+
+**2. 注意水温，避免过冷过热**
+过烫的水（超过65℃）容易损伤口腔和食道黏膜，长期可能增加食道疾病风险；过冰的水则会刺激肠胃，可能引起不适。日常以温开水（20~40℃左右）为最佳选择。
+
+**3. 把握饮水时机**
+晨起空腹喝一杯温水有助于促进代谢；睡前不宜大量饮水，以免影响睡眠和加重肾脏负担；剧烈运动后应先休息片刻，再小口慢饮，避免一次性大量饮水。
+
+This covers the main points well. The format is clean with bold headings for each point. This is appropriate length for this kind of question - informative but not overwhelming.

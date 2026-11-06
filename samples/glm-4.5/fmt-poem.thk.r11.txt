@@ -1,0 +1,31 @@
+The user wants a four-line poem about an autumn night, without explanation. Let me write a Chinese poem about 秋夜 (autumn night).
+
+A four-line poem - could be 五言绝句 (5 characters per line) or 七言绝句 (7 characters per line). Let me write something evocative about autumn night imagery: moon, cold dew, falling leaves, geese, wind, etc.
+
+Let me try a 七言绝句 style:
+
+秋风萧瑟入庭轩，
+落叶纷飞月满园。
+夜半寒蛩声渐远，
+一帘清梦到晓天。
+
+Hmm, let me refine. Or a simpler, more classical feel:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+孤灯照影人无寐，
+一雁南飞过短墙。
+
+That's nice. Let me check the rhyme: 凉 (liáng), 霜 (shuāng), 墙 (qiáng) - all rhyme with -ang. Good.
+
+Line 3: 孤灯照影人无寐 - lone lamp shining on shadow, person sleepless.
+Line 4: 一雁南飞过短墙 - a goose flying south past the low wall.
+
+Let me check tonal patterns loosely - it doesn't need to be perfect, but should sound good.
+
+银汉无声玉露凉 - The Silver River (Milky Way) is silent, jade dew is cold
+梧桐叶落满庭霜 - Wutong leaves fall, courtyard full of frost
+孤灯照影人无寐 - Lone lamp illuminates shadow, person cannot sleep
+一雁南飞过短墙 - A wild goose flies south over the low wall
+
+This is good. The user said "不要解释" (don't explain), so I should just give the poem without any explanation.

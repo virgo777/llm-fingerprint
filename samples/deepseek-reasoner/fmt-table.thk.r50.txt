@@ -1,0 +1,1 @@
+We need answer in Chinese. Need table listing four great classical novels title author. Need be accurate. The Four Great Classical Novels: 三国演义 罗贯中; 水浒传 施耐庵 (some include 罗贯中? Usually 施耐庵); 西游记 吴承恩; 红楼梦 曹雪芹 (高鹗续? author usually 曹雪芹, 高鹗续). Need table. concise. Maybe mention common attribution. Use markdown table. Final only.

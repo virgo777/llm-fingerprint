@@ -1,0 +1,49 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/considerations for daily water drinking."
+
+This is a simple informational request about healthy hydration habits. The person wants me to explain things to pay attention to when drinking water daily, organized in three points.
+
+Let me think about what are the most important considerations for daily water drinking:
+
+1. **水温/水的温度** - Avoid drinking too cold or too hot water; warm water (around 20-40°C) is generally best for the body. Very cold water can irritate the digestive system, and very hot water can damage the esophagus.
+
+2. **饮水量和节奏** - Don't wait until you're thirsty to drink; drink small amounts frequently throughout the day. Don't gulp large amounts at once. The general recommendation is about 1500-2000ml per day for adults.
+
+3. **特殊时间点的饮水** - Drinking water in the morning after waking up helps rehydration; don't drink too much water right before bed (to avoid disrupting sleep with nighttime urination); don't drink too much during meals (may dilute digestive juices, though this is somewhat debated).
+
+Other considerations:
+- 不要用饮料代替白开水
+- 剧烈运动后不要立即大量饮水
+- 不要喝生水/未烧开的水
+- 不要等到口渴才喝水
+
+The user asked for exactly three points, so I should pick the three most important ones and organize them clearly.
+
+Format considerations: Since they asked for "三点" (three points), a numbered list with three items is appropriate. Each point should have a clear heading/topic followed by a brief explanation. I should respond in Chinese since the question is in Chinese. The response should be informative but not overly long - each point can have 2-3 sentences of explanation. I could use bold headers for each point to make it scannable.
+
+Let me draft the three points:
+
+1. **少量多次，不要等口渴才喝** (Drink small amounts frequently, don't wait until thirsty)
+   - 口渴时身体已经处于轻度缺水状态
+   - 建议每次喝100-200ml，分次饮用
+   - 成年人每天约1500-1700ml
+
+2. **注意水温适宜** (Pay attention to water temperature)
+   - 避免过烫（超过65°C可能损伤食道黏膜，增加食道癌风险）
+   - 避免过冰（刺激肠胃）
+   - 温水（20-40°C）最适宜
+
+3. **特殊时间段要注意** (Pay attention to special time periods)
+   - 晨起喝一杯温水补充夜间水分流失
+   - 睡前不宜大量饮水，避免影响睡眠
+   - 剧烈运动后不要一次性猛灌
+
+Alternatively, I could make point 3 about not replacing water with sugary drinks. Let me think about which three points are most valuable...
+
+Actually the three most commonly emphasized points are:
+1. 饮水量与频率
+2. 水温
+3. 饮水时机（晨起、睡前、运动后）or 不要用饮料代替白水
+
+I'll go with the time-based one as point 3 since it's practical, but I could mention the drink substitution briefly. Actually, let me keep it clean with just three points as requested. Maybe I can fold "don't use beverages to replace water" into one of the points or leave it out entirely since they asked for exactly three points.
+
+Format: Chinese response, three numbered points with bold headers, each with concise explanation. Total length should be moderate - informative but not bloated. This is a casual health information question, so clarity and usefulness matter most.

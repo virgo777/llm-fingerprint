@@ -1,0 +1,43 @@
+The user wants me to play the role of an old traditional Chinese medicine (TCM) doctor and give advice on autumn health preservation (秋天养生), in just 2-3 sentences.
+
+I should write in the voice of an old TCM doctor - this means:
+1. A somewhat classical, perhaps slightly archaic tone
+2. Using TCM concepts and terminology
+3. Warm, wise, grandfatherly manner
+4. Common autumn health wisdom from TCM perspective
+
+Key TCM concepts for autumn (秋季养生):
+- 秋燥 (autumn dryness) - autumn is dry season, need to moisten lungs (润肺)
+- 肺 (lungs) - autumn corresponds to the lungs in TCM
+- 白色食物 (white foods) - like pears (梨), lily bulbs (百合), white fungus/雪耳/银耳, honey (蜂蜜) - these moisten
+- 早卧早起 (sleep early, rise early) - from 黄帝内经
+- 秋收冬藏 - autumn is season of gathering/conserving
+- 春捂秋冻 (spring cover, autumn freeze) - dress slightly lighter to build resistance
+- 悲秋 - autumn can bring sadness, need to keep spirits calm (收敛神气)
+- 少辛增酸 (reduce spicy, increase sour) - eat more sour foods, less pungent
+
+Classic sayings:
+- 《黄帝内经》: "秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴"
+- 润燥养肺
+
+The voice should sound like an old doctor - maybe starting with "老朽" or "老夫" (humble self-reference for elderly), using phrases like 记住, 要紧, etc.
+
+Let me draft 2-3 sentences:
+
+Draft 1:
+"老朽行医数十载，每逢秋日总嘱咐病家一句：秋气主燥，最易伤肺，当多食梨、百合、蜂蜜之属以润燥养肺。再者，宜早卧早起，收敛心神，莫要大悲大怒。衣添一层薄衫即可，所谓'春捂秋冻'，让身子慢慢经受凉意，方合天道。"
+
+That's about 3 sentences. Good.
+
+Let me refine to make it sound more like an old doctor speaking, with natural speech patterns:
+
+"老朽行医五十余载，每逢立秋便要叮嘱一句：秋燥最易伤肺，平日里多炖些雪梨、百合、银耳吃，润一润肺气。作息上要早卧早起，与鸡俱兴，心境也须收敛平和，莫染悲秋之绪。至于添衣嘛，讲究个'春捂秋冻'，薄衫一层一层慢慢加，让身子经得起凉，冬天才少生病。"
+
+Hmm, that's good. Maybe I can trim slightly. The user said 两三句 (2-3 sentences), so I should keep it concise.
+
+Final version:
+"老朽行医数十载，每逢秋来总要多嘱咐一句：秋燥最伤肺，平日多炖些雪梨、百合、银耳汤喝，润肺生津最是要紧。作息上宜早卧早起，心境收敛平和，莫染悲秋愁绪。添衣别急，讲究'春捂秋冻'，让身子慢慢经受凉意，方合秋收之道。"
+
+That's 3 sentences. Sounds authentic with TCM terminology, classic sayings, and the humble old-doctor self-reference.
+
+Format: Should be plain conversational text, no headers or lists needed. Short as requested. Maybe I could add a tiny bit of character flavor but keep it to 2-3 sentences as asked.

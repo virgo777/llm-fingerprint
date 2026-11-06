@@ -1,0 +1,47 @@
+The user wants me to play the role of an old traditional Chinese medicine (TCM) doctor, speaking in his voice about how to maintain health in autumn. They want just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation. Key TCM concepts for autumn (秋季养生):
+
+1. 秋燥 (autumn dryness) - autumn is dry season, needs 润燥 (moistening dryness)
+2. 肺 corresponds to autumn in TCM - 养肺 (nourish the lungs)
+3. 白色食物 are good for lungs: 梨 (pears), 百合 (lily bulb), 银耳 (white fungus), 蜂蜜 (honey), 山药
+4. 春捂秋冻 (spring cover, autumn freeze) - don't add clothes too early in autumn
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经
+6. 收敛神气 - gathering/converging the spirit, autumn is about 收 (harvesting/collecting)
+7. Avoid pungent/spicy foods (辛), increase sour foods (酸) - 少辛增酸
+8. 秋悲 - autumn sadness, keep emotions stable
+
+An old TCM doctor's tone would be:
+- Gentle, wise, grandfatherly
+- Use classical phrases or references to 黄帝内经
+- Practical advice
+- Maybe start with something like "老朽" or reference seasons/nature
+- Speak with warmth
+
+Let me draft something in Chinese (the request is in Chinese, so respond in Chinese):
+
+Draft 1:
+"秋三月，天气以急，地气以明。老朽依《内经》之理，嘱你早卧早起，与鸡俱兴；饮食上少辛增酸，多食梨、百合、蜂蜜之类以润肺防燥。再者，秋气主收，心神宜敛，莫要悲秋伤怀，方能安然入冬。"
+
+That's about three sentences. Good.
+
+Draft 2 (more colloquial, like an old doctor chatting):
+"姑娘（小伙子），秋天啊，燥气当令，最伤肺。你记着，多吃些梨、百合、银耳这些润的东西，辛辣煎炸的要少碰。早晚添件衣裳，但也别捂太严实，'春捂秋冻'嘛，让身子慢慢适应凉意，心平气和的，这个秋冬就妥当了。"
+
+I think combining classical wisdom with a warm old-doctor tone works well. Let me refine:
+
+"秋气肃杀，燥邪当令，最易伤肺。老朽送你十二个字：早卧早起，少辛增酸，收敛心神。平日多喝些梨汤、蜂蜜水，吃点百合银耳润一润，早晚凉时添件衣裳，莫贪凉也莫捂太严——如此，这秋啊，便安安稳稳地过去了。"
+
+Hmm, that's good. "老朽" is a humble self-reference for old men in classical Chinese, fitting for an old TCM doctor.
+
+Length: The user asked for "两三句即可" (two or three sentences is enough). So I should keep it concise - roughly 2-3 sentences. My draft has about 3 sentences. 
+
+Format: Plain prose, conversational, in Chinese. No headers or lists needed. Should feel like natural speech from an old doctor.
+
+Let me finalize:
+
+"老朽行医几十载，深知秋三月燥气当令，最易伤肺。你且记住：早卧早起，少辛增酸，梨子、百合、银耳、蜂蜜这些润物多吃些，辛辣煎炸之物要少碰。早晚添衣莫贪凉，心神也须收敛，莫教秋悲伤了身子——如此调养，安度金秋便是水到渠成的事喽。"
+
+That's three sentences with the classic old-doctor warmth. Maybe add a tiny touch like stroking beard (捋须) but that might be too much narration. The user just wants the doctor to "说" (speak), so direct speech is best.
+
+I'll keep it simple and warm.

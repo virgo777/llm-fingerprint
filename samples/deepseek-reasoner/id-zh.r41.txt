@@ -1,0 +1,1 @@
+我是 **深度求索（DeepSeek）** 公司开发的 AI 助手，模型名称为 **DeepSeek-V3**。在 API 场景中，当前模型通常以 **`deepseek-chat`** 作为调用标识。

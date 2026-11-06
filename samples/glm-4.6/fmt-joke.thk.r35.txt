@@ -1,0 +1,40 @@
+The user is asking me to tell a cold joke (冷笑话, which means a "cold joke" - essentially a dad joke or corny pun-based joke in Chinese) about programmers. This is a simple, fun request in Chinese.
+
+Let me think of some good programmer jokes that work well in Chinese or translate well:
+
+Classic programmer jokes:
+1. Why do programmers always confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+2. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释
+3. 世界上有10种人，一种懂二进制，一种不懂
+4. 一个程序员去买菜，老婆说："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。老婆问为什么，他说："因为我看到了卖西瓜的。" (This is a classic one about conditional logic)
+5. 程序员的妻子让他去购物："去超市买一瓶牛奶，如果有鸡蛋的话，买六个。" 程序员回来带着六瓶牛奶。妻子问："为什么买六瓶牛奶？" 程序员："因为超市有鸡蛋。"
+
+The one about buying buns/milk is a classic Chinese programmer joke about literal interpretation of conditional statements. Let me pick a good one.
+
+Another good one:
+- 问：程序员最讨厌康熙的哪个儿子？答：胤禩（因为他是八阿哥，Bug谐音）
+
+That's actually a really good cold joke specific to Chinese! 胤禩 is the 8th prince (八阿哥), and "八阿哥" sounds like "Bug阿哥"... wait, actually 八 (bā) sounds like... hmm, the joke is that 老八/八阿哥 = "bug". Actually "八" sounds somewhat like "bug" in Chinglish pronunciation. Yes, this is a well-known Chinese programmer joke: 程序员最讨厌康熙的哪个儿子？八阿哥（Bug阿哥）。
+
+Also: 程序员最讨厌的皇帝是雍正，因为四阿哥（死阿哥）... hmm, that's another variation.
+
+Other options:
+- 为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25
+
+Let me think about which is the best "cold joke" (冷笑话 implies it's groan-worthy, pun-based). The 康熙/八阿哥 one is perfect for Chinese because it's a pun.
+
+Another one: 一个物理学家、一个工程师和一个程序员坐在会议室... too long.
+
+The buying eggs one:
+妻子对程序员老公说："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+程序员回家，手里只拿着一个包子。
+妻子问："你怎么只买了一个包子？"
+程序员说："因为我看到卖西瓜的了。"
+
+This is a classic and quite funny - it shows the programmer interpreted the conditional as applying to both items.
+
+I could tell one joke and maybe offer another. The format should be conversational, in Chinese, matching the user's language. Short and punchy is best for jokes. Maybe I'll tell one main joke, and could add a bonus one. Let me keep it light.
+
+I'll go with the 八阿哥 one as the main joke since it's a true "cold joke" (pun-based), and maybe add the buying buns one as a bonus. Or just tell one well. Actually, telling one joke cleanly is better for comedic effect. Maybe offer to tell more at the end briefly, or just include a second one.
+
+Format: Casual, short. Use the joke setup-punchline structure. Since it's a joke request, keeping it snappy is important. I'll tell the 八阿哥 joke, then maybe one more since cold jokes are quick. Let me do two max.

@@ -1,0 +1,36 @@
+The user is asking in Chinese to explain daily drinking water precautions/notes in three points. Let me think about what would be most useful and accurate here.
+
+The request is simple: 用三点说明日常喝水的注意事项
+
+Key considerations for daily water drinking:
+1. 水温 - avoid too cold or too hot water; warm water is best for the body
+2. 喝水量和频率 - don't wait until thirsty, drink small amounts multiple times, roughly 1500-2000ml per day
+3. 时间点 - drink water in morning after waking, before meals, avoid drinking too much before bed
+4. 水质安全 - boiled tap water, clean water sources
+5. 不要用饮料代替水 - sugary drinks don't count
+6. 剧烈运动后不要猛灌水
+
+I need to pick the three most important/representative points. Let me structure it well:
+
+1. **主动喝水，少量多次** - Don't wait until you're thirsty; drink small amounts frequently throughout the day. Adults should aim for about 1500-1700ml (Chinese dietary guidelines say 1500-1700ml for adults, or often cited as 8 cups/~2000ml). Distribute evenly.
+
+2. **注意水温，喝温开水为宜** - Water temperature should be moderate, around 10-40°C or warm; avoid ice-cold water (irritates stomach) and very hot water (over 65°C increases esophageal cancer risk per WHO/IARC).
+
+3. **把握喝水时机** - Morning glass of water after waking, drink before/with meals moderately, limit water right before bedtime to avoid nocturia; avoid gulping large amounts after intense exercise.
+
+Alternative points could include: 白开水是最好的选择，少喝含糖饮料. Maybe I can weave that into one of the points or mention briefly.
+
+Format: The user explicitly asked for three points, so a numbered list of 3 items is appropriate. Each point should have a brief heading and 1-3 sentences of explanation. Should respond in Chinese. Keep it concise but informative. Use bold headers for each point perhaps, with short explanations. Not too long - maybe 150-250 Chinese characters per point max, actually shorter is fine.
+
+Let me draft:
+
+**一、主动饮水，少量多次**
+不要等口渴了才喝水。口渴时身体已处于轻度缺水状态。建议成年人每天饮水1500~1700毫升（约7~8杯），分成多次小口饮用，均匀分布在全天。
+
+**二、水温适宜，首选白开水**
+喝水温度以10~40℃的温开水为佳，避免长期饮用冰水刺激肠胃，也不要喝超过65℃的热水，以免烫伤食道、增加食道疾病风险。白开水是最健康的选择，应少用含糖饮料、浓茶咖啡代替日常饮水。
+
+**三、把握饮水时机**
+晨起空腹喝一杯温水，有助于补充夜间流失的水分、促进肠胃蠕动；饭前适量喝水有助消化；睡前不宜大量饮水，以免夜间频繁起夜影响睡眠；剧烈运动后应少量多次补水，切忌一次性猛灌。
+
+This is good. Length seems appropriate - informative but not bloated. Format with three numbered/bold points as requested.

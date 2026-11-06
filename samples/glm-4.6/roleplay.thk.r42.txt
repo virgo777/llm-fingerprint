@@ -1,0 +1,43 @@
+The user wants me to role-play as an old traditional Chinese medicine (TCM) doctor, speaking in his voice about how to maintain health in autumn. They want just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health (秋季养生):
+
+Key TCM concepts for autumn:
+1. 秋燥 (autumn dryness) - autumn is dry season, need to nourish yin and moisten lungs (滋阴润肺)
+2. 梨、百合、银耳、蜂蜜 - pear, lily bulb, white fungus, honey are good for moistening
+3. 春捂秋冻 (cover in spring, freeze a bit in autumn) - don't add clothes too quickly
+4. 早卧早起 - sleep early, rise early (aligning with autumn schedule per 黄帝内经)
+5. 收敛神气 - collect/gather one's spirit, autumn corresponds to lungs and grief/sadness (悲), so keep emotions calm
+6. 少辛增酸 - reduce spicy food, increase sour foods (酸味收敛)
+7. 肺对应秋天 - lungs correspond to autumn
+
+The tone should be that of an old TCM doctor - wise, maybe using classical phrases, gentle, perhaps with traditional expressions like "老话说..." or referencing 黄帝内经.
+
+The format: two or three sentences, in the voice of an old Chinese doctor. Should be in Chinese since the question is in Chinese. Keep it concise as requested - 两三句 means 2-3 sentences.
+
+Let me draft:
+
+"秋主收敛，燥气当令，最易伤肺。老朽依《黄帝内经》所言：宜早卧早起，多食梨、百合、银耳之类以润燥养阴，少辛增酸；添衣不可过急，所谓'春捂秋冻'，让身子慢慢受些凉，方能顺应天时，安然入冬。"
+
+That's good. Let me refine for the old doctor voice - maybe add a touch like "老朽行医几十年" or address the listener as "年轻人" or something. Keep it 2-3 sentences.
+
+Version:
+"老朽行医数十载，深谙秋燥最易伤肺，故当以润为要——晨起一盏蜂蜜水，平日多吃些梨、百合、银耳。再者，《内经》云'秋三月，此谓容平'，宜早卧早起，收敛心神，添衣莫急，让身子微微受冻，方合'春捂秋冻'之道。"
+
+That's two sentences (long ones). Maybe three shorter ones is better. Let me think about the ideal format.
+
+The user asked for 两三句 (two or three sentences), so I should keep it brief. I can make it feel authentic with a bit of old-style Chinese flavor.
+
+Final answer draft:
+
+"秋燥当令，最易伤肺，老朽劝你晨起饮杯温水，平日多食梨、百合、银耳这类润燥之物，辛辣煎炸之物要少吃。再者，'春捂秋冻'，添衣莫要太急，让身子慢慢适应凉意。《内经》有云，秋宜'早卧早起，与鸡俱兴'，收敛心神，不急不躁，方是顺应天时的养生之道。"
+
+That's three sentences. Good length. Old doctor voice with "老朽" and references to classics.
+
+Format considerations: Plain prose, no headers or lists needed. Short, conversational, in character. Chinese language. Maybe start with a little in-character greeting? Like "咳咳" or "小姑娘/小伙子"... Actually keeping it simple is better. Maybe a slight opening like "老朽行医几十年，只说三句要紧的话：" could be nice flavor. But that adds a sentence. Let me integrate.
+
+Final:
+
+"咳咳，老朽行医数十载，且听我一句：秋燥最易伤肺，晨起饮杯温水，平日多吃梨、百合、银耳这类润物，辛辣煎烤之物要少碰。再者，添衣莫急，让身子缓缓受些凉意，正所谓'春捂秋冻'。《内经》云'秋三月，早卧早起'，收敛心神，不急不躁，方能安然入冬。"
+
+Three sentences with "咳咳" flavor. Good. This feels authentic and covers diet, clothing, and sleep/emotion - the main aspects of autumn health in TCM.

@@ -1,0 +1,1 @@
+I’m an AI assistant accessed via an API, and I don’t have a reliable way to verify my exact model name or creator from this context. Please check the API/model metadata for the exact model ID; I can’t confirm it without that.

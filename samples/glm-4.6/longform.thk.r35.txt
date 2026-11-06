@@ -1,0 +1,52 @@
+The user is asking me to explain the concept of "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM) in about 400 words, in Chinese.
+
+This is a legitimate educational question about traditional Chinese medicine theory. I should provide an accurate, informative explanation.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's complexion, tongue, body shape, spirit (神), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse and palpating the body
+
+四诊合参 means combining and analyzing all four diagnostic methods together to form a comprehensive understanding of the patient's condition, rather than relying on any single method. This is fundamental to TCM's 辨证论治 (syndrome differentiation and treatment).
+
+Key points to cover:
+- Definition: 四诊 refers to 望、闻、问、切 four diagnostic methods
+- Origin: from classical texts like 《黄帝内经》 (Huangdi Neijing), the concept was established early; the term "四诊" was later systematized
+- Each method's content:
+  - 望诊: observe 神、色、形、态, especially 舌诊 (tongue diagnosis)
+  - 闻诊: listening to sounds (voice, breathing, cough) and smelling odors
+  - 问诊: the "十问" (ten questions) about symptoms, history
+  - 切诊: 脉诊 (pulse diagnosis) and 按诊 (palpation)
+- The meaning of 合参: integrating all findings, cross-verifying, avoiding one-sided conclusions
+- Why it matters: each method has limitations; only by combining can one accurately judge the condition (辨证); "舍脉从证" or "舍证从脉" situations show the need for comprehensive judgment
+- Classical quote: 《难经》says "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"
+
+The user wants about 400 characters (字) in Chinese. I should aim for approximately 400 Chinese characters, maybe slightly more. Let me draft this.
+
+Format: Since they want ~400 characters, I should write a coherent explanatory text, possibly with some structure. A short essay format with perhaps slight paragraphing would work well. I could use minimal headers or just flowing paragraphs. Given it's 400 characters, flowing paragraphs are appropriate - maybe 2-3 paragraphs.
+
+Let me draft:
+
+"四诊合参"是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集病情资料，并综合分析、相互参照，从而对疾病作出正确判断的过程。
+
+望诊，即观察病人的神、色、形、态及舌象等，其中望舌与望神尤为重要；闻诊包括听声音与嗅气味，如听呼吸、咳嗽、语声，嗅口气、体味等；问诊是通过询问了解起病原因、症状特点、既往病史、饮食起居等；切诊则包括脉诊和按诊，通过触摸脉搏及身体部位探查病变。
+
+四种诊法各有侧重，又相互补充。单凭某一诊法往往难以全面把握病情，如只凭脉象或单看面色，容易出现误判。因此医生必须将四诊所获信息综合起来，去伪存真、由表及里，才能准确判断疾病的病因、病位、病性与邪正关系，为辨证论治提供依据。《难经》所谓"望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"，正体现了对四诊的重视。临床上若脉与症不相符，医生还需灵活权衡，或"舍脉从症"，或"舍症从脉"，这更凸显了四诊合参、整体审察的必要性。
+
+Let me count roughly: This is approximately 400+ characters. Let me estimate:
+- Para 1: ~75 characters
+- Para 2: ~130 characters
+- Para 3: ~200 characters
+Total: ~405 characters. That's close to 400. Good.
+
+Actually, let me be more careful about accuracy:
+- 望诊: 神、色、形、态 - correct
+- 舌诊 is part of 望诊 - correct
+- 闻诊: 听声音、嗅气味 - correct
+- 问诊: "十问歌" exists - I could mention but not necessary
+- 切诊: 脉诊、按诊 - correct
+- 《难经·六十一难》quote: "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧" - this is accurate
+- 舍脉从症、舍症从脉 - correct concepts
+
+This looks good. The format should be flowing paragraphs in Chinese, around 400 characters as requested. No need for headers given the short length, though I could add them. I think flowing prose is better for a 400-character explanation.

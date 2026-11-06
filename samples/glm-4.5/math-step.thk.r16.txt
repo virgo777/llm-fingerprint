@@ -1,0 +1,18 @@
+The user is asking me to calculate 17×23+45÷9 with a complete process. This is a math question in Chinese, so I should respond in Chinese.
+
+Let me solve this step by step following order of operations (PEMDAS/BODMAS):
+- Multiplication and division first, from left to right
+- Then addition
+
+Step 1: Calculate 17×23
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+
+Step 2: Calculate 45÷9
+45 ÷ 9 = 5
+
+Step 3: Add the results
+391 + 5 = 396
+
+So the answer is 396.
+
+Let me write this out clearly with the complete process. I'll use a clear format showing each step and explaining the order of operations.

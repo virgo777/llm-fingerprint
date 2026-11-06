@@ -1,0 +1,41 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Explain the precautions for daily drinking water in three points."
+
+This is a simple, benign request about health advice regarding drinking water habits. I should respond in Chinese since the question is in Chinese.
+
+Let me think about the most important points about daily water drinking:
+
+1. **适量饮水，不要等口渴才喝** (Drink appropriate amounts, don't wait until you're thirsty) - Thirst is already a sign of mild dehydration. It's recommended to drink water regularly throughout the day. The common recommendation is about 1500-2000ml per day for adults.
+
+2. **不要喝太烫或太冰的水** (Don't drink water that's too hot or too cold) - Very hot water (above 65°C) can damage the esophagus and may increase cancer risk. Ice-cold water can irritate the stomach. Lukewarm or room temperature water is best.
+
+3. **晨起喝一杯温水，睡前适量饮水** (Drink a glass of warm water in the morning, moderate water before bed) - Morning water helps kickstart metabolism after sleep. 
+
+4. **不要用饮料代替白开水** (Don't replace plain water with sugary drinks) - Beverages with sugar can cause health issues.
+
+5. **小口慢饮，不要一次性大量饮水** (Drink slowly in small sips, don't drink large amounts at once) - Drinking too much at once can burden the kidneys and cause water intoxication.
+
+6. **运动后不要立即大量饮水** (Don't drink large amounts immediately after exercise)
+
+Let me pick the three most important and useful points:
+
+1. 主动饮水，少量多次 - Drink proactively, small amounts multiple times. Don't wait until thirsty. About 1500-1700ml daily.
+
+2. 水温适宜 - Appropriate water temperature. Not too hot (烫), not too ice cold. Warm water around 20-40°C is best.
+
+3. 以白开水为主，少喝含糖饮料 - Plain water as the main choice, limit sugary drinks.
+
+Or alternatively:
+
+3. 特殊情况注意 - Before bed don't drink too much (to avoid nocturia), after exercise drink slowly with small sips.
+
+I think the best three points would be:
+
+1. **主动饮水，少量多次**：不要等口渴了才喝水，口渴时身体已经处于缺水状态。建议每天饮水1500-1700毫升左右，分多次饮用，每次100-200毫升为宜。
+
+2. **水温适宜，避免过烫过冰**：饮用温开水最佳（约20-40℃）。过烫的水（超过65℃）会损伤食道黏膜，长期可能增加食道癌风险；过冰的水则可能刺激肠胃。
+
+3. **首选白开水，不以饮料代替**：白开水不含糖分和添加剂，是最健康的选择。含糖饮料、浓茶、咖啡不能替代白开水，过量饮用反而增加身体负担。
+
+These three points cover the main aspects: how much/when, temperature, and what type of water.
+
+Format considerations: The user asked for three points, so a numbered list format is appropriate. I should use Chinese. The response should be clear and informative but not overly long. A brief intro line, then three numbered points with bold headers and brief explanations would work well. Keep it concise since they asked for just three points.

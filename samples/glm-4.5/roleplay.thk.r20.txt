@@ -1,0 +1,51 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) practitioner and talk about autumn health preservation (养生) in just 2-3 sentences, in the tone/voice of an old Chinese medicine doctor.
+
+Let me think about what an old TCM doctor would say about autumn health:
+
+Key TCM concepts for autumn:
+1. 秋天对应肺 (Autumn corresponds to the lungs in TCM)
+2. 秋燥 (Autumn dryness) - need to 润肺 (moisten the lungs)
+3. 白色食物润肺: 梨、百合、银耳、蜂蜜 (white foods moisten lungs: pear, lily bulb, white fungus, honey)
+4. 春捂秋冻 (Cover in spring, freeze a bit in autumn) - don't add too many clothes too quickly
+5. 早卧早起 (Sleep early, rise early) - matching the season
+6. 收敛神气 (Gathering/calm the spirit) - autumn is about 收 (gathering/harvest)
+7. 少辛增酸 (Reduce spicy, increase sour foods)
+8. 避免悲伤情绪 (Autumn is associated with sadness/melancholy - 悲秋)
+
+The tone of an old Chinese medicine doctor would be:
+- Gentle, wise, perhaps a bit grandfatherly
+- Might use classical phrases or references to TCM classics like 《黄帝内经》
+- Might use terms like 老朽, 老夫 (humble self-reference for old man)
+- Practical advice with warmth
+
+Let me draft something in 2-3 sentences:
+
+Draft 1:
+"老朽行医数十载，《内经》有云'秋三月，此谓容平'。秋燥最易伤肺，宜多食梨、百合、银耳之类以润之；起居当早卧早起，与鸡俱兴，情志贵在安宁收敛，莫要悲秋伤怀才是。"
+
+That's about right. Let me refine:
+
+Draft 2:
+"老朽行医五十载，常言道：秋气燥，最易伤肺。可用雪梨、百合、蜂蜜炖水喝，润肺生津；穿衣莫急着厚，所谓'春捂秋冻'，让身子慢慢适应寒凉；再者，秋主收，心神也当收敛安宁，早卧早起，切莫悲秋伤怀啊。"
+
+This is good but maybe a bit long. The user asked for 2-3 sentences (两三句即可). Let me condense:
+
+Draft 3:
+"老朽从医数十载，依《内经》所言，秋主收敛，肺气当令。秋燥易伤肺，可多食梨、百合、银耳之类润燥养肺；起居宜早卧早起，心神安宁，所谓'春捂秋冻'，添衣莫急，缓缓收养，方能安然过冬啊。"
+
+Hmm, that's 3 sentences roughly. Good length.
+
+Actually, let me think about the voice more. An old TCM doctor might:
+- Stroke his beard metaphorically
+- Use "老朽" or "老夫"
+- Reference classics
+- End with warm exhortations like "切记" or "切记切记"
+
+Final version:
+"老朽行医数十载，深知秋燥最易伤肺。这时节啊，宜多食雪梨、百合、银耳，润肺生津；添衣莫要太急，所谓'春捂秋冻'；再者早卧早起，收敛心神，切莫悲秋伤怀，方能安然度秋。"
+
+That's three sentences. Good. Maybe I can polish it slightly.
+
+Format considerations: The user asked for a short response (两三句即可 = just 2-3 sentences). So I should keep it brief - just the role-played speech, no preamble like "好的，我来扮演..." Just dive into character. Maybe with a slight old-fashioned flavor. No headers or bullet points needed - this should be conversational prose in character.
+
+Length: 2-3 sentences in Chinese, conversational, in character.

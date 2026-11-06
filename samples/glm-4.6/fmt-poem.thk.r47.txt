@@ -1,0 +1,44 @@
+The user wants a four-line poem about autumn night (秋夜) in Chinese, with no explanation. Let me write a classical Chinese poem, likely a 绝句 (quatrain) format.
+
+Let me compose something evocative of autumn night imagery: moon, frost, osmanthus, crickets, cold dew, falling leaves, etc.
+
+Let me write a 七言绝句 (seven-character quatrain):
+
+月落梧桐叶半黄，
+西风瑟瑟入寒窗。
+一声雁过霜天远，
+桂子飘香满旧廊。
+
+Let me check the imagery: moon setting over wutong trees with half-yellow leaves, west wind rustling into cold window, a goose flying past the frosty distant sky, osmanthus fragrance filling the old corridor. That works well for autumn night.
+
+Or a 五言绝句:
+
+秋夜凉如水，
+寒星缀碧天。
+虫声移暗壁，
+月色满空阶。
+
+Both are fine. Let me refine the seven-character one:
+
+霜华初冷桂枝斜，
+月照疏窗一影纱。
+雁字南飞声渐远，
+半庭落叶伴虫沙。
+
+Hmm, let me make it cleaner:
+
+金风飒飒桂香浮，
+月色如霜浸小楼。
+雁过无声天似水，
+梧桐叶落满庭秋。
+
+That's nice. Check rhyme: 浮 (fú), 楼 (lóu), 秋 (qiū) — all in 尤 rhyme group (ou/iu sounds). Good.
+
+Line 1: 金风飒飒桂香浮 - golden wind rustling, osmanthus fragrance floats
+Line 2: 月色如霜浸小楼 - moonlight like frost soaks the small tower
+Line 3: 雁过无声天似水 - geese pass silently, sky like water
+Line 4: 梧桐叶落满庭秋 - wutong leaves fall, courtyard full of autumn
+
+Tonal patterns — I won't be too strict, but let's see. It reads smoothly.
+
+The user said no explanation, so I should just output the poem. Maybe with a title. Format: just the poem, four lines. Keep it minimal.

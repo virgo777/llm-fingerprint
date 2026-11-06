@@ -1,0 +1,65 @@
+The user is asking me to write a four-line poem (四句诗) about autumn night (秋夜) in Chinese, and they explicitly said not to explain (不要解释).
+
+So I should just write the poem without any explanation. Let me compose a classical Chinese poem about autumn night, ideally in a traditional style like 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain).
+
+Let me write a 七言绝句 (seven-character quatrain) about autumn night:
+
+秋风萧瑟入寒窗，
+明月清辉照桂香。
+落叶飘零随夜静，
+虫声寂寂伴更长。
+
+Let me refine this:
+
+银汉迢迢秋夜凉，
+梧桐叶落满庭霜。
+一轮明月窗前照，
+桂子飘香入梦长。
+
+Or:
+
+月挂疏桐秋夜凉，
+风摇桂影入寒窗。
+虫声渐歇露华重，
+一夜清辉满地霜。
+
+Let me check the tonal patterns roughly... Actually for a casual poem request, the imagery matters more. Let me craft something beautiful:
+
+秋风一夜到梧桐，
+月色如水浸碧空。
+露冷虫声稀渐歇，
+满庭清影桂香浓。
+
+Or a more polished version:
+
+霜月半帘秋夜凉，
+梧桐叶上滴清光。
+寒蛩不解游人意，
+声声催客梦故乡。
+
+Hmm, let me think about rhyme: 凉 (liáng), 光 (guāng), 乡 (xiāng) - these rhyme in -ang. Good.
+
+霜月半帘秋夜凉 - frost moon, half curtain, autumn night cool
+梧桐叶上滴清光 - on wutong leaves drip clear light
+寒蛩不解游人意 - cold crickets don't understand the traveler's feelings
+声声催客梦故乡 - sound after sound urges the guest to dream of hometown
+
+That's nice. Let me polish once more:
+
+明月半窗秋夜凉，
+梧桐叶落露成霜。
+寒蛩声里人无寐，
+一缕乡思入梦长。
+
+Rhymes: 凉, 霜, 长 - all -ang rhyme. 
+
+Actually the classic format:
+
+Line 1: 明月半窗秋夜凉
+Line 2: 梧桐叶落露成霜
+Line 3: 寒蛩声里人无寐 (no rhyme needed on line 3)
+Line 4: 一缕乡思入梦长
+
+That works well. The user said no explanation, so I'll just present the poem.
+
+Format: Just the four lines of the poem, perhaps centered or as separate lines. No explanation, no preamble. Keep it minimal as requested.

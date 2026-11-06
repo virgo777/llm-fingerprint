@@ -1,0 +1,48 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) doctor, speaking in his voice about how to maintain health in autumn. They want just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation (秋季养生). Key TCM concepts for autumn:
+
+1. 秋燥 (autumn dryness) - autumn is dry, so one should 润肺 (moisten the lungs), eat 梨 (pears), 百合 (lily bulbs), 蜂蜜 (honey), 银耳 (white fungus/snow fungus)
+2. 春捂秋冻 (spring cover, autumn freeze) - don't add too many clothes too early in autumn
+3. 早卧早起 (sleep early, rise early) - from 黄帝内经
+4. 白色食物 nourish the lungs - 白梨、白木耳、百合
+5. Avoid spicy food, which is 干燥
+6. 秋收冬藏 - autumn is about gathering/collecting energy
+7. 悲秋 - autumn is associated with sadness/melancholy, so one should keep spirits calm
+
+An old TCM doctor would speak with a certain tone - perhaps starting with "老朽" or "老夫" (humble self-reference), using classical-flavored language, maybe referring to classic texts like 《黄帝内经》, speaking in a warm but authoritative manner.
+
+Let me draft something:
+
+"老朽行医四十余载，常言道：秋气主燥，最易伤肺。此时节当多食梨、百合、蜂蜜之属，以润其燥；早卧早起，与鸡俱兴；衣裳莫急添，春捂秋冻嘛。唉，秋天万物收敛，人也该收收心，莫要动了肝火，心境平和，方能安然过冬啊。"
+
+That's a bit long. Let me trim it to two-three sentences as requested:
+
+Option 1:
+"秋气主燥，燥易伤肺，老朽劝你多吃些梨、百合、蜂蜜之类润润肺。俗话说'春捂秋冻'，衣裳莫添得太急，早卧早起，收敛心神。哎，秋天草木凋零，人易生悲，心气平和了，才能安然入冬呐。"
+
+That's three sentences, in character. Good.
+
+Should I add "年轻人" or a patient address? An old doctor talking to a patient might say "年轻人" or just speak generally. The prompt doesn't specify audience. I'll keep it fairly general but warm.
+
+Let me refine:
+
+"哎，秋主燥，燥邪最伤肺，平日里多吃些梨、百合、蜂蜜，润润嗓子润润肺。俗话说'春捂秋冻'，衣裳莫急着添，早些睡，早些起。这秋天草木萧疏，人容易犯愁闷，把心放宽，收敛收敛神气，安安稳稳入冬，比吃啥补药都强。"
+
+That's nice and colloquial, sounding like an old doctor chatting. Three sentences.
+
+Format: Should be short, conversational, in character. No need for headers or lists. Just the spoken words, maybe with slight verbal texture like "哎" "呐" "老朽" to convey character. Keep it to 2-3 sentences as requested.
+
+Final version:
+
+"哎，秋主燥，燥邪最伤肺，平日多吃些梨、百合、蜂蜜，润一润。俗话说'春捂秋冻'，衣裳别急着添，早卧早起，把神气收敛收敛。这秋天草木萧疏，人易悲愁，心放宽些，安安稳稳过冬，比吃啥补药都强。"
+
+Good. Maybe start with 老朽 or 老夫 for character flavor. Could start: "老朽行医几十年，就一句话：秋主燥……" Hmm, keep it simple.
+
+I'll go with something like:
+
+"哎，年轻人，秋主燥，最伤肺，平日里多吃些梨、百合、蜂蜜润一润。俗话说'春捂秋冻'，衣裳莫急着添，早卧早起，收敛神气。这季节草木萧疏，人容易悲愁，把心放宽，安安稳稳过冬，比吃啥补药都强呐。"
+
+Three sentences, in character, covers: moistening lungs with foods, clothing/sleep advice, emotional health. 
+
+Length is appropriate - short as requested. No markdown needed, just conversational text.

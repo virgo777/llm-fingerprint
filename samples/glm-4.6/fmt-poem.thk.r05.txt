@@ -1,0 +1,46 @@
+The user asks in Chinese: "写一首四句诗，主题是秋夜，不要解释。" (Write a four-line poem, theme: autumn night, no explanation.)
+
+So I need to write a 4-line poem about autumn night in Chinese, without any explanation. A classic format would be a 七言绝句 (7-character quatrain) or 五言绝句 (5-character quatrain).
+
+Let me compose a nice autumn night poem. Themes: moon, frost, osmanthus (桂花), crickets (蟋蟀/寒蛩), dew, wind, maple leaves, sycamore (梧桐), cold stars, wild geese.
+
+Let me try a 七言绝句:
+
+秋风萧瑟入庭轩，
+桂影婆娑月满园。
+虫语渐稀霜露重，
+一帘清梦到晓昏。
+
+Hmm, let me polish. Aim for imagery: cold moon, dew, osmanthus fragrance, geese, cricket sounds, frost.
+
+Option:
+
+玉露初凝桂子香，
+一轮明月浸秋光。
+寒蛩不解游人意，
+声声催梦到潇湘。
+
+Hmm "催梦" maybe fine. Let's check rhyme: 香 (xiāng), 光 (guāng), 湘 (xiāng) — rhyme -ang, good. Line 3 ends 意 (non-rhyming line), fine.
+
+Or a simpler approach:
+
+霜华满地月如钩，
+桂子飘香入小楼。
+一夜寒蛩吟不歇，
+西风吹梦到江洲。
+
+Rhyme: 钩 (gōu), 楼 (lóu), 洲 (zhōu) — -ou rhyme, good. 平仄 roughly okay.
+
+Check tones for a proper 七绝 (though not strictly required). "霜华满地月如钩" — 平平仄仄仄平平? 霜(平)华(平)满(仄)地(仄)月(仄)如(平)钩(平): 平平仄仄仄平平 — good pattern.
+
+"桂子飘香入小楼" — 桂(仄)子(仄)飘(平)香(平)入(仄)小(仄)楼(平): 仄仄平平仄仄平 — good.
+
+"一夜寒蛩吟不歇" — 一(仄)夜(仄)寒(平)蛩(平)吟(平)不(仄)歇(仄): 仄仄平平平仄仄 — good.
+
+"西风吹梦到江洲" — 西(平)风(平)吹(平)梦(仄)到(仄)江(平)洲(平): 平平平仄仄平平 — good.
+
+Nice, this is a fairly well-formed 七绝 with rhyme and tonal pattern. The theme is autumn night: frost, moon, osmanthus fragrance, crickets, west wind — all autumn night imagery.
+
+The user said no explanation, so I should just output the poem. Maybe a title? A title is fine and not an explanation. Could add "《秋夜》" as title. That seems appropriate.
+
+Format: Just the poem, perhaps with title. Keep it minimal. No extra commentary.

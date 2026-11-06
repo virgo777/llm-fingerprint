@@ -1,0 +1,5 @@
+The user is asking me to explain what Bioelectrical Impedance Analysis (BIA) is in about 200 characters (Chinese characters). Let me provide a concise explanation in Chinese.
+
+BIA (Bioelectrical Impedance Analysis) is a method used to estimate body composition by measuring the resistance (impedance) of electrical current passing through body tissues. It works on the principle that different body tissues conduct electricity differently - lean tissue with high water content conducts electricity well, while fat tissue resists it more.
+
+Let me write a concise explanation in about 200 Chinese characters.

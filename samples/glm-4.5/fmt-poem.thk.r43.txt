@@ -1,0 +1,62 @@
+The user wants a four-line poem (四句诗) about an autumn night (秋夜) theme, and asks not to explain (不要解释).
+
+I should write a classical Chinese poem, probably in the style of 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain). Let me compose one about autumn night.
+
+Let me think about imagery for autumn night: moon, frost, osmanthus (桂花), crickets (蟋蟀/蛩), falling leaves, cold dew, wind, stars, etc.
+
+Let me try a 七言绝句:
+
+秋夜
+银汉迢迢桂影斜，
+寒蛩声里落梧桐。
+一帘霜月侵衣冷，
+独对西风忆故家。
+
+Hmm, let me check the rhyme. 斜 (xié/xiá), 桐 (tóng), 家 (jiā) - the rhyme doesn't work well. In classical Chinese poetry, lines 2 and 4 should rhyme (and sometimes line 1).
+
+Let me try again:
+
+月冷梧桐叶半黄，
+蛩声细细透纱窗。
+一夜西风凉似水，
+满庭霜色桂初香。
+
+Check rhyme: 黄 (huáng), 窗 (chuāng), 香 (xiāng) - all in the "ang" rhyme family. Good.
+
+Line 1: 月冷梧桐叶半黄 - The moon is cold, wutong leaves half yellow
+Line 2: 蛩声细细透纱窗 - Cricket sounds faintly pass through the gauze window
+Line 3: 一夜西风凉似水 - All night the west wind is cool as water
+Line 4: 满庭霜色桂初香 - The courtyard full of frost color, osmanthus begins to fragrant
+
+Wait, 霜色 and 桂初香 - frost and fragrance together. Actually 满庭霜月 might be better (frosty moonlight filling the courtyard). Let me refine:
+
+月冷梧桐叶半黄，
+蛩声细细透纱窗。
+西风一夜凉如水，
+满院秋光桂子香。
+
+桂子香 - osmanthus fragrance. 秋光 - autumn light/scenery.
+
+Check: 黄, 窗, 香 rhyme. 
+
+Line 3: 西风一夜凉如水 - West wind all night, cool as water. This echoes the classic 一枕新凉一扇风 or 天阶夜色凉如水.
+
+Actually "凉如水" comes from 杜牧's 秋夕: "天阶夜色凉如水，卧看牵牛织女星."
+
+Final version:
+
+月冷梧桐叶半黄，
+蛩声细细透纱窗。
+西风一夜凉如水，
+满院秋声桂子香。
+
+Hmm, 秋声 vs 秋光 - since it's night, 秋光 could be moonlight. But 秋声 with 蛩声 might repeat 声. Let me use 满院清辉桂子香 - the courtyard filled with clear moonlight and osmanthus fragrance.
+
+月冷梧桐叶半黄，
+蛩声细细透纱窗。
+西风一夜凉如水，
+满院清辉桂子香。
+
+That works well. 清辉 = clear moonlight.
+
+The user said no explanation, so I'll just give the poem, maybe with a title.

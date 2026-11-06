@@ -1,0 +1,64 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and talk about autumn health preservation (养生) in just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation, using authentic TCM concepts:
+
+Key TCM concepts about autumn (秋季养生):
+1. 秋燥 (Autumn dryness) - Autumn is associated with dryness, which can harm the lungs (肺)
+2. 肺主秋 - The lungs correspond to autumn season
+3. 滋阴润肺 - Nourishing yin and moistening the lungs
+4. Foods: 梨 (pears), 百合 (lily bulbs), 银耳 (white fungus/wood ear), 蜂蜜 (honey), 莲藕 (lotus root), 芝麻 (sesame)
+5. 秋冻 (autumn freezing) - the practice of not adding clothes too quickly to build cold resistance
+6. 早卧早起 - The 黄帝内经 (Yellow Emperor's Inner Canon) says in autumn one should sleep early and rise early
+7. 悲秋 - autumn is associated with melancholy/grief in TCM, so emotional regulation matters
+8. 收敛 - Autumn is about gathering/conserving energy, corresponding to 收 (harvest/collect)
+9. 少辛增酸 - reduce spicy foods, increase sour foods
+
+The persona: 老中医 (old TCM doctor) - should speak with:
+- A somewhat classical, measured tone
+- Perhaps some classical Chinese phrases or quotes from classics like 黄帝内经
+- Warm, caring, like an experienced elder
+- Maybe starting with phrases like "老朽" (humble self-reference), "依老朽之见", "老夫" etc.
+- Reference to nature's rhythms (顺应天时)
+
+The request says 两三句即可 (just two or three sentences), so I should keep it concise but flavorful.
+
+Let me draft something:
+
+Draft 1:
+"老朽行医五十载，最知秋气之要。秋主燥，燥易伤肺，当多食梨、百合、银耳之类，以润其燥；起居宜早卧早起，与鸡俱兴，衣添勿急，所谓'春捂秋冻'也。再者，秋在志为悲，心绪宜静宜收，勿使神气外泄，方合天道。"
+
+That's good but maybe slightly long. Let me refine.
+
+Draft 2:
+"秋气主燥，最易伤肺，老朽劝你多食些梨、百合、银耳，以滋阴润燥。起居上，当早卧早起，添衣莫急，所谓'春捂秋冻'是也。再者秋易生悲绪，心境宜收敛安宁，如此方顺应天时，养护元气。"
+
+Hmm, this is nice. Three sentences covering diet, lifestyle, and emotion - the three pillars of TCM seasonal health.
+
+Let me make it sound more like an authentic old doctor speaking - maybe with a touch of classical flavor:
+
+Draft 3:
+"老朽从医数十载，深知秋燥伤肺之理。眼下时节，当多食梨、百合、蜂蜜之属，以润燥养阴；起居宜早卧早起，添衣勿急，'春捂秋冻'方合养生之道。再则秋气肃杀，人易悲忧，心神务须收敛安宁，如此顺应天时，自可安然入冬。"
+
+This is three sentences, covers:
+1. Diet (moistening foods for dryness)
+2. Lifestyle (early sleep, gradual clothing - spring cover autumn freeze)
+3. Emotion (calming the mind, autumn melancholy)
+
+The tone is appropriate for an old TCM doctor. I could add a classic quote from 黄帝内经 for authenticity. The 内经 says about autumn: "秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴，使志安宁，以缓秋刑，收敛神气..."
+
+Maybe: "《内经》有云，秋三月宜'使志安宁，收敛神气'" - this would add authenticity.
+
+Let me finalize:
+
+"老朽从医数十载，深知秋燥最易伤肺。你且记着：多食梨、百合、银耳、蜂蜜之属以润燥，少食辛辣；起居宜早卧早起，添衣莫急，所谓'春捂秋冻'，正是此理。《内经》云'使志安宁，收敛神气'，秋主肃杀，人易悲忧，心绪平和最是要紧。"
+
+Hmm, that's getting a bit long for "两三句". Let me trim:
+
+Final version:
+"老朽从医数十载，深知秋燥最易伤肺。平日多食些梨、百合、银耳、蜂蜜，以润燥养阴，辛辣之物当少沾；起居则早卧早起，添衣莫急，所谓'春捂秋冻'是也。再者，《内经》有言'收敛神气，使秋气平'，秋易生悲，心绪安宁方是根本。"
+
+That's about three sentences. Good length, authentic voice, covers the key TCM concepts.
+
+Should I use markdown? This is a conversational roleplay request - flowing prose is appropriate, no headers or bullets needed. Just natural speech.
+
+Format: Plain conversational text, 2-3 sentences as requested, in Chinese.

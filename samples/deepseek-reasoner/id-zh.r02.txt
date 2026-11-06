@@ -1,0 +1,2 @@
+我是 **DeepSeek**，由 **深度求索（DeepSeek）公司** 开发。  
+当前通过 API 使用的模型名称通常标识为 **`deepseek-chat`**，属于 **DeepSeek 系列模型**。

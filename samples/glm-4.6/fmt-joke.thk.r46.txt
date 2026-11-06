@@ -1,0 +1,25 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a lighthearted, simple request. Let me think of some good programmer jokes.
+
+Classic programmer jokes in Chinese:
+
+1. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+
+2. 一个程序员去面试，面试官问："你有什么优点？" 程序员说："我写的代码没有bug。" 面试官："那缺点呢？" 程序员："说谎。"
+
+3. 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。
+
+4. 世界上有10种人，一种懂二进制，一种不懂。
+
+5. 一个程序员的老婆让他去买东西："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。老婆问他为什么只买一个包子，他说："因为我看到了卖西瓜的。"
+
+The last one is a classic and quite funny - it plays on the conditional logic interpretation. Let me pick one or two good ones.
+
+The Oct 31 == Dec 25 one is clever (Octal 31 = 3×8+1 = 25 in decimal = Dec 25).
+
+The wife/baozi one is a classic cold joke that works well in Chinese.
+
+Let me tell one good joke, maybe with a brief explanation if needed. Since it's a "冷笑话" (cold joke/dad joke), the format should be casual and fun.
+
+I'll go with the baozi one as the main joke since it's the most classic "冷笑话" style, or maybe the Oct 31 one. Actually, let me tell one with good delivery.
+
+Format: Should be conversational, in Chinese, relatively short. Maybe tell one joke with good setup and delivery, possibly add a brief punchline explanation if the joke needs it. I could offer to tell more.

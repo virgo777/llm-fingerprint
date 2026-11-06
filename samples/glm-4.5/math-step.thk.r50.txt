@@ -1,0 +1,16 @@
+The user is asking to calculate 17×23+45÷9 with a complete process, in Chinese.
+
+Let me solve this step by step:
+
+17×23 = 391
+Let me verify: 17×23 = 17×20 + 17×3 = 340 + 51 = 391 ✓
+
+45÷9 = 5
+
+391 + 5 = 396
+
+So the answer is 396.
+
+Following order of operations: multiplication and division first, then addition.
+
+Let me write this out in Chinese with a complete process.

@@ -1,0 +1,55 @@
+The user is asking in Chinese about drinking water precautions in daily life, using three points. This is a simple informational request about health and hydration habits.
+
+Let me think about what the most important considerations for daily water drinking would be:
+
+1. **水温** - Water temperature matters. Avoid drinking ice-cold water (which can irritate the stomach/digestive system) and overly hot water (can damage esophagus). Warm or room temperature water is generally recommended.
+
+2. **饮水时机/方式** - Don't wait until thirsty to drink. Thirst is a sign of mild dehydration. Also, drink small amounts frequently rather than gulping large amounts at once. Don't drink too much water before bed or during meals (can affect digestion).
+
+3. **饮水量** - About 1500-2000ml per day for adults, adjust based on activity level, weather, etc.
+
+4. **不要用饮料代替白水** - Sugary drinks, sodas etc. shouldn't replace plain water.
+
+5. **早晨起床后喝水** - Good habit to drink water after waking up.
+
+6. **运动后不要猛灌水** - After exercise, drink slowly and in small amounts.
+
+7. **不喝生水/隔夜水注意事项** - Don't drink untreated water.
+
+8. **特殊人群注意事项** - People with kidney disease, heart failure need to limit water.
+
+The user asked for THREE points (三点), so I need to select the three most important and practical ones. Let me pick:
+
+1. **主动饮水，不要等口渴才喝** (Drink proactively, don't wait until thirsty) - plus maybe drinking small amounts frequently
+2. **水温适宜，避免过烫或过冰** (Appropriate water temperature)
+3. **控制水量/时机** (Amount and timing - don't drink too much at once, limit before bed)
+
+Or I could combine differently:
+1. 饮水量 - enough but not excessive
+2. 饮水时机 - spread throughout day, don't wait for thirst, limit before bed
+3. 水温选择 - warm/room temp
+
+Another option includes: 白开水为佳，少喝含糖饮料
+
+Let me structure the three points well:
+
+**1. 主动补水，少量多次**
+- Don't wait until you're thirsty (thirst = mild dehydration already)
+- Drink small amounts multiple times a day rather than gulping large amounts at once
+- 1500-1700ml (Chinese dietary guidelines say 1500-1700ml for adults, per 中国居民膳食指南: 男1700ml，女1500ml)
+
+**2. 水温适宜，首选白开水**
+- Warm water (around 20-40°C) is gentlest on stomach
+- Avoid ice-cold water which irritates GI tract
+- Avoid water hotter than 65°C (WHO - esophageal cancer risk)
+- Plain boiled water preferred over sugary drinks
+
+**3. 特殊时段注意饮水方式和量**
+- Morning: drink a glass of water after waking
+- Before meals: not too much (affects digestion)
+- Before bed: not too much (affects sleep, nighttime urination)
+- After exercise: drink slowly, small sips
+
+This gives good coverage. Format should be in Chinese since the question is in Chinese. Use a numbered list with headers and brief explanations. Medium length - not too long, clear and practical. Maybe add a brief closing note about special populations (kidney/heart disease patients) - though that might make it longer than needed. A short one-line note could be helpful.
+
+Format: Three numbered points with bold headers, each with 2-3 short bullet points or sentences. Keep it concise and scannable.

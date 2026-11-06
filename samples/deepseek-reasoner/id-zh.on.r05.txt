@@ -1,0 +1,2 @@
+我是 **DeepSeek**，由 **深度求索（DeepSeek）公司** 开发。  
+模型名称：**DeepSeek**（当前为 DeepSeek 最新版模型）。

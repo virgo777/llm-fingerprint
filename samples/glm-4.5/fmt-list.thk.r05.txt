@@ -1,0 +1,27 @@
+The user is asking in Chinese: "Use three points to explain the precautions for daily water drinking."
+
+This is a simple health/lifestyle question asking me to explain things to pay attention to when drinking water daily, using three points.
+
+Let me think about what are the most important points about daily water drinking:
+
+1. **适量饮水，不要等到口渴才喝** - Drink appropriate amounts, don't wait until you're thirsty. The body needs consistent hydration. Generally 1500-2000ml per day for adults. Thirst is already a sign of mild dehydration.
+
+2. **水温适宜，避免过烫或过冰** - Water temperature should be appropriate. Very hot water (above 65°C) can damage the esophagus and increase cancer risk. Ice-cold water can irritate the stomach.
+
+3. **少量多次饮水** - Drink small amounts frequently rather than gulping large amounts at once. Drinking too much water at once can burden the kidneys and dilute electrolytes.
+
+4. **晨起一杯温水** - A glass of warm water in the morning helps.
+
+5. **睡前不宜大量饮水** - Don't drink too much before bed to avoid nocturia.
+
+6. **不要用饮料代替白开水** - Don't replace plain water with sugary drinks.
+
+The question asks for exactly three points, so I should pick the three most important ones. Let me structure this nicely:
+
+1. 适量饮水，主动喝水 - Drink appropriate amounts, drink proactively (not waiting for thirst), about 1500-1700ml daily
+2. 水温适宜 - Appropriate water temperature (warm, not too hot or too cold)
+3. 少量多次 - Small amounts, multiple times (don't chug large amounts at once)
+
+These are probably the three most commonly cited and important points. I could also mention avoiding using beverages as substitutes, but the question asks for three points specifically.
+
+Format considerations: The question asks for three points, so a numbered list with three items is the natural format. Each point should have a brief heading/title and a short explanation. The response should be in Chinese since the question is in Chinese. Medium length - not too long, just clear and informative. I could use bold for the point titles to make it scannable.

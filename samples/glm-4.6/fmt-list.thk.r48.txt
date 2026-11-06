@@ -1,0 +1,43 @@
+The user is asking in Chinese for three points about things to pay attention to when drinking water daily. This is a simple informational request about health/wellness habits.
+
+Let me think about what are the most important points about daily water drinking habits:
+
+1. Don't wait until you're thirsty to drink - drink regularly throughout the day. Thirst is already a sign of mild dehydration.
+
+2. Drink water in small amounts multiple times rather than large amounts at once - drinking too much water at once can burden the kidneys and dilute electrolytes.
+
+3. Water temperature matters - avoid drinking very cold or very hot water; lukewarm/room temperature or warm water is gentler on the stomach.
+
+4. Don't drink too much water before bed - can cause nighttime urination and affect sleep, may cause edema.
+
+5. Morning water on empty stomach is beneficial - helps with hydration after sleep.
+
+6. Don't replace water with beverages - sugary drinks, coffee, tea don't count the same way.
+
+7. Amount - about 1500-2000ml (7-8 cups) per day for adults.
+
+The user asked for exactly three points ("三点说明"), so I should pick the three most important/practical ones.
+
+Good candidates for the top 3:
+1. 主动喝水，不要等渴了才喝 (Drink proactively, don't wait until thirsty)
+2. 少量多次，不要一次猛灌 (Small amounts frequently, don't chug large amounts at once)
+3. 水温适宜，避免过冷过热 (Appropriate water temperature, avoid too cold or too hot)
+
+Or I could include:
+- 睡前不宜大量喝水
+- 早晨空腹喝一杯温水
+- 每日饮水量充足 (1500-2000ml)
+
+Let me structure a good answer with exactly three points as requested. The format should probably be a numbered list with brief explanations for each point. Since the user asked in Chinese, I should respond in Chinese.
+
+Format considerations: The user explicitly asked for three points, so a numbered list with 3 items is appropriate. Each point should have a clear heading/bold text and a brief explanation. Keep it concise but informative - maybe 2-3 sentences per point. Not too long overall.
+
+Let me draft:
+
+1. **不要等口渴才喝水** - 口渴时身体已经处于轻度缺水状态，应养成定时主动饮水的习惯，少量多次地补水。
+
+2. **注意饮水温度** - 过烫的水（超过65℃）可能损伤食道黏膜，增加食管癌风险；过冰的水则刺激肠胃。温水（20-40℃左右）最适宜。
+
+3. **控制饮水节奏和总量** - 一次不要猛灌太多水，以免加重心脏和肾脏负担，甚至引起"水中毒"；成年人每天总饮水量约1500-2000毫升，可分多次饮用。睡前不宜大量喝水，以免影响睡眠。
+
+That covers the three points well. Maybe I can add a brief intro line. Keep it clean and helpful.

@@ -1,0 +1,1 @@
+我是 DeepSeek 最新版模型，由深度求索（DeepSeek）公司开发。模型名称是 **DeepSeek**（具体版本号建议以官方发布信息为准）。我支持阅读链接、文件上传（图像、txt、pdf、ppt、word、excel）、联网搜索（需手动开启）、超长上下文（1M tokens），并且完全免费使用。

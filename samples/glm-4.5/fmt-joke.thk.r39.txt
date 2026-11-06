@@ -1,0 +1,28 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a simple, lighthearted request. Let me think of some good programmer jokes in Chinese.
+
+Classic programmer jokes:
+1. Why do programmers confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+2. A programmer's wife asks him to buy groceries: "Go buy a bag of rice, and if you see a watermelon, buy one." He comes back with one bag of rice and one watermelon. Why? Because he saw a watermelon.
+3. 世界上有10种人，一种懂二进制，一种不懂。
+4. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+5. Why programmers don't have girlfriends / bugs jokes
+
+Let me craft a good one. The watermelon joke is a classic Chinese programmer joke that translates well:
+
+老婆给程序员老公打电话："下班顺路买一斤包子带回来，如果看到卖西瓜的，买一个。"
+程序员老公回到家，手里拿着一个包子。
+老婆问："你怎么就买了一个包子？"
+老公答："因为我看到卖西瓜的了。"
+
+This is a great one because it plays on the conditional logic interpretation - "买一个" refers back to the nearest noun (watermelon) rather than the buns.
+
+Another good one:
+
+妻子对程序员说："去超市买几个苹果，如果看到有鸡蛋，就买一打。"
+程序员回来时手里拿着一打苹果。
+妻子："你为什么买一打苹果？"
+程序员："因为我看到鸡蛋了。"
+
+I'll go with the watermelon/baozi version as it's a classic. I could also add the binary joke as a bonus.
+
+Format: Should be conversational, fun, with the joke told clearly. Maybe add a brief explanation or offer to tell another. Keep it light and in Chinese since the question is in Chinese. Not too long - a joke setup and punchline, maybe with a small note. Could use emoji sparingly or not at all. I'll tell one main joke and maybe offer more.

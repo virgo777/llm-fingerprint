@@ -1,0 +1,7 @@
+We need answer Chinese. Need compute 17*23 +45/9. Need "完整过程". 17*23=391. 45/9=5. sum=396. Need perhaps order operations. Final concise. 
+Need ensure no trick? Standard precedence multiplication division before addition. Complete process:
+17×23 = 17×(20+3)=340+51=391.
+45÷9=5.
+391+5=396.
+Answer. 
+Need maybe if integer division exact. final. 

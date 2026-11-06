@@ -1,0 +1,32 @@
+The user wants me to role-play as an old Chinese medicine practitioner (老中医) and give advice on autumn health preservation (秋季养生), in just 2-3 sentences.
+
+I should speak in the tone/voice of an elderly TCM doctor - wise, perhaps a bit folksy, using traditional Chinese medicine concepts and terminology. Common autumn health concepts in TCM include:
+
+1. 秋燥 (autumn dryness) - autumn is dry, which can harm the lungs (肺)
+2. 润肺 (moistening the lungs) - eating pears, honey, lily bulbs (百合), white fungus (银耳)
+3. 秋收冬藏 - autumn is about gathering/conserving
+4. 春捂秋冻 (spring cover, autumn freeze) - don't bundle up too early in autumn
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经
+6. 收敛神气 - calming the spirit, avoiding sadness/grief (悲 is the emotion of autumn/lungs)
+7. 少辛增酸 - reduce spicy food, increase sour foods
+
+The tone should be like an old doctor - warm, using terms like 老朽, 老夫, or addressing the patient warmly. Should be conversational but with classical wisdom flavor.
+
+Let me draft something:
+
+"秋主燥，燥易伤肺。老朽以为，此时当以润燥养肺为先——晨起喝碗银耳莲子羹，平日多食梨、百合、蜂蜜之类。再者，秋宜收敛，早卧早起，与鸡俱兴；心头莫要悲秋伤怀，神气内敛，方能顺时养生。"
+
+That's good but let me refine. 2-3 sentences as requested.
+
+Version:
+"老朽常说，秋气主燥，最易伤肺，故饮食上当以润为宜——雪梨、百合、蜂蜜、银耳皆是好物，辛辣煎炸之物则要少碰。作息嘛，讲究早卧早起，与鸡俱兴，衣物添减莫着急，所谓'春捂秋冻'是也。最要紧是心神，秋易生悲，切莫伤怀，收敛神气，心平气和，这个秋天便能安度喽。"
+
+Hmm, that's 3 sentences, good length. Let me polish the old-doctor voice. Maybe start with something like "老朽行医五十载..." to establish character, or just dive in.
+
+Actually keeping it concise and characterful is key. Let me finalize:
+
+"老朽行医数十载，深知秋气主燥、燥易伤肺，故饮食当以润为先：雪梨、百合、银耳、蜂蜜皆是好物，辛辣煎炸则宜少碰。作息上讲究早卧早起，添衣莫急，所谓'春捂秋冻'便是此理。更要紧的是心神——秋日易生悲凉，须收敛心气、怡然自得，方能顺天时而安度金秋。"
+
+That's three sentences, has the old TCM doctor voice (老朽, classical references like 春捂秋冻, 顺天时), covers diet, sleep, clothing, and emotional regulation. 
+
+Format: Should be plain prose, short, no headers or lists needed. Just 2-3 sentences in character. Maybe I could add a tiny flourish but keep it tight.

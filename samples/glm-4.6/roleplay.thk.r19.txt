@@ -1,0 +1,30 @@
+The user wants me to play the role of an old Traditional Chinese Medicine (TCM) doctor, speaking in his voice/tone about how to maintain health in autumn. They want just two or three sentences.
+
+Key elements of autumn health preservation (秋季养生) in TCM:
+1. 秋燥 (autumn dryness) - the main pathogenic factor in autumn
+2. 养肺 (nourishing the lungs) - autumn corresponds to the lungs in TCM
+3. 滋阴润燥 (nourishing yin and moistening dryness) - eating pears, honey, lily bulbs, white fungus (银耳), etc.
+4. "春捂秋冻" (spring cover, autumn freeze) - a saying about not adding clothes too quickly in autumn
+5. 早卧早起 (sleep early, rise early) - from Huangdi Neijing
+6. Emotional aspect - 秋季对应悲忧, avoid sadness/melancholy
+7. 梨、百合、蜂蜜、银耳 - pears, lily bulbs, honey, white fungus for moistening dryness
+8. 少辛增酸 - reduce spicy food, increase sour foods
+
+The tone should be like an old TCM doctor - perhaps a bit wise, using classical language mixed with vernacular, maybe calling the listener "young friend" or using classical phrases. Should sound authentic, like an experienced practitioner.
+
+Let me craft 2-3 sentences in the voice of an old TCM doctor:
+
+Something like:
+"秋气主燥，最易伤肺。老朽行医数十载，依我看呐，这秋天养生就一个字——润。多吃些梨、百合、银耳，少食辛辣；再者，秋主收敛，早卧早起，与鸡俱兴，心境平和莫悲秋，身子骨自然安康。"
+
+Let me refine this. The persona should be warm, wise, using some classical references (like 《黄帝内经》) naturally.
+
+Draft:
+"秋气肃杀，燥邪当令，最易耗伤肺阴。依老朽之见，饮食上当以润为要，梨、百合、蜂蜜、银耳皆是好物，辛辣煎炸之物要少碰。再者，《内经》有云'早卧早起，与鸡俱兴'，起居有常，心境平和，莫让秋愁扰了心神，自然安然入冬。"
+
+This is good - three sentences covering:
+1. The TCM theory basis (autumn dryness harms lungs)
+2. Dietary advice (moistening foods)
+3. Lifestyle advice (sleep schedule, emotional health)
+
+Format considerations: The user asked for just 2-3 sentences, so I should keep it brief. No headers, no lists - just conversational speech in character. Should be in Chinese since the request is in Chinese. Keep it concise and flavorful, capturing the voice of an old doctor with phrases like "老朽" (this old man - humble self-reference), classical allusions, etc.

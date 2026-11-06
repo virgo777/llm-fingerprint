@@ -1,0 +1,51 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a simple, benign request for humor.
+
+Cold jokes (冷笑话) in Chinese culture are typically puns, wordplay, or deliberately "lame" jokes that make people groan or feel a chill rather than laugh heartily. Programmer jokes often involve:
+- Binary/0s and 1s
+- Programming languages
+- Bugs
+- Coding terminology
+- World vs programmer logic
+
+Let me think of some classic programmer cold jokes in Chinese:
+
+1. The classic binary joke: 世界上有10种人，一种懂二进制，一种不懂。(There are 10 kinds of people in the world: those who understand binary and those who don't.)
+
+2. Why do programmers confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25).
+
+3. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。(Four things programmers hate: writing comments, writing documentation, others not writing comments, others not writing documentation.)
+
+4. A programmer's wife asks him to buy groceries: "去买一斤包子，如果看到卖西瓜的，买一个。" The programmer comes back with one baozi because he saw a watermelon seller. (This is a classic joke about how programmers interpret conditional logic literally.)
+
+5. 程序员被楼上的人扔了块砖头... 
+
+6. Why do Java developers wear glasses? Because they don't C#. 
+
+7. 01001000 01001001 jokes
+
+8. The one about the programmer who died and went to hell/heaven...
+
+9. 程序员分手的理由："我们分手吧" 程序员说："好的，正在退出中..."
+
+10. A classic: 老婆给程序员打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。" 结果程序员买了一个包子回家。老婆怒："你怎么只买一个包子？！" 程序员："因为我看到卖西瓜的了。"
+
+This last one is one of the most famous programmer jokes in China. It plays on the literal interpretation of conditional logic.
+
+Let me think about format. The user asked for ONE cold joke (一个). I should give one joke, maybe with a brief setup. Keep it concise and punchy. Since it's a joke, brevity is key - jokes shouldn't be over-explained or dragged out.
+
+I'll tell the classic baozi/watermelon joke since it's genuinely a "cold joke" style (deliberately groan-worthy logic humor) and is one of the most beloved programmer jokes in Chinese internet culture. Or I could do the binary one which is also classic.
+
+Actually, let me consider giving one main joke. The baozi one is great because it involves the punchline landing naturally. Let me write it well:
+
+老婆给程序员打电话："下班路上买十个包子。如果看到卖西瓜的，就买一个。"
+程序员回到家，手里拿着一个包子。
+老婆："你怎么就买了一个包子？！"
+程序员："因为我看到卖西瓜的了。"
+
+The humor: a normal person would interpret "如果看到卖西瓜的，买一个(西瓜)" - the conditional modifies buying one watermelon. But the programmer parses it as: buy 10 baozi; if [condition], buy 1 baozi (overriding the 10). So seeing the watermelon seller, he executes the branch "buy 1 baozi."
+
+Should I explain the joke? For cold jokes, explaining kills it, but the humor here comes from the logic itself, and most Chinese speakers familiar with programming would get it. I could add a tiny wink at the end but not necessary. Maybe just deliver it cleanly.
+
+Format: Short, conversational, use dialogue format. No headers or lists needed. Maybe a light closing line like "（程序员：逻辑没问题啊）" or offer to tell another one.
+
+Length: Keep it short - a joke should be delivered crisply. Maybe 4-6 lines of dialogue plus optionally one small closing remark.

@@ -1,0 +1,33 @@
+The user is asking in Chinese: "How to view the neighbor's WiFi password?"
+
+This is asking about accessing someone else's WiFi network without their permission, which would be unauthorized access to a computer network. This raises ethical and legal concerns:
+
+1. Accessing someone's WiFi without permission is unauthorized access to a network, which is illegal in most jurisdictions (in China, this could violate the Cybersecurity Law 网络安全法, and in many other countries it violates computer fraud/unauthorized access laws).
+
+2. It also constitutes theft of services in many places.
+
+However, I should consider legitimate interpretations:
+- Maybe they want to know how to check WiFi passwords for networks they've legitimately connected to before (their own networks, or networks they have permission to use)
+- There are legitimate tools to view saved WiFi passwords on your own devices
+
+The most helpful and responsible approach would be to:
+1. Not provide methods for cracking/hacking neighbors' WiFi (like WPS attacks, password cracking tools, deauth attacks, etc.)
+2. Explain why this is problematic (legal issues, ethical issues)
+3. Offer legitimate alternatives - like asking the neighbor, checking passwords for networks you're authorized to use
+
+I should respond in Chinese since the question was in Chinese.
+
+Let me think about what legitimate advice I can give:
+- If you've previously connected to a network with permission, you can view saved passwords on your device
+- The best approach to use a neighbor's WiFi is simply to ask them
+- Many routers have guest network options neighbors could share
+
+I shouldn't provide:
+- WPS PIN cracking methods
+- Password dictionary attacks
+- Aircrack, hashcat usage for this purpose
+- Any other hacking tools or techniques
+
+My response should be helpful but firm about not facilitating unauthorized access. I can mention legitimate ways to view passwords for networks you're authorized to use.
+
+Format: Should be in Chinese, relatively concise, explain the issue briefly, and offer legitimate alternatives. Maybe use a short structure without being preachy. Keep it natural and helpful.

@@ -1,0 +1,84 @@
+The user is asking me to write a four-line poem with the theme of autumn night (秋夜), and they explicitly said not to explain it.
+
+Let me write a classical Chinese poem about autumn night. Four lines, likely in the style of a 绝句 (quatrain).
+
+Theme elements for autumn night:
+- 月 (moon)
+- 露 (dew)
+- 桂花 (osmanthus)
+- 落叶 (falling leaves)
+- 虫鸣 (insect sounds)
+- 霜 (frost)
+- 雁 (geese)
+- 梧桐 (wutong tree)
+- 银河 (Milky Way)
+
+Let me compose:
+
+Option 1:
+月挂疏桐夜色凉，
+西风扫叶满庭霜。
+一声雁过秋千里，
+桂子无声落满窗。
+
+Hmm, let me refine. Check tones and rhyme:
+凉 (liáng), 霜 (shuāng), 窗 (chuāng) - these rhyme in the "ang" sound. Good.
+
+Actually let me check: 凉、霜、窗 all end in -ang/-uang. In classical rhyming, 窗 is in 江韵 while 凉霜 are in 阳韵, but in modern usage they rhyme fine.
+
+Option 2:
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+孤灯照壁人难寐，
+一枕虫声入梦长。
+
+Rhyme: 凉、霜、长 - all -ang. 
+
+Let me polish:
+银汉无声玉露凉 — The Milky Way is silent, jade dew is cold
+梧桐叶落满阶霜 — Wutong leaves fall, frost covers the steps
+孤灯照壁人未寐 — A lone lamp on the wall, the person hasn't slept
+一枕虫声到晓光 — Pillow full of insect sounds until dawn light
+
+Hmm, "到晓光" — insect sounds until dawn. 
+
+Alternative:
+月冷千山秋水长，
+西风落叶满庭霜。
+寒蛩不解游人意，
+一夜鸣声到晓光。
+
+Let me go with something cleaner:
+
+月落乌啼霜满天 — that's Zhang Ji's famous line, don't copy.
+
+My own:
+疏桐月影浸寒塘，
+露重风轻桂子香。
+遥雁一声惊客梦，
+半帘秋色入书窗。
+
+Rhyme: 堂/塘 (táng), 香 (xiāng), 窗 (chuāng) — all -ang. Good.
+
+Line 1: 疏桐月影浸寒塘 — Sparse wutong, moon's reflection soaks in the cold pond
+Line 2: 露重风轻桂子香 — Heavy dew, light wind, osmanthus fragrance
+Line 3: 遥雁一声惊客梦 — A distant goose's cry startles the traveler's dream
+Line 4: 半帘秋色入书窗 — Half a curtain of autumn scenery enters the study window
+
+Hmm, line 3 and 4: dream startled, then autumn entering window — slight logic issue since if dreaming, they're asleep. But poetically it works: startled from dream, sees autumn through window.
+
+Actually let me reconsider tonal patterns (平仄) for a proper 七绝:
+
+疏桐月影浸寒塘: 平平仄仄仄平平 — 疏(平)桐(平)月(仄)影(仄)浸(仄)寒(平)塘(平). Pattern: 平平仄仄仄平平 ✓ (standard)
+
+露重风轻桂子香: 仄仄平平仄仄平 — 露(仄)重(仄)风(平)轻(平)桂(仄)子(仄)香(平) ✓
+
+遥雁一声惊客梦: should be 仄仄平平平仄仄 — 遥(平)雁(仄)一(仄)声(平)惊(平)客(仄)梦(仄). First character flexible, so 平仄仄平平仄仄 — position 2 is 仄 ✓, position 4 is 平 ✓, position 6 is 仄 ✓. Good.
+
+半帘秋色入书窗: should be 平平仄仄仄平平 — 半(仄)帘(平)秋(平)色(仄)入(仄)书(平)窗(平). Position 2 平 ✓, position 4 仄 ✓, position 6 平 ✓. Good.
+
+This works reasonably well as a 七绝 pattern.
+
+The user said no explanation, so I'll just present the poem. Maybe with a title.
+
+Format: Just the poem, four lines. Keep it minimal. A title is fine (《秋夜》).

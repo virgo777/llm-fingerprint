@@ -1,0 +1,29 @@
+The user is asking for a "cold joke" (冷笑话) about programmers in Chinese. This is a simple, benign request for humor. Let me think of some good programmer jokes that work well in Chinese.
+
+Classic programmer jokes in Chinese context:
+
+1. The binary joke: 世界上有10种人，一种懂二进制，一种不懂。(There are 10 types of people in the world: those who understand binary and those who don't.)
+
+2. The wife/milk joke: 程序员去买东西，老婆说：买一斤包子，如果看到卖西瓜的，买一个。程序员回来买了一个包子。老婆问为什么，他说：因为看到了卖西瓜的。(Programmer goes shopping, wife says: buy a jin of baozi, and if you see someone selling watermelons, buy one. Programmer comes back with one baozi. Wife asks why, he says: because I saw someone selling watermelons.)
+
+3. The debug joke: 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25 (八进制31等于十进制25)
+
+4. The naming joke: 计算机科学中最难的两件事：缓存失效和命名。
+
+5. The bug joke: 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释。
+
+6. The lightbulb joke: 要多少个程序员才能换一个灯泡？不需要，这是硬件问题。(How many programmers does it take to change a lightbulb? None, it's a hardware problem.)
+
+7. The 996 / bug jokes.
+
+8. 程序员的三大美德：懒惰、急躁、傲慢
+
+Let me pick one or two good ones and present them nicely. The "buy baozi" one is a classic cold joke that works well in Chinese. The Oct 31 == Dec 25 one is clever but requires more explanation.
+
+I could tell one joke with a brief setup, maybe offer a bonus. Keep it light and fun. The format should be casual, conversational. Maybe use a short setup and punchline format.
+
+Let me go with the classic baozi joke as the main one, since it's a genuine 冷笑话 that's widely loved. Or maybe the 10种人 binary joke. Actually let me do one main joke and maybe offer another.
+
+The response should be in Chinese since the user wrote in Chinese. Keep it short and punchy - jokes shouldn't be over-explained. Maybe add a tiny explanation if the joke needs it, or just deliver it cleanly.
+
+Format: Short, conversational. Maybe one joke with proper delivery. Could add a second one as a bonus. No need for headers or lists necessarily, though for jokes a light structure could work.

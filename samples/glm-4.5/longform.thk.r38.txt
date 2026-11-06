@@ -1,0 +1,39 @@
+The user is asking about "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM), requesting a detailed introduction of about 400 characters (in Chinese).
+
+Let me think about what I know about this concept:
+
+四诊合参  refers to the comprehensive analysis of the four diagnostic methods in TCM:
+1. 望诊  - Inspection/Observation - observing the patient's spirit (神), color (色), form (形), posture (态), tongue (舌), etc.
+2. 闻诊  - Listening and Smelling - listening to voice, breathing, and smelling odors
+3. 问诊  - Inquiry - asking about symptoms, medical history, lifestyle, etc.
+4. 切诊  - Pulse-taking and Palpation - feeling the pulse and palpating the body
+
+The concept of 合参 means combining/synthesizing these four methods together rather than relying on just one. This is a fundamental principle in TCM diagnosis.
+
+Key points to cover:
+- The four diagnostic methods and what each involves
+- Why they must be combined (合参)
+- The origin/history - this concept dates back to classic texts like 《黄帝内经》 and was emphasized by 扁鹊, and the term "四诊" was later systematized
+- The principle: 不能偏废 - none of them can be neglected
+- The famous saying from 《难经》: "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"
+- Modern application
+
+Let me draft this in Chinese, aiming for about 400 characters:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊察方法收集病情资料，并将所得信息综合分析、互相参照，从而全面准确地判断疾病。
+
+一、望诊：观察病人的神、色、形、态及舌象等，其中望舌与望神尤为重要，可初步判断正气盛衰与病邪性质。
+
+二、闻诊：包括听声音（语声、呼吸、咳嗽等）和嗅气味，以判断病情的寒热虚实。
+
+三、问诊：询问病人的自觉症状、起病经过、既往史、生活习惯等，是了解病情的重要途径。
+
+四、切诊：包括脉诊和按诊，通过触按脉搏与身体相关部位，探察脏腑气血的变化。
+
+四诊合参强调"四诊并重、不可偏废"。因为任何单一诊法都有局限性，只有将四诊所获资料互相印证、综合分析，去伪存真，才能得出正确的辨证结论，为治疗提供依据。若单纯依赖某一诊法（如只凭脉诊断病），易致误诊。这一原则体现了中医整体观念，自《黄帝内经》以来历代医家均十分重视，至今仍是中医临床辨证论治的核心方法。
+
+Let me count roughly - this is around 400+ characters. Let me refine it to be around 400 characters.
+
+Actually, the request is for 400字左右 (around 400 characters), so I should aim for approximately 400 Chinese characters. My draft looks good. Let me format it nicely.
+
+Format considerations: The user wants a detailed introduction of ~400 characters. Using a structured format with the four methods listed would be helpful and clear. I'll use a brief intro, then the four methods, then the significance of 合参. Headers might be too heavy for 400 characters; I could use simple numbered points or flowing paragraphs. Given it's an educational explanation, a light structure with the four methods clearly delineated would work well.

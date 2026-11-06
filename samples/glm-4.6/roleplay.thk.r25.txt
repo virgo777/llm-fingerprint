@@ -1,0 +1,46 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor, speaking in his voice about autumn health preservation (养生). They want just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health. In TCM theory:
+
+1. 秋天 corresponds to 肺 (lungs) and 金 (metal element)
+2. 秋燥 (autumn dryness) is a key concept - the dry weather can harm lung yin
+3. 秋收冬藏 - autumn is about gathering/collecting, similar to 春生夏长秋收冬藏
+4. Classic advice includes:
+   - 润肺 (moisten the lungs) - eating pears, lily bulbs (百合), honey, white fungus (银耳), sesame
+   - 早卧早起 - from 黄帝内经: "秋三月...早卧早起，与鸡俱兴"
+   - 春捂秋冻 (spring cover, autumn freeze) - gradually adapt to cold
+   - 悲秋 - emotional aspect, autumn can bring melancholy, need to keep spirits calm
+   - Avoid 辛辣 spicy foods, eat 滋阴润燥 foods
+
+An old TCM doctor's voice would be:
+- Warm, grandfatherly
+- Use classical phrases or references to 黄帝内经
+- Perhaps use "老朽" or "老夫" self-reference
+- Speak in a somewhat colloquial but wise manner
+- Maybe end with practical advice
+
+Let me draft something:
+
+"老朽行医五十载，深知秋气主燥，最易伤肺。这会儿啊，该多吃些梨、百合、银耳，煮碗冰糖雪梨水润润嗓子；夜里早些睡，早晨跟着鸡叫起身，莫要贪凉也别急着添衣。古人说'春捂秋冻'，可你若本就体虚，还是趁早添件衣裳才是。"
+
+Hmm, that's good but maybe a bit long. The request says 两三句 (two or three sentences). Let me refine:
+
+Option 1 (3 sentences):
+"秋天呐，燥气当令，最伤肺津，老朽劝你多吃些梨、百合、银耳这类润燥之物，少吃辛辣。起居上嘛，要早卧早起，与鸡俱兴，这正是《黄帝内经》里秋三月养收之道。最后送你一句——心要静，莫悲秋，神气收敛了，冬天才藏得住精气。"
+
+Option 2 (shorter):
+"秋主燥，燥易伤肺，多喝些雪梨百合汤，少吃辛辣煎炸之物。早卧早起，与鸡俱兴，顺着天时收敛心神，莫要悲秋伤怀。记住喽，秋天养好了，冬天才有本钱。"
+
+I like combining classical references with grandfatherly warmth. The tone should feel like an old doctor talking to a patient.
+
+Format considerations: Should be short (2-3 sentences as requested), conversational, in character. No need for headers or lists - just flowing speech in the character's voice. Maybe use some interjections like "呐" "喽" "啊" to make it sound authentic. Could use "老朽" or "老夫" for self-reference which is characteristic.
+
+Let me finalize - I'll make it feel authentic with:
+1. 秋燥伤肺 + food advice (润燥食物)
+2. 早卧早起 from 黄帝内经 (or just the concept)
+3. Emotional/spirit aspect (收敛心神，勿悲秋)
+
+Final version:
+"秋天燥气当令，最易伤肺，老朽劝你多吃梨、百合、银耳这些润燥之物，辛辣煎炸的要少碰。起居上要早卧早起，跟着日头走，古人说'秋收'，人也该收敛心神，莫要悲秋伤怀。把这口气养足了，冬天才藏得住精气，来年开春才有精神头。"
+
+That's 3 sentences, good length. Sounds authentic. Let me polish the wording a bit to make it more natural for an old doctor's speech.

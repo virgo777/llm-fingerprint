@@ -1,0 +1,48 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, without explanation. Let me write a classical-style Chinese poem with four lines about autumn night imagery.
+
+Let me compose something evocative:
+
+秋夜 themes: moon, dew, cool wind, osmanthus (桂花), crickets (蛩/蟋蟀), fallen leaves, frost, stars, candlelight, geese flying south, silence.
+
+Let me write a quatrain (绝句 style), ideally with some parallel structure and rhyme:
+
+Option:
+月冷梧桐叶满阶，
+露凝秋草蛩声哀。
+西风一夜凉如水，
+吹落桂花入梦来。
+
+Check rhyme: 阶 (jiē), 哀 (āi), 来 (lái) — 阶 rhymes with 哀/来 roughly (ai/ei... 阶 is jie, hmm). In modern Mandarin, 阶 jiē doesn't rhyme perfectly with āi/lái. Let me adjust.
+
+Option 2:
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一声雁过秋千里，
+月照西楼桂子香。
+
+Rhyme: 凉 liáng, 霜 shuāng, 香 xiāng — all -ang rhyme. Good.
+
+Line 3: 一声雁过秋千里 — okay. Maybe 雁字横空秋万里. Let me refine:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+雁声遥带天涯梦，
+月满西楼桂子香。
+
+Hmm, line 3 ends with 梦 (mèng) — fine since third line doesn't need rhyme in jueju.
+
+Check tonal patterns loosely — for a casual poem it's fine, but let me try to make it reasonably compliant.
+
+Line 1: 银汉无声玉露凉 — 平仄平平仄仄平 (银平 汉仄 无平 声平 玉仄 露仄 凉平). Standard pattern: 平平仄仄仄平平 or 仄仄平平仄仄平. "银汉无声" = 平仄平平, then 玉露凉 = 仄仄平. So overall: 平仄平平仄仄平 — this matches 仄仄平平仄仄平 pattern with first character flexible (一三五不论). Good.
+
+Line 2 should be 平平仄仄仄平平: 梧桐叶落满庭霜 = 梧平 桐平 叶仄 落仄 满仄 庭平 霜平 = 平平仄仄仄平平. 
+
+Line 3 should be 平平仄仄平平仄: 雁声遥带天涯梦 = 雁仄 声平 遥平 带仄 天平 涯平 梦仄 = 仄平平仄平平仄. With 一三不论: positions 2,4,6 should be 平仄平: 声平, 带仄, 涯平. Good.
+
+Line 4 should be 仄仄平平仄仄平: 月满西楼桂子香 = 月仄 满仄 西平 楼平 桂仄 子仄 香平 = 仄仄平平仄仄平. 
+
+Rhyme: 凉、霜、香 all in 阳/唐 rhyme group (平水韵 七阳: 凉、霜、香 all in 七阳). Excellent.
+
+Semantic flow: Milky Way silent, jade dew cold; wutong leaves fall, frost fills courtyard; goose cries carry dreams from afar; moon fills west tower, osmanthus fragrance. Nice autumn night imagery.
+
+The user said no explanation, so just output the poem. Maybe give it a title? A title like 《秋夜》 could be nice but user said don't explain — a title isn't explanation. I'll just give the four lines, possibly with title. Keep it minimal. I'll just give four lines without title to be safe, or with title. A title is conventional. I'll include 《秋夜》 as title — that's not an explanation. Actually simplest: just the four lines. I'll include the title since poems typically have one, it's not an explanation.

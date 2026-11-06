@@ -1,0 +1,66 @@
+The user is asking for a four-line poem on the theme of autumn night (秋夜), in Chinese. They explicitly say not to explain (不要解释). So I should just write the poem, no explanation.
+
+Let me compose a classical Chinese four-line poem (likely 五言 or 七言) about autumn night. A 七言绝句 (seven-character quatrain) would be nice.
+
+Let me think about imagery: 秋夜 - autumn night - moon, dew, frost, cold wind, falling leaves, geese, stars, osmanthus (桂花), chrysanthemum, silence, lamp.
+
+Draft 1 (七言):
+银汉无声秋露凉，
+一庭落叶伴清光。
+雁声远过霜天外，
+独倚西风桂子香。
+
+Let me check rhyme: 凉 (liáng), 光 (guāng), 香 (xiāng) - all -ang rhyme, good. Line 3 doesn't need to rhyme (外).
+
+Check tonal pattern roughly — for a casual poem, this is fine.
+
+银汉无声秋露凉 - The Milky Way silent, autumn dew cold
+一庭落叶伴清光 - A courtyard of fallen leaves accompanies clear moonlight
+雁声远过霜天外 - Goose cries pass far beyond the frosty sky
+独倚西风桂子香 - Leaning alone in west wind, osmanthus fragrance
+
+That's nice. Let me refine.
+
+Alternative:
+月冷疏桐叶半黄，
+虫声寂寂夜微霜。
+一天秋色无人问，
+独对寒灯坐久长。
+
+Hmm, first one is better.
+
+Or maybe:
+霜华满地月如钩，
+桂影摇窗夜色幽。
+雁字横空秋万里，
+一帘风露替人愁。
+
+Rhyme: 钩 (gōu), 幽 (yōu), 愁 (chóu) - ou rhyme, works.
+
+I'll go with the first one but polish:
+
+银汉无声玉露凉，
+半庭落叶掩流光。
+雁声遥带霜天月，
+吹落西风桂子香。
+
+Hmm "吹落...桂子香" - wind carries osmanthus scent. Actually 桂子 falling is a classic image (桂子月中落).
+
+Let me settle on:
+
+银汉无声秋露凉，
+一庭疏叶浸月光。
+雁声遥度霜天外，
+风送桂香入夜长。
+
+Rhyme: 凉, 光, 长 (cháng) - good.
+
+Line by line:
+1. 银汉无声秋露凉 - Milky Way silent, autumn dew cool
+2. 一庭疏叶浸月光 - a courtyard of sparse leaves steeped in moonlight
+3. 雁声遥度霜天外 - goose cries cross far beyond the frosty sky
+4. 风送桂香入夜长 - wind sends osmanthus fragrance into the long night
+
+That's coherent and evocative. Format: just the poem, maybe a title. They said no explanation, so just the poem. A title is optional; I could add 《秋夜》 as title. That's fine and not explanation.
+
+Format: four lines, centered or just plain. Keep it minimal.

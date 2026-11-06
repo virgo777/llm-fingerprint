@@ -1,0 +1,24 @@
+The user is asking me to list the Four Great Classical Novels of China (中国四大名著) with their book titles and authors in a table format.
+
+The Four Great Classical Novels of China are:
+1. 《三国演义》 by 罗贯中
+2. 《水浒传》 by 施耐庵
+3. 《西游记》 by 吴承恩
+4. 《红楼梦》 by 曹雪芹
+
+Let me create a table with this information. I could also add some additional useful context like the dynasty/period, but the user specifically asked for book title and author, so I'll keep it focused but can add a small note about the dynasty if helpful.
+
+Let me format this as a clean table:
+
+| 书名 | 作者 |
+|------|------|
+| 《三国演义》 | 罗贯中 |
+| 《水浒传》 | 施耐庵 |
+| 《西游记》 | 吴承恩 |
+| 《红楼梦》 | 曹雪芹 |
+
+I might add the dynasty as extra useful information, since these are all from the Ming and Qing dynasties. But the user asked specifically for 书名与作者, so I'll keep the table focused on those two columns. I could add a brief note afterward mentioning the dynasties if it adds value.
+
+Actually, adding a dynasty column could be helpful context without being excessive. But strictly following the request, just book title and author is fine. Let me include a brief supplementary note about the dynasties as optional helpful info.
+
+Format: The response should be in Chinese since the question is in Chinese. A markdown table is appropriate here since the user explicitly requested a table. Keep it concise.

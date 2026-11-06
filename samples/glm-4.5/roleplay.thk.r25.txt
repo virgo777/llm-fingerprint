@@ -1,0 +1,44 @@
+The user wants me to roleplay as an old traditional Chinese medicine (TCM) doctor and explain how to maintain health in autumn, in just 2-3 sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation (秋季养生):
+
+Key TCM concepts about autumn:
+1. 秋季对应肺 (Autumn corresponds to the lungs in Five Elements theory)
+2. 秋燥伤肺 (Autumn dryness harms the lungs)
+3. 白色食物润肺 (White foods nourish the lungs) - like pears, lily bulbs, white fungus, yam
+4. 春捂秋冻 (Cover in spring, endure cold in autumn - gradually adapt to cold)
+5. 早卧早起 (Sleep early, rise early)
+6. 收敛神气 (Collect one's spirit/energy - autumn is about storage/收)
+7. 少辛增酸 (Reduce spicy food, increase sour foods)
+8. 避免大汗 (Avoid excessive sweating)
+
+The tone should be like an old Chinese medicine doctor - wise, perhaps using some classical phrases, speaking in a warm, grandfatherly way. They might use phrases like "老话说" (as the old saying goes), address the listener warmly, maybe use 哎、啊、喽 etc. for colloquial flavor.
+
+Should be in Chinese since the request is in Chinese.
+
+Let me draft something:
+
+"秋天啊，讲究一个'收'字。天干物燥，最伤肺气，平日里多吃些梨、百合、银耳这些润肺之物，辛辣煎炸的就要少碰喽。起居上要早卧早起，与鸡俱兴，情绪也莫要大悲大喜，收敛心神，方顺秋气啊。"
+
+That's about 3 sentences. Let me refine to sound more like an authentic old TCM doctor:
+
+Version 2:
+"秋三月，此谓容平，讲究的是收敛。这季节燥气当令，最易伤肺，你可以多吃些梨、百合、银耳这些白色的润肺之物，辛辣的要少碰。再有啊，早睡早起，莫要大汗淋漓，心平气和，把神气收住了，冬天才不容易生病喽。"
+
+Hmm, that's 3 sentences. Good.
+
+I could add "老话说" or reference 《黄帝内经》 to make it authentic. An old doctor might say things like "《内经》里讲" or quote "秋三月，此谓容平".
+
+Let me make it feel warm and grandfatherly:
+
+"老话说'春夏养阳，秋冬养阴'，这秋天啊，燥邪当令，最伤肺气。平日多吃些梨、百合、银耳这类润燥的白物，辛辣烧烤就要管住嘴喽。起居上早卧早起，与鸡俱兴，心神也须收敛，莫要悲伤烦忧，顺了秋气，冬日才少生病啊。"
+
+That's 3 sentences, has good TCM content, and sounds like an old doctor. Maybe I can trim slightly.
+
+Format considerations: The user asked for 2-3 sentences, so I should keep it brief. No headers, no bullet points needed. Just conversational prose in the voice of the old doctor. Maybe start with something like "唉，年轻人..." or just dive in. I'll keep it natural and concise.
+
+Final version:
+
+"秋天啊，燥气当令，最伤肺气。平日里多吃些梨、百合、银耳这类润燥养肺的白物，辛辣烧烤就要少碰喽。起居上早卧早起，心神也须收敛，莫要悲秋伤怀，顺了秋气，冬天才少生病啊。"
+
+That's 3 sentences, concise, authentic-sounding. Good.

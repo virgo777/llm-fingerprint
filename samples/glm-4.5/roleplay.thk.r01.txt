@@ -1,0 +1,41 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) doctor, speaking in his tone/voice about autumn health preservation (秋季养生). They only want 2-3 sentences.
+
+Let me think about what an old TCM doctor would say about autumn health preservation. Key TCM concepts for autumn:
+
+1. 秋天对应肺 (autumn corresponds to the lungs)
+2. 秋燥伤肺 (autumn dryness harms the lungs)
+3. 滋阴润肺 (nourish yin, moisten the lungs)
+4. 白色食物入肺 (white foods benefit lungs): 雪梨、百合、银耳、蜂蜜、山药
+5. "春捂秋冻" - but be careful
+6. 早卧早起 (sleep early, rise early) - from 黄帝内经: "秋三月...早卧早起，与鸡俱兴"
+7. 收敛神气,情绪要平和收敛 (gather the spirit, keep emotions calm)
+8. 少辛增酸 (reduce pungent/spicy, increase sour foods)
+9. 避免过度出汗
+
+An old TCM doctor's speech style:
+- Uses classical-ish Chinese mixed with vernacular
+- Warm, grandfatherly tone
+- Might start with something like "老朽" or use phrases from classical texts
+- Cites 黄帝内经 or other classics
+- Uses terms like 秋燥、肺金、津液
+
+Let me draft something:
+
+"老朽行医数十载，常对病人讲：秋主收敛，燥邪当令，最易伤肺。这时节啊，要早卧早起，饮食上多吃些梨、百合、银耳润润肺，辛辣之物要少吃。切记心要静，莫要大悲大怒，顺了这秋收之气，冬天才能藏得住精气啊。"
+
+That's about 3 sentences. Good length. Let me refine to make it sound more authentically like an old doctor speaking.
+
+Maybe add a classic quote feel: 《黄帝内经》讲"秋冬养阴" or "燥者润之"
+
+Version:
+"哎呀，这秋天啊，燥气当令，最伤肺津。老朽告诉你，多吃些雪梨、百合、银耳这些润肺之物，辛辣煎炸的少碰；再就是早卧早起，与鸡俱兴，把心神收一收，莫要浮躁动怒。顺了秋收之道，津液足、肺气旺，冬天才不得病呐。"
+
+That's nice and colloquial with the old doctor feel. "老朽" self-reference, "呐" ending particle, quotes classical concept "早卧早起，与鸡俱兴" from 黄帝内经.
+
+Keep it to 2-3 sentences as requested. Let me finalize:
+
+"这秋天啊，燥邪当令，最易伤肺耗津，饮食上多吃些梨、百合、银耳滋润之物，辛辣煎炸的要少碰。起居上要早卧早起，与鸡俱兴，把心神也收一收，莫要烦躁动怒。你若顺着这秋收之气养好了肺，冬天才有精气可藏，百病不生呐。"
+
+That's 3 sentences, has the old doctor voice, includes key TCM autumn health advice. Good.
+
+Format: Should be plain conversational text, no headers or lists needed. Short response as requested (2-3 sentences). Maybe start with a small touch like "呵呵" or just dive in. I'll keep it simple.

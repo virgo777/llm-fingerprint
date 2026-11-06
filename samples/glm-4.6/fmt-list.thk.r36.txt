@@ -1,0 +1,27 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/matters to note for daily water drinking."
+
+This is a simple informational request about health habits - specifically about drinking water. I should respond in Chinese since the question is in Chinese.
+
+The person wants exactly three points about daily water drinking precautions/tips.
+
+Let me think about the most important tips for drinking water:
+
+1. Don't wait until you're thirsty to drink water - drink regularly throughout the day (不要等口渴才喝水)
+2. Drink water in small amounts multiple times, not large amounts at once (少量多次饮水)
+3. Water temperature matters - avoid drinking ice-cold water, warm/lukewarm water is better (水温适宜,避免过冷或过烫)
+4. Drink water after waking up in the morning (早晨起床后喝水)
+5. Don't drink too much water before bed (睡前不宜大量饮水)
+6. Don't substitute sugary drinks for water (不要用饮料代替白开水)
+7. Drink water before and during/after exercise
+
+Since they asked for exactly three points, I should pick the three most important/practical ones and explain each briefly.
+
+Good three points could be:
+
+1. **主动饮水,不要等口渴才喝** - Thirst is already a sign of mild dehydration. Adults should drink about 1500-1700ml per day, spread throughout the day.
+
+2. **少量多次,每次适量** - Drink 100-200ml each time, don't gulp large amounts at once, which burdens the kidneys and can cause water intoxication in extreme cases.
+
+3. **注意水温和饮水时间** - Warm water (around 20-40°C) is gentler on the stomach; avoid drinking large amounts right before bed to prevent nighttime urination and morning puffiness; drinking a glass of water in the morning helps rehydrate after sleep.
+
+Format considerations: The user asked for three points, so a numbered list with brief explanations is ideal. Should respond in Chinese. Keep it concise but informative - each point can have a short explanation. Using markdown numbered list format would work well here. The response should be moderately concise - not too long, just clear and practical.

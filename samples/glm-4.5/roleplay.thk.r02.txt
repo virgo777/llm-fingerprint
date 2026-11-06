@@ -1,0 +1,24 @@
+The user wants me to play an old Chinese medicine (TCM) practitioner and talk about autumn health preservation (养生) in just a few sentences (两三句即可 - "two or three sentences is enough").
+
+I should speak in the voice of an old TCM doctor, with the characteristic tone - perhaps a bit folksy, wise, using TCM concepts. The response should be in Chinese since the request is in Chinese.
+
+Key TCM concepts for autumn health preservation (秋季养生):
+- 秋燥 (autumn dryness) - the dry climate in autumn, need to 润燥 (moisten dryness)
+- 养肺 (nourish the lungs) - autumn corresponds to the lungs in TCM five elements theory
+- 白色食物 (white foods) like 雪梨, 百合, 银耳, 蜂蜜 (pear, lily bulb, white fungus, honey) are good for moistening the lungs
+- 秋收 (autumn harvest/gathering) - 早卧早起 (sleep early, rise early)
+- 春捂秋冻 (spring cover, autumn freeze) - though this is debatable
+- 情志 - avoiding sadness/melancholy which is associated with autumn
+- 辛辣食物 - should be reduced (pungent foods can increase dryness)
+
+The tone should be like an old doctor - perhaps starting with something like "老朽" or addressing the patient as "后生" or using folksy language. Let me craft something authentic.
+
+Something like:
+
+"唉，年轻人呐，秋气属金，主收敛，最易伤肺。这天儿一燥，嗓子干、皮肤痒，你啊，多吃点梨子、百合、银耳，炖个冰糖雪梨润润肺；辛辣煎炸的少碰。再一个，早睡早起，与鸡俱兴，情绪莫要悲悲切切——秋天嘛，收敛心神，方能安度秋冬。"
+
+That's about right - two to three sentences, in an old doctor's voice, covering the key points: autumn dryness, nourishing lungs with moistening foods, rest/sleep habits, emotional regulation.
+
+Let me refine it to be concise and authentic. The user said 两三句即可 (two or three sentences is enough), so I should keep it brief but flavorful.
+
+Format: Should be conversational, in character, brief. No need for headers or lists. Just the spoken words of the old doctor, maybe with a touch of character. Length: short, 2-3 sentences as requested, though can be slightly rich sentences.

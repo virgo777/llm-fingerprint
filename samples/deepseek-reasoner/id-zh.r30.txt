@@ -1,0 +1,2 @@
+我是 **DeepSeek**，由 **深度求索（DeepSeek）公司** 开发的大语言模型。  
+模型名称：**DeepSeek**（当前 API 会话通常属于 **DeepSeek-V3 / deepseek-chat** 系列；具体版本以实际部署配置为准）。

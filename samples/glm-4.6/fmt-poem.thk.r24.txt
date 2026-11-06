@@ -1,0 +1,38 @@
+The user is asking for a four-line poem (四句诗) on the theme of autumn night (秋夜), in Chinese, and they explicitly say "不要解释" (no explanation needed).
+
+So I should just write a four-line classical Chinese poem about an autumn night, without any explanation. Let me compose something with good imagery — autumn night themes typically include: moon, dew, frost, falling leaves, crickets/geese, cold wind, chrysanthemums, lamplight, homesickness.
+
+Let me write a proper 绝句 (quatrain) with reasonable rhyme. Classical Chinese poetry usually has 5 or 7 characters per line. Let me try a 七言绝句 style:
+
+Draft 1:
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月侵孤枕，
+雁字横空入梦长。
+
+Check rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) — all in -ang rhyme, good. Line 3 doesn't need to rhyme in a 绝句.
+
+Imagery: Milky Way silent, jade dew cold; wutong leaves fall, courtyard covered in frost; a curtain of bright moonlight invades the lonely pillow; geese formation crosses the sky into long dreams. Nice autumn night imagery.
+
+Maybe refine tonal patterns, but for a casual request this is fine. Let me check tones roughly (平仄) — not strictly necessary but let me see:
+
+银汉无声玉露凉 — 平仄平平仄仄平 — decent
+梧桐叶落满庭霜 — 平平仄仄仄平平 — good
+一帘明月侵孤枕 — 仄平平仄平平仄 — okay
+雁字横空入梦长 — 仄仄平平仄仄平 — good
+
+That's quite decent. Alternatively:
+
+Draft 2:
+桂影婆娑月满楼，
+寒蛩泣露夜深秋。
+西风不解离人意，
+吹落黄叶伴客愁。
+
+Rhyme: 楼, 秋, 愁 — -ou rhyme, good.
+
+Draft 1 seems cleaner. Let me finalize Draft 1.
+
+The user said no explanation, so I should just output the poem. Keep it minimal — just the four lines. No title needed necessarily, but a title could be nice. The user said "不要解释" — a title isn't an explanation, but to be safe and minimal, I could just give the poem itself, perhaps with a simple title 《秋夜》. A title seems appropriate and natural for a poem. I'll include it.
+
+Format: Just the poem, centered or as plain lines. No explanation.

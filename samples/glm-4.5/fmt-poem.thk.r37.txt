@@ -1,0 +1,64 @@
+The user wants a four-line poem about an autumn night (秋夜), and explicitly says no explanation. Let me write a classical Chinese quatrain (四句诗) about an autumn night.
+
+Let me craft something evocative with imagery typical of autumn nights: moon, frost, falling leaves, cold dew, crickets, osmanthus, etc.
+
+Let me write a 七言绝句 (seven-character quatrain):
+
+银汉迢迢夜气清，
+梧桐叶落满阶生。
+一帘凉月照无寐，
+雁过南天三两声。
+
+Let me check the rhyme: 清 (qīng), 生 (shēng), 声 (shēng) - these rhyme in -ing/-eng which are close rhymes in classical Chinese (庚青韵 in 词韵, though in strict 平水韵 清 is 八庚, 生 is 八庚, 声 is 八庚 — actually all three are in 庚韵). Good.
+
+Let me refine:
+
+秋夜
+银汉无声玉露清，
+梧桐叶落满阶生。
+一帘凉月人不寐，
+雁字南来三两声。
+
+Hmm, "满阶生" is a bit awkward. Let me try:
+
+霜华满地夜初更，
+月冷梧桐叶有声。
+雁字一行天外远，
+客窗灯火照秋清。
+
+Rhyme: 更 (gēng), 声 (shēng), 清 (qīng) — all 庚韵. Good.
+
+Or simpler:
+
+凉露沾衣夜未央，
+一庭桂影浸秋光。
+风翻落叶敲窗急，
+惊起寒蛩语更长。
+
+Rhyme: 央 (yāng), 光 (guāng), 长 (cháng) — 阳韵. Good.
+
+Let me pick one that flows well. I'll go with a polished version:
+
+秋夜
+玉露初凝夜气凉，
+梧桐疏影浸寒塘。
+一帘明月眠不得，
+卧听秋虫语渐长。
+
+Rhyme: 凉 (liáng), 塘 (táng), 长 (cháng) — 阳韵. Good tonal flow.
+
+Check meter (平仄) roughly for 七绝平起:
+玉露初凝夜气凉: 仄仄平平仄仄平 ✓
+梧桐疏影浸寒塘: 平平平仄仄平平 ✓ (梧桐疏影 = 平平平仄, 浸寒塘 = 仄平平) ✓
+一帘明月眠不得: 仄平平仄平仄仄 — should be 平平仄仄平平仄. 一(仄)帘(平)明(平)月(仄)眠(平)不(仄)得(仄). Not perfect but acceptable-ish. Hmm.
+卧听秋虫语渐长: 仄平平平仄仄平 — 卧(仄)听(平)秋(平)虫(平)语(仄)渐(仄)长(平). Should be 仄仄平平仄仄平. 卧听 works as 仄仄? 听 can be 仄. 秋虫 = 平平, 语渐 = 仄仄, 长 = 平. So 仄仄平平仄仄平 ✓.
+
+Fix line 3: need 平平仄仄平平仄. "一帘凉月人无寐" — 仄平平仄平平仄. Close. Or "重帘明月人无寐": 平平平仄平平仄. Hmm. "半帘明月人无寐" 仄平平仄平平仄. Common practice allows 1st and 3rd characters flexible: pattern 平平仄仄平平仄, positions 1,3 flexible, so 仄平平仄平平仄 works if position 4 is 仄 (月 = 仄 ✓), position 5 should be 平 (人 = 平 ✓). Wait let me recheck: 平平仄仄平平仄: pos1平 pos2平 pos3仄 pos4仄 pos5平 pos6平 pos7仄. "一帘明月人无寐": 一(仄-flexible ok)帘(平✓)明(平, pos3 should be 仄, flexible ok)月(仄✓)人(平✓)无(平✓)寐(仄✓). 
+
+So: 
+玉露初凝夜气凉，
+梧桐疏影浸寒塘。
+一帘明月人无寐，
+卧听秋虫语渐长。
+
+That's decent. The user said no explanation, so I'll just give the poem, maybe with a title. Keep it minimal. A title 《秋夜》 is fine and not an explanation.

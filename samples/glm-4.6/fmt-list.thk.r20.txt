@@ -1,0 +1,38 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain the precautions for daily water drinking."
+
+This is a simple, benign request for health information about daily water drinking habits. The user wants exactly three points about precautions/things to pay attention to when drinking water daily.
+
+Let me think about what are the most important considerations for daily water drinking:
+
+1. **适量饮水** - Don't drink too much or too little. Recommended about 1500-2000ml per day for adults, spread throughout the day rather than drinking large amounts at once.
+
+2. **饮水温度** - Avoid drinking water that's too hot (can damage esophagus) or too cold/icy (can irritate stomach). Room temperature or warm water is ideal.
+
+3. **饮水时机** - Don't wait until you're thirsty to drink (thirst means you're already mildly dehydrated). Drink small amounts regularly. Also avoid drinking too much water right before bed, and don't chug large amounts at once.
+
+Other possible points:
+- 饮水质量
+- 晨起喝水
+- 饭前饭后饮水注意
+- 不要用饮料代替白开水
+
+The user asked for exactly three points, so I should provide three well-organized points. Since the request is in Chinese, I should respond in Chinese.
+
+Format considerations: The user explicitly asked for three points (三点), so a numbered list format is appropriate. I should give each point a clear heading/theme and a brief explanation. This should be moderately concise - not too long, but each point should have enough substance to be useful. Maybe 2-4 sentences per point.
+
+Let me draft:
+
+**1. 适量饮水，少量多次**
+成年人每天建议饮水1500~1700毫升（约7-8杯），不要等口渴了才喝水，因为口渴时身体已处于轻微缺水状态。每次饮用100-200毫升为宜，避免一次性大量饮水，以免加重肾脏负担或引起水中毒。
+
+**2. 注意水温，避免过烫或过冰**
+饮用水的温度以10-40℃（温开水或常温水）为宜。长期饮用65℃以上的过烫水会损伤口腔和食道黏膜，增加食道疾病风险；过冰的水则可能刺激肠胃，引起不适，尤其是肠胃功能较弱的人。
+
+**3. 把握饮水时机，科学补水**
+早晨起床后空腹喝一杯温水，有助于补充夜间流失的水分、促进代谢；睡前不宜大量饮水，以免夜间频繁起夜或造成晨起水肿。此外，不要用含糖饮料、浓茶、咖啡等完全替代白开水。
+
+This looks good. Let me refine the numbers:
+- Chinese dietary guidelines (中国居民膳食指南) recommend 1500-1700ml for adults (men 1700ml, women 1500ml in the 2022 version)
+- WHO/IARC classifies beverages above 65°C as probable carcinogens - hot beverages over 65°C can damage esophageal mucosa
+
+I'll keep it clean and informative. The response should be in Chinese, formatted as a numbered list with three points, each with a bold heading and explanation.

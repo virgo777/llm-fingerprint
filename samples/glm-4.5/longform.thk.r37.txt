@@ -1,0 +1,43 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM) is, in about 400 characters/words in Chinese.
+
+This is a straightforward educational question about Traditional Chinese Medicine theory. I should write in Chinese since the question is in Chinese.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation - observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling - listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry - asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation - feeling the pulse (脉诊) and palpating the body
+
+四诊合参 emphasizes that doctors should not rely on just one method but should combine all four methods to comprehensively analyze and make a diagnosis. This is the principle of comprehensive analysis.
+
+Key points to cover:
+- Definition of 四诊合参
+- Brief description of each of the four methods
+- Why they must be combined (each has limitations)
+- The theoretical basis (整体观念 - holistic view)
+- Historical context (源于《黄帝内经》,《难经》有"望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧")
+- Clinical significance
+
+The user wants about 400 characters (字). Chinese "400字左右" means approximately 400 Chinese characters. I should aim for that length - maybe 400-500 characters is acceptable as "左右" means "approximately."
+
+Let me draft this:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊察方法全面收集患者的病情资料，并综合分析、相互参照，从而对疾病作出正确判断。
+
+**望诊**：通过观察患者的神、色、形态、舌象及分泌物排泄物等，了解机体变化，其中舌诊和望神尤为重要。
+
+**闻诊**：包括听声音（语言、呼吸、咳嗽等）和嗅气味，以判断脏腑功能状态。
+
+**问诊**：通过询问患者的起病经过、症状、既往史、生活习惯等，获取病情的第一手资料。明代张景岳总结的"十问歌"是其概括。
+
+**切诊**：包括脉诊和按诊，通过触按脉搏和身体有关部位，探查疾病内在变化。
+
+四诊合参强调"四诊并用，不可偏废"。因为四诊各有局限：如只凭脉诊断病，或仅凭症状下结论，都易致误诊。只有将四诊所获信息综合参照、互相印证，去伪存真，才能准确辨别病证的阴阳表里、寒热虚实，为辨证论治提供可靠依据。
+
+这一原则体现了中医整体观念，即人是一个有机整体，局部病变可影响全身，内在病变可表现于外。四诊合参的理论渊源可追溯至《黄帝内经》，《难经》更以"神圣工巧"赞誉四诊。
+
+Let me count roughly - this is about 450-500 characters, which fits "400字左右" reasonably well. Let me refine it a bit.
+
+Format considerations: The question asks for a detailed introduction of about 400 characters. Using headers or bold for the four methods would make it clearer and more readable. Given it's a structured explanation, using a short intro, then the four methods (possibly with bold labels), then a concluding paragraph about why combination matters, would be ideal. Markdown formatting is appropriate here since this appears to be a chat interface.
+
+Let me finalize the response in Chinese, around 400-450 characters.

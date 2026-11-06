@@ -1,0 +1,47 @@
+The user is asking me to write a four-line poem about autumn night (秋夜), and explicitly asks me not to explain (不要解释).
+
+Let me write a classical Chinese-style four-line poem (绝句 style) about an autumn night. I should aim for good imagery: moon, frost, leaves, wind, crickets, cold, etc.
+
+Let me compose:
+
+秋夜
+
+月冷霜华落满庭，
+西风吹叶过疏棂。
+虫声渐远灯将尽，
+一枕清寒梦不成。
+
+Let me check the tones and rhyme. 庭 (tíng), 棂 (líng), 成 (chéng) - these rhyme in the -ing/-eng family, which is acceptable in modern Chinese poetry conventions (庚青韵 in traditional rhyming, 庭 is in 青韵, 棂 in 青韵, 成 in 庚韵 - in 平水韵 these are different rhyme groups 青韵 vs 庚韵, but in modern usage they rhyme fine).
+
+Actually let me reconsider. For a cleaner rhyme:
+
+月冷霜天星汉横，
+西风落叶满阶生。
+虫吟渐歇灯花落，
+独倚栏杆听雁声。
+
+横 (héng), 生 (shēng), 声 (shēng) - 庚韵, good rhyme.
+
+Or simpler:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘明月蛩声里，
+独坐幽窗夜正长。
+
+凉 (liáng), 霜 (shuāng), 长 (cháng) - 阳韵 (七阳), good rhyme. This flows nicely.
+
+Line 1: 银汉无声玉露凉 - The Milky Way is silent, jade dew is cold
+Line 2: 梧桐叶落满庭霜 - Wutong leaves fall, frost fills the courtyard
+Line 3: 一帘明月蛩声里 - Bright moonlight through the curtain amid cricket sounds
+Line 4: 独坐幽窗夜正长 - Sitting alone by the quiet window, the night is long
+
+That's a nice, coherent autumn night poem. Tonal pattern check (平仄):
+银汉无声玉露凉: 平仄平平仄仄平 - good
+梧桐叶落满庭霜: 平平仄仄仄平平 - good
+一帘明月蛩声里: 仄平平仄平平仄 - acceptable
+独坐幽窗夜正长: 仄仄平平仄仄平 - good
+
+This works well. The user said no explanation, so I should just give the poem. Maybe a title, maybe not. I'll include the poem itself, possibly with a title 秋夜.
+
+Format: Just the four lines, no explanation as requested. Short response is appropriate.

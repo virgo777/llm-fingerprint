@@ -1,0 +1,43 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical-style Chinese poem about autumn night. Traditional Chinese poems often have 5 or 7 characters per line.
+
+Let me think about imagery for autumn night: 明月 (bright moon), 桂花 (osmanthus), 露 (dew), 雁 (geese), 梧桐 (wutong tree), 霜 (frost), 虫鸣 (insect sounds), 寒 (cold), 星 (stars), 竹 (bamboo), etc.
+
+Let me try a 七言绝句 (seven-character quatrain):
+
+玉露初凝桂影斜，
+一轮明月照窗纱。
+雁声远过秋云外，
+凉夜清光满万家。
+
+Let me check: 
+- 玉露初凝桂影斜 - Jade dew begins to condense, osmanthus shadows slant
+- 一轮明月照窗纱 - A bright moon shines through window gauze
+- 雁声远过秋云外 - Goose cries pass far beyond autumn clouds
+- 凉夜清光满万家 - The cool night's clear light fills ten thousand homes
+
+That works nicely. Or I could do a 五言 version:
+
+月落梧桐冷，
+风摇桂子香。
+虫声随夜寂，
+霜露满衣裳。
+
+Hmm, let me refine. The seven-character one feels more complete. Let me polish:
+
+玉露初凝桂影斜，
+一帘明月浸窗纱。
+雁声遥度秋云冷，
+凉夜清光落万家。
+
+Actually, my first version is fine. Let me finalize:
+
+《秋夜》
+
+玉露初凝桂影斜，
+一帘明月浸窗纱。
+雁声遥过秋云外，
+凉夜清光满万家。
+
+The user asked for no explanation, so I should just give the poem.

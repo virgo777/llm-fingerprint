@@ -1,0 +1,1 @@
+We need answer in Chinese. Need compute 17*23 +45/9. Need complete process. Let's calculate: 17*23=391 (17*20=340 +51=391). 45/9=5. Sum 396. Need maybe order operations multiplication division first, then addition. Provide complete process. Since prompt simple. Ensure no trick: 17×23+45÷9 = 391 +5 =396. final.

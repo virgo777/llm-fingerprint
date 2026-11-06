@@ -1,0 +1,39 @@
+The user wants a four-line poem about an autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a nice classical Chinese quatrain (四句诗) about autumn night. Traditional Chinese poems often have 5 or 7 characters per line. Let me write a 7-character quatrain (七言绝句) style.
+
+Themes for autumn night: moon, dew, cold wind, falling leaves, geese, osmanthus, frost, stars, loneliness, etc.
+
+Let me draft:
+
+金风拂桂月中天，
+露冷梧桐叶半残。
+雁字南归云影淡，
+一帘幽梦伴秋寒。
+
+Check rhyme: 天 (tiān), 残 (cán), 寒 (hán). Hmm, 天 doesn't rhyme with 残/寒. Let me adjust.
+
+Try again:
+
+月冷梧桐叶渐黄，
+风摇桂影落庭霜。
+雁声远去云天阔，
+一枕清寒入梦长。
+
+Rhyme: 黄 (huáng), 霜 (shuāng), 长 (cháng) - all -ang rhyme. Good.
+
+Lines:
+1. 月冷梧桐叶渐黄 - The moon is cold, wutong leaves gradually yellow
+2. 风摇桂影落庭霜 - Wind sways osmanthus shadows, frost falls in courtyard — hmm, "落庭霜" is a bit odd. Maybe "风摇桂影浸微霜" or "夜深桂子落庭霜"... Actually "风摇桂影满庭霜" - wind sways osmanthus shadows, courtyard full of frost (moonlight like frost). That echoes 床前明月光疑是地上霜.
+
+3. 雁声远去云天阔 - Goose cries fade away, the cloudy sky is vast
+4. 一枕清寒入梦长 - A pillow of clear chill, dreams grow long
+
+Tonal patterns for a proper 七绝 would be nice but not strictly required. Let me check approximate:
+
+月冷梧桐叶渐黄 (仄仄平平仄仄平)
+风摇桂影满庭霜 (平平仄仄仄平平) - 风摇 平平, 桂影 仄仄, 满庭霜 仄平平. Good.
+雁声远去云天阔 (仄平仄仄平平仄) - roughly fine
+一枕清寒入梦长 (仄仄平平仄仄平) - 一 is 仄 (入声), 枕 仄, 清寒 平平, 入 仄, 梦 仄, 长 平. Good enough.
+
+This works nicely. The user said no explanation, so just output the poem. Maybe a title? They asked for four lines, theme autumn night. I can just give the four lines, perhaps with a title 《秋夜》. Adding a title is fine and doesn't count as explanation.

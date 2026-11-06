@@ -1,0 +1,34 @@
+The user is asking in Chinese for a "cold joke" (冷笑话) about programmers. 冷笑话 in Chinese culture refers to a joke that's intentionally cheesy, punny, or anticlimactic—the kind that makes you groan rather than laugh out loud. Programmer jokes in Chinese often involve wordplay with programming concepts.
+
+Let me think of some good programmer cold jokes that work in Chinese:
+
+1. Classic ones:
+- 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+- 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释
+- 一个程序员去面试，面试官问："你有什么缺点？" 程序员说："诚实。" 面试官说："我不觉得诚实是缺点。" 程序员说："我不在乎你觉得什么。"
+
+2. More Chinese-specific ones:
+- 程序员的妻子让他去买东西："买一斤包子，如果看到卖西瓜的，买一个。" 程序员买了一个包子回来。妻子问为什么，程序员说："因为我看到卖西瓜的了。"
+- 世界上的程序员分为两种：一种是懂二进制的，另一种是不懂的。
+
+The buying steamed buns joke is a classic Chinese programmer joke that plays on the conditional logic interpretation. That's a really good one for 冷笑话.
+
+The Oct 31 == Dec 25 joke requires understanding octal/decimal, which is a classic too.
+
+Let me pick one or two good ones. The bun/watermelon joke is very much a classic Chinese programmer joke and fits the 冷笑话 style perfectly—it makes you groan at the literal logic interpretation.
+
+Let me write it out well:
+
+程序员妻子打电话给他："下班路上买十个包子，如果看到卖西瓜的，就买一个。"
+
+程序员回到家，手里拿着一个包子。
+
+妻子怒问："你怎么就买了一个包子？！"
+
+程序员："因为我看到卖西瓜的了。"
+
+This works because the programmer interpreted the second clause as a conditional replacement: (buy 1 watermelon if see watermelon seller) → but he replaced "包子" quantity with the conditional logic, buying 1 baozi instead of 1 watermelon. The humor is the programmer's overly literal, logic-brained interpretation.
+
+Actually, let me reconsider the structure: "买十个包子，如果看到卖西瓜的，就买一个" - the correct human interpretation is buy 10 baozi, and if there's a watermelon seller, buy 1 watermelon. The programmer interprets it as: buy 10 baozi; if condition (see watermelon seller) is true, then the quantity becomes 1 (for the baozi). So he bought 1 baozi. That's the joke.
+
+Format: This should be conversational, in Chinese, relatively short. I could tell one joke well, maybe offer to tell more. No need for markdown headers or anything fancy. Just the joke with good delivery. Maybe a brief setup and punchline. Keep it light and fun.

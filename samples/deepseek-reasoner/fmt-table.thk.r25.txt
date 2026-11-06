@@ -1,0 +1,1 @@
+We need answer in Chinese. Need table listing four great classical novels name and author. Need accurate: 三国演义 罗贯中; 水浒传 施耐庵 (some say 施耐庵、罗贯中? Commonly 施耐庵); 西游记 吴承恩; 红楼梦 曹雪芹 (前80回, 高鹗续? Common author 曹雪芹、高鹗). User asks author. Use table. Could mention common attribution. Desired oververbosity 5, concise. Need maybe "书名 | 作者". Ensure Chinese. Could include "（常见署名）". Let's craft.

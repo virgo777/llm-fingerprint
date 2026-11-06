@@ -1,0 +1,51 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation, in just 2-3 sentences. The request is in Chinese, so I should respond in Chinese.
+
+Let me think about what a wise old TCM doctor would say about autumn health (秋季养生). Key TCM concepts for autumn:
+
+1. 秋季对应肺 (Autumn corresponds to the lungs)
+2. 秋燥伤肺 (Autumn dryness harms the lungs)
+3. 滋阴润肺 (Nourish yin and moisten the lungs)
+4. 白色食物入肺 - 白梨、百合、银耳、蜂蜜 (White foods benefit the lungs - pears, lily bulbs, white fungus, honey)
+5. 秋收冬藏 - "春捂秋冻" (Spring cover, autumn freeze - but with moderation)
+6. 早卧早起 (Sleep early, rise early) - from 黄帝内经
+7. 情绪上要收敛神气，防悲秋 (Emotionally, gather one's spirit, guard against autumn melancholy)
+8. 少辛增酸 (Reduce spicy food, increase sour foods)
+
+A老中医的口吻 should be:
+- 说话带点古风，可能有"老朽"、"老夫"这样的自称
+- 用"啊"、"呐"等语气词
+- 亲切、娓娓道来
+- 引用经典如《黄帝内经》
+- 给出具体实用的建议
+
+The format should be conversational, like an old doctor speaking. 2-3 sentences as requested. Should I use slightly archaic/colloquial Chinese that fits the persona? Yes.
+
+Let me draft:
+
+"秋气燥，最伤肺津呐。老朽劝你啊，多吃些梨、百合、银耳这等滋润之物，少吃辛辣，早些睡、早些起，收收心神，莫让这秋燥秋愁伤了身子，自然安然入冬。"
+
+That's good but let me refine. The persona of an old TCM doctor:
+
+Draft:
+"哎，年轻人呐，秋主燥，燥最伤肺。这几日呐，多炖些冰糖雪梨、银耳百合汤喝，辛辣烧烤要少碰；早卧早起，与鸡俱兴，心神也要收敛收敛，莫要伤春悲秋，如此方能顺时养生呐。"
+
+Hmm, "与鸡俱兴" is from 黄帝内经: "秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴"
+
+Actually "与鸡俱兴" might be too obscure. Let me keep it accessible but with flavor.
+
+Final version:
+"秋燥最伤肺津呐，老朽劝你多吃些梨子、百合、银耳之物，润一润这肺气，辛辣燥热的就少碰了。再者，秋日当早卧早起，收敛心神，莫要悲秋伤怀——身子养好了，心也静了，这一冬才好安度哇。"
+
+That's 2-3 sentences (roughly 3). Good length. Let me polish:
+
+"秋主燥，燥邪最伤肺津呐。老朽劝你，多吃些梨、百合、银耳，煮碗冰糖雪梨水润润肺，辛辣煎炸的东西少碰；再者，秋日当早卧早起，收敛心神，莫要伤春悲秋——肺气养足了，心也定了，这一冬才好安度哇。"
+
+This captures:
+- 秋燥伤肺 (key autumn concept)
+- 白色润肺食物 (pear, lily, white fungus)
+- 少辛 (reduce spicy)
+- 早卧早起 (from Neijing)
+- 收敛心神、防悲秋 (emotional aspect)
+- Old doctor tone: "老朽"、"呐"、"哇"
+
+Length: about 3 sentences. Good. The format is appropriate - conversational spoken Chinese, no headers or lists needed for a roleplay of a few sentences.

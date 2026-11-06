@@ -1,0 +1,61 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers, in Chinese. This is a light, fun request. Let me think of some good programmer jokes in Chinese.
+
+Classic programmer jokes in Chinese:
+
+1. Why do programmers always confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 = decimal 25)
+
+2. A programmer's wife tells him: "Go to the supermarket and buy a watermelon. If they have eggs, buy 10." The programmer comes back with 10 watermelons. Wife asks why, he says "because they had eggs."
+
+3. Why do programmers prefer dark mode? Because light attracts bugs!
+
+4. 世界上最遥远的距离，是我在if里，你在else里。
+
+5. Programmers think: 世界上有10种人，一种懂二进制，一种不懂。
+
+6. A programmer goes to hell... joke variations
+
+7. Q: How do you know a programmer is an extrovert? A: He looks at YOUR shoes when talking to you.
+
+8. 关于改变灯泡的笑话：需要多少程序员换灯泡？一个都不用，这是硬件问题。
+
+Let me pick one or two good ones and tell them well. The wife/watermelon one is a classic Chinese programmer joke (程序员买菜). The binary one is very classic too.
+
+Let me tell one joke well, maybe with a small explanation if needed. Since it's a cold joke (冷笑话), the humor often comes from being groan-worthy or requiring a technical twist.
+
+The watermelon joke:
+程序员的老婆跟他说："去买一斤包子，如果看到卖西瓜的，买一个。"
+程序员回来了，手里拿着一个包子。
+老婆问："为什么只买一个包子？"
+程序员说："因为我看到卖西瓜的了。"
+
+This is a classic one that plays on programmer logic (conditional interpretation).
+
+Another classic:
+老婆给程序员老公打电话："下班顺路买十个包子，如果看到卖西瓜的，买一个。"
+当晚，程序员老公手捧一个包子进了家门。
+老婆怒问："你怎么就买了一个包子？！"
+老公答曰："因为我看到了卖西瓜的。"
+
+Or the binary one:
+世界上有10种人：懂二进制的，和不懂二进制的。
+
+Or the light mode one:
+为什么程序员喜欢暗色模式？因为光会吸引 bug（虫子）。
+
+I think the watermelon/baozi one is the most famous Chinese programmer cold joke. Let me tell it in a nice format. Maybe I can offer one main joke and keep it short. Format should be conversational, light, maybe with a little emoji or not. Keep it concise — it's a joke request, so brevity is good. I'll tell the classic one, maybe add a bonus shorter one.
+
+Format: Short, casual, conversational. Maybe use a little structure for the dialogue. No need for headers. Could add a brief explanation of the punchline... but explaining jokes kills them. However, if the person doesn't get it, explaining the logic interpretation helps. Actually for 冷笑话, the "huh?" moment then realization is the fun. I might leave it unexplained or add a tiny wink at the end.
+
+Let me write it:
+
+老婆给程序员老公打电话：
+"下班路上买十个包子。如果看到卖西瓜的，就买一个。"
+晚上，程序员老公回到家，手里拿着一个包子。
+老婆大怒："怎么就买了一个包子？！"
+老公："因为我看到卖西瓜的了。"
+
+That's the joke. Maybe add a second bonus:
+
+"世界上有10种人，一种懂二进制，一种不懂。"
+
+I'll give one main joke and perhaps one quick bonus. Keep it short and fun.

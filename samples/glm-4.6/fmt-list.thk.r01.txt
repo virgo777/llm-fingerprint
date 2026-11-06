@@ -1,0 +1,29 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/matters to pay attention to when drinking water daily."
+
+This is a simple, benign informational request about daily water drinking habits. The person wants three points about what to pay attention to when drinking water in daily life.
+
+Let me think about what would be good, practical advice for daily water drinking:
+
+1. **水温/饮水时机** - Water temperature matters: drinking lukewarm or room temperature water is often recommended over very cold or very hot water, especially in Chinese health culture. 避免过烫或过冰的水。
+
+2. **饮水量的分配** - Spacing out water intake throughout the day rather than gulping large amounts at once. 少量多次饮水,不要等口渴了才喝水,也不要一次性大量饮水。
+
+3. **饮水量充足** - Daily adequate intake, roughly 1500-2000ml for adults (中国居民膳食指南 recommends 1500-1700ml for adults).
+
+4. **不喝生水/注意水质** - Drink clean, safe water.
+
+5. **特殊时机** - Don't drink too much before bed, drink water after waking up, before exercise, etc.
+
+6. **饭前饭后饮水** - Some say not to drink too much right before or during meals.
+
+Let me pick the three most important and practical points:
+
+1. **主动饮水,少量多次**: 不要等口渴才喝水,口渴时身体已经缺水了。建议每天1500-1700毫升,分多次饮用,每次100-200毫升左右。
+
+2. **注意水温适宜**: 避免饮用过烫的水(可能损伤食道黏膜)和过冰的水(刺激肠胃),以温开水(20-40℃左右)为宜。
+
+3. **把握饮水时机**: 晨起空腹喝一杯温水有助于唤醒肠胃;睡前不宜大量饮水以免影响睡眠和加重肾脏负担;运动后应少量多次补水。
+
+This structure covers quantity, temperature, and timing - three distinct and practical dimensions.
+
+Format considerations: The user asked for three points, so a numbered list with three items is appropriate. Each point should have a clear heading and a brief explanation. Since the question is in Chinese, I should respond in Chinese. The response should be concise but informative - maybe 2-3 sentences per point. Using bold headers for each point would make it scannable. Total length should be moderate - not too long, this is a simple informational request.

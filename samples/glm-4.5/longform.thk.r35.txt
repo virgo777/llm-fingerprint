@@ -1,0 +1,56 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters/words. They're writing in Chinese, so I should respond in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to the patient's voice, breathing, coughing, and smelling odors from the body
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+合参 means combining and synthesizing the information gathered from all four methods to make a comprehensive diagnosis (辨证).
+
+Key points to cover:
+- Definition of 四诊合参
+- Explanation of each of the four diagnostic methods
+- Why combining them is important (each has limitations, they complement each other)
+- The principle behind it: holistic view, 整体观念
+- The purpose: to accurately identify the syndrome/pattern (辨证) for treatment (论治)
+
+The user wants about 400 characters. Let me structure this well:
+
+1. 开头：定义四诊合参
+2. 分别介绍望闻问切
+3. 为什么需要合参
+4. 总结意义
+
+Let me draft this:
+
+中医"四诊合参"是中医诊断学的基本原则，指医生综合运用望、闻、问、切四种诊察方法收集病情资料，并将所得信息互相参照、综合分析，从而对疾病作出正确判断的过程。
+
+望诊，即观察病人的神、色、形、态及舌象等，其中"望神"尤为重要，通过眼神、面色等判断正气盛衰；舌诊是望诊的重要内容，舌质与舌苔的变化可反映脏腑病变。
+
+闻诊包括听声音和嗅气味两个方面，如听语言、呼吸、咳嗽的声音变化，嗅病体、分泌物的异常气味，以辨别寒热虚实。
+
+问诊是通过询问病人的自觉症状、发病经过、既往病史、生活习惯等了解病情，明代医家总结的"十问歌"是其概括。
+
+切诊包括脉诊和按诊。脉诊即切脉，医生以手指感受病人脉搏的频率、节律、形态等，分辨二十八种脉象；按诊是按压肌肤、脘腹等部位以探查病变。
+
+之所以强调"合参"，是因为四诊各有侧重、各有局限，任何单一诊法都难以全面反映病情。只有四诊并用、相互印证，去伪存真，才能准确辨证，为"论治"提供可靠依据。这体现了中医整体观念和"辨证论治"的精髓。
+
+Let me count roughly - this is around 450-500 characters, which is close to the requested 400字左右 (around 400 characters). That's acceptable since "左右" means "approximately."
+
+Format considerations: The user asked for a detailed explanation of about 400 characters. Since this is an educational/informational request in Chinese, I should respond in Chinese. Using some structure would help readability - I could use paragraphs for each diagnostic method, or use a flowing prose style. Given the ~400 character requirement, a well-organized prose with clear paragraph breaks would work well. Maybe minimal headers or just paragraphs. I think paragraphs without headers keep it clean and appropriate for a 400-character essay-style response. Actually, for clarity, I could bold the four diagnostic method names within the text to aid readability without adding headers.
+
+Let me refine the content for accuracy:
+- 望诊: 神、色、形、态 + 舌象 ✓
+- 闻诊: 听声音、嗅气味 ✓
+- 问诊: 十问歌 (from 明代张景岳《景岳全书》- actually 十问 was first by 张景岳, later revised by 陈修园) - I'll just say it's a summary to be safe
+- 切诊: 脉诊 (寸口脉, 三部九候) and 按诊 ✓
+- 合参的意义: 互相补充印证，避免片面性，准确辨证 ✓
+
+The classic saying: "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧" from 《难经》. I could mention this but it might make it too long.
+
+Also the concept of 舌脉互参, 舍脉从症、舍症从脉 - these are advanced concepts, might be too much for 400 characters.
+
+Let me finalize a version around 400-450 characters with good structure. I'll use short paragraphs, possibly with bold for the four methods to aid scanning. Given it's an educational explanation, formatting with paragraph breaks is good.

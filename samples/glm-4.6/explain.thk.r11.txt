@@ -1,0 +1,3 @@
+The user is asking me to explain what Bioelectrical Impedance Analysis (BIA) is in about 200 characters/words in Chinese. I'll provide a concise explanation covering the basic principle, how it works, and its applications.
+
+生物电阻抗分析是一种通过测量人体对微弱电流的阻抗来评估身体成分的技术。由于人体不同组织（如脂肪、肌肉、水分）的导电性不同，仪器通过测量电流通过身体时的阻抗值，可以估算出体脂率、肌肉量、体内水分等身体成分指标。这种方法无创、快速、成本低，广泛应用于健康管理、临床营养评估和健身领域。

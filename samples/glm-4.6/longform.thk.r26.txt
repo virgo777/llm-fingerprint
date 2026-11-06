@@ -1,0 +1,40 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters (Chinese).
+
+Let me think about what I know about this topic:
+
+四诊合参  refers to the four diagnostic methods in TCM:
+1. 望诊  - Observation/Inspection: Looking at the patient's complexion, body shape, tongue, spirit (神), etc.
+2. 闻诊  - Listening and Smelling: Listening to the patient's voice, breathing, coughing; smelling odors
+3. 问诊  - Inquiry/Questioning: Asking about symptoms, medical history, lifestyle, etc.
+4. 切诊  - Pulse-taking and Palpation: Feeling the pulse, palpating the body
+
+四诊合参 means combining and comprehensively analyzing the information obtained from all four diagnostic methods to make a diagnosis (辨证). The key principle is that no single method should be relied upon alone - the four methods must be used together and their findings integrated for accurate diagnosis.
+
+Key points to cover:
+1. Definition of 四诊合参
+2. Brief explanation of each of the four methods (望闻问切)
+3. The importance of combining all four - why one alone is insufficient
+4. The theoretical basis - each method has limitations; only comprehensive analysis gives accurate 辨证
+5. Classic sayings like "四诊合参" from《难经》or related texts
+
+The classic quote: 望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧 - from《难经·六十一难》
+
+Let me draft this in about 400 Chinese characters:
+
+四诊合参是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者的病情资料，并综合分析、相互参照，从而对疾病作出正确判断。
+
+**望诊**：通过观察患者的神、色、形、态及舌象等，初步判断脏腑气血的盛衰。中医认为"望而知之谓之神"。
+
+**闻诊**：包括听声音和嗅气味，如听呼吸、语音、咳嗽，嗅口气、体味等，以辨别病邪性质。
+
+**问诊**：通过询问患者的起病经过、症状特点、既往病史、饮食起居等，了解病情的来龙去脉。
+
+**切诊**：包括脉诊和按诊，通过触按脉象和肌肤、脘腹等部位，探察体内病变。
+
+为何强调"合参"？因为四诊各有侧重，也各有局限：单凭某一诊法获取的信息往往是片面的，甚至可能被假象误导（如"脉证不符"）。只有将四诊所获资料互相印证、综合分析，去伪存真，才能准确辨别病因、病位、病性和邪正关系，为辨证论治提供可靠依据。这体现了中医整体观念，是辨证的前提和基础。
+
+Let me count roughly - this should be around 400 characters. Let me refine it.
+
+Format considerations: The user asks for a detailed introduction of about 400 characters. Using headers/bold for each diagnostic method would make it clear and readable. Given it's an educational/informational request, using a structured format with bold terms would be appropriate. The length should be around 400 Chinese characters as requested. I should respond in Chinese since the question is in Chinese.
+
+Let me finalize the response, keeping it around 400 characters with good structure.

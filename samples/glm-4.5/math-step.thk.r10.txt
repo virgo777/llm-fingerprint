@@ -1,0 +1,19 @@
+The user is asking me to calculate 17×23+45÷9 with complete steps, in Chinese.
+
+Let me compute:
+- 17 × 23 = 391
+- 45 ÷ 9 = 5
+- 391 + 5 = 396
+
+Let me show the detailed process:
+17 × 23:
+- 17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+Or: 23 × 17 = 23 × 10 + 23 × 7 = 230 + 161 = 391
+
+45 ÷ 9 = 5
+
+391 + 5 = 396
+
+Following order of operations: multiplication and division first (left to right), then addition.
+
+Format: The response should be in Chinese since the question is in Chinese. Should show complete steps as requested. A clear step-by-step format with the calculation shown. Medium length, using some structure. Could use a numbered list or clear steps. Not too long.

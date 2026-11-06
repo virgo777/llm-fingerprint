@@ -1,0 +1,35 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. This is a simple, harmless request for humor. Let me think of some good programmer jokes in Chinese.
+
+Some classic programmer jokes:
+
+1. Why do programmers always confuse Halloween and Christmas? Because Oct 31 == Dec 25 (octal 31 equals decimal 25).
+
+2. A programmer's wife asks him to buy things: "Go buy a bag of apples, if you see watermelons being sold, buy one." The programmer comes back with one apple. Wife asks why, he says "because I saw watermelons being sold."
+
+3. There are 10 kinds of people in the world: those who understand binary and those who don't.
+
+4. A programmer walks into a bar, orders 1 beer, 0 beer, 999999 beer, -1 beer, and a lizard.
+
+5. The classic one about "hello world"
+
+6. 关于bug的笑话
+
+Let me pick a good one. The watermelon/apple joke is very classic in Chinese programmer humor. Let me tell it well.
+
+程序员老公的故事:
+妻子对程序员说:"下班顺路买十个包子,如果看到卖西瓜的,买一个。"
+程序员晚上回家,手里拿着一个包子。
+妻子问:"怎么只买了一个包子?"
+程序员:"因为我看到卖西瓜的了。"
+
+This is a classic one and pretty funny. I could also add another one or explain briefly.
+
+Another classic:
+问:程序员最讨厌康熙的哪个儿子?
+答:胤禩(因为他是八阿哥,Bug/八哥)
+
+Wait, that's actually 八阿哥 = "bug" 的谐音. 胤禩 is the 8th prince (八阿哥). So the joke is programmers hate 八阿哥 because "八哥" sounds like "bug". Actually it's "八阿哥" sounds like "bug" (ba-a-ge... hmm, 八阿哥 bā'āgé, bug). Yes, this is a known joke: 程序员最讨厌谁?康熙的第八个儿子——八阿哥(bug)。
+
+Let me present one or two jokes nicely. The format should be conversational, light, maybe with emoji sparingly or not at all. Keep it short and punchy — jokes shouldn't be over-explained. I'll tell the watermelon one as the main joke, and maybe offer the 八阿哥 one as a bonus, or just tell one good joke. Actually giving one solid joke is best; maybe two max. Let me do the watermelon one, and optionally add the 八阿哥 one briefly.
+
+Format: Short, casual, conversational. No headers needed. Maybe tell one joke and offer more.

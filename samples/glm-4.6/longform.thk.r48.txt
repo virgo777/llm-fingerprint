@@ -1,0 +1,69 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Assessment) is in Traditional Chinese Medicine (TCM), in about 400 characters, in Chinese.
+
+Let me think about what I know about this topic:
+
+四诊合参 refers to the comprehensive analysis of the four diagnostic methods in TCM:
+
+1. 望诊 (Wàng zhěn) - Inspection/Looking
+   - Observing the patient's spirit (神), color (色), body shape (形态), tongue (舌诊)
+   - 舌诊 includes tongue color, coating, shape
+
+2. 闻诊 (Wén zhěn) - Listening and Smelling
+   - Listening to voice, breathing, coughing
+   - Smelling odors of the body, breath
+
+3. 问诊 (Wèn zhěn) - Inquiry/Questioning
+   - Asking about symptoms, medical history, lifestyle
+   - 十问歌 (Ten Questions Song)
+
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation
+   - 切脉 (pulse diagnosis) - the three positions and nine indicators (三部九候)
+   - 按诊 (palpation) - pressing on body parts
+
+The concept of 四诊合参 emphasizes that these four methods should not be used in isolation but combined together to form a comprehensive understanding of the patient's condition. This is called 辨证 (syndrome differentiation).
+
+Historical origins: The four diagnostic methods were systematized by 扁鹊 (Bian Que), and were formally documented in classic texts like 《黄帝内经》 (Huangdi Neijing). The phrase "四诊合参" itself emphasizes synthesis.
+
+Why is it important?
+- Each method has limitations
+- Combining them prevents misdiagnosis
+- "舍脉从症" or "舍症从脉" - sometimes the doctor must decide which information to prioritize
+- Reflects the holistic view (整体观念) of TCM
+
+Let me structure the answer:
+1. Definition/overview
+2. The four methods briefly explained
+3. The significance of combining them (合参)
+4. Clinical significance
+
+The user wants about 400 characters (字). In Chinese, 400字 means 400 Chinese characters. I should aim for approximately that length - maybe 400-500 characters is acceptable. Let me write a well-organized response.
+
+Format considerations: Since this is an explanatory question about a TCM concept, I could use a structured format with a brief introduction, then explain the four methods, then explain the "合参" part. Using headers or a list for the four methods would make it clear. Given the 400-character requirement, I should be concise but comprehensive. Let me draft:
+
+---
+
+**四诊合参**是中医诊断学的基本原则，指望、闻、问、切四种诊法互相配合、综合分析，以全面判断疾病。
+
+**四诊内容：**
+- **望诊**：观察患者的神色、形态、舌象等，所谓"望而知之谓之神"。
+- **闻诊**：听声音（呼吸、言语、咳嗽）与嗅气味。
+- **问诊**：询问病史、症状、饮食起居等，是了解病情的重要途径。
+- **切诊**：包括切脉和按压触诊，通过脉象变化探知脏腑气血盛衰。
+
+**合参的意义：**
+单凭某一诊法往往信息片面，容易出现误诊。只有四诊并用、互相印证，才能准确辨别疾病的病因、病位、性质及正邪关系，从而为辨证论治提供可靠依据。例如患者脉象与症状不符时，医者需四诊合参，或"舍脉从症"，或"舍症从脉"，灵活判断。
+
+四诊合参体现了中医"整体观念"——将人体视为有机整体，并联系外界环境综合考察，是中医辨证的基石，也是历代医家强调的诊断规范。
+
+---
+
+Let me count roughly: this should be around 400-450 characters, which fits the requirement.
+
+Let me refine the content for accuracy:
+
+- 望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧 - this is from 《难经》
+- The four methods attribution to 扁鹊 is a traditional claim
+- 三部九候 - in pulse diagnosis
+- The concept is documented in 《黄帝内经》
+
+I think my draft is good. Let me finalize the formatting. Using bold headers and bullet points makes it readable. The length is appropriate.

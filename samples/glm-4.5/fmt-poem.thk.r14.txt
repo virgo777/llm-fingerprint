@@ -1,0 +1,66 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), with no explanation. In Chinese, a four-line poem typically refers to a 绝句 (jueju/quatrain) — either 五言绝句 (5 characters per line) or 七言绝句 (7 characters per line).
+
+Let me compose a classical-style poem about autumn night. Key imagery: moon, frost, autumn wind, leaves falling, geese, dew, stars, silence, osmanthus fragrance, crickets, etc.
+
+Let me write a 七言绝句 style poem:
+
+秋夜
+
+银汉无声玉露凉，
+一庭落叶掩流光。
+孤灯照壁人未寐，
+桂子香中月满廊。
+
+Let me check the imagery: Milky Way silent, jade dew cold; courtyard leaves falling hiding flowing light; lonely lamp on wall, person not yet asleep; osmanthus fragrance, moon fills the corridor.
+
+Or a 五言 version:
+
+月冷千山静，
+风清一叶秋。
+虫声随露落，
+孤梦满西楼。
+
+Let me refine. Try 七言:
+
+霜华满地月光寒，
+落叶萧萧夜未阑。
+雁字横空云外去，
+一帘幽梦枕边残。
+
+That's decent. Rhyme: 寒 (hán), 阑 (lán), 残 (cán) — rhyme in an/uan sounds, works.
+
+Or:
+
+金风瑟瑟入帘凉，
+桂影婆娑月满廊。
+夜半虫声惊客梦，
+一庭清露作秋霜。
+
+Rhyme: 凉 (liáng), 廊 (láng), 霜 (shuāng) — all -ang rhyme. Good.
+
+Line 1: Golden wind rustling enters the curtain, cool
+Line 2: Osmanthus shadows dancing, moon fills the corridor
+Line 3: At midnight, insect sounds startle the traveler's dream
+Line 4: A courtyard of clear dew becomes autumn frost
+
+Hmm, "惊客梦" then "作秋霜" — the flow is okay but slightly disjointed. Let me polish:
+
+秋风瑟瑟透衣凉，
+桂子飘香月满廊。
+夜半虫吟人未寐，
+一庭清露凝成霜。
+
+Line 4: dew condenses into frost — nice imagery of deepening autumn night. Rhyme: 凉、廊、霜 all -ang.
+
+Tonal pattern isn't strictly regulated but reads smoothly. The user asked for no explanation, so I should just give the poem, maybe with a title.
+
+Final:
+
+《秋夜》
+
+秋风瑟瑟透衣凉，
+桂子飘香月满廊。
+夜半虫吟人未寐，
+一庭清露凝成霜。
+
+That works. Format: title + four lines, no explanation. Should be concise.

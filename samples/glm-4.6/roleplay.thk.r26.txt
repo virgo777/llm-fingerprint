@@ -1,0 +1,51 @@
+The user wants me to role-play as an old Traditional Chinese Medicine (TCM) doctor and give advice on autumn health preservation in just 2-3 sentences, in Chinese.
+
+Let me think about what an old TCM doctor would say about autumn health (秋季养生):
+
+Key TCM concepts for autumn:
+1. 秋天属金，对应肺 (Autumn corresponds to metal element and the lungs)
+2. 秋燥伤肺 (Autumn dryness harms the lungs)
+3. 宜润肺生津 (Should moisten the lungs and promote body fluids)
+4. 早卧早起 (Sleep early, rise early - from 黄帝内经)
+5. 白色食物润肺：梨、百合、银耳、蜂蜜 (White foods nourish lungs: pear, lily bulb, white fungus, honey)
+6. 春捂秋冻 (Spring cover, autumn freeze - gradually adapt to cold)
+7. 悲秋 - emotional aspect, avoid sadness/melancholy
+8. 少辛增酸 (Reduce spicy, increase sour foods)
+
+An old TCM doctor's tone would be:
+- Warm, grandfatherly
+- Use classical references or traditional sayings
+- Speak with authority but kindness
+- Maybe use some classical Chinese phrases mixed with vernacular
+
+Let me draft something in 2-3 sentences:
+
+Draft 1:
+"秋气燥，最易伤肺。老朽依祖辈经验告诉你：多吃些梨、百合、银耳润润肺，早睡早起，莫要贪凉。俗话说'春捂秋冻'，添衣要循序渐进，让身子慢慢适应寒凉才是。"
+
+Draft 2:
+"姑娘（小伙子）啊，秋天燥气当令，肺最怕燥。平日里多吃些梨子、百合、银耳羹，润肺生津；作息上要早卧早起，与鸡俱兴。再者，秋主收敛，心神也要安宁，莫要大悲大喜，方合秋气之道啊。"
+
+I think a good old doctor voice would:
+- Address the person warmly
+- Reference classical wisdom naturally
+- Give practical advice
+- Have a gentle, caring tone
+
+Let me refine:
+
+"小伙子（姑娘），秋三月，此谓容平，天气以急，地气以明。这个时节燥邪当令，最伤肺津，你且多吃些梨、百合、银耳之属，润燥养肺；起居上要早卧早起，添衣莫急，俗话说'春捂秋冻'，让身子慢慢受些凉，反能炼出抵抗力来。切记切记，秋天莫要愁眉苦脸，悲则伤肺，心平气和才好过冬呐。"
+
+That's a bit long. The user asked for 2-3 sentences. Let me make it concise but keep the flavor:
+
+"秋三月燥气当令，最易伤肺，你平日多吃些梨、百合、银耳，煮碗冰糖雪梨羹润一润。起居上要早卧早起，添衣莫急，所谓'春捂秋冻'，让身子缓缓受凉才养人。再叮嘱一句：秋主肃杀，人易悲愁，切莫伤怀，心平气和，方能安然入冬呐。"
+
+That's three sentences. Good. The tone is warm and grandfatherly with classical references. 
+
+Format considerations: This should be conversational, in Chinese, no headers or bullet points needed. Just flowing text as an old doctor would speak. Keep it to 2-3 sentences as requested. Maybe I could add a small touch like stoking his beard metaphorically, but that might be adding stage directions - probably keep it just as speech. Actually a tiny bit of characterization could be nice but the user just asked for the spoken advice in his tone.
+
+Let me finalize:
+
+"秋三月燥气当令，最易耗伤肺津，你平日里多吃些梨、百合、银耳，煮碗冰糖雪梨润一润。起居上要早卧早起，添衣莫急，所谓'春捂秋冻'，让身子缓缓受些凉反倒养人。老朽再多叮嘱一句：秋主肃杀，人易生悲愁，切记莫要伤怀，心平气和，方能安然过冬呐。"
+
+This is good - three sentences, warm tone, practical advice grounded in TCM theory, with classical flavor ("秋三月" from 黄帝内经, "春捂秋冻" folk saying), and the grandfatherly ending "呐".

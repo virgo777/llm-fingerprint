@@ -1,0 +1,111 @@
+The user is asking in Chinese to write a four-line poem with the theme of autumn night, and they explicitly say "don't explain" (不要解释).
+
+So I should just write a four-line Chinese poem about autumn night without any explanation. Classical Chinese poetry (like jueju 绝句) typically has four lines. Let me compose one with autumn night imagery.
+
+Common autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (geese), 霜 (frost), 蟋蟀/寒蛩 (crickets), 梧桐 (wutong tree), 银 (silver/moonlight), 星 (stars).
+
+Let me write a proper quatrain with reasonable rhyme. A 七言绝句 (seven-character quatrain):
+
+凉露无声湿桂枝，
+一庭月色雁来时。
+西风夜半吹残梦，
+落叶敲窗人未知。
+
+Let me check rhyme: 枝 (zhī), 时 (shí), 知 (zhī) - all rhyme in -i. Good.
+
+Line meanings:
+1. Cool dew silently wets the osmanthus branches
+2. A courtyard full of moonlight when the geese arrive
+3. West wind at midnight blows away lingering dreams
+4. Falling leaves tap the window, unnoticed by the sleeper
+
+That's a nice autumn night poem. Alternatively:
+
+银汉迢迢秋夜长，
+梧桐叶落满庭霜。
+寒蛩不解离人意，
+声声啼到月如凉。
+
+Hmm, the first one is better. Let me refine:
+
+凉露无声湿桂枝，
+满庭月色雁归时。
+西风半夜惊残梦，
+落叶敲窗人未知。
+
+Actually "吹残梦" vs "惊残梦" — 惊 might be better for waking. But then "人未知" — if the dream is startled, then person wakes... Let me adjust: 西风半枕惊残梦，落叶敲窗灯影移? Hmm.
+
+Keep it simple:
+
+凉露无声湿桂枝，
+一庭明月雁归时。
+西风吹梦到天晓，
+落叶敲窗总不知。
+
+Hmm "总不知" — the person doesn't know because asleep. But 吹梦到天晓 means wind blows the dream till dawn... 
+
+Let me finalize:
+
+凉露无声湿桂枝，
+一庭明月雁归时。
+西风半枕惊残梦，
+落叶敲窗浑不知。
+
+Line 3: west wind on half a pillow startles the broken dream
+Line 4: falling leaves tap the window, wholly unknown (to the dreaming person)
+
+Rhyme: 枝、时、知 — good (all in 平水韵 四支: 枝、时、知 all in 支韵). 
+
+Tonal pattern check (roughly, 平仄):
+凉露无声湿桂枝: 平仄平平仄仄平 — good (仄起入韵 variant? Actually 凉 is 平, so 平仄平平仄仄平 — first char flexible).
+一庭明月雁归时: 仄平平仄仄平平 — hmm, standard should be 仄仄平平仄仄平. 一(仄)庭(平)明(平)月(仄)雁(仄)归(平)时(平): 仄平平仄仄平平. Not perfect but acceptable-ish for casual poetry. Actually for 平起入韵 first line 平平仄仄仄平平, second line 仄仄平平仄仄平. My second line is 仄平平仄仄平平 which doesn't match. Let me not over-fuss; most users won't check strict tonal rules, but I can try to improve.
+
+Better strict attempt, 平起首句入韵 pattern:
+平平仄仄仄平平
+仄仄平平仄仄平
+仄仄平平平仄仄
+平平仄仄仄平平
+
+Line 1: 凉天露冷桂枝垂? Hmm.
+
+Let me try:
+寒露无声湿桂枝 — 平仄平平仄仄平 (matches 平平仄仄仄平平 loosely? No)
+
+Alternative 仄起首句入韵:
+仄仄平平仄仄平
+平平仄仄仄平平
+平平仄仄平平仄
+仄仄平平仄仄平
+
+Line 1: 夜静寒露湿桂枝? 夜(仄)静(仄)寒(平)露(仄)... no.
+
+玉露无声湿桂枝: 仄仄平平仄仄平 ✓ (玉仄 露仄 无平 声平 湿仄(入声) 桂仄 枝平) — 湿 is 入声 so 仄. ✓
+Line 2 should be 平平仄仄仄平平: 庭前明月雁归时: 庭(平)前(平)明(平)... should be 仄仄. Hmm: 中庭月色雁来时: 中(平)庭(平)月(仄)色(仄)雁(仄)来(平)时(平) = 平平仄仄仄平平 ✓ 
+Line 3: 平平仄仄平平仄: 西风不管离人梦: 西(平)风(平)不(仄)管(仄)离(平)人(平)梦(仄) ✓
+Line 4: 仄仄平平仄仄平: 落叶敲窗客未知? 落(仄)叶(仄)敲(平)窗(平)客(仄)未(仄)知(平) ✓
+
+So:
+玉露无声湿桂枝，
+中庭月色雁来时。
+西风不管离人梦，
+落叶敲窗客未知。
+
+Hmm, line 3 "不管" feels slightly colloquial but it's fine in classical style (cf. 无情不管). Maybe 西风偏搅离人梦: 偏(平)搅(仄) — breaks pattern. 西风错认离人梦? Keep 不管.
+
+Actually simpler and evocative final version:
+
+玉露无声湿桂枝，
+中庭月冷雁来时。
+西风不解离人意，
+吹落梧桐叶叶迟? Hmm rhyme 迟 works but meaning odd.
+
+I'll go with:
+
+玉露无声湿桂枝，
+中庭月色雁来时。
+西风不管离人梦，
+落叶敲窗客未知。
+
+Good imagery: dew, osmanthus, moonlit courtyard, geese returning, west wind, dreams of the traveler, leaves tapping window. Coherent autumn night scene.
+
+The user said no explanation, so I'll output just the poem, perhaps with a title. A title is fine but they said don't explain — a title isn't explanation. I could add 《秋夜》 as title. Keep minimal. Just the poem, maybe with title. I'll include title 《秋夜》 on its own line then the four lines. That's acceptable and not an explanation.

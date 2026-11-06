@@ -1,0 +1,27 @@
+The user is asking for a cold joke (冷笑话) about programmers, in Chinese. Let me think of a good programmer joke.
+
+Classic programmer jokes in Chinese:
+
+1. 为什么程序员喜欢黑暗？因为光会产生bug (bugs)
+2. 一个程序员去买菜，妻子说："买一斤包子，如果看到卖西瓜的，买一个。" 程序员回来时买了一个包子。因为程序员把逻辑理解为：if (看到卖西瓜的) 买一个包子。
+3. 世界上有10种人，一种懂二进制，一种不懂。
+4. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+5. 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25（八进制的31等于十进制的25）
+
+The shopping one (买包子) is a classic and very funny cold joke. Let me tell that one, or maybe give one or two.
+
+Let me write it well:
+
+程序员的妻子对他说："下班回来的时候买十个包子，如果看到卖西瓜的，就买一个。"
+
+程序员回来了，手里拿着一个包子。
+
+妻子问："你怎么只买了一个包子？"
+
+程序员回答："因为我看到卖西瓜的了。"
+
+This is a great joke about how programmers interpret conditional logic literally - if (看到卖西瓜的) then 买一个 [包子].
+
+Maybe I could offer one joke and keep it concise. The format should be conversational, maybe with a small explanation of the punchline for those who don't get it, or leave it to the reader. Actually for 冷笑话, explaining might kill it, but a brief hint could help. Let me just tell the joke cleanly, maybe with emoji or formatting to make it flow.
+
+I'll keep it short and punchy. Maybe add a second bonus joke briefly? The user asked for "一个" (one), so one is fine. I could add a small wink at the end.

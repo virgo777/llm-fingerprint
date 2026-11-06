@@ -1,0 +1,82 @@
+The user is asking me to write a four-line poem in Chinese with the theme of autumn night, and they explicitly said not to explain.
+
+Let me compose a nice four-line Chinese poem about autumn night. Traditional Chinese poetry often uses imagery like the moon, frost, leaves falling, crickets, cool wind, stars, etc.
+
+Let me write a classical-style poem (七言绝句 or 五言绝句 format):
+
+Option 1 (七言 - seven characters per line):
+银汉无声秋露凉，
+梧桐叶落满庭霜。
+一轮明月窗前照，
+桂子飘香入梦长。
+
+Option 2 (五言 - five characters per line):
+秋夜月如霜，
+风轻桂子香。
+虫声侵冷枕，
+落叶满回廊。
+
+Let me refine option 1:
+银汉无声秋露凉 - The Milky Way is silent, autumn dew is cold
+梧桐叶落满庭霜 - Wutong leaves fall, courtyard covered in frost
+一轮明月窗前照 - A bright moon shines before the window
+桂子飘香入梦长 - Osmanthus fragrance drifts into long dreams
+
+That's decent. Let me check the rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) - all rhyme with -ang. Good.
+
+Line 3 ends with 照 (zhào) which doesn't rhyme - that's correct for classical quatrain form where lines 1, 2, 4 rhyme (or 2, 4 rhyme).
+
+Let me polish:
+银汉无声秋露凉，
+梧桐叶落月如霜。
+虫鸣唧唧侵孤枕，
+一缕桂香入梦长。
+
+Hmm, or keep it simpler:
+
+秋风瑟瑟夜微凉，
+月照庭前桂子香。
+落叶无声随露坠，
+星河耿耿雁南翔。
+
+Rhyme: 凉, 香, 翔 - all -ang/-iang. Good.
+
+Or:
+月挂疏桐夜未央，
+秋风暗送桂枝香。
+流萤几点随露灭，
+一枕清凉梦亦凉。
+
+Wait, 凉 repeats. Let me fix:
+月挂疏桐夜未央，
+秋风暗送桂枝香。
+流萤几点随露灭，
+落叶声中人倚窗。
+
+Rhyme: 央(yāng), 香(xiāng), 窗(chuāng) - all -ang. Good.
+
+Let me go with something clean:
+
+《秋夜》
+银汉迢迢秋气清，
+梧桐叶落月华明。
+虫声唧唧凉如水，
+一枕幽香梦不成。
+
+Rhyme: 清(qīng), 明(míng), 成(chéng) - all -ing/-eng rhyme group. Acceptable in modern reading.
+
+Actually let me finalize with the -ang rhyme version which flows well:
+
+秋夜
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+月移花影窗前过，
+一缕桂香入梦长。
+
+Rhyme: 凉, 霜, 长. 
+Line 3: 月移花影窗前过 - moon moves flower shadows past the window
+Line 4: 一缕桂香入梦长 - a wisp of osmanthus fragrance enters long dreams
+
+This is nice and classical. The user said no explanation, so I'll just present the poem, maybe with a title.
+
+Format: Just the poem, perhaps a title 《秋夜》. Keep it minimal per the request.

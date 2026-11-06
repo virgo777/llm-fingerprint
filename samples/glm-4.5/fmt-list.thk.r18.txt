@@ -1,0 +1,64 @@
+The user is asking me to explain things to pay attention to when drinking water daily, using three points. The request is in Chinese, so I should respond in Chinese.
+
+This is a simple, practical health question. Let me think about the most important points about daily water drinking:
+
+1. 不要等口渴才喝水 - The body is already mildly dehydrated when you feel thirsty
+2. 水温要适宜 - Avoid ice-cold or overly hot water
+3. 喝水要少量多次 - Don't gulp large amounts at once
+4. 不要用饮料代替白开水
+5. 早晨起床后喝一杯水
+6. 睡前不宜大量饮水
+
+The user asked for exactly three points (三点), so I should pick the three most important/practical ones:
+
+1. **少量多次，不要等口渴才喝** - Drink in small amounts frequently, don't wait until thirsty
+2. **水温适宜** - Water temperature should be moderate (warm/room temperature)
+3. **首选白开水，少喝饮料** - Plain water is best, avoid replacing with sugary drinks
+
+Or alternatively:
+1. 不要等口渴才喝水
+2. 少量多次饮用
+3. 水温适宜，避免过冷过热
+
+Let me structure this well. The user wants exactly three points, so I'll use a numbered list format. Each point should have a clear heading and brief explanation.
+
+Format considerations:
+- Should be in Chinese
+- Three numbered points as requested
+- Each point with a brief explanation
+- Not too long - this is a simple practical question
+- Could use bold headers for each point for clarity
+
+Let me draft:
+
+**1. 少量多次，不要等口渴才喝**
+感到口渴时身体其实已经处于轻微缺水状态。建议全天分散饮水，每次100-200毫升左右，约每隔1-2小时喝一次。
+
+**2. 水温适宜，避免过冷过热**
+太冰的水会刺激肠胃，可能引起不适；过烫的水（超过65°C）会损伤口腔和食道黏膜。温开水（20-40°C左右）最理想。
+
+**3. 白开水为主，少用饮料代替**
+含糖饮料、浓茶、咖啡不能代替白水，过量摄入糖分或咖啡因反而对健康不利。晨起一杯温开水有助于唤醒肠胃、促进代谢。
+
+This is good. Concise, practical, exactly three points. Maybe I can add a small closing note about daily water intake amount, or keep it clean with just three points. The user asked for three points specifically, so I'll keep the main content to three points but could add a brief practical tip at the end.
+
+Actually, let me reconsider which three points are most valuable:
+
+Option A:
+1. Don't wait until thirsty
+2. Small amounts frequently
+3. Right temperature
+
+Option B:
+1. Don't wait until thirsty + drink regularly
+2. Right temperature
+3. Plain water over beverages
+
+I think combining "don't wait until thirsty" with "small frequent amounts" makes sense as they're related to drinking rhythm. Then temperature and beverage choice are the other two. That covers the most essential advice.
+
+Final structure:
+- Brief intro (one sentence)
+- Three numbered points with bold headers and 1-2 sentences each
+- Maybe a very brief closing tip about total daily intake (~1500-1700ml per Chinese dietary guidelines)
+
+Length should be moderate - not too long. This is a simple question deserving a clear, helpful answer.

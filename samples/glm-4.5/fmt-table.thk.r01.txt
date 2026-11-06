@@ -1,0 +1,15 @@
+The user is asking me to list the Four Great Classical Novels of Chinese literature (中国四大名著) in a table format with book titles and authors.
+
+The Four Great Classical Novels of China are:
+1. 《三国演义》 - 罗贯中
+2. 《水浒传》 - 施耐庵
+3. 《西游记》 - 吴承恩
+4. 《红楼梦》 - 曹雪芹 (Cao Xueqin, with the last 40 chapters often attributed to 高鹗/程伟元)
+
+Let me create a clean table in Chinese since the user asked in Chinese. I should include:
+- 书名
+- 作者
+
+I could add some additional helpful details like the dynasty/period, but the user specifically asked for 书名与作者, so I should keep it focused on those two columns. Maybe I can add a brief note or additional context if helpful, but the core should be the table with title and author.
+
+Format: A markdown table is explicitly requested ("用表格"). I'll respond in Chinese since the question is in Chinese. Keep it concise - a table plus perhaps a brief note about the attribution nuances (like 红楼梦's continuation by Gao E) could be helpful but shouldn't be too long.

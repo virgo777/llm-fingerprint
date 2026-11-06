@@ -1,0 +1,58 @@
+The user wants a four-line poem about autumn night (秋夜), in Chinese, and explicitly says no explanation. So I should just write the poem, nothing else.
+
+Let me compose a classical Chinese quatrain (绝句) about autumn night. Traditional style would be nice - perhaps 5-character or 7-character lines.
+
+Let me think of imagery: moon, dew, osmanthus (桂花), crickets (蟋蟀/寒蛩), frost, wutong leaves (梧桐), cold stars, west wind.
+
+A 7-character quatrain:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一声雁过秋千里，
+月到中天桂子香。
+
+Let me check the rhyme: 凉 (liáng), 霜 (shuāng), 香 (xiāng) - all rhyme in -ang. Good.
+
+Line meanings:
+- The Milky Way is silent, jade dew is cold
+- Wutong leaves fall, frost covers the courtyard
+- A goose cry passes, autumn spans a thousand li
+- The moon reaches mid-sky, osmanthus fragrance
+
+That's decent. Maybe refine: "一声雁过秋千里" - a goose flying over with autumn stretching a thousand miles. Good.
+
+Alternative:
+金风萧瑟入罗帏，
+月冷蛩声夜渐微。
+梧叶飘零霜满地，
+一庭秋色伴人归。
+
+Hmm, first version is better. Let me polish:
+
+银汉无声玉露凉，
+梧桐叶上落清霜。
+雁声掠过秋千里，
+月满中庭桂子香。
+
+Actually "落清霜" - frost falling on wutong leaves. Fine.
+
+Or keep original. Let me finalize:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+雁声掠过三千里，
+月满中庭桂子香。
+
+Hmm, "雁声掠过三千里" - goose cries sweeping three thousand li. Or "一雁横空秋万里" 
+
+Final:
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一声雁唳秋空阔，
+月满中庭桂子香。
+
+Tonal patterns for 七绝: not strictly required by user, but let me not overthink. The poem reads smoothly.
+
+"一声雁唳秋空阔" - a goose's cry, the autumn sky vast. Good.
+
+Just output the poem, no explanation as requested.

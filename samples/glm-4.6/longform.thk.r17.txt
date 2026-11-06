@@ -1,0 +1,27 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), with approximately 400 characters. This is a request in Chinese about traditional Chinese medicine concepts.
+
+四诊合参 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation
+2. 闻诊 (Wén zhěn) - Listening and Smelling
+3. 问诊 (Wèn zhěn) - Inquiry/Questioning
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation
+
+The concept emphasizes that these four methods should be used together, not in isolation, to form a comprehensive diagnosis.
+
+Let me write a detailed explanation in Chinese, around 400 characters:
+
+四诊合参是中医诊断学的基本原则，指望、闻、问、切四种诊法综合运用、互相参照，全面收集病情资料，作出正确判断。
+
+望诊：医生运用视觉观察患者的神、色、形、态、舌象等，其中"望神"最为重要，所谓"望而知之谓之神"。
+
+闻诊：包括听声音和嗅气味，听患者的语声、呼吸、咳嗽等，嗅其口气、体味等异常气味。
+
+问诊：通过询问了解患者的起病原因、病程、症状、既往病史、生活习惯等，是了解病情的重要途径，所谓"问而知之谓之工"。
+
+切诊：包括脉诊和按诊。脉诊即切脉，通过触摸桡动脉搏动，辨别脉象（如浮、沉、迟、数等28种脉象）；按诊是触摸按压患者的肌肤、脘腹等部位。
+
+四诊合参强调"四诊并重、不可偏废"。因每一诊法只能反映病情的某一方面，单凭某一诊法容易导致误诊。只有将四诊获得的资料综合分析、互相印证，从整体上把握疾病的本质，才能作出准确的辨证诊断，为治疗提供依据。这体现了中医整体观念和辨证论治的精髓。
+
+Let me count the characters and refine this. The response should be around 400 Chinese characters. Let me structure it well with the four methods explained and the principle of combining them.
+
+Format considerations: The user wants about 400 characters (字), so I should keep it concise but informative. Using a structured format with brief explanations of each diagnostic method plus the overall principle would be appropriate. I could use a short intro, then the four methods, then the significance of combining them. Headers might be too much for 400 characters; I could use a flowing structure with the four methods clearly delineated.

@@ -1,0 +1,18 @@
+The user asks to calculate 17×23+45÷9 with complete steps. Let me solve this.
+
+17 × 23 = ?
+17 × 23 = 17 × 20 + 17 × 3 = 340 + 51 = 391
+
+45 ÷ 9 = 5
+
+391 + 5 = 396
+
+Following order of operations: multiplication and division first, then addition.
+
+Let me present the complete process:
+- Step 1: Calculate 17×23 = 391
+  - Detail: 17×23 = 17×(20+3) = 340+51 = 391
+- Step 2: Calculate 45÷9 = 5
+- Step 3: 391+5 = 396
+
+The answer is 396.

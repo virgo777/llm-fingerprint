@@ -1,0 +1,98 @@
+The user is asking me to write a four-line poem about autumn night (秋夜), in Chinese, without explanation.
+
+Let me compose a classical Chinese poem about autumn night. A four-line poem would typically be a 绝句 (jueju) - either 五言绝句 (five-character quatrain) or 七言绝句 (seven-character quatrain).
+
+Let me write a 七言绝句 (seven-character quatrain) about autumn night:
+
+Some imagery for autumn night:
+- 月 (moon)
+- 桂 (osmanthus)
+- 露 (dew)
+- 雁 (wild geese)
+- 梧桐 (wutong/parasol tree)
+- 蛩/蟋蟀 (crickets)
+- 霜 (frost)
+- 银河 (Milky Way)
+- 灯 (lamp)
+
+Let me try:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一声雁过秋千里，
+月照西窗桂子香。
+
+Let me check the rhyme: 凉 (liáng), 霜 (shuāng), 香 (xiāng) - all rhyme in -ang. Good.
+
+Line by line:
+1. 银汉无声玉露凉 - The Milky Way is silent, jade dew is cold
+2. 梧桐叶落满庭霜 - Wutong leaves fall, the courtyard covered in frost
+3. 一声雁过秋千里 - A single goose cry crosses a thousand miles of autumn
+4. 月照西窗桂子香 - Moonlight shines on the west window, osmanthus fragrance drifts
+
+This flows nicely. Let me refine the tonal patterns (平仄) a bit:
+
+银汉无声玉露凉 - 平仄平平仄仄平
+梧桐叶落满庭霜 - 平平仄仄仄平平
+一声雁过秋千里 - 仄平仄仄平平仄
+月照西窗桂子香 - 仄仄平平仄仄平
+
+Hmm, let me check more carefully:
+银(平)汉(仄)无(平)声(平)玉(仄)露(仄)凉(平) - 平仄平平仄仄平 - this works as 仄起平收 variant... actually 平仄脚.
+
+Standard patterns for 七绝 (平起首句入韵):
+平平仄仄仄平平
+仄仄平平仄仄平
+仄仄平平平仄仄
+平平仄仄仄平平
+
+Or (仄起首句入韵):
+仄仄平平仄仄平
+平平仄仄仄平平
+平平仄仄平平仄
+仄仄平平仄仄平
+
+Let me adjust to fit 仄起:
+Line 1: 仄仄平平仄仄平
+玉露无声桂子凉? 仄仄平平仄仄平 - 玉(仄)露(仄)无(平)声(平)桂(仄)子(仄)凉(平) ✓
+
+Line 2: 平平仄仄仄平平
+梧桐叶落满庭霜 - 梧(平)桐(平)叶(仄)落(仄)满(仄)庭(平)霜(平) - 平平仄仄仄平平 ✓ (满 is 仄, good)
+
+Line 3: 平平仄仄平平仄
+一声雁过秋千里 - 一(仄)声(平)雁(仄)过(仄)秋(平)千(平)里(仄) - 仄平仄仄平平仄 - first character flexible, so this works ✓
+
+Line 4: 仄仄平平仄仄平
+月照西窗桂子香 - 月(仄)照(仄)西(平)窗(平)桂(仄)子(仄)香(平) - 仄仄平平仄仄平 ✓
+
+But if I use 桂子 in line 1 and 桂子 in line 4, that's repetition. Let me change line 1:
+
+玉露无声夜气凉 - 玉(仄)露(仄)无(平)声(平)夜(仄)气(仄)凉(平) ✓
+
+So:
+
+玉露无声夜气凉，
+梧桐叶落满庭霜。
+一声雁过秋千里，
+月照西窗桂子香。
+
+Hmm, "秋千里" - a goose cry crossing a thousand miles of autumn. That's evocative.
+
+Actually, let me reconsider line 3. 一声雁过秋千里 - this has nice flow. Or 雁字横空秋万里? 
+
+一(仄)声(平)雁(仄)过(仄)秋(平)千(平)里(仄) - fits the pattern.
+
+Alternative line 3: 忽闻雁字南飞去? Let me keep the original - it's poetic.
+
+Actually "一声雁过" is nice - the sudden sound of a goose flying past emphasizes the silence of the night.
+
+Final poem:
+
+玉露无声夜气凉，
+梧桐叶落满庭霜。
+一声雁过秋千里，
+月照西窗桂子香。
+
+The user said "不要解释" (no explanation), so I should just present the poem without any commentary. Just the four lines.
+
+Format: Just the poem, four lines, no explanation as requested. Simple and clean.

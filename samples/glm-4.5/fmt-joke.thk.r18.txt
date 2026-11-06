@@ -1,0 +1,44 @@
+The user is asking me to tell a cold joke (冷笑话, which in Chinese refers to a pun-based or groan-worthy joke, similar to a "dad joke" in English) about programmers. This is a lighthearted, creative request in Chinese.
+
+I should respond in Chinese since the request is in Chinese. Let me think of some good programmer jokes:
+
+Classic programmer jokes:
+1. 为什么程序员分不清万圣节和圣诞节？因为 Oct 31 == Dec 25 (八进制的31等于十进制的25)
+
+2. 一个程序员去买菜，妻子说："买一斤包子，如果看到卖西瓜的，买一个。" 程序员回来时买了一个包子。妻子问为什么，他说："因为我看到了卖西瓜的。" - This is a classic one about conditional logic!
+
+3. 程序员最讨厌的四件事：写注释、写文档、别人不写注释、别人不写文档。
+
+4. 世界上有10种人，一种懂二进制，一种不懂。
+
+5. 为什么程序员总是分不清圣诞节和万圣节？因为 Oct 31 == Dec 25
+
+6. 一个程序员在上班路上被妻子打电话："老公，路上买十个包子，如果看到卖西瓜的，就买一个。" 程序员回家只买了一个包子，妻子问为什么，他说："因为我看到卖西瓜的了。" - This is probably the most classic Chinese programmer joke about if-then logic.
+
+7. 程序员的妻子让他去超市："买一斤包子，如果看到卖土豆的，买两个。" 程序员买了两个包子回来...
+
+8. 为什么程序员喜欢暗色模式？因为光会吸引bug（虫子）。- Light attracts bugs!
+
+Let me pick the best one. The "买包子" joke is a classic Chinese programmer joke that plays on the literal interpretation of conditional logic. It's very fitting for a 冷笑话 request.
+
+Or the bug one: 为什么程序员喜欢关灯工作？因为光会招bug（虫子）。This is a pun on "bug" meaning both insect and software error.
+
+Actually, let me go with the 买包子 one as it's the most classic and well-loved. Or I could tell one and maybe offer another.
+
+Format: The response should be conversational, in Chinese, and appropriately short for a joke. I could tell one joke with proper setup and punchline. Maybe add a small emoji or light touch. Keep it brief and punchy - jokes shouldn't be over-explained, though 冷笑话 sometimes benefit from a tiny wink at the end.
+
+Let me craft it:
+
+程序员的老婆对他说："下班买一斤包子回来，如果看到卖西瓜的，就买一个。"
+
+程序员晚上回家，手里拿着一个包子。
+
+老婆怒问："怎么就买了一个包子？！"
+
+程序员委屈地说："因为我看到卖西瓜的了。"
+
+That's the classic. Should I explain it? A true 冷笑话 connoisseur might appreciate not explaining, but adding a tiny note could help. Actually, the joke is self-explanatory to anyone who thinks about it - the programmer literally executed the if-then statement. Maybe I don't need to explain it, or I could add a tiny wink.
+
+I could also offer to tell more. Let me keep it clean and simple. Maybe add a second bonus joke or just leave it at one. One well-delivered joke is probably better. I might add a light closing line.
+
+Format considerations: Short, conversational, maybe use line breaks for comedic timing. No headers or lists needed. Chinese language throughout.

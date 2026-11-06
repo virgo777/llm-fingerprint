@@ -1,0 +1,44 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), with about 400 characters/words.
+
+Let me think about this topic:
+
+四诊合参  refers to the comprehensive analysis of the four diagnostic methods in TCM:
+1. 望  - Inspection/Observation: observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻  - Listening and Smelling: listening to the patient's voice, breathing, coughing, and smelling odors
+3. 问  - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切  - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+The concept of 四诊合参 emphasizes that these four methods should not be used in isolation but should be combined and cross-verified to form a comprehensive understanding of the patient's condition. This is fundamental to 辨证论治.
+
+Key points to include:
+- Origin: The concept traces back to ancient texts like 《黄帝内经》 and was systematized in 《难经》 which stated "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧" (knowing by looking is called divine, by listening is called sage, by asking is called skilled, by pulse-taking is called clever)
+- Each diagnostic method's content
+- Why they must be combined: each method has limitations; only by combining can a complete picture emerge
+- The principle: 证 - syndrome differentiation requires comprehensive information
+- Modern significance
+
+The user wants about 400 characters (字). In Chinese, 400字 means 400 Chinese characters, which is a moderate-length explanation. I should structure this well.
+
+Let me draft:
+
+四诊合参是中医学诊断疾病的基本原则和方法论，指医生运用望、闻、问、切四种诊法全面收集患者的临床信息，并将所得资料综合分析、相互参照，从而对病情作出准确判断。
+
+**四诊的内容：**
+
+1. **望诊**：通过观察患者的神、色、形、态及舌象等，了解整体状况。望诊居四诊之首，"望而知之谓之神"。
+
+2. **闻诊**：包括听声音（语言、呼吸、咳嗽等）和嗅气味两个方面。
+
+3. **问诊**：通过询问了解患者的症状、病史、饮食起居等，是获取病情资料的重要途径。
+
+4. **切诊**：包括脉诊和按诊，通过触按脉搏和身体特定部位，探查内在病变。
+
+**合参的意义：**
+
+四诊各有侧重，也各有局限。单一诊法获得的信息往往片面，甚至可能出现"脉证不符"的情况。只有将四诊所收集的信息相互印证、综合分析，去伪存真，才能全面把握疾病的本质，为辨证论治提供可靠依据。这一思想源于《黄帝内经》《难经》，体现了中医整体观念，是中医诊断学的核心原则。
+
+Let me count roughly... This should be around 400 characters. Let me refine it.
+
+Format considerations: The user asked for a detailed introduction of about 400 characters. Using headers and structure would make it clear. Since this is an educational/informational request in Chinese, I should respond in Chinese. A structured format with some organization would be appropriate - maybe brief intro, the four methods, and the significance. Markdown formatting with bold or numbered lists could work well here since it's likely rendered in a chat interface.
+
+Let me finalize the response at approximately 400 Chinese characters.

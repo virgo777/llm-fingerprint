@@ -1,0 +1,42 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters, in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 - observing the patient's appearance, complexion, tongue, body shape, spirit (神), etc.
+2. 闻诊 - listening to sounds (voice, breathing, coughing) and smelling odors
+3. 问诊 - asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 - pulse diagnosis (脉诊) and palpation (按诊)
+
+合参 means combining and synthesizing all the information from these four methods to make a comprehensive diagnosis.
+
+Key points to cover:
+- The origin: This concept comes from classic TCM texts, particularly 《黄帝内经》 and 《难经》. The famous saying "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧" from 《难经》
+- Each of the four methods briefly explained
+- Why combining them is important: each method has limitations; only by integrating all information can one get a complete picture (辨证论治 basis)
+- The principle: 中医强调"四诊合参"，不可偏废 - one shouldn't rely on just one method
+- The purpose: to conduct 辨证 for treatment
+
+Let me draft this in about 400 Chinese characters:
+
+四诊合参是中医学的基本诊断原则，指医生综合运用望、闻、问、切四种诊法收集病情资料，并相互参照、全面分析，从而对疾病作出正确判断的过程。
+
+望诊，是观察患者的神、色、形、态及舌象等，如望面色之荣枯、舌苔之厚薄，以推断脏腑气血的变化；闻诊，包括听声音与嗅气味，通过语言、呼吸、咳嗽的声音及口气、体气等判断病性；问诊，是询问患者的症状、病史、饮食起居及既往治疗情况，是了解病情的重要途径；切诊，即脉诊与按诊，通过触按脉搏和身体部位，探察脏腑气血的盛衰。
+
+四诊各有侧重，也各有局限：单凭某一诊法往往信息不全，甚至误判。故中医强调"四诊合参，不可偏废"。只有将四诊所获资料综合分析、彼此印证，去伪存真，才能全面把握疾病的病因、病位与病性，为辨证论治提供可靠依据。这一原则体现了中医整体观念，是中医临床诊断的核心方法。
+
+Let me count roughly: This is around 380-400 characters, which fits the requirement.
+
+Let me refine:
+
+四诊合参是中医学的基本诊断原则，指医生综合运用望、闻、问、切四种诊法收集病情资料，相互参照、全面分析，从而对疾病作出正确判断。
+
+望诊是观察患者的神、色、形、态与舌象，如面色荣枯、舌苔厚薄，以推断脏腑气血盛衰；闻诊包括听声音与嗅气味，通过语声、呼吸、咳嗽及口气、体味判断病变；问诊是询问症状、病史、饮食起居等，为"诊病之要领，临证之首务"；切诊即脉诊与按诊，通过触按脉象和肌肤、脘腹等部位，探察内在变化。
+
+四诊各有侧重，又各有局限，单一诊法难以全面反映病情，故中医强调"四诊合参，不可偏废"。临证时须将四诊所获资料彼此印证、综合分析，去伪存真，才能准确把握疾病的病因、病位、病性与邪正关系，为辨证论治提供可靠依据。四诊合参充分体现了中医的整体观念，是中医临床诊断学的核心原则与基本方法。
+
+This is good. Let me count more carefully. Roughly 400 characters. 
+
+Format: Should I use paragraphs? Yes, 3 paragraphs makes sense: definition, explanation of four methods, significance of combining. Could also use a brief structure. Given the request for ~400 characters, plain prose in 3 paragraphs is appropriate. Maybe I could use slight formatting like bold for the four diagnostic names to aid readability, but since it's a short essay-style answer, flowing prose with clear paragraph structure works well. The question seems like it might be for study purposes (exam answer), so prose format is good. I'll keep it as coherent prose, possibly with minimal markdown.
+
+I'll present it in three paragraphs as written above.

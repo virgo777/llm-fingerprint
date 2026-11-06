@@ -1,0 +1,30 @@
+The user wants a four-line poem about an autumn night (秋夜), in Chinese, without explanation. Let me compose a classical-style quatrain (绝句) about autumn night.
+
+Let me think about imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 落叶 (falling leaves), 霜 (frost), 蟋蟀/寒蛩 (crickets), 银河 (Milky Way), etc.
+
+Let me try to write a nice quatrain with proper structure. A 七言绝句 (seven-character quatrain):
+
+秋夜
+
+金风拂桂暗香浮，
+银汉无声月满楼。
+一枕虫声凉似水，
+满庭霜叶落清秋。
+
+Let me check: 
+- 金风拂桂暗香浮 (autumn wind brushes osmanthus, hidden fragrance floats)
+- 银汉无声月满楼 (Milky Way silent, moonlight fills the tower)
+- 一枕虫声凉似水 (pillowed on insect sounds, cool as water)
+- 满庭霜叶落清秋 (courtyard full of frost leaves falling in clear autumn)
+
+Rhyme: 浮 (fú), 楼 (lóu), 秋 (qiū) — 浮、楼、秋 rhyme in the "尤" rhyme group (ou/iu sounds). 浮 is fóu in old pronunciation, belongs to 尤韵. Good.
+
+Tonal pattern check (roughly):
+金风拂桂暗香浮: 平平仄仄仄平平 — acceptable
+银汉无声月满楼: 平仄平平仄仄平 — acceptable
+一枕虫声凉似水: 仄仄平平平仄仄 — acceptable
+满庭霜叶落清秋: 仄平平仄仄平平 — acceptable
+
+This is decent. The user asked not to explain, so I should just give the poem. Maybe with a title. No explanation.
+
+Just output the poem.

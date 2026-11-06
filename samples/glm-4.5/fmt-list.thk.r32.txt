@@ -1,0 +1,37 @@
+The user is asking me to explain daily drinking water precautions using three points, in Chinese. This is a simple health/wellness question. Let me think about what three important points about daily water drinking habits would be most useful.
+
+Key considerations for daily water drinking:
+1. Amount of water - drink adequate amounts (about 1500-2000ml per day for adults)
+2. Timing - don't wait until thirsty, spread throughout the day; avoid drinking too much at once
+3. Temperature - avoid drinking very cold or very hot water; warm/room temperature is best
+4. Quality of water - safe drinking water
+5. Don't substitute with sugary drinks
+6. Special situations - before/after exercise, morning water, before bed (limit)
+
+The user wants THREE points. Let me pick the three most important and practical ones:
+
+1. 主动喝水，不要等口渴才喝 - when you feel thirsty, you're already mildly dehydrated. Adults should drink about 1500-1700ml per day, spread evenly throughout the day.
+
+2. 少量多次，不要一次猛灌 - drinking too much water at once can burden the kidneys and cause water intoxication in extreme cases.
+
+3. 注意水温，喝温开水为宜 - avoid ice-cold water which can irritate the GI tract, and very hot water (above 65°C) which may increase risk of esophageal damage/cancer.
+
+Alternatively, I could include:
+- 白开水是最好的选择，少喝含糖饮料
+
+Let me structure this well. I'll give three clear points with brief explanations for each. The response should be in Chinese since the question is in Chinese.
+
+Format: Since they asked for three points, a numbered list format is appropriate. Each point should have a clear heading and a brief explanation. Not too long - this is a simple informational request. I could use bold for the point titles.
+
+Let me draft:
+
+**1. 主动适量饮水，不要等口渴才喝**
+口渴时身体已经处于轻度缺水状态。成年人每天建议饮水1500~1700毫升（约7-8杯），应分散在一天各个时段，晨起一杯温水有助于补充夜间流失的水分。
+
+**2. 少量多次，避免一次性大量饮水**
+一次喝太多水会加重肾脏和心脏负担，还可能稀释血液中的电解质。建议每次喝100~200毫升，细水长流地补水。
+
+**3. 水温适宜，首选白开水**
+过烫的水（超过65℃）可能损伤食道黏膜，过冰的水则刺激肠胃。温开水（20~40℃左右）最理想。同时尽量以白开水为主，少用含糖饮料代替。
+
+This is good. Concise, practical, three clear points. Length seems appropriate for the question - not too long, covers the essentials.

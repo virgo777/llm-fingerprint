@@ -1,0 +1,69 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), with no explanation. This is in Chinese, so I should write a classical Chinese poem with four lines.
+
+Let me compose a nice classical-style four-line poem about autumn night. Traditional Chinese quatrains (绝句) are typically 5 or 7 characters per line.
+
+Let me think about autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 霜 (frost), 梧桐 (wutong tree), 虫鸣 (insect sounds), 寒 (cold), 星 (stars), 桂花 (osmanthus flowers), 砧声 (sound of washing clothes), etc.
+
+Let me try a 7-character quatrain:
+
+桂影摇窗月满楼，
+梧桐叶落露华秋。
+一声雁过寒星远，
+清梦无端到白头。
+
+Hmm, let me refine. Or a 5-character one:
+
+月冷桂香浮，
+虫声入户幽。
+梧桐惊落叶，
+疑是故人秋。
+
+Let me write something elegant:
+
+七言绝句：
+银汉迢迢夜色凉，
+一庭桂影浸流光。
+虫声唱彻梧桐月，
+露染秋衣不肯霜。
+
+Hmm, let me polish:
+
+月洗梧桐夜气清，
+一帘桂影伴虫声。
+西风不解人间事，
+吹落繁星到五更。
+
+That's nice. Let me check rhyme: 清 (qīng), 声 (shēng), 更 (gēng) - these rhyme in modern Mandarin (eng/ing close enough, in classical they're in 庚/清 rhyme groups which rhyme). Actually 清 is 庚韵 (or 清韵), 声 is 庚韵, 更 is 庚韵. Good rhyme.
+
+Line 3: 西风不解人间事 - the west wind doesn't understand human affairs
+Line 4: 吹落繁星到五更 - blows falling stars until the fifth watch
+
+Let me refine line by line:
+- 月洗梧桐夜气清 - moon washes the wutong, night air is clear
+- 一帘桂影伴虫声 - a curtain of osmanthus shadows accompanies insect sounds
+
+Maybe better: 半帘桂影乱虫声
+
+Final version:
+
+月洗梧桐夜气清，
+半帘桂影乱虫声。
+西风不解离人意，
+吹落寒星到五更。
+
+Hmm "不解离人意" adds melancholy. Or keep it simple with autumn night theme:
+
+月洗梧桐夜气清，
+半帘桂影乱虫声。
+西风漫卷阶前叶，
+吹落寒星到五更。
+
+Check tonal patterns (平仄) roughly - not strictly required, but let's see:
+月洗梧桐夜气清: 仄仄平平仄仄平 ✓
+半帘桂影乱虫声: 仄平仄仄仄平平 - hmm, should be 平平仄仄仄平平. 半 is 仄. Could use 一帘: 一 is 仄 (入声). 帘 is 平. "一帘" = 仄平... Position 1 can be flexible (一三五不论). So 半帘 (仄平) at positions 1-2 — position 2 must be 平, 帘 is 平. OK fine.
+西风漫卷阶前叶: 平平仄仄平平仄 ✓
+吹落寒星到五更: 平仄平平仄仄平 ✓ (position 2 落 is 仄, should be 仄 — pattern is 仄仄平平仄仄平... wait after 平平仄仄平平仄 comes 仄仄平平仄仄平. 吹落寒星到五更: 平仄平平仄仄平. Position 2 落 仄 ✓. Good enough.)
+
+The user asked for no explanation, so I should just give the poem. Maybe with a title? A title like 《秋夜》 would be appropriate. Keep it minimal.
+
+Format: Just the poem, perhaps with a title. No explanation as requested. Short response.

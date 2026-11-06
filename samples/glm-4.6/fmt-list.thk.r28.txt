@@ -1,0 +1,31 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Explain the precautions for daily drinking water in three points."
+
+This is a simple health information request. The user wants three points about precautions/things to pay attention to when drinking water in daily life.
+
+Let me think about the most important points for daily water drinking:
+
+1. **水温适宜** (Appropriate water temperature) - Avoid drinking too hot or too cold water. Very hot water (>65°C) can damage the esophagus and increase cancer risk. Ice-cold water can irritate the stomach.
+
+2. **少量多次,不要等口渴才喝** (Drink small amounts frequently, don't wait until you're thirsty) - By the time you feel thirsty, you're already slightly dehydrated. It's better to drink water regularly throughout the day. Also, don't gulp large amounts at once, especially after exercise.
+
+3. **不要用饮料代替白开水** (Don't replace plain water with sugary drinks) - Beverages like soda, juice contain sugar and additives which aren't good substitutes for water.
+
+Other possible points:
+- 晨起喝一杯温水
+- 睡前不要喝太多水
+- 饭前饭后不宜大量饮水
+- 剧烈运动后不要立即大量喝水
+
+The user asked for exactly three points, so I should give three clear, well-explained points.
+
+Format considerations: The user asked for three points (三点), so a numbered list format makes sense. Each point should have a brief heading and a short explanation. This should be in Chinese since the question is in Chinese. The response should be concise but informative - not too long. Maybe 100-200 words in Chinese would be appropriate.
+
+Let me draft:
+
+1. **少量多次,不要等口渴才喝** - 口渴时身体已处于轻度缺水状态,建议全天分次饮水,每次100-200毫升,避免一次性大量猛灌,以免加重心脏和肾脏负担。
+
+2. **水温要适宜** - 以温开水(20-40℃左右)为佳。过烫的水(超过65℃)会损伤口腔和食道黏膜,长期可能增加食道病变风险;过冰的水则易刺激肠胃,引起不适。
+
+3. **不要用饮料代替白开水** - 含糖饮料、咖啡、浓茶等不能替代白水,过多摄入糖分和添加剂不利健康,日常补水仍以白开水或淡茶水为最佳选择。
+
+This covers the most practical and important points. The format is clear with bold headings and brief explanations. I could add a tiny closing note but it's not necessary. Actually, a brief closing line could be nice but optional. I'll keep it clean with just the three points, maybe with a one-line intro or not even that. Let me keep it simple - just the three numbered points.

@@ -1,0 +1,75 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), in Chinese, and explicitly says no explanation needed.
+
+Let me write a classical Chinese quatrain (绝句) about autumn night. Traditional Chinese poetry typically follows 5-character or 7-character lines. Let me craft something with autumn night imagery: moon, frost, leaves, insects (crickets), osmanthus, etc.
+
+Let me try a 7-character quatrain:
+
+秋夜
+
+银汉无声月满楼，
+梧桐叶落露初流。
+寒蛩不解思乡意，
+一夜啼霜到白头。
+
+Hmm, let me refine. Let me think about tonal patterns and rhyme.
+
+Option:
+月冷霜华满小楼，
+梧桐疏影伴虫幽。
+西风不解离人意，
+吹落相思一叶秋。
+
+Rhyme: 楼 (lóu), 幽 (yōu), 秋 (qiū) — all in the 尤 rhyme group. Good.
+
+Let me check meaning:
+- 月冷霜华满小楼 — The cold moon's frost fills the small tower
+- 梧桐疏影伴虫幽 — Sparse shadows of wutong trees accompany the quiet insects
+- 西风不解离人意 — The west wind doesn't understand the parting person's feelings
+- 吹落相思一叶秋 — Blowing down a leaf of longing/autumn
+
+That's decent. Alternatively:
+
+霜月侵窗夜色凉，
+虫声细碎桂初香。
+一庭落叶无人扫，
+伴我秋宵梦亦长。
+
+Rhyme: 凉 (liáng), 香 (xiāng), 长 (cháng) — 阳 rhyme. Good.
+
+Let me finalize:
+
+霜月侵窗夜色凉，
+虫声细碎桂初香。
+一庭落叶无人扫，
+伴我清宵梦亦长。
+
+Or keep 梧桐 imagery. I'll go with a clean version:
+
+月冷霜天桂子香，
+虫吟细细夜初凉。
+西风吹尽梧桐叶，
+留取疏星伴我长。
+
+Hmm, last line is a bit weak. Let me go back to:
+
+霜月侵窗夜色凉，
+虫声细碎桂初香。
+一庭落叶无人扫，
+留取清光入梦长。
+
+"留取清光入梦长" — keeping the clear light entering dreams long. 
+
+Actually simpler and elegant:
+
+秋夜
+
+银烛秋光... no that's borrowing from 杜牧.
+
+Final choice:
+
+霜月侵窗夜色凉，
+虫声细碎桂初香。
+一庭落叶无人扫，
+伴我清宵梦亦长。
+
+That works. No explanation, just the poem with maybe a title.

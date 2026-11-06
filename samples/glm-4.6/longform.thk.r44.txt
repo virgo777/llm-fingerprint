@@ -1,0 +1,58 @@
+The user is asking about "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM), requesting approximately 400 characters (Chinese characters). This is a factual/educational question about TCM theory, and the request is in Chinese, so I should respond in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), color/complexion (色), form (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, coughing; smelling odors of the body
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问 - ten questions)
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+合参 means combining/synthesizing all four methods together for comprehensive analysis.
+
+Key points about 四诊合参:
+- It's the fundamental diagnostic principle in TCM
+- The four methods each have their own scope and limitations; no single method is sufficient
+- Only by combining information from all four can a doctor make accurate 辨证 (syndrome differentiation)
+- There's a saying: "四诊合参" emphasizes that doctors should not rely on just one method
+- Related to the concept from 《难经》: "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧" (knowing by inspection is called divine, by listening is called sage-like, by asking is called skillful, by pulse-taking is called clever)
+- 张仲景 in 《伤寒论》 criticized doctors who only rely on pulse-taking: "省疾问病，务在口给，相对斯须，便处汤药...按寸不及尺，握手不及足"
+- The purpose is to gather comprehensive clinical information to support 辨证论治 (syndrome differentiation and treatment)
+
+Structure for ~400 characters:
+1. Definition/introduction: what 四诊合参 is
+2. Brief explanation of the four diagnostic methods
+3. Why they must be combined (each has limitations)
+4. Significance in TCM diagnosis (foundation for 辨证论治)
+
+Let me draft this in Chinese, aiming for about 400 characters:
+
+---
+
+"四诊合参"是中医诊断学的基本原则，指医生综合运用望、闻、问、切四种诊法收集病情资料，并在此基础上相互参照、综合分析，以全面准确地判断疾病的本质。
+
+望诊，即观察患者的神、色、形态及舌象等外在表现；闻诊，包括听声音（如语言、呼吸、咳嗽）和嗅气味；问诊，通过询问了解发病经过、症状特点、既往病史等；切诊，则包括脉诊和按诊，通过触按脉搏与身体相关部位获取信息。
+
+四诊各有侧重，也各有局限。舌象、脉象往往不能反映疾病全貌，单凭某一诊法易致误诊。故张仲景在《伤寒论》中批评"按寸不及尺，握手不及足"的草率做法，强调必须四诊并用。
+
+四诊所获资料经综合分析，才能为辨证论治提供可靠依据。这是中医整体观念在诊断中的具体体现，也是历代医家一贯强调的诊治准则。
+
+---
+
+Let me count roughly: This is around 380-400 characters. Good.
+
+Format considerations: The user asked for a detailed introduction of about 400 characters. A structured response with clear paragraphs would work well. Since it's a fixed-length request (400字左右), I should keep it concise and not add excessive headers or bullet points that would inflate the length. Plain paragraphs seem appropriate for this educational content. I could use paragraphs to organize: definition, four methods explanation, why combine, significance.
+
+Let me refine the draft:
+
+四诊合参是中医诊断疾病的基本原则和方法，指医生将望、闻、问、切四种诊法所收集的临床资料相互参照、综合分析，从而全面把握疾病本质。
+
+望诊是观察患者的神、色、形态与舌象等外部表现；闻诊包括听声音（语言、呼吸、咳嗽等）与嗅气味；问诊通过询问了解起病原因、症状特点、既往病史等；切诊则含脉诊与按诊，通过触按脉象和身体部位获取体征信息。
+
+四诊各有侧重又各有局限，任何单一诊法都难以反映疾病全貌。若只凭脉断病或仅据外貌轻下结论，常致误诊。故张仲景《伤寒论》批评"按寸不及尺，握手不及足"的草率行医，强调诸诊合用。
+
+只有四诊合参，去伪存真，才能为辨证论治提供可靠依据。这既是中医整体观念在诊断上的体现，也是确保诊断准确、疗效可靠的重要保证。
+
+This is around 370-400 characters. Good length.
+
+I'll present this as flowing paragraphs without heavy markdown since it's a written explanation of ~400 characters. Maybe I could bold the four method names for readability, but given the strict length request, minimal formatting is fine. Actually a little formatting for the four methods could help readability without changing length much. Let me keep it simple with paragraphs - that matches the "400字左右" essay-like request.

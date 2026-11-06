@@ -1,0 +1,47 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which means "Use three points to explain precautions for daily water drinking."
+
+This is a simple informational request about daily water drinking tips/precautions. The user wants me to explain this using three points (三点 = three points).
+
+Let me think about the most important daily water drinking precautions:
+
+1. **适量饮水 (Drink appropriate amounts)** - Don't drink too much or too little. Generally 1500-2000ml per day is recommended. Drinking too much water at once can cause water intoxication (水中毒), while too little leads to dehydration.
+
+2. **不要等口渴才喝水 (Don't wait until thirsty)** - By the time you feel thirsty, your body is already slightly dehydrated. It's better to drink water regularly throughout the day in small amounts.
+
+3. **水温适宜 (Appropriate water temperature)** - Avoid drinking ice-cold water or very hot water. Warm water (around 20-40°C) is best for the body, especially for the digestive system.
+
+Other possible points:
+- 早晨起床后喝一杯温水
+- 饭前饭后不宜大量饮水
+- 剧烈运动后不要立即大量饮水
+- 少量多次饮水
+- 睡前不宜大量喝水
+- 喝白开水比饮料好
+
+Since the user specifically asked for THREE points, I should structure my answer with exactly three points. Let me pick the most important and practical ones:
+
+1. **少量多次，主动饮水** (Drink in small amounts multiple times, drink proactively) - Don't wait until thirsty; drink regularly throughout the day, about 1500-1700ml per day for adults.
+
+2. **水温适宜，避免过冷过热** (Appropriate temperature) - Warm water is best, avoid ice water and scalding hot water.
+
+3. **特殊时段注意事项** (Special timing considerations) - Like drinking a glass of water in the morning, not drinking too much before bed, not gulping large amounts after intense exercise.
+
+Format considerations:
+- The user asked for three points, so I should use a numbered list format
+- Response should be in Chinese since the question is in Chinese
+- Each point should have a clear heading and brief explanation
+- Keep it concise but informative - this is a practical health question
+- Medium length response - not too long, each point with 2-3 sentences of explanation
+
+Let me draft:
+
+**一、少量多次，主动饮水**
+不要等到口渴了才喝水，因为感到口渴时身体已经处于轻微缺水状态。建议每天分多次饮水，每次100-200毫升左右，成年人每日总饮水量约1500-1700毫升。
+
+**二、水温适宜，避免过冷过热**
+饮水温度最好在20-40℃之间。过冷的水会刺激肠胃，引起肠胃不适；过烫的水（超过65℃）则可能损伤食道黏膜，长期甚至增加食道疾病风险。
+
+**三、把握饮水时机**
+早晨起床后空腹喝一杯温水，有助于补充夜间流失的水分、促进肠胃蠕动；睡前不宜大量饮水，以免夜间频繁起夜影响睡眠；剧烈运动后应休息片刻再缓慢补水，避免一次性猛灌。
+
+This looks good. Three clear points, each with practical explanation. The format with bold headings and numbered points is appropriate for this kind of informational request. Length is appropriate - concise but informative.

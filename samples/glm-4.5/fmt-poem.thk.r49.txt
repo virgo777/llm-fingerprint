@@ -1,0 +1,104 @@
+The user wants a four-line poem (四句诗) about autumn night (秋夜), with no explanation. In Chinese poetry, a classic four-line poem would be a 绝句 (jueju/quatrain), either 五言 (five characters per line) or 七言 (seven characters per line).
+
+Let me compose an original autumn night poem. Common imagery for autumn nights: moon (明月), frost (霜), osmanthus (桂花), falling leaves (落叶), cold dew (寒露), wild geese (雁), stars (星), autumn wind (秋风), chrysanthemums (菊花), crickets (蟋蟀/蛩), etc.
+
+Let me write a 五言绝句 or 七言绝句:
+
+Option 1 (七言):
+月冷梧桐叶半黄，
+一庭秋露夜初凉。
+雁声遥落天边去，
+满院桂花伴晚香。
+
+Let me check the rhyme: 黄 (huáng), 凉 (liáng), 香 (xiāng) - all rhyme in -ang. Good.
+
+Actually, in a proper 绝句, lines 1, 2, and 4 rhyme (or lines 2 and 4, with line 1 optional). Here 黄, 凉, 香 all rhyme. Good.
+
+Let me refine for better imagery and flow:
+
+月冷梧桐叶半黄 — cold moon, wutong leaves half yellow
+一庭秋露夜初凉 — courtyard of autumn dew, night turning cool
+雁声遥过天边去 — goose cries pass far to horizon
+满院桂香浮暗廊 — courtyard full of osmanthus fragrance floating over dark corridors
+
+Hmm, let me check tonal patterns loosely, though for this task strict tonal adherence isn't essential, but nice to have.
+
+Let me try another version:
+
+银汉无声秋夜长，
+梧桐叶落满庭霜。
+雁声叫破天涯月，
+一夜桂香入梦凉。
+
+Rhyme: 长 (cháng), 霜 (shuāng), 凉 (liáng) — all -ang. Good.
+
+Line 3: 雁声叫破天涯月 — goose cries break the moon at horizon
+Line 4: 一夜桂香入梦凉 — all night osmanthus fragrance enters dreams cool
+
+Hmm, "入梦凉" is a bit odd. Maybe "送晚凉" or similar.
+
+Let me finalize:
+
+《秋夜》
+银汉无声秋夜长，
+梧桐叶落满庭霜。
+一声雁过天涯远，
+吹落桂花入梦香。
+
+Rhyme: 长, 霜, 香 — all rhyme. 
+
+Line 3 ends 远 (yuǎn) - doesn't rhyme, which is correct for a jueju (line 3 shouldn't rhyme).
+
+Check tones roughly:
+Line 1: 银汉无声秋夜长 — 平仄平平平仄平
+Line 2: 梧桐叶落满庭霜 — 平平仄仄仄平平
+Line 3: 一声雁过天涯远 — 仄平仄仄平平仄
+Line 4: 吹落桂花入梦香 — 平仄仄平仄仄平
+
+Not perfectly regulated but reasonably close. It's acceptable.
+
+Actually let me polish:
+
+银汉无声秋夜长，
+一庭霜叶落微凉。
+雁声叫破千山月，
+桂子香浮入梦乡。
+
+Hmm, "入梦乡" (into dreamland) works with 香 rhyming.
+
+Rhyme: 长 (cháng), 凉 (liáng), 乡 (xiāng). Good.
+
+Line 3: 雁声叫破千山月 — the goose cry breaks the moon over a thousand mountains. Nice imagery.
+Line 4: 桂子香浮入梦乡 — osmanthus fragrance floats, entering dreamland.
+
+Alternatively:
+
+月挂疏桐夜色凉，
+风摇桂影满庭霜。
+一行秋雁南飞去，
+带走蝉声入梦长。
+
+Hmm, 蝉 (cicadas) in autumn is a bit off — 寒蝉 exists though. But "带走蝉声" is odd.
+
+Let me go with a clean version:
+
+《秋夜》
+银汉无声秋夜长，
+梧桐叶落满阶霜。
+雁声遥带千山月，
+桂子香中入梦乡。
+
+Line 3: 雁声遥带千山月 — goose cries carry from afar the moon over thousand mountains
+Line 4: 桂子香中入梦乡 — amid osmanthus fragrance, into dreamland
+
+Rhyme: 长, 霜, 乡. 
+
+Tone check:
+银汉无声秋夜长: 平仄平平平仄平 — pattern would ideally be 平平仄仄仄平平 or similar. "银汉" is 平仄. Acceptable variation.
+梧桐叶落满阶霜: 平平仄仄仄平平 — good.
+雁声遥带千山月: 仄平平仄平平仄 — okay.
+桂子香中入梦乡: 仄仄平平仄仄平 — good.
+
+This is decent. The user asked for no explanation, so I should just give the poem, possibly with a title. Keep it minimal. No explanation means just the poem itself.
+
+Format: Just the four lines, maybe with title 《秋夜》. Short and clean. No commentary.

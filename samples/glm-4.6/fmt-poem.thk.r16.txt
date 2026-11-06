@@ -1,0 +1,89 @@
+The user wants a four-line poem about autumn night, in Chinese, without explanation.
+
+Let me write a classical Chinese poem (四句诗 - four lines) about autumn night (秋夜).
+
+Let me craft something with good imagery: moon, frost, leaves, wind, etc.
+
+A seven-character quatrain (七言绝句) style:
+
+月挂疏桐夜色凉，
+风摇落叶满庭霜。
+虫声渐远秋更深，
+一盏孤灯照客窗。
+
+Let me check rhyme: 凉 (liáng), 霜 (shuāng), 窗 (chuāng) - these rhyme reasonably in modern Mandarin (ang sound). Line 3 doesn't need to rhyme in a quatrain.
+
+Actually, let me refine:
+
+银汉无声月满楼，
+西风吹叶下庭秋。
+虫声寂寂寒侵枕，
+一枕清霜梦亦愁。
+
+Hmm, rhymes: 楼 (lóu), 秋 (qiū), 愁 (chóu) - ou/iu rhyme works.
+
+Let me try another:
+
+霜天月冷桂香浮，
+落叶敲窗夜色幽。
+虫语渐稀秋意重，
+一庭清影伴人愁。
+
+Rhymes: 浮 (fú), 幽 (yōu), 愁 (chóu) - ou sounds, decent.
+
+Or a simpler, elegant version:
+
+月冷霜华满旧庭，
+风摇疏叶落无声。
+虫声渐歇秋宵永，
+独对孤灯到天明。
+
+Rhymes: 庭 (tíng), 声 (shēng), 明 (míng) - eng/ing rhymes.
+
+Let me go with a polished version:
+
+秋夜
+
+凉月疏星夜渐深，
+西风落叶满阶侵。
+虫声寂寂寒灯下，
+一枕清霜梦不成。
+
+Hmm, 深 (shēn), 侵 (qīn), 成 (chéng) - doesn't rhyme well.
+
+Let me settle on:
+
+月冷霜天夜气清，
+西风扫叶落无声。
+寒虫渐息秋将尽，
+独倚栏干看斗横。
+
+清 (qīng), 声 (shēng), 横 (héng) - eng rhyme, works.
+
+Or simpler and more beautiful:
+
+秋夜
+
+银烛秋光凝晚屏？No, that's borrowed from 杜牧.
+
+Original:
+
+月华如水浸庭柯，
+风送寒蛩语渐多。
+夜半霜浓眠不得，
+起看落叶舞婆娑。
+
+柯 (kē), 多 (duō), 娑 (suō) - o/e rhyme (歌 rhyme group). Nice.
+
+Actually 柯 in 歌韵, 多 in 歌韵, 娑 in 歌韵 - this is proper classical rhyme.
+
+Let me finalize:
+
+月华如水浸庭柯，
+风送寒蛩语渐多。
+夜半霜浓眠不得，
+起看落叶舞婆娑。
+
+This is nice: moonlight like water soaking the courtyard trees, wind carrying cold cricket sounds growing numerous, at midnight heavy frost prevents sleep, rising to watch fallen leaves dancing.
+
+Good imagery, coherent autumn night theme. The user said no explanation, so just output the poem.

@@ -1,0 +1,58 @@
+The user is asking me to write a four-line poem about an autumn night (秋夜) in Chinese, without explanation. They want just the poem itself.
+
+Let me compose a classical Chinese quatrain (绝句) about autumn night. Traditional Chinese poems often have 5 or 7 characters per line. Let me think about autumn night imagery: moon, frost, dew, falling leaves, crickets/insects, cool breeze, stars, geese flying south, chrysanthemums, osmanthus fragrance, lonely lamp, etc.
+
+Let me write a 七言绝句 (7-character quatrain) with good imagery:
+
+Option 1:
+月冷梧桐叶半黄，
+西风吹雁过寒塘。
+一庭霜露虫声细，
+独坐幽轩秋夜长。
+
+Let me check the rhythm and rhyme: 黄 (huáng), 塘 (táng), 长 (cháng) - these rhyme in the -ang rhyme group. Good.
+
+Option 2:
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+虫吟渐歇更深后，
+一枕清寒梦亦长。
+
+凉 (liáng), 霜 (shuāng), 长 (cháng) - rhyme works.
+
+Let me refine option 1:
+月冷梧桐叶半黄 - The moon is cold, wutong leaves half yellow
+西风吹雁过寒塘 - West wind blows geese over the cold pond
+一庭霜露虫声细 - A courtyard of frost and dew, insect sounds faint
+独坐幽轩秋夜长 - Sitting alone in the quiet studio, the autumn night is long
+
+Actually, for tonal patterns (平仄), let me check roughly:
+月冷梧桐叶半黄: 仄仄平平仄仄平 ✓ (good pattern)
+西风吹雁过寒塘: 平平平仄仄平平 ✓
+一庭霜露虫声细: 仄平平仄平平仄 - roughly acceptable
+独坐幽轩秋夜长: 仄仄平平平仄平 ✓
+
+This looks like a reasonable classical quatrain. The user asked for no explanation, so I should just give the poem.
+
+Let me polish once more:
+
+月冷梧桐叶半黄，
+西风送雁过寒塘。
+满庭霜露虫声寂，
+独坐灯前秋夜长。
+
+Hmm, "虫声寂" (insect sounds silent) vs "虫声细" (faint insect sounds) - 寂 gives more quietness which fits the mood. But then line 4 "独坐灯前" adds the lamp image which is nice.
+
+Actually the classic structure: first line sets scene (moon, leaves), second line adds movement (geese), third line deepens (frost, dew, silence), fourth line personal feeling (sitting alone, night long).
+
+Final version:
+月冷梧桐叶半黄，
+西风送雁过寒塘。
+满庭霜露虫声寂，
+独坐灯前秋夜长。
+
+Wait, "秋夜" in the last line directly states the theme, which is fine but could be more subtle. Alternatively: "独坐灯前夜正长" or keep it. Including 秋夜 explicitly is acceptable for the theme. Actually many classical poems do mention the theme. Let me keep "独坐灯前秋夜长" — it's clear and direct.
+
+The user said no explanation, so I'll just output the poem, maybe with a title. A title could be 《秋夜》. That's appropriate.
+
+Format: Just the title and four lines. No explanation as requested.

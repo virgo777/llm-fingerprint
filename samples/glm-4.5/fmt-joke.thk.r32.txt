@@ -1,0 +1,38 @@
+The user is asking me to tell a cold joke (冷笑话, which means a "cold joke" or "lame/punny joke" in Chinese) about programmers. This is a light, fun request in Chinese, so I should respond in Chinese.
+
+Cold jokes about programmers are a classic genre. Let me think of some good ones:
+
+1. Classic programmer jokes:
+- 为什么程序员总是分不清万圣节和圣诞节？因为 Oct 31 == Dec 25 (八进制31等于十进制25)
+- A programmer's wife tells him: "去超市买一斤包子，如果看到卖西瓜的，买一个。" Programmer comes back with one baozi. Wife asks why, he says "因为看到了卖西瓜的。" (This is about conditional logic in programming)
+- 世界上最遥远的距离不是生与死，而是你亲手制造的Bug就在你眼前，你却找不到她在哪里
+- 程序员最讨厌的四件事：写文档、写注释、别人不写文档、别人不写注释
+- 为什么程序员喜欢暗色主题？因为光会吸引Bug (bugs are attracted to light - like insects)
+- 一个物理学家、一个工程师和一个程序员... 
+- 0是false，1是true... 后来程序员想通了，决定用异或来解决的笑话
+
+Let me pick a good one and maybe format it nicely. The "买包子" one is very classic and funny. The Oct 31 == Dec 25 one requires knowing octal/decimal.
+
+The wife buying baozi joke:
+程序员的妻子对他说："下班回来的路上买十个包子，如果看到卖西瓜的，就买一个。"
+程序员回到家，手里只拿着一个包子。
+妻子问："你怎么只买了一个包子？"
+程序员答："因为我看到了卖西瓜的。"
+
+This is a great one because it plays on the conditional logic - "如果看到卖西瓜的，就买一个" - the programmer interprets "买一个" as replacing the original instruction rather than adding to it, which is how programmers often interpret ambiguous instructions (if condition X, then do Y instead of Z, rather than in addition to Z).
+
+Another good one:
+问：程序员最不喜欢哪个节日？
+答： Halloween (Oct 31) 和 Christmas (Dec 25) 居然是同一天，因为 Oct 31 == Dec 25 (八进制的31 = 十进制的25)
+
+Or the light/bulb one:
+问：需要几个程序员来换一个灯泡？
+答：不需要，这是硬件问题。(We don't fix hardware problems)
+
+Or: 为什么程序员总是很冷静？因为他们有太多的异常要处理（try-catch...）
+
+The baozi one is probably the most classic Chinese programmer joke. Let me go with that one, maybe with a brief explanation or just let it land naturally. Actually for a cold joke, explaining it might kill the joke, but the punchline itself contains the explanation ("因为我看到了卖西瓜的").
+
+Format: Should be in Chinese, conversational, tell the joke with proper setup. Maybe offer to tell another one at the end, or just deliver the joke cleanly. Keep it short and punchy - jokes shouldn't be over-explained. I could add a small emoji or just present it cleanly.
+
+Length: Short. A joke should be delivered concisely.

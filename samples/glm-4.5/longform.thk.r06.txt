@@ -1,0 +1,60 @@
+The user is asking about the TCM (Traditional Chinese Medicine) concept of "四诊合参" (Four Diagnostic Methods Combined/Synthesized Assessment), requesting a detailed introduction of about 400 characters in Chinese.
+
+This is a straightforward educational question about traditional Chinese medicine theory. Let me write a comprehensive answer about 四诊合参.
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc.
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body
+
+合参 means combining and synthesizing all four methods' findings together for comprehensive analysis.
+
+Key points to cover:
+- Definition of 四诊合参
+- The four diagnostic methods and what each involves
+- Why they must be combined (each has limitations,单一诊法不能全面反映病情)
+- The principle originated from classic texts like 《黄帝内经》 and 《难经》- "望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧"
+- The significance: avoiding misdiagnosis, comprehensive understanding of the disease
+- Emphasizes 整体观念
+- Modern relevance
+
+The user asked for about 400 characters (字), so I should aim for roughly 400 Chinese characters. Let me structure this well.
+
+Let me draft:
+
+四诊合参是中医学的基本诊断原则，指医生综合运用望、闻、问、切四种诊察方法，全面收集患者的病情资料，并将所得信息互相参照、综合分析，从而对疾病作出准确判断。
+
+四诊的具体内容：
+- 望诊：观察患者的神、色、形、态及舌象等，即"望而知之谓之神"
+- 闻诊：听声音（语声、呼吸、咳嗽等）、嗅气味
+- 问诊：询问症状、病史、饮食起居等
+- 切诊：切脉和触按身体有关部位
+
+为什么要合参：
+- 四诊各有侧重和局限性，任何单一诊法都难以全面反映病情
+- 临床上可能出现"脉症不符"的情况，需要综合判断
+- 体现整体观念
+
+I should format this nicely. Given it's an educational explanation with a specific length requirement (~400 characters), I could use a structured format with headers or keep it as flowing prose. Given the request for "详细介绍" (detailed introduction) and 400字左右, a structured format with brief sections might work well, or flowing paragraphs. Chinese explanations often work well with some structure. Let me use a moderate structure - maybe a brief intro paragraph, then the four methods, then the significance.
+
+Let me count roughly - I need about 400 Chinese characters. Let me write:
+
+**中医"四诊合参"简介**
+
+四诊合参是中医诊断学的基本原则，指医者综合运用望、闻、问、切四种诊法，全面收集病情资料，并将各方信息相互参照、综合分析，以求对疾病作出准确判断。（约60字）
+
+**四诊内容**
+望诊：观察神、色、形、态及舌象，所谓"望而知之谓之神"。
+闻诊：听声音、嗅气味，了解呼吸、语言及异常气味。
+问诊：询问起病经过、症状特点、既往史及生活状况。
+切诊：包括切脉和按诊，通过脉象变化探察脏腑气血。（约130字）
+
+**合参的意义**
+四诊各有侧重，也各有局限：单凭一诊难以窥见疾病全貌，片面强调某一诊法易致误诊。临床上常见脉症不符的情况，须"舍脉从症"或"舍症从脉"，唯有四诊互参、去伪存真，才能透过现象抓住疾病本质。这一原则充分体现了中医的整体观念，与现代医学"全面采集病史、综合分析"的理念相通，至今仍是临床辨证论治的基础。（约150字）
+
+Total roughly 340-400 characters with the structure. Let me refine to make it closer to 400.
+
+Actually, let me write it more carefully and count. The user wants 400字左右 (around 400 characters), so 380-450 would be acceptable.
+
+Format considerations: Using headers and bullet points makes it clear and readable. Given it's an educational explanation, markdown formatting with bold headers seems appropriate. Length should be around 400 Chinese characters as requested.

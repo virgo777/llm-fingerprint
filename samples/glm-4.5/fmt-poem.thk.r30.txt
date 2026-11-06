@@ -1,0 +1,58 @@
+The user asks for a four-line poem about autumn night, without explanation. They wrote in Chinese, so I should respond in Chinese with a classical-style four-line poem (likely a 绝句 - quatrain).
+
+Let me compose a nice quatrain about autumn night (秋夜). Classic imagery: moon, dew, frost, wind, leaves falling, cold, geese, stars, osmanthus fragrance, etc.
+
+Let me write a 七言绝句 (seven-character quatrain):
+
+Option 1:
+银汉无声转玉盘，
+梧桐叶落露初寒。
+一声雁过秋空远，
+月满西楼夜未阑。
+
+Check rhyme: 盘 (pán), 寒 (hán), 阑 (lán) - all rhyme in 寒韵. Good.
+
+Option 2 (五言):
+霜月照庭空，
+虫声入夜浓。
+风吹一叶落，
+惊起梦中鸿。
+
+Hmm, let me refine. 
+
+Option 3:
+月冷梧桐叶半凋，
+露虫声里夜迢迢。
+西风不管人间事，
+吹落银床桂子飘。
+
+Let me just present a clean one. I'll go with a 七言绝句:
+
+秋夜
+霜华满地月初寒，
+桂影婆娑露未干。
+一夜西风惊客梦，
+半窗残叶落声残。
+
+Hmm, "寒" repeated idea... Let me check rhyme: 寒 (hán), 干 (gān), 残 (cán) — rhymes fine.
+
+Actually "落声残" a bit awkward. Let me refine:
+
+霜华满地月初圆，
+桂影婆娑到枕边。
+一夜西风吹客梦，
+半帘残叶伴无眠。
+
+Rhyme: 圆 (yuán), 边 (biān), 眠 (mián) — 先韵/圆 is in 先韵 too (圆 belongs to 先韵). Good.
+
+But "圆" then "残叶" — autumn moon being full, fine.
+
+Line meanings:
+- 霜华满地月初圆: Frost covers the ground, the moon just turned full
+- 桂影婆娑到枕边: Osmanthus shadows sway to the pillow
+- 一夜西风吹客梦: All night the west wind blows through the traveler's dream
+- 半帘残叶伴无眠: Half a curtain of withered leaves accompanies sleeplessness
+
+That's decent. Alternatively use tonal pattern considerations but not strictly necessary. The user said don't explain, so just output the poem, maybe with a title.
+
+Format: Just the poem, four lines. Maybe a title "秋夜". No explanation. Keep it minimal.

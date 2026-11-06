@@ -1,0 +1,41 @@
+The user wants a four-line poem about autumn night, in Chinese, no explanation. Let me write a classical-style Chinese quatrain (四句诗) about 秋夜 (autumn night).
+
+A 七言绝句 (seven-character quatrain) would be nice. Let me compose something evocative:
+
+秋夜 themes: moon, frost, osmanthus (桂花), cold dew, falling leaves, wild geese, solitude, lamp light, etc.
+
+Let me try:
+
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁声掠过梧桐月，
+半卷诗书伴夜长。
+
+Check rhyme: 凉 (liáng), 光 (guāng), 长 (cháng) - all in -ang rhyme. Good. Line 3 doesn't need to rhyme (月).
+
+Let me refine the imagery: 银汉 (Milky Way), 玉露 (jade dew), 桂影 (osmanthus shadows), 雁声 (goose cries), 梧桐 (parasol tree), 月 (moon).
+
+Alternative:
+
+霜华满地月初凉，
+桂子飘香入梦长。
+雁字南飞天似水，
+一帘秋色伴灯黄。
+
+Hmm, "入梦长" conflicts with the speaker being awake. Let me stick with the first version or refine.
+
+Final:
+
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁声掠过梧桐月，
+半盏清茶话夜长。
+
+Or keep 半卷诗书伴夜长. I like:
+
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁声掠过梧桐月，
+半卷闲书伴夜长。
+
+That's a nice quatrain. No explanation needed per instructions.

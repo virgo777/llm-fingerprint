@@ -1,0 +1,109 @@
+The user wants a four-line poem about an autumn night, in Chinese, with no explanation. Let me compose a nice classical-style poem (四句诗 - likely a 绝句 quatrain).
+
+Let me think about autumn night imagery: 月 (moon), 露 (dew), 桂 (osmanthus), 雁 (wild geese), 霜 (frost), 梧桐 (wutong/parasol tree), 银河 (Milky Way), 寒 (cold), 虫鸣 (insect sounds), 落叶 (falling leaves), etc.
+
+Let me try to write a 七言绝句 (seven-character quatrain) with decent rhyme:
+
+桂子无声落月庭，
+寒蛩泣露夜泠泠。
+一帘清梦谁惊破，
+半枕梧桐叶上声。
+
+Hmm, let me check rhyme: 庭 (tíng), 泠 (líng), 声 (shēng) - these rhyme roughly in modern Chinese (ing/eng can be close). Let me refine.
+
+Alternative:
+
+银汉迢迢夜气清，
+梧桐叶上露华生。
+一声雁过霜天远，
+吹落西风满院声。
+
+That repeats 声 twice, bad.
+
+Try again:
+
+秋夜
+
+桂影婆娑月满庭，
+露凝寒叶夜泠泠。
+雁声掠过银河远，
+惊起秋虫三两声。
+
+Rhyme: 庭, 泠, 声 - 庭/泠 rhyme (íng), 声 (ēng) close but not exact. In classical rhyme, 庭/泠 are 青韵, 声 is 庚韵 — adjacent rhymes, often acceptable in modern loose verse.
+
+Better to keep consistent rhyme:
+
+月冷庭前桂影清，
+风摇一树露珠明。
+雁行掠破银河静，
+留与秋虫三两声。
+
+Rhyme: 清 (qīng), 明 (míng), 声 (shēng) - 清/明 are 庚韵 (actually 清 is 庚韵, 明 is 庚韵, 声 is 庚韵). Let me check: in 平水韵, 八庚 includes 庚更羹明盟鸣荣生声清情晴精睛成名并倾萦琼英烹平评京惊荆兵卿擎迎行衡耕萌氓宏闳茎莺樱泓橙筝争清... Actually 清 is in 八庚, 明 in 八庚, 声 in 八庚. Good, all 庚韵.
+
+Now tonal pattern (平仄) for a proper 七绝. Let me check:
+
+Line 1: 月冷庭前桂影清
+仄仄平平仄仄平 — 月(仄)冷(仄)庭(平)前(平)桂(仄)影(仄)清(平). Good pattern: 仄仄平平仄仄平.
+
+Line 2: 风摇一树露珠明
+平平仄仄仄平平 — 风(平)摇(平)一(仄,入声)树(仄)露(仄)珠(平)明(平). Pattern should be 平平仄仄仄平平. Yes: 风摇一树露珠明 = 平平仄仄仄平平. 
+
+Line 3: 雁行掠破银河静
+仄平仄仄平平仄 — should be 仄仄平平平仄仄 or 平平仄仄平平仄. Hmm. 雁(仄)行(平)掠(仄)破(仄)银(平)河(平)静(仄). Pattern: 仄平仄仄平平仄. Standard is 仄仄平平平仄仄 (for 首句仄起 pattern: line 3 should be 仄仄平平平仄仄). Mine is 仄平仄仄平平仄 — second character 行 is 平, but should be 仄. That violates 二四六分明 at position 2 and 6: position 2 = 行 (平, should be 仄), position 4 = 破 (仄, should be 平), position 6 = 河 (平, should be 仄). Inverted. Let me fix line 3 to 仄仄平平平仄仄.
+
+Options: 雁字横空银汉静? 雁(仄)字(仄)横(平)空(平)银(平)汉(仄)静(仄) = 仄仄平平平仄仄. 
+
+Then line 4: 留与秋虫三两声 — 留(平)与(仄)秋(平)虫(平)三(平)两(仄)声(平). Should be 平平仄仄仄平平. Mine: 平仄平平平仄平. Position 2 = 与 (仄, should be 平)... hmm.
+
+Let me redo. Standard 仄起首句入韵 pattern:
+仄仄平平仄仄平 (韵)
+平平仄仄仄平平 (韵)
+仄仄平平平仄仄 — wait no. For 仄起首句入韵:
+仄仄平平仄仄平
+平平仄仄仄平平
+平平仄仄平平仄
+仄仄平平仄仄平
+
+Hmm, actually the standard 七绝仄起首句入韵:
+仄仄平平仄仄平（韵）
+平平仄仄仄平平（韵）
+平平仄仄平平仄
+仄仄平平仄仄平（韵）
+
+So line 3 should be 平平仄仄平平仄, line 4 仄仄平平仄仄平.
+
+Line 1: 月冷庭前桂影清 = 仄仄平平仄仄平 ✓
+Line 2: 风摇一树露珠明 = 平平仄仄仄平平 ✓
+Line 3 needs 平平仄仄平平仄: e.g., 谁家雁字横秋水? 谁(平)家(平)雁(仄)字(仄)横(平)秋(平)水(仄) = 平平仄仄平平仄 ✓. Nice.
+Line 4 needs 仄仄平平仄仄平: e.g., 叫破霜天万里晴? 叫(仄)破(仄)霜(平)天(平)万(仄)里(仄)晴(平) ✓. But 晴 as ending on autumn night... 雁叫破霜天万里晴 — hmm, night with 晴 okay (clear sky). Or 带得霜华入梦清 — repeats 清. 
+
+叫破寒烟万籁清 — repeats 清 with line 1's rhyme character, not allowed.
+
+Line 4: 敲落梧枝几叶声? Hmm.
+
+Let me think: line 3-4: 谁家雁字横秋汉，叫落梧桐一叶声? 声 rhyme ✓. 叫(仄)落(仄)梧(平)桐(平)一(仄)叶(仄)声(平) = 仄仄平平仄仄平 ✓.
+
+But "雁字横秋汉" then "叫落梧桐一叶声" — geese flying across autumn Milky Way, their cries shake down a leaf from the wutong. Nice imagery.
+
+But wait, line 2 ends 明, line 4 ends 声 — both 庚韵 ✓, line 1 清 庚韵 ✓.
+
+Full poem:
+
+月冷庭前桂影清，
+风摇一树露珠明。
+谁家雁字横秋汉，
+叫落梧桐一叶声。
+
+Check 平仄 fully:
+1. 月(仄)冷(仄)庭(平)前(平)桂(仄)影(仄)清(平) ✓ 仄仄平平仄仄平
+2. 风(平)摇(平)一(仄)树(仄)露(仄)珠(平)明(平) ✓ 平平仄仄仄平平
+3. 谁(平)家(平)雁(仄)字(仄)横(平)秋(平)水→汉... 谁家雁字横秋汉: 谁(平)家(平)雁(仄)字(仄)横(平)秋(平)汉(仄) ✓ 平平仄仄平平仄
+4. 叫(仄)落(仄)梧(平)桐(平)一(仄)叶(仄)声(平) ✓ 仄仄平平仄仄平
+
+Rhymes: 清、明、声 — all 八庚韵 in 平水韵. 
+
+Semantics: Cold moon over the courtyard, osmanthus shadows clear; wind sways the tree, dew drops glisten; from whose family the goose-skein crosses the autumn Milky Way (秋汉 = 银汉/天河); their cries shake down a single leaf's sound from the wutong.
+
+"叫落梧桐一叶声" — the cry causes the wutong to drop one leaf('s sound). Poetic. Nice.
+
+The user said don't explain, so just output the poem. Maybe a title? Could add 《秋夜》. A title is fine, not an explanation. Keep it minimal. Format: just the four lines, possibly with title. Short response is appropriate.

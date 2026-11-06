@@ -1,0 +1,59 @@
+The user is asking me to write a four-line poem (四句诗) with the theme of autumn night (秋夜), and they explicitly say not to explain (不要解释).
+
+So I should just write the poem without any explanation. Let me compose a classical Chinese-style four-line poem about autumn night. A traditional quatrain (绝句) would be appropriate - either 五言绝句 (5 characters per line) or 七言绝句 (7 characters per line).
+
+Let me think about autumn night imagery: moon, frost, falling leaves, geese, cold dew, stars, osmanthus, chrysanthemums, cold wind, etc.
+
+Let me try a 七言绝句:
+
+月冷霜清桂子飘，
+梧桐叶落夜迢迢。
+一声雁过南天远，
+独坐幽窗听寂寥。
+
+Let me check the rhyme: 飘 (piāo), 迢 (tiáo), 寥 (liáo) - these rhyme in the -iao rhyme group. Good.
+
+Or a 五言绝句:
+
+月落霜华冷，
+风轻桂子香。
+雁声天外远，
+秋夜正微凉。
+
+Check rhyme: 香 (xiāng), 凉 (liáng) - rhyme in -ang. Good.
+
+Let me refine the seven-character version:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+雁声远过潇湘去，
+一枕清秋梦亦长。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 长 (cháng) - all in -ang rhyme. 
+
+Actually let me check tonal patterns roughly... For a casual poem this should be fine. Let me polish:
+
+银汉无声玉露凉，
+梧桐叶落满阶霜。
+一声雁唳潇湘远，
+伴我寒窗夜未央。
+
+Hmm, 央 (yāng) rhymes too. "夜未央" means the night is not yet over.
+
+Or keep it simpler:
+
+月冷千山霜满天，
+梧桐疏影落窗前。
+雁声遥带潇湘去，
+一夜秋声伴客眠。
+
+Rhyme: 天 (tiān), 前 (qián), 眠 (mián) - all -ian/-an rhyme. Good.
+
+I like this one. Let me finalize:
+
+月冷千山霜满天，
+梧桐疏影落窗前。
+雁声遥递潇湘远，
+一夜秋声伴客眠。
+
+The user said no explanation, so I'll just output the poem. Format: just the four lines, perhaps centered or just plain. No explanation needed. Keep it minimal - just the poem itself.

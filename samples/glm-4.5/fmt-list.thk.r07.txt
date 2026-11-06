@@ -1,0 +1,34 @@
+The user is asking in Chinese: "Use three points to explain the precautions for daily drinking water." This is a simple, benign request about health tips for drinking water.
+
+Let me think about what would be the most important and practical points for daily water drinking:
+
+1. **Drink water in moderation, small amounts multiple times** - Don't wait until thirsty; don't gulp large amounts at once. Spread intake throughout the day.
+
+2. **Water temperature considerations** - Avoid drinking very cold or very hot water; lukewarm water (around 20-40°C) is gentler on the stomach.
+
+3. **Timing matters** - Drink water in the morning after waking, before meals moderately, avoid drinking too much before bed.
+
+4. **Don't wait until you're thirsty** - Thirst is already a sign of mild dehydration.
+
+5. **Quality of water** - Drink boiled/clean water, avoid drinking untreated water.
+
+6. **Special situations** - Don't drink too much water immediately after intense exercise; avoid drinking large amounts during meals.
+
+The user asked for exactly three points ("用三点" = "using three points"). So I should pick the three most important and distinct points.
+
+Best three points to choose:
+1. 少量多次，不要等口渴才喝
+2. 注意水温，避免过冷过热 - though maybe this could be combined
+3. 把握饮水时间和量 - or 注重水质
+
+Actually, let me structure three solid points:
+
+**1. 少量多次，主动饮水** - Don't wait until thirsty (thirst signals mild dehydration). Drink small amounts (100-200ml each time) throughout the day. Total about 1500-1700ml per day for adults.
+
+**2. 注意水温和水质** - Drink lukewarm water (around 20-40°C); avoid ice-cold water which irritates the stomach, and very hot water (over 65°C) which may harm the esophagus. Drink clean, boiled water.
+
+**3. 把握饮水时机** - Drink a glass of water after waking up in the morning; don't drink too much water right before bed (to avoid nocturia); avoid gulping large amounts after intense exercise or during meals.
+
+This format is clear and practical. The response should be in Chinese since the question is in Chinese.
+
+Format considerations: The user explicitly asked for three points, so a numbered list with headers/bold titles and brief explanations would be ideal. Should be moderately concise - each point with a clear title and 2-3 sentences of explanation. Not too long.

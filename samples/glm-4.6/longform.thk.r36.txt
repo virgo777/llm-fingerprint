@@ -1,0 +1,60 @@
+The user is asking me to explain in detail what "四诊合参" (Four Diagnostic Methods Combined Analysis) is in Traditional Chinese Medicine (TCM), in about 400 characters/words. This is a Chinese-language question about a traditional Chinese medicine concept, so I should respond in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊  - Inspection/Observation: observing the patient's appearance, complexion, tongue, body shape, spirit (神), etc.
+2. 闻诊  - Listening and Smelling: listening to the patient's voice, breathing, coughing, and smelling odors
+3. 问诊  - Inquiry: asking about symptoms, medical history, lifestyle, etc.
+4. 切诊  - Pulse-taking and Palpation: feeling the pulse and palpating the body
+
+合参 means combining/synthesizing these methods together for comprehensive analysis.
+
+The concept emphasizes that these four methods should not be used in isolation but should be combined and cross-verified to form a complete understanding of the patient's condition. This is called "四诊合参" - the comprehensive analysis of the four diagnostic methods.
+
+Key points to cover:
+1. Definition of 四诊合参
+2. The four methods individually:
+   - 望诊: 观察神、色、形、态，舌诊尤为重要
+   - 闻诊: 听声音（语声、呼吸、咳嗽）、嗅气味
+   - 问诊: 十问歌，询问症状、病史等
+   - 切诊: 脉诊和按诊
+3. Why they need to be combined (合参的意义):
+   - Each method has limitations
+   - Prevents "专执一端" (focusing on only one aspect)
+   -《难经》says: 望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧
+   - Avoid false signs (假象), like 舍脉从症 or 舍症从脉
+4. Clinical significance
+
+The user wants about 400 characters (in Chinese, 字 means characters). Let me aim for around 400-450 Chinese characters.
+
+Format considerations: Since this is an educational explanation of about 400 characters, I could use a structured format with some organization. Given it's a relatively short response, I could use a brief intro, then describe the four methods, then explain the significance of combining them. Using some structure like listing the four methods would be helpful for readability. But since the target is ~400 characters, I shouldn't make it too long or overly fragmented.
+
+Let me draft:
+
+"四诊合参"是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者病情资料，并将所得信息综合分析、相互参照，从而对疾病作出准确判断的过程。
+
+四诊的具体内容：
+- 望诊：观察患者的神、色、形、态及舌象，其中舌诊尤为重要，所谓"望而知之谓之神"。
+- 闻诊：听患者声音、呼吸、咳嗽等，并嗅其气味的变化。
+- 问诊：询问起病经过、症状特点、既往病史、饮食起居等，是了解病情的重要途径。
+- 切诊：包括脉诊和按诊，通过触按脉搏及身体相关部位获取信息。
+
+为何要"合参"：
+四诊各有侧重，任何单一诊法所能获取的信息都有局限，仅凭一诊容易以偏概全。临床上病情复杂，常出现脉症不符的情况，如"舍脉从症"或"舍症从脉"，只有四诊合参，才能去伪存真、透过现象抓住疾病本质，为辨证论治提供可靠依据。这一原则体现了中医整体观念，强调对人体病变的全息把握，是中医临床辨证的核心方法论。
+
+Let me count roughly... This looks about right, maybe slightly over 400. Let me refine it.
+
+Actually, I should keep it concise and around 400 characters. Let me structure it well with headers or just paragraphs. Given the 400-word target, using short paragraphs or a light structure would work well.
+
+Let me count my draft more carefully:
+
+Paragraph 1: "四诊合参"是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊法全面收集患者病情资料，并将所得信息综合分析、相互参照，从而对疾病作出准确判断的过程。(~75 characters)
+
+Four methods section: ~150 characters
+
+Why combine: ~130 characters
+
+Total: ~360-400. Good.
+
+Let me finalize with a clean structure. I'll use markdown lightly since this is a conversational chat and structured content helps readability here. Actually for a ~400字 explanation, I could use a mix of paragraph and brief list format. That seems appropriate.

@@ -1,0 +1,35 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain the precautions/considerations for daily water drinking."
+
+This is a simple, benign request for health information about drinking water habits. The user wants exactly three points about things to pay attention to when drinking water daily.
+
+Let me think about the most important considerations for daily water drinking:
+
+1. **适量饮水** - Don't wait until you're thirsty; drink water regularly throughout the day. The general recommendation is about 1500-2000ml per day for adults. Also shouldn't drink too much at once.
+
+2. **少量多次** - Instead of gulping large amounts at once, drink small amounts frequently. This helps absorption and doesn't burden the kidneys.
+
+3. **水温适宜** - Avoid drinking very cold or very hot water. Lukewarm water (around 20-40°C) is generally best for the body.
+
+Other possible points:
+- Don't wait until thirsty to drink
+- Drink water in the morning after waking up
+- Avoid drinking too much water before bed
+- Don't replace water with sugary drinks
+- Drink water before/after exercise
+
+Since the user asked for exactly three points, I should pick the three most important and practical ones. Let me structure this well:
+
+1. **主动饮水，不要等口渴才喝** - Thirst is already a sign of mild dehydration. Drink regularly throughout the day, roughly 1500-1700ml per day for adults.
+
+2. **少量多次，切忌暴饮** - Drink small amounts frequently (100-200ml each time) rather than large amounts at once, which can burden the kidneys and cause water intoxication in extreme cases.
+
+3. **注意水温，避免过冷过热** - Very cold water can irritate the stomach; very hot water (above 65°C) can damage esophageal mucosa and increase cancer risk. Lukewarm water is ideal.
+
+I could also mention alternatives like:
+- 避免用饮料代替白开水
+- 睡前不宜大量饮水
+- 晨起一杯温水
+
+But the user asked for three points specifically, so I'll stick with three. I could briefly add a small note at the end if helpful, but the core should be three clear points.
+
+Format: The user asked for three points, so a numbered list format is appropriate. Each point should have a clear heading/topic and brief explanation. Response should be in Chinese since the question is in Chinese. Medium length - not too long, just clear and informative. Using bold for the point titles would help readability.

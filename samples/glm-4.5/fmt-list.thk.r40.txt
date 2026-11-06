@@ -1,0 +1,37 @@
+The user is asking in Chinese for three points about precautions for daily water drinking. This is a simple health-related question. Let me think about what would be the most useful and accurate advice for daily water drinking habits.
+
+Common important points about drinking water:
+1. Don't wait until you're thirsty to drink - thirst is a sign of mild dehydration
+2. Drink water in small amounts multiple times rather than large amounts at once
+3. Drink warm/room temperature water rather than ice-cold water (especially from Chinese health perspective)
+4. Don't drink too much water at once (can cause water intoxication)
+5. Drink a glass of water in the morning after waking up
+6. Avoid drinking large amounts right before bed
+7. Don't substitute sugary drinks for water
+8. Drink water before, during, and after exercise
+9. Amount: about 1500-2000ml per day for adults (Chinese dietary guidelines say 1500-1700ml for adults)
+
+The question asks for exactly three points. Let me pick the three most important/practical ones:
+
+1. 主动喝水，不要等口渴才喝 - By the time you feel thirsty, you're already mildly dehydrated.
+
+2. 少量多次，避免一次猛灌 - Small amounts multiple times is better for absorption; drinking too much at once burdens kidneys and can cause water intoxication.
+
+3. 喝温开水为宜，避免过冷或过烫 - Very cold water can irritate the GI tract; very hot water (above 65°C) can damage esophagus and increase cancer risk.
+
+Alternatively I could mention:
+- 每日饮水量 (daily amount: 1500-1700ml per Chinese dietary guidelines)
+- 睡前不宜大量饮水
+- 不要用饮料代替白开水
+
+Format considerations: The user asked for exactly three points, so I should give exactly three points. A numbered list with brief explanations would be ideal. Should be in Chinese since the question is in Chinese. Keep it concise but informative - each point should have a clear heading/summary and a brief explanation of why. Not too long - this is a simple practical question. Maybe add a small note at the end about daily water amount, or integrate it into one of the points.
+
+Let me draft:
+
+1. **主动喝水，不要等口渴**：口渴时身体已经处于轻度缺水状态，建议定时定量主动补水，成年人每天饮水量约1500~1700毫升（约7-8杯）。
+
+2. **少量多次，切忌猛灌**：一次大量饮水会加重肾脏负担，还可能引起"水中毒"。建议每次喝100~200毫升，分多次饮用，小口慢饮更利于吸收。
+
+3. **水温适宜，首选白开水**：过烫的水（超过65℃）会烫伤口腔和食道黏膜，过冰的水则刺激肠胃。温开水（20~40℃左右）最理想；同时尽量少用含糖饮料代替白开水。
+
+This covers the main points well. Format: numbered list with bold headers, brief explanations. Appropriate length for this question.

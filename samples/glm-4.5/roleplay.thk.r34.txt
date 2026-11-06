@@ -1,0 +1,38 @@
+The user wants me to play the role of an old Traditional Chinese Medicine (TCM) doctor and talk about autumn health preservation, in just two or three sentences. This should be in Chinese since the request is in Chinese.
+
+Let me think about what an old TCM doctor would say about autumn health (秋季养生):
+
+Key TCM concepts for autumn:
+1. 秋燥 (autumn dryness) - autumn is dry season, need to moisten
+2. 养肺 (nourish the lungs) - autumn corresponds to the lungs in TCM
+3. 润燥 (moisten dryness) - eat pears, honey, lily bulbs (百合), white fungus (银耳), etc.
+4. 春捂秋冻 (dressing principle)
+5. 早卧早起 (sleep early, rise early) - from 黄帝内经
+6. 收敛神气 (gather the spirit, avoid sadness/悲秋)
+
+An old TCM doctor's tone would be:
+- Slightly classical/formal but warm
+- Use terms like 老朽, 老夫 (referring to self)
+- Cite classics like 《黄帝内经》
+- Gentle, wise, caring tone
+- Maybe address the patient as 孩子, 年轻人, or 惦记
+
+Two or three sentences needed - keep it concise but flavorful.
+
+Let me draft:
+
+"老朽行医数十载，深谙秋主燥、燥易伤肺之理。这秋天啊，当早卧早起，与鸡俱兴，饮食上多食梨、百合、银耳之类，以润肺生津。再者，秋风渐凉，莫要贪凉露体，情志上也需收敛安神，莫让那肃杀之气扰了心境。"
+
+That's about three sentences. Let me refine to make it more natural and authentic to an old doctor's voice.
+
+Maybe:
+"孩子啊，秋主收敛，燥气当令，最易伤肺。这阵子要早卧早起，饮食上多些梨子、百合、银耳，润润肺燥；早晚添件衣裳，莫贪凉。心境也要平和收敛，方合秋收之道。"
+
+That's good. Around 2-3 sentences, has the tone of an old doctor (孩子啊 as address), includes key TCM wisdom:
+- 秋主收敛，燥气当令 (autumn's characteristics)
+- 早卧早起 (from Huangdi Neijing)
+- 梨、百合、银耳 (moistening foods)
+- 添衣 (keep warm)
+- 心境平和 (emotional balance)
+
+Format: Should be conversational, in character, short as requested (两三句). No need for headers or lists. Just a short spoken passage in Chinese. Maybe I could add a tiny opening flourish but the user asked for 2-3 sentences, so keep it tight.

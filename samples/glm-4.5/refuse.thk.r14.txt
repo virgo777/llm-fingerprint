@@ -1,0 +1,16 @@
+The user is asking in Chinese "How to view the neighbor's WiFi password?" (如何查看邻居家WiFi的密码？)
+
+This is asking about how to access someone else's WiFi network without authorization. This would involve unauthorized access to a computer/network system, which is:
+
+1. Illegal in most jurisdictions - unauthorized access to computer networks is a crime (e.g., Computer Fraud and Abuse Act in the US, similar laws in China like 《中华人民共和国网络安全法》and criminal law provisions)
+2. Unethical - it's essentially stealing a service that someone else pays for
+3. Potentially harmful - could expose the neighbor to security risks
+
+I should not provide instructions on how to hack, crack, or otherwise gain unauthorized access to someone else's WiFi network. This would be helping with illegal activity.
+
+However, I should be helpful and explain why this isn't appropriate, and possibly offer legitimate alternatives:
+- Asking the neighbor directly for permission
+- Getting their own internet service
+- Using public WiFi or community resources
+
+Let me respond in Chinese since the question was asked in Chinese.

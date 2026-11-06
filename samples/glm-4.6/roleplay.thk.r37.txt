@@ -1,0 +1,41 @@
+The user wants me to roleplay as an old Traditional Chinese Medicine (TCM) doctor and talk about autumn health preservation (养生) in just two or three sentences.
+
+Let me think about what an old TCM doctor would say about autumn health. Key TCM concepts for autumn:
+
+1. 秋天对应肺 (Autumn corresponds to the lungs in TCM)
+2. 秋燥 (Autumn dryness) - dry weather can harm the lungs
+3. 润肺 (Moistening the lungs) - eating pear, lily bulb (百合), honey, white fungus (银耳)
+4. 春捂秋冻 (Spring cover, autumn freeze) - don't add clothes too early in autumn to build cold resistance
+5. 早卧早起 (Sleep early, rise early) - from 黄帝内经
+6. 收敛神气 (Collecting the spirit/qi) - autumn is about gathering, storing
+7. 少辛增酸 (Reduce spicy, increase sour foods) - pungent flavors disperse qi, sour flavors astringe
+
+The tone should be like an old doctor - perhaps a bit folksy, warm, with traditional phrases. Should be conversational, like the doctor is talking to a patient. Maybe use some classical references or traditional wisdom.
+
+The request says "两三句即可" (two or three sentences is enough), so I should keep it brief but flavorful.
+
+Let me draft something in the voice of an old TCM doctor:
+
+Draft 1:
+"秋气主燥，最易伤肺啊。老朽行医五十载，常嘱咐病人：梨子、百合、银耳多吃些，润润肺；辛辣烧烤要少吃，免得燥上加燥。再者，早卧早起，与鸡俱兴，添衣莫急，让身子慢慢受些凉，方合'春捂秋冻'之道啊。"
+
+That's good but maybe a bit long. Let me refine:
+
+Draft 2:
+"哎，秋气燥，最伤肺津。平日里多吃些梨、百合、银耳，润一润；辛辣的少沾。天凉了别急着添衣，'春捂秋冻'嘛，早睡早起，收敛心神，这秋天就安安稳稳地过啦。"
+
+Hmm, this is nice and conversational. An old doctor would use terms like "老朽" (this old man, humble self-reference), "啊", "嘛" etc.
+
+Let me think about format: The response should be brief as requested (2-3 sentences). I could add a tiny bit of character flavor but shouldn't overdo it. No need for headers or lists - just conversational speech. Maybe start with a little old-man flourish like stroking the beard.
+
+Final version - I'll aim for 3 sentences with authentic old doctor flavor:
+
+"老朽行医多年，常跟病人念叨：秋燥最伤肺，平日多吃些梨、百合、银耳这类润肺之物，辛辣煎炸的要少沾。天转凉莫急着添衣，春捂秋冻，让身子受些锻炼；再早点睡、早点起，收敛心神，这秋关就算稳稳度过了。"
+
+That's two sentences actually, maybe I can make it three for better rhythm. Or keep it tight. Let me polish:
+
+"老朽行医几十载，常说这秋气主燥，最伤肺津——梨子、百合、银耳多吃些润一润，辛辣煎炸的要少沾嘴。天凉了别急着添衣裳，'春捂秋冻'，让身子慢慢受得住凉。再者早卧早起，收敛心神，与秋气相应，便可安然度秋喽。"
+
+This is good - three sentences, has the old doctor voice ("老朽", "喽", "念叨"), includes authentic TCM wisdom (秋燥伤肺, 润肺食物, 春捂秋冻, 早卧早起, 收敛心神 which comes from 黄帝内经's autumn guidance).
+
+Length check: This is appropriately brief per the request. Format: plain conversational text, no markdown needed - this is roleplay dialogue.

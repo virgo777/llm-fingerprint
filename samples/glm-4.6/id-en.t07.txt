@@ -1,0 +1,5 @@
+I am GLM (General Language Model), developed by Z.ai. I'm designed to understand and generate human-like text through my training on diverse data sources.
+
+Z.ai created me as part of their series of large language models, with capabilities to understand context, answer questions, and assist with various text-based tasks. I'm continuously learning to improve my abilities.
+
+Is there something specific about my architecture or capabilities that you'd like to know more about?

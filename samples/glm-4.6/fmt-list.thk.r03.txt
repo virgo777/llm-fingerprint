@@ -1,0 +1,43 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain precautions for daily water drinking."
+
+This is a simple, benign informational request about daily water drinking habits/precautions. The person wants three points about what to pay attention to when drinking water in daily life.
+
+Let me think about what good advice for daily water drinking would include:
+
+1. **Drinking appropriate amounts** - Not too much at once, spreading intake throughout the day. About 1500-2000ml per day for adults, drinking in small amounts multiple times rather than gulping large quantities at once.
+
+2. **Water temperature matters** - Avoid drinking ice-cold water (can irritate the stomach) or very hot water (can damage esophagus). Warm or lukewarm water (around 20-40°C) is ideal.
+
+3. **Timing of drinking** - Drink water before feeling thirsty (thirst is already a sign of mild dehydration). Good times: after waking up in the morning, before/after meals (but not too much right before meals), before exercise, etc.
+
+Other possible points:
+- Don't wait until very thirsty
+- Don't substitute beverages for water (sugary drinks)
+- Drink slowly, small sips
+- Morning water on empty stomach is beneficial
+- Avoid drinking large amounts right before bed
+- Quality of water matters (boiled tap water, clean water)
+
+I should pick three solid points and explain them clearly. Since the request is in Chinese, I should respond in Chinese.
+
+Format considerations: The user asked for "三点" (three points), so I should structure my response with exactly three numbered points. Each point should have a clear heading/topic and a brief explanation. The response should be concise but informative - not overly long. Using a numbered list format makes sense here. I could use bold for the point titles to make it scannable.
+
+Let me draft:
+
+**1. 少量多次,不要等口渴才喝**
+成年人每天建议饮水1500-2000毫升,应分多次饮用,每次100-200毫升左右。口渴时身体其实已经处于轻度缺水状态,所以应养成定时主动饮水的习惯。
+
+**2. 注意水温,避免过冷或过热**
+长期饮用冰水会刺激肠胃,可能引起胃部不适;过烫的水(超过65°C)则会损伤食道黏膜,增加食道疾病风险。温水(20-40°C)最适宜饮用。
+
+**3. 特殊时间点要讲究**
+早晨起床后空腹喝一杯温水,有助于补充夜间流失的水分、促进肠胃蠕动;但睡前不宜大量饮水,以免夜间频繁起夜影响睡眠,也可能加重肾脏负担。另外,剧烈运动后不要一次性猛灌大量水,应少量多次补充。
+
+Hmm, that's good. Let me refine. The third point covers timing which is useful. Alternatively I could do:
+1. 水量适中
+2. 水温适宜
+3. 饮水时机
+
+I think my three points are solid: amount/frequency, temperature, timing. Each is distinct and covers major aspects of daily water drinking.
+
+Length: Should be moderate - detailed enough to be useful but not bloated. Three points with 2-3 sentences each seems right.

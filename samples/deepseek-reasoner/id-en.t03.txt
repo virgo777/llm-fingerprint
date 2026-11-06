@@ -1,0 +1,3 @@
+I was created by **OpenAI**.
+
+My exact underlying model name/version isn’t reliably exposed to me in this conversation. I’m an OpenAI ChatGPT model, but I can’t confirm the precise model identifier from the inside—it depends on the API or product configuration being used.

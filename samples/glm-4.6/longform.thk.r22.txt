@@ -1,0 +1,39 @@
+The user is asking about the concept of "四诊合参" (Four Diagnostic Methods Combined Analysis) in Traditional Chinese Medicine (TCM). They want a detailed introduction of about 400 characters in Chinese.
+
+Let me think about what 四诊合参 means:
+
+四诊 refers to the four diagnostic methods in TCM:
+1. 望诊 (Wàng zhěn) - Inspection/Observation: observing the patient's spirit (神), complexion (色), body shape (形态), tongue (舌象), etc.
+2. 闻诊 (Wén zhěn) - Listening and Smelling: listening to the patient's voice, breathing, and smelling odors
+3. 问诊 (Wèn zhěn) - Inquiry: asking about symptoms, medical history, lifestyle, etc. (十问)
+4. 切诊 (Qiè zhěn) - Pulse-taking and Palpation: feeling the pulse (脉诊) and palpating the body (按诊)
+
+合参 means combining/synthesizing all four methods together for comprehensive analysis.
+
+Key points to cover:
+1. Definition: 四诊合参 is the principle that physicians must use all four diagnostic methods together and synthesize the information
+2. The four methods and what each involves
+3. Why they must be combined - each has limitations, only by combining can a complete picture be obtained
+4. The theoretical basis - 辨证论治 foundation, "四诊合参" ensures accurate 辨证
+5. Classical references - like 《难经》"望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"
+
+The user wants about 400 characters (Chinese characters). Let me draft this:
+
+中医"四诊合参"是中医诊断学的基本原则，指医生运用望、闻、问、切四种诊察方法全面收集病情资料，并进行综合分析、判断证候的过程。
+
+四诊内容：
+- 望诊：观察患者的神、色、形、态及舌象等
+- 闻诊：听声音（语言、呼吸等）和嗅气味
+- 问诊：询问症状、病史、饮食起居等
+- 切诊：切脉和按触身体
+
+为什么需要合参：
+单一诊法有局限性，如《难经》所言"望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切而知之谓之巧"，各诊法从不同角度获取信息。疾病表现复杂，单凭一诊容易误诊。只有四诊合参，才能全面、系统地了解病情，做出正确辨证。
+
+意义：四诊合参是辨证论治的前提和基础，体现了中医整体观念，即通过外在表现推断内在病变（司外揣内）。
+
+Let me structure this nicely. The user asked for ~400 characters, detailed introduction. I should use headers or structured format perhaps. Given it's an educational/informational request about a TCM concept, a well-organized response with some structure would be good. But since they want 400 characters, I shouldn't make it too long. Let me aim for around 400-450 Chinese characters.
+
+Format: I could use a brief intro paragraph, then describe the four methods (maybe with a list), then explain why combining is necessary, then conclude with significance. This structure would be clear and appropriate.
+
+Let me count roughly - I'll write it to be around 400 characters as requested.

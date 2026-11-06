@@ -1,0 +1,1 @@
+We need answer in Chinese. Need compute 17*23 +45/9. Need be careful order operations. 17*23=391. 45/9=5. Sum=396. Need "完整过程". Could mention先乘除后加减. Also maybe if integer division. 45÷9=5. final.

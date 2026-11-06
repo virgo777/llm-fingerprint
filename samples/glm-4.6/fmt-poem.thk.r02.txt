@@ -1,0 +1,20 @@
+The user asks for a four-line poem on the theme of autumn night, in Chinese, without explanation. Let me write a classical-style four-line poem (quatrain, 绝句 style).
+
+Let me compose something evocative of autumn night — moon, frost, osmanthus, geese, dew, etc.
+
+Draft:
+银汉无声玉露凉，
+一庭桂影浸秋光。
+雁声遥落西风里，
+残月如钩挂短墙。
+
+Check rhyme: 凉 (liáng), 光 (guāng), 墙 (qiáng) — all in -ang rhyme. Good for a 绝句 where lines 1, 2, 4 rhyme.
+
+Tonal pattern — roughly acceptable. Let me refine wording:
+
+Line 1: 银汉无声玉露凉 — the Milky Way silent, jade dew cold. Good.
+Line 2: 一庭桂影浸秋光 — courtyard full of osmanthus shadows steeped in autumn light. Good.
+Line 3: 雁声遥落西风里 — goose cries fall far into the west wind.
+Line 4: 残月如钩挂短墙 — the waning moon like a hook hangs on the low wall.
+
+That's nice. The user says no explanation, so just output the poem. Maybe add a title? A title is optional; keep minimal. Just the four lines.

@@ -1,0 +1,36 @@
+The user wants a four-line poem about autumn night, in Chinese, without explanation. Let me write a classical-style quatrain (绝句) about autumn night.
+
+Let me craft something evocative:
+- Autumn night imagery: moon, frost, dew, falling leaves, cold, geese, osmanthus, etc.
+
+A seven-character quatrain (七言绝句):
+
+月挂疏桐霜满地，
+风吹落叶过庭前。
+一声雁断长空里，
+露冷窗前人未眠。
+
+Let me refine for rhyme. In Chinese quatrains, lines 2 and 4 should rhyme (and often line 1).
+
+Try:
+月冷梧桐叶渐黄，
+秋风入户夜微凉。
+长空雁过无消息，
+独坐寒窗对月光。
+
+Rhymes: 黄 (huáng), 凉 (liáng), 光 (guāng) - all -ang rhyme. Good.
+
+Line by line:
+1. 月冷梧桐叶渐黄 - The moon chills, wutong leaves gradually yellow
+2. 秋风入户夜微凉 - Autumn wind enters the door, the night is slightly cool
+3. 长空雁过无消息 - Geese pass through the vast sky without message
+4. 独坐寒窗对月光 - Sitting alone by the cold window, facing moonlight
+
+That's decent. Maybe improve line 3-4 flow. Alternative:
+
+月冷疏桐叶半黄，
+秋风入户觉微凉。
+一声雁过长空远，
+独倚寒窗对月光。
+
+Or keep it simple. The user asked not to explain, so just output the poem.

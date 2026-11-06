@@ -1,0 +1,32 @@
+The user is asking in Chinese for a table listing the Four Great Classical Novels of Chinese literature (四大名著) with their titles and authors. This is a simple factual request.
+
+The Four Great Classical Novels are:
+1. 《三国演义》 by 罗贯中
+2. 《水浒传》 by 施耐庵
+3. 《西游记》 by 吴承恩
+4. 《红楼梦》 by 曹雪芹
+
+I should respond in Chinese since the question was asked in Chinese, and provide a table format as requested.
+
+Some additional details I could include:
+- Dynasty/period of each author
+- Brief notes
+
+Let me create a clean table:
+
+| 书名 | 作者 |
+|------|------|
+| 《三国演义》 | 罗贯中 |
+| 《水浒传》 | 施耐庵 |
+| 《西游记》 | 吴承恩 |
+| 《红楼梦》 | 曹雪芹 |
+
+I could also add the dynasty (朝代) column for extra useful information:
+- 罗贯中: 元末明初
+- 施耐庵: 元末明初
+- 吴承恩: 明代
+- 曹雪芹: 清代
+
+The user asked specifically for 书名与作者, so I should keep it focused but adding dynasty might be helpful. Let me provide the basic table they asked for, and perhaps add the dynasty as bonus info since it's commonly known and useful. Actually, to keep it clean and directly answer their request, I'll do a simple table with 书名 and 作者, and maybe add 朝代 as an extra helpful column or mention it briefly.
+
+Format: The response should be in Chinese, with a markdown table. Keep it concise.

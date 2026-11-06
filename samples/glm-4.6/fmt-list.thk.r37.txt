@@ -1,0 +1,37 @@
+The user is asking in Chinese: "用三点说明日常喝水的注意事项" which translates to "Use three points to explain precautions for daily water drinking."
+
+This is a simple health/wellness question asking for three tips about drinking water in daily life. I should respond in Chinese since the question is in Chinese.
+
+Let me think about what are the most important points about drinking water:
+
+1. 不要等口渴了才喝水 - By the time you feel thirsty, you're already mildly dehydrated
+2. 喝水的温度要适宜 - Avoid ice-cold water which can irritate the stomach, and very hot water which can damage the esophagus
+3. 晨起喝一杯温水
+4. 不要一次性大量饮水
+5. 睡前不宜大量喝水
+6. 饭后不宜立即大量饮水
+
+The user wants THREE points specifically. Let me pick the three most important/practical ones:
+
+1. 主动喝水，不要等口渴 - Drink proactively, don't wait until thirsty. Thirst is a sign of mild dehydration. Spread water intake throughout the day, small amounts multiple times.
+
+2. 注意水温适宜 - Water temperature matters. Warm water (around 20-40°C) is best. Avoid ice water which can irritate the digestive tract, and avoid very hot water (over 65°C may increase esophageal cancer risk).
+
+3. 控制饮水的时间和量 - Timing and amount. Don't drink too much at once (dilutes stomach acid, burdens kidneys). Drink small amounts frequently. Limit water before bed to avoid affecting sleep. About 1500-1700ml per day for adults per Chinese dietary guidelines.
+
+Format: The user asked for three points, so I should structure this with three clear numbered points. Each point should have a brief heading/title and a short explanation. This should be in Chinese. Medium length - not too long, but each point should have enough substance to be useful. Using numbered list format is appropriate here since they explicitly asked for "三点" (three points).
+
+Let me draft:
+
+**1. 主动喝水，不要等口渴才喝**
+口渴时身体已经处于轻微缺水状态，应养成定时主动饮水的习惯，少量多次饮用，如每1-2小时喝一次。成年人每天建议饮水1500-1700毫升。
+
+**2. 注意水温适宜**
+喝水以温开水为佳（约20-40℃）。过凉的冰水会刺激肠胃，可能引起腹痛或腹泻；过烫的水（超过65℃）会损伤口腔和食道黏膜，长期可能增加食道疾病风险。
+
+**3. 把握饮水时机与节奏**
+- 晨起空腹喝一杯温水，有助于唤醒肠胃、促进代谢
+- 不要一次性猛灌大量水，以免加重心脏和肾脏负担、稀释胃液
+- 睡前不宜大量喝水，以免夜间频繁起夜影响睡眠质量
+
+That's good. Three clear points, practical and evidence-based. I could add brief intro but it's not strictly necessary. A very brief intro line is fine, or just go straight to the points. Given the format request, a clean numbered list is best. I'll keep it concise.

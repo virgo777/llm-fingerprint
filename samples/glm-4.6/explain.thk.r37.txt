@@ -1,0 +1,3 @@
+The user wants a 200-character explanation of Bioelectrical Impedance Analysis (BIA) in Chinese. Let me provide a concise explanation covering the basic principle, application, and characteristics.
+
+BIA is a method that uses the different electrical conductivity of body tissues (fat is a poor conductor, while water-rich tissues like muscle conduct electricity well) to estimate body composition, including body fat percentage, muscle mass, body water, etc. A low-level electrical current is passed through the body, and impedance is measured to calculate these values.

@@ -1,0 +1,64 @@
+The user wants me to play the role of an old Chinese medicine (TCM) practitioner and share advice about autumn health preservation (秋季养生), in just 2-3 sentences.
+
+Let me think about what an old TCM doctor would say about autumn health:
+
+Key TCM concepts for autumn:
+1. 秋燥 (Autumn dryness) - autumn is dry, so need to moisten the lungs
+2. 润肺 (Moistening the lungs) - lungs correspond to autumn in TCM
+3. 白色食物 like pears (梨), lily bulbs (百合), white fungus (银耳), honey (蜂蜜)
+4. 春捂秋冻 (Cover in spring, freeze in autumn) - don't add clothes too quickly
+5. 早卧早起 (Sleep early, rise early) - from 黄帝内经
+6. 收敛神气 - gathering in spirit, avoiding sadness/忧伤
+7. 秋伤于湿，冬生咳嗽
+8. 肺主皮毛
+9. 少辛增酸 - reduce spicy food, increase sour foods (like 山楂, 葡萄)
+
+The tone should be like an old TCM doctor - wise, perhaps using classical language mixed with vernacular, maybe starting with a characteristic phrase like "哎呀" or referencing classics, using terms like "老朽" (this old man), "娃娃" or addressing patients warmly.
+
+Let me craft something authentic:
+
+An old TCM doctor might say something like:
+
+"秋三月，此谓容平。天气以急，地气以明。老朽行医四十余载，每逢秋令，总嘱咐病家：秋气燥，当养肺，晨起食些梨、百合、银耳之类，润其燥也；穿衣莫急添，且让身子受些凉，所谓'春捂秋冻'是也；再则，秋主收敛，宜早卧早起，心境安宁，莫要悲秋伤怀，则肺气自和，冬日少病。"
+
+That's a bit long. The user asked for 2-3 sentences (两三句即可). Let me condense:
+
+Version 1:
+"秋气通于肺，最怕一个'燥'字。老朽送你三句话：多吃梨藕百合蜂蜜以润燥，穿衣别急着添、让身子'冻一冻'，早卧早起、收敛心神莫悲秋。如此养好了肺气，一冬便少受咳嗽之苦喽。"
+
+That's about 3 sentences. Good.
+
+Let me refine the tone - an old TCM doctor would speak with warmth, use "喽", "啊", "是也" etc. Maybe address the person as "娃娃" or "年轻人" or "小伙子/姑娘".
+
+Version 2:
+"娃娃啊，秋三月燥气当令，最易伤肺。记住了：晨起用梨、百合、银耳煲汤喝，润肺生津；衣裳莫添得太急，春捂秋冻，微微凉着才好；夜里早些睡，心里头也莫要悲悲戚戚，秋气主收敛嘛。把这肺养好了，冬天自然少咳嗽。"
+
+That's good but a bit long. Let me count sentences - "两三句" means 2-3 sentences, so I should keep it concise.
+
+Final version:
+"秋气通肺，最怕燥邪伤人。老朽嘱咐你几句：梨、百合、银耳、蜂蜜多为食，润燥养肺；衣裳莫急添，且遵'春捂秋冻'；早卧早起，收敛心神，莫悲秋。如此，肺气得养，入冬便少生病喽。"
+
+Hmm, that's 4 sentences. Let me make it exactly 2-3 sentences:
+
+"秋气通于肺，最怕一个燥字。老朽嘱咐你：梨、百合、银耳、蜂蜜多吃些，润燥养肺，衣裳莫急着添，所谓春捂秋冻；再早卧早起，收敛心神，莫要悲秋伤怀。把这肺养好了，一冬少病喽。"
+
+That's 3 sentences. Good.
+
+Format considerations: The response should be short (2-3 sentences as requested), conversational, in the voice of an old TCM doctor. No need for headers or bullet points - just flowing speech. Chinese language response since the question is in Chinese. Maybe add a little character flavor like starting with addressing the patient or a chuckle.
+
+Let me polish:
+
+"咳咳……娃娃啊，秋气通于肺，燥邪最易伤人。老朽嘱咐你：梨、百合、银耳、蜂蜜多吃些，润燥养肺；衣裳莫急着添，春捂秋冻，微微受点凉无妨；再早卧早起，收敛心神，莫要悲秋伤怀。肺气养足了，一冬便少病喽。"
+
+The "咳咳……" adds character. This is 3 main sentences. 
+
+Actually, I want to make it feel natural and warm, like an old doctor speaking to a patient. Let me finalize:
+
+"娃娃，秋气通肺，燥邪当令，最易伤人津液。老朽送你几句话：梨子、百合、银耳、蜂蜜多吃些，润肺润燥；衣裳莫急着添，春捂秋冻，微微凉些正好；再早卧早起，收敛心神，莫要悲秋伤怀。把这肺养得妥妥帖帖，一冬少病喽。"
+
+Good. This has:
+- Character voice (娃娃, 老朽, 喽)
+- Core TCM wisdom: autumn dryness, moistening foods, spring-cover-autumn-freeze, early sleep/rise, emotional regulation (autumn corresponds to grief/悲)
+- 3-4 short sentences, appropriate length
+
+I think this works well. Should be plain prose, no markdown needed for such a short conversational response.

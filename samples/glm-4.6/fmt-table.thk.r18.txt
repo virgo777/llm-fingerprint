@@ -1,0 +1,37 @@
+The user is asking me to list the Four Great Classical Novels of Chinese literature (四大名著) in a table format, with book titles and authors.
+
+The Four Great Classical Novels of China are:
+1. 《三国演义》 by 罗贯中
+2. 《水浒传》 by 施耐庵
+3. 《西游记》 by 吴承恩
+4. 《红楼梦》 by 曹雪芹
+
+The user is writing in Chinese, so I should respond in Chinese. They specifically asked for a table format (表格), so I should use a markdown table.
+
+Let me think about what additional information might be helpful but keep it concise since the request is simple. I could include:
+- 书名
+- 作者
+- Maybe also 朝代 as useful supplementary info
+
+Actually, the request is just for book titles and authors, so I should provide exactly that, perhaps with dynasty information as a helpful addition since it's commonly included with these classics.
+
+The table should be:
+
+| 书名 | 作者 |
+|------|------|
+| 《三国演义》 | 罗贯中 |
+| 《水浒传》 | 施耐庵 |
+| 《西游记》 | 吴承恩 |
+| 《红楼梦》 | 曹雪芹 |
+
+I could also add dynasty information to make it more informative:
+- 三国演义 - 罗贯中 - 元末明初
+- 水浒传 - 施耐庵 - 元末明初
+- 西游记 - 吴承恩 - 明代
+- 红楼梦 - 曹雪芹 - 清代
+
+Since the user asked specifically for 书名与作者, I could keep it simple with just those two columns, but adding 朝代 would be a natural, helpful addition without being excessive. Let me include it as it adds value.
+
+Note: 《水浒传》's authorship is sometimes attributed to both 施耐庵 and 罗贯中, but traditionally it's listed as 施耐庵. Some editions say 施耐庵/罗贯中. The standard attribution is 施耐庵.
+
+Format: A simple table is appropriate. I'll respond in Chinese since the question is in Chinese. Keep it concise - a brief intro line, the table, and maybe a very short note if needed.

@@ -1,0 +1,35 @@
+The user is asking me to roleplay as an old Chinese medicine doctor (老中医) and talk about autumn health preservation (秋季养生) in just two or three sentences. The request is in Chinese, so I should respond in Chinese.
+
+This is a benign creative roleplay request. I should adopt the persona of an elderly TCM practitioner, using their characteristic speech patterns - perhaps slightly classical/semi-literary Chinese, warm and wise tone, mentioning TCM concepts like:
+- 秋燥 (autumn dryness)
+- 润肺 (moistening the lungs)
+- 肺主皮毛 (lungs govern skin and hair)
+- 白色食物 like 梨 (pear), 百合 (lily bulb), 银耳 (snow fungus), 蜂蜜 (honey)
+- 早卧早起 (sleep early, rise early) - from 黄帝内经
+- 秋收 (autumn harvest/storage of energy)
+- 养阴 (nourishing yin)
+- 春捂秋冻 (spring cover, autumn freeze)
+
+The speech style of an old TCM doctor might include:
+- Classical phrases
+- Addressing the listener warmly (like "年轻人" or "老朽")
+- Traditional sayings
+
+Let me craft 2-3 sentences in this persona:
+
+Something like:
+"唉，老朽行医数十载，常有后生问秋日养生之道。秋气属金，燥邪当令，最易伤肺，故当多食梨、百合、银耳之类，以润其燥；起居上宜早卧早起，收敛神气，切莫贪凉饮冷。正所谓'春生夏长，秋收冬藏'，秋日养得好，冬天才无病扰啊。"
+
+That's about 3 sentences. Let me refine it to sound natural and authentic:
+
+"老朽行医五十载啊……秋者，燥金当令，最易耗伤肺阴。你呀，平日里多吃些梨子、百合、银耳，煮碗冰糖雪梨润润肺；早晚添件衣裳，莫要贪凉。记住喽——早卧早起，收敛心神，与鸡俱兴，这一秋才能平平安安呐。"
+
+Hmm, that's good. Maybe keep it to 2-3 sentences as requested. The format should be short since they explicitly said "两三句即可" (two or three sentences is enough).
+
+Let me write a version with the characteristic old doctor flavor - using words like 老朽, 呵呵, addressing them warmly, semi-classical phrases, ending with a traditional saying:
+
+"年轻人哪，秋主燥，燥易伤肺，你瞧这天一凉，嗓子干、皮肤糙的，都是燥邪闹的。平日里多用梨、百合、银耳炖些甜汤润润肺，早晚记得添衣，莫贪凉。记住老朽一句话：早卧早起，收敛神气，秋天养好了，冬天才不生病呐。"
+
+That's 3 sentences, has good TCM content (autumn dryness harming lungs, moistening foods, clothing advice, sleep advice from 黄帝内经's 四气调神大论 "早卧早起，与鸡俱兴"), and authentic old doctor voice with "年轻人哪", "老朽", "呐" particles.
+
+Format: Should be short prose, conversational, in Chinese, matching the persona. No headers or lists needed - just a natural spoken paragraph. Length: 2-3 sentences as requested.

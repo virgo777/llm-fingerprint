@@ -1,0 +1,25 @@
+The user asks in Chinese for a four-line poem about autumn night, no explanation needed. Let me write a classical-style Chinese poem (four lines, likely a 绝句 style) about autumn night.
+
+Let me compose something elegant:
+
+秋夜
+
+月落梧桐影渐斜，
+寒蛩声里忆天涯。
+一帘秋色凉如水，
+半盏清茶伴烛花。
+
+Let me check rhyme: 斜 (xié/xiá), 涯 (yá), 花 (huā) — in classical rhyming these can work (麻韵: 斜、涯、花 all rhyme in 平水韵 下平六麻). Good.
+
+Check tonal patterns loosely — it's fine for a casual poem.
+
+Alternative:
+
+银汉无声玉露凉，
+梧桐叶落满庭霜。
+一帘幽梦随风远，
+唯有寒蛩伴月光。
+
+Rhyme: 凉 (liáng), 霜 (shuāng), 光 (guāng) — all 阳韵. Good.
+
+The user said no explanation, so just output the poem. Maybe include a title. Keep it minimal.

@@ -1,0 +1,46 @@
+The user is asking me to tell a cold joke (冷笑话) about programmers in Chinese. 冷笑话 literally means "cold joke" - it's a type of joke that's intentionally lame/punny, where the humor comes from being deliberately corny or absurd, often resulting in awkward silence (hence "cold"). It's similar to "dad jokes" in English culture.
+
+Let me think of some classic programmer jokes that work well in Chinese:
+
+1. Classic binary joke: 世界上有10种人,一种是懂二进制的,另一种是不懂的。(There are 10 types of people in the world: those who understand binary and those who don't.) - This is a classic but works because 10 in binary is 2.
+
+2. The "programmer's wife" jokes:
+- 程序员去买东西,老婆说:"买一斤包子,如果看到卖西瓜的,买一个。"程序员回来买了一个包子,因为看到了卖西瓜的。(The wife says "buy a pound of buns, if you see watermelon sellers, buy one." The programmer comes back with one bun because he saw a watermelon seller.) - This is a classic programming logic joke about the ambiguity of instructions.
+
+3. 为什么程序员总是分不清万圣节和圣诞节?因为 Oct 31 == Dec 25。(Why do programmers confuse Halloween and Christmas? Because Oct 31 == Dec 25 - octal 31 equals decimal 25.)
+
+4. 一个程序员去面试,面试官问:"你有什么缺点?"程序员说:"我有时说话比较直。"面试官:"比如?"程序员:"比如你写的这段代码就是屎。"
+
+5. 程序员最讨厌的四件事:写注释、写文档、别人不写注释、别人不写文档。
+
+6. 关于 bug 的笑话
+
+7. 一个程序员在森林里遇到一只熊... (各种变体)
+
+8. 为什么程序员喜欢暗色主题?因为光会吸引 bug。(Why do programmers like dark themes? Because light attracts bugs.)
+
+9. 程序员的三大美德:懒惰、急躁、傲慢
+
+10. 妻子让程序员丈夫去超市:"儿子要吃桃罐头,买一箱。如果没有桃的,就买杏的。"程序员回来买了一大堆各种水果罐头...
+
+Let me pick one or two good ones. The binary one (10 types of people) is the most classic. The watermelon/bun one is very famous in Chinese programmer humor circles.
+
+Since 冷笑话 implies a deliberately punny/lame joke, I should probably tell one with good delivery. Let me format nicely.
+
+I could tell one main joke and maybe offer another. The format should be conversational, not overly long. Maybe use a little setup/punchline structure.
+
+Let me go with the classic:
+
+老婆给程序员老公打电话:"下班顺路买十个包子,如果看到卖西瓜的,买一个。"
+当晚,程序员老公手捧一个包子进了家门。
+老婆怒问:"你怎么只买了一个包子?!"
+老公答:"因为我看到了卖西瓜的。"
+
+This is a great classic programmer logic joke. The humor is in the programmer interpreting the conditional literally: "买十个包子,如果看到卖西瓜的,买一个" - the "买一个" is interpreted as modifying the包子 quantity, so seeing watermelon sellers means buy 1 bun instead of 10.
+
+Or the binary joke:
+世界上有 10 种人:懂二进制的,和不懂二进制的。
+
+Maybe I'll tell one main joke with delivery, and possibly add a bonus one. Keep it light and fun. I could add a small emoji or use formatting sparingly. Since it's a casual conversational request, keep it short and punchy.
+
+Format: Short, conversational. Maybe present the joke with a brief setup. Could add a follow-up line like "懂了吗?没懂的话我再讲一个" or offer to tell more. I'll tell the classic one and maybe add a bonus short one.
